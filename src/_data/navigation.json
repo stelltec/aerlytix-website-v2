@@ -1,0 +1,73 @@
+{
+    "items": [
+        {
+            "text": "Home",
+            "url": "/"
+        },
+        {
+            "text": "Platform",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Overview",
+                    "url": "/platform/overview/"
+                },
+                {
+                    "text": "Solutions",
+                    "url": "/platform/solutions/"
+                },
+                {
+                    "text": "Features",
+                    "url": "/platform/features/"
+                }
+            ]
+        },
+        {
+            "text": "Journey",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Overview",
+                    "url": "/journey/overview/"
+                },
+                {
+                    "text": "Implementation",
+                    "url": "/journey/implementation/"
+                },
+                {
+                    "text": "Customer Success",
+                    "url": "/journey/customer-success/"
+                }
+            ]
+        },
+        {
+            "text": "Company",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "About Us",
+                    "url": "/company/about-us/"
+                },
+                {
+                    "text": "Culture",
+                    "url": "/company/culture/"
+                },
+                {
+                    "text": "Careers",
+                    "url": "/company/careers/"
+                }
+            ]
+        },
+        {
+            "text": "News",
+            "url": "/news/"
+        },
+        {
+            "text": "Get in touch",
+            "url": "/get-in-touch/"
+        }
+    ]
+}

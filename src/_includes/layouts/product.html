@@ -1,0 +1,50 @@
+{% extends "layouts/base.html" %}  
+
+{% block content %}
+<section class="work-item">
+  <header class="hero">
+    <div class="">
+      <div class="">
+        <h1 class="" data-highlight="quinary">
+          {{ title }}
+        </h1>
+        <p class="measure-short">{{ summary }}</p>
+      </div>
+    </div>
+    <img src="{{ hero.image }}" alt="{{ hero.imageAlt }}" class="hero__image" />
+  </header>
+  <article class="">
+    <div class="wrapper flow">
+      <h2 class="headline" data-highlight="secondary">Key facts</h2>
+      <div class="leading-flat font-sans weight-bold flow-space-700">
+        <ol class="">
+          {% for item in keyFacts %}
+            <li class="flow flow-space-300">
+              <span class="">{{ item.primary }}</span>
+              <span class="">{{ item.secondary }}</span>
+            </li>
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
+  </article>
+  <div class="wrapper">
+    <article class="">
+      {% for item in gallery %}
+        <figure class="">
+          <div class="" data-frame="primary">
+            <img src="{{ item.image }}" alt="" aria-hidden="true" class="radius" />
+          </div>
+          <figcaption class="">
+            <h2 class="">{{ item.title }}</h2>
+            <p class="">{{ item.summary }}</p>
+          </figcaption>
+        </figure>
+      {% endfor %}
+    </article>
+  </div>
+</section>
+
+{% include "partials/cta.html" %} 
+
+{% endblock %}

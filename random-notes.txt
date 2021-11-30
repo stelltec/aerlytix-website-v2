@@ -1,0 +1,47 @@
+Leaving this navigation json in case I need to bring back flyout menus. 
+
+The code in Header.html I'll leave it intact.
+
+{
+    "items": [
+        {
+            "text": "Home",
+            "url": "/"
+        },
+        {
+            "text": "Platform",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Analytics Suite",
+                    "url": "/platform/analytics-suite/"
+                },
+                {
+                    "text": "Alert Tracker",
+                    "url": "/platform/alert-tracker/"
+                },
+                {
+                    "text": "Advisory and Consulting",
+                    "url": "/platform/advisory-consulting/"
+                }
+            ]
+        },
+        {
+            "text": "About us",
+            "url": "/about-us/"
+        },
+        {
+            "text": "Contact us",
+            "url": "/contact-us/"
+        },
+        {
+            "text": "News",
+            "url": "/news/"
+        },
+        {
+            "text": "Get in touch",
+            "url": "/get-in-touch/"
+        }
+    ]
+}

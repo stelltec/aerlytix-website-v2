@@ -1,0 +1,21 @@
+{% if studio.length %}
+<article>
+  <div class="">
+    <h2 class="" data-highlight="secondary">
+      {{ studioFeed.title }}
+    </h2>
+    <p class="" id="studio-feed-desc">
+      A collection of images from around our studio and the people who work here.
+    </p>
+    <div class="">
+      <ul>
+        {% for item in studio %}
+        <li>
+          <img src="{{ item.medium }}" alt="{{ item.alt }}" draggable="false" class="radius" />
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</article>
+{% endif %}
