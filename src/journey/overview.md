@@ -1,4 +1,4 @@
 ---
-title: 'Overview'
-summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
+title: "Your software partner for aviation finance"
+summary: "We have the experience, expertise and innovation to rapidly step in with flexible, high performance tools and minimal interruption, empowering our clients' decision-making process."
 ---

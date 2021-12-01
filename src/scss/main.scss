@@ -1,5 +1,7 @@
-@use "_reset";
-@use "_bootstrap";
+@use "reset";
+@use "bootstrap";
+@use "theme";
+
 
 /* Featurettes
 ------------------------- */
@@ -35,46 +37,3 @@
     border-radius: .75rem;
   }
 }
-
-// body {
-//   background: #ffffff;
-//   font-family: Arial, Helvetica, sans-serif;
-// }
-
-// header[role="banner"] {
-//   background: grey;
-// }
-
-// footer {
-//   background: grey;
-// }
-
-// .navigation {
-//   display: flex;
-//   width: 100%;
-//   &__list {
-//     width: 100%;
-//     display: flex;
-//     justify-content: flex-end;
-//     align-items: center;
-//     a {
-//       display: block;
-//       padding: 0 1rem;
-//       &[aria-current="page"] {
-//         background: yellow;
-//       }
-//     }
-//   }
-//   &__platform {
-//     position: relative;
-//     &--submenu {
-//       position: absolute;
-//       top: 2rem;
-//       background: #ffffff;
-//       border: 1px solid grey;
-//       width: 210px;
-//       padding-top: 1rem;
-//       padding-bottom: 1rem;
-//     }
-//   }
-// }

@@ -1,6 +1,4 @@
 ---
-title: 'Customer Success'
-summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
-displayOrder: 3
-featured: true
+title: "Customer Success"
+summary: "We believe in long term relationships with our clients and empowering the with cutting-edge technology tools and solutions to enable our clients' strategic positioning in the market."
 ---
