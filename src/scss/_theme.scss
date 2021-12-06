@@ -1,0 +1,14 @@
+.rounded {
+    &-4 {
+        border-radius: 0.35rem;
+    }
+    &-5 {
+        border-radius: 0.60rem;
+    }
+    &-6 {
+        border-radius: 0.80rem;
+    }
+    &-7 {
+        border-radius: 1.20rem;
+    }
+}

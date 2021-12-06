@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "title": "Analysis & Risk Management",
+            "summary": "This is Analysis & Risk Management summary",
+            "url": "/products/analysis-and-risk-management/"
+        },
+        {
+            "title": "Technical Lease Management",
+            "summary": "This is Technical Lease Management summary",
+            "url": "/products/technical-lease-management/"
+        },
+        {
+            "title": "Pricing & Trading",
+            "summary": "This is Pricing & Trading summary",
+            "url": "/products/pricing-and-trading/"
+        },
+        {
+            "title": "Commercial Asset Management",
+            "summary": "This is Commercial Asset Management summary",
+            "url": "/products/commercial-asset-management/"
+        },
+        {
+            "title": "Asset Tracker",
+            "summary": "This is Asset Tracker summary",
+            "url": "/products/asset-tracker/"
+        },
+        {
+            "title": "Consulting and Integrations",
+            "summary": "This is Consulting and Integrations summary",
+            "url": "/products/consulting-and-integrations/"
+        }
+    ]
+}

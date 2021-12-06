@@ -6,7 +6,7 @@
     <div class="container">
     <h1 class="display-5 fw-bold">{{ hero.title }}</h1>  
     <p class="lead">{{ hero.subtitle }}</p>
-    <a href="/get-in-touch/" class="btn btn-primary btn-lg px-4 gap-3">Get in touch</a>
+    <a href="/request-demo/" class="btn btn-primary btn-lg px-4 gap-3">Request Demo</a>
     {# <img src="{{ hero.image }}" /> #}
     </div>
 </section>
@@ -21,19 +21,15 @@
         <h2>The Aerlytix  platform is a suite of tools that empower our clients with a holistic, multi-dimensional view of their assets, enabling them to make better decisions and capture markets opportunities.</h2>
     </div>
 </article>
+       
+{% include "partials/home/products.html" %}
 
-{# {% include "partials/products.html" %} #}
+{% include "partials/home/solutions.html" %}
 
-{# {% include "partials/studio-feed.html" %} #}
+{% include "partials/home/features.html" %}
 
-{# this would be the ctaContent pulling from the front matter in the index.md #}
-{# this will only be used in the home page #}
-{# {% set ctaContent = primaryCTA %} 
-{% include "partials/cta.html" %}  #}
+{{ content | safe }}
 
-{# this would be the ctaContent pulling from the _data/cta.json #}
-{# in this 'set' we are overriding the first ctaContent set #}
-{# this will be used on all the website pages #}
 {% set ctaContent = cta %} 
 {% include "partials/cta.html" %} 
 

@@ -14,12 +14,6 @@ primaryCTA:
     though. Take the course today!'
   buttonText: 'Buy a copy'
   buttonUrl: 'https://piccalil.li/course/learn-eleventy-from-scratch/'
-
-plartform: 
-    title: 'Aerlytix Platform'
-    summary: 'Aerlytix provides a realm of impressive and cutting-edge products for the aviation industry'
-
 studioFeed:
   title: 'From inside the studio'
 ---
-

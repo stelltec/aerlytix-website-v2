@@ -11623,6 +11623,19 @@ textarea.form-control-lg {
   }
 }
 /*# sourceMappingURL=bootstrap.min.css.map */
+.rounded-4 {
+  border-radius: 0.35rem;
+}
+.rounded-5 {
+  border-radius: 0.6rem;
+}
+.rounded-6 {
+  border-radius: 0.8rem;
+}
+.rounded-7 {
+  border-radius: 1.2rem;
+}
+
 /* Featurettes
 ------------------------- */
 .featurette-divider {
