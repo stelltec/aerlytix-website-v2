@@ -5,40 +5,52 @@
             "url": "/"
         },
         {
-            "text": "Platform",
+            "text": "Products",
             "class": "dropdown",
             "url": "",
             "subitems": [
                 {
-                    "text": "Overview",
-                    "url": "/platform/overview/"
+                    "text": "Analysis & Risk Management",
+                    "url": "/products/analysis-and-risk-management/"
                 },
                 {
-                    "text": "Solutions",
-                    "url": "/platform/solutions/"
+                    "text": "Technical Lease Management",
+                    "url": "/products/technical-lease-management/"
                 },
                 {
-                    "text": "Features",
-                    "url": "/platform/features/"
+                    "text": "Pricing & Trading",
+                    "url": "/products/pricing-and-trading/"
+                },
+                {
+                    "text": "Commercial Asset Management",
+                    "url": "/products/commercial-asset-management/"
+                },
+                {
+                    "text": "Asset Tracker",
+                    "url": "/products/asset-tracker/"
+                },
+                {
+                    "text": "Consulting and Integrations",
+                    "url": "/products/consulting-and-integrations/"
                 }
             ]
         },
         {
-            "text": "Journey",
+            "text": "Solutions",
             "class": "dropdown",
             "url": "",
             "subitems": [
                 {
-                    "text": "Overview",
-                    "url": "/journey/overview/"
+                    "text": "Lessors",
+                    "url": "/solutions/lessors/"
                 },
                 {
-                    "text": "Implementation",
-                    "url": "/journey/implementation/"
+                    "text": "Investors",
+                    "url": "/solutions/investors/"
                 },
                 {
-                    "text": "Customer Success",
-                    "url": "/journey/customer-success/"
+                    "text": "Banks and Lenders",
+                    "url": "/solutions/banks-and-lenders/"
                 }
             ]
         },
@@ -62,12 +74,12 @@
             ]
         },
         {
-            "text": "News",
+            "text": "Latest News",
             "url": "/news/"
         },
         {
-            "text": "Get in touch",
-            "url": "/get-in-touch/"
+            "text": "Request Demo",
+            "url": "/request-demo/"
         }
     ]
 }
