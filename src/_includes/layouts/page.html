@@ -6,9 +6,10 @@
 
 
 {% block content %}
+  {% include "partials/page-header.html" %}
   <article>
     <div class="container">
-    {% include "partials/page-header.html" %}
+    
 
     {{ content | safe }}
     
