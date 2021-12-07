@@ -1,7 +1,8 @@
 ---
-title: 'Privacy Policy'
+header: 'Privacy Policy'
 metaDesc: 'Aerlytix Privacy Policy'
 layout: 'layouts/page.html'
+headerType: 'blogPost'
 ---
 
 ### Introduction

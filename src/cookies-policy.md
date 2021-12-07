@@ -1,7 +1,8 @@
 ---
-title: 'Cookies Policy'
+header: 'Cookies Policy'
 metaDesc: 'Aerlytix Cookies Policy'
 layout: 'layouts/page.html'
+headerType: 'blogPost'
 ---
 
 Aerlytix (“we“, “us” or “our“), uses “cookies” to help improve your browsing experience of our website. Subject to your consent where required by applicable law, we use cookies and similar technologies (cookies) to help us improve the use and functionality of the website and to better understand how visitors use the website and the tools and services offered on it. This Cookie Policy should be read in conjunction with our Privacy Policy.
