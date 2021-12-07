@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "title": "Lessors",
+            "summary": "This is Analysis & Risk Management summary",
+            "url": "/solutions/lessors/"
+        },
+        {
+            "title": "Investors",
+            "summary": "This is Technical Lease Management summary",
+            "url": "/solutions/investors/"
+        },
+        {
+            "title": "Banks and Lenders",
+            "summary": "This is Pricing & Trading summary",
+            "url": "/solutions/banks-and-lenders/"
+        }
+    ]
+}

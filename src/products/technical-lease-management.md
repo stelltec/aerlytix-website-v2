@@ -1,5 +1,6 @@
 ---
 title: "Technical Lease Management"
+header: 'Nice Technical Lease Management header'
 summary: "The Aerlytix Analytics Suite (Aerlytix AS) is cloud based, modular offering that be integrated with the client's current infrastructure, connecting with multiple systems and applications, unifying processes."
 ---
 

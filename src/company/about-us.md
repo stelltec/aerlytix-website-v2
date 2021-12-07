@@ -1,5 +1,6 @@
 ---
 title: "About Us"
+header: "About Us header"
 summary: "We are on a mission to simplify the complexities of aviation finance, building a more resilient, sustainable sector and transforming it from reactive cost-center to proactive value generator."
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: 'Aerlytix News'
+header: "Aerlytix Latest News"
 layout: 'layouts/feed.html'
 pagination:
   data: collections.news

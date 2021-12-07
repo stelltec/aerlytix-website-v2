@@ -1,7 +1,10 @@
 <div class="">
   <div class="container">
+    {% if pageHeaderTitle %}
+    <p>{{ pageHeaderTitle }}</p>
+    {% endif %} 
     <h1 class="" data-highlight="primary">
-      {{ pageHeaderTitle }}
+      {{ pageMainHeader }}
     </h1>
     {% if pageHeaderSummary %}
     <p class="lead">

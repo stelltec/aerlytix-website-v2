@@ -1,21 +1,14 @@
 {% extends "layouts/base.html" %} 
 
-{% set pageHeaderTitle = title %} 
-{% set pageHeaderSummary = content %} 
-{% set peopleItems = collections.people %} 
+{% set pageHeaderTitle = title %}
+{% set pageMainHeader = header %}
+{% set pageHeaderSummary = summary %}
 
 {% block content %}
   <article>
     <div class="container">
     {% include "partials/page-header.html" %} 
-    {% if peopleItems %} 
-      <div class="">
-        <div class="">
-          <h2 class="" data-highlight="dark">Meet the team</h2>
-          {% include "partials/people.html" %}
-        </div>
-      </div>
-    {% endif %}
+   
     </div>
   </article>
 
