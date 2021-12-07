@@ -1,6 +1,7 @@
 {% extends "layouts/base.html" %}
 
-{% set pageHeaderTitle = title %}
+{% set pageMainHeader = title %}
+{# {% set pageMainHeader = header %} #}
 
 {# Grab other posts that aren’t this one for the 'more from the news' feed #}
 {% set recommendedPosts = helpers.getSiblingContent(collections.news, page) %}
@@ -21,22 +22,25 @@
 {% endset %}
 
 {% block content %}
+
+{% include "partials/page-header.html" %}
   <article>
-    <div class="container">
-    {% include "partials/page-header.html" %}
+    <div class="container post__container">
+    
     
     <div class="">
       {{ content | safe }}
     </div>
 
-    {% if recommendedPosts %}
+   
+    </div>
+     {% if recommendedPosts %}
     <footer class="recommended-posts">
         {% set postListItems = recommendedPosts %}
         {% set postListHeadline = 'More from the blog' %}
         {% include "partials/post-list.html" %}
     </footer>
     {% endif %}
-    </div>
   </article>
 
   {% include "partials/cta.html" %}

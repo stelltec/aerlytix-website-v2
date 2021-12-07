@@ -3,6 +3,7 @@ title: 'Laws of UX'
 intro: 'This is the bit of the entry level text to the post'
 date: '2020-03-23'
 tags: 'UX'
+headerType: 'blogPost'
 ---
 
 Lorem **markdownum illum**: possem pectore trucis genitus volat de ictu reparet, repetenda translata tulit. Celanda sed. Contulerat flavum; tua versus patiensque dumque nemorum. Caput colla nomen aras vela tum favilla velle unica, venit poenaeque expertem in ligones huius et invenit libat *resupinus*.

@@ -3,6 +3,7 @@ title: 'Quick and simple image placeholder'
 intro: 'This is the bit of the entry level text to the post'
 date: '2019-09-28'
 tags: ['Tips And Tricks']
+headerType: 'blogPost'
 ---
 
 *Lorem markdownum* clamor, ver gemitus numen se dura mortalia inquit, sine telum durata licet teretes delphina, ex! Et genus. Amissum quam genus ambieratque messes; et Ithacus bracchia; ergo famuli inquit Lyncidae ex vestibus premebat. Rogis crimine nunc hae falsaque, dignus.

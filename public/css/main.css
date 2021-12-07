@@ -11640,6 +11640,17 @@ textarea.form-control-lg {
   border: 1px solid var(--bs-blue) !important;
 }
 
+.tags-list {
+  padding-left: 0;
+}
+.tags-list li {
+  display: inline-block;
+}
+
+.post__container {
+  width: 800px;
+}
+
 /* Featurettes
 ------------------------- */
 .featurette-divider {

@@ -3,6 +3,7 @@ title: 'Design Thinking & Understanding the Product Design Process'
 intro: 'This is the bit of the entry level text to the post'
 date: '2020-02-22'
 tags: 'Design Thinking'
+headerType: 'blogPost'
 ---
 
 Lorem markdownum purpura dolorem! Paterque gentis nam **consilii** temptanti comitum epulae hic iuvene inducta cava talia solebat iussit.

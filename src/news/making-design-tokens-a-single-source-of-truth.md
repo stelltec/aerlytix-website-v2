@@ -3,6 +3,7 @@ title: 'Making design tokens a single source of truth'
 intro: 'This is the bit of the entry level text to the post'
 date: '2019-12-21'
 tags: 'Design Systems'
+headerType: 'blogPost'
 ---
 Lorem markdownum, bracchia iuvenis teneo, nec urget, iuvenum nec adusque. Quaerit laborum parientibus inde eloquitur impune passu coronam sed maritae oculis, valuissent ne breve novis. Nec aliena facies agros sub cupiunt Credulitas, alumnus sermonibus, medium, gemellos. Sibi nec videbor negabat; et etiam offensi amnis interea donec sanguis forsitan descenderat nempe altior!
 

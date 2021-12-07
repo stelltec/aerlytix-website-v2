@@ -3,3 +3,22 @@
         border: 1px solid var(--bs-blue) !important;
     }
 }
+
+.tags-list {
+    padding-left: 0;
+    li {
+        display: inline-block;
+    }
+}
+
+.post {
+    &__container {
+        width: 800px;
+    }
+}
+
+.header {
+    &__blog-post {
+        
+    }
+}

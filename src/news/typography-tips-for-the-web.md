@@ -3,6 +3,7 @@ title: 'Typography tips for the web'
 intro: 'This is the bit of the entry level text to the post'
 date: '2019-12-04'
 tags: ['Tips And Tricks']
+headerType: 'blogPost'
 ---
 Lorem markdownum pectus neque! Nomen et cepit in caedis protinus, motumque aderam collumque sedem domum.
 

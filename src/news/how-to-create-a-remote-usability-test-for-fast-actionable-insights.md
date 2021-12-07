@@ -3,6 +3,7 @@ title: 'How to create a remote usability test for fast, actionable insights'
 intro: 'This is the bit of the entry level text to the post'
 date: '2020-02-03'
 tags: ['UX', 'Testing']
+headerType: 'blogPost'
 ---
 Lorem markdownum tecta: sub candore removete cessit summum [laetitiae](#adigitque-qua)? Per et est micantia nisi fato? Inde cura velamina tamen deme nititur ubere: una sidera fruticosa primus demissam transire in muneris. Inter est repugnat [dempta](#medio-sine-quamvis), sinu, quisque.
 

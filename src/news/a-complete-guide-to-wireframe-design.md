@@ -3,6 +3,7 @@ title: 'A Complete Guide to Wireframe Design'
 intro: 'This is the bit of the entry level text to the post'
 date: '2020-04-13'
 tags: ['Tutorial', 'Learning']
+headerType: 'blogPost'
 ---
 
 Placidis tamen. Amnem unda fores et nocent tellus. Ictu undis offensi nostra nempe dextra quod, illa causa expositum, dat. Cura rapta dum praepositam inhaesit, laeto sceleratus vicina utque. Annos nunc sumitur ignes ac nequit minanti.

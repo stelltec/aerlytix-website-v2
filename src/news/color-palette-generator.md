@@ -3,6 +3,7 @@ title: 'Color Palette Generator'
 intro: 'This is the bit of the entry level text to the post'
 date: '2019-11-16'
 tags: ['Tools']
+headerType: 'blogPost'
 ---
 
 Lorem markdownum ait. Plaustrum gaudet: similis pulsarunt inmortalis multa cui et huic altera nil; non ingenio tormenta visa.
