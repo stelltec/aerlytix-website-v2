@@ -76,10 +76,6 @@
         {
             "text": "Latest News",
             "url": "/news/"
-        },
-        {
-            "text": "Request Demo",
-            "url": "/request-demo/"
         }
     ]
 }

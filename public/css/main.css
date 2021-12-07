@@ -11636,6 +11636,10 @@ textarea.form-control-lg {
   border-radius: 1.2rem;
 }
 
+.nav__feature {
+  border: 1px solid var(--bs-blue) !important;
+}
+
 /* Featurettes
 ------------------------- */
 .featurette-divider {
