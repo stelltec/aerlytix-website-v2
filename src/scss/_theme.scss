@@ -25,3 +25,21 @@
 
     }
 }
+
+.footer {
+    &__main {
+        background: #2B5DC1;
+        color: white;
+
+        a {
+            color: white;
+            &:hover {
+                color: #BACDF1;
+            }
+        }
+    }
+
+    &__copyright {
+        border-top:1px solid #2051B2;
+    }
+}
