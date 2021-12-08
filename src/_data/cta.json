@@ -1,6 +1,6 @@
 {
-    "title": "Do you want to see more?",
-    "summary": "Maybe here we can use some leading text for our main action",
-    "buttonText": "Get in touch",
-    "buttonUrl": "/get-in-touch/"
+    "title": "We are building something exceptional",
+    "summary": "We'll be happy to show you around our products and services",
+    "buttonText": "Request Demo",
+    "buttonUrl": "/request-demo/"
 }

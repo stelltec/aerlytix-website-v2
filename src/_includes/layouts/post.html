@@ -25,19 +25,15 @@
 
 {% include "partials/page-header.html" %}
   <article>
-    <div class="container post__container">
+    <div class="container post__container mb-5">   
     
-    
-    <div class="">
       {{ content | safe }}
-    </div>
-
-   
+    
     </div>
      {% if recommendedPosts %}
-    <footer class="recommended-posts">
+    <footer class="recommended-posts bg-light pt-5">
         {% set postListItems = recommendedPosts %}
-        {% set postListHeadline = 'More from the blog' %}
+        {% set postListHeadline = 'More Aerlytix news' %}
         {% include "partials/post-list.html" %}
     </footer>
     {% endif %}

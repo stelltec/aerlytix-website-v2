@@ -7,14 +7,20 @@
 
 {% block content %}
   {% include "partials/page-header.html" %}
-  <article>
-    {# <div class="container"> #}
-    
 
-    {{ content | safe }}
-    
-    {# </div> #}
-  </article>
-
+  {% if (headerType == 'blogPost')  %}
+    <article>
+      <div class="container post__container">
+      {{ content | safe }}
+      </div>
+    </article>
+  {% else %}
+    <article>
+      {{ content | safe }}
+    </article>
+  {% endif %}
+  
   {% include "partials/cta.html" %} 
 {% endblock %}
+
+
