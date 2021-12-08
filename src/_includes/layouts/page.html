@@ -10,7 +10,7 @@
 
   {% if (headerType == 'blogPost')  %}
     <article>
-      <div class="container post__container">
+      <div class="container post__container"> {# So it shows on privacy and cookie policy pages #}
       {{ content | safe }}
       </div>
     </article>
