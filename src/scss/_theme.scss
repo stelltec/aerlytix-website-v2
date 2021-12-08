@@ -1,6 +1,8 @@
 .nav {
     &__feature {
         border: 1px solid var(--bs-blue) !important;
+        padding-top: 0.45rem;
+        padding-bottom: 0.45rem;
     }
 }
 
@@ -19,6 +21,6 @@
 
 .header {
     &__blog-post {
-        
+
     }
 }
