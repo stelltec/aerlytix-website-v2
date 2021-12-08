@@ -1,6 +1,6 @@
 ---
 title: 'Request Demo'
-header: "Request Demo header"
+header: "Request Demo"
 layout: 'layouts/get-in-touch.html'
 ---
 

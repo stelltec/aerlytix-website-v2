@@ -5,7 +5,9 @@ summary: "Since our inception, we have built a strong brand and reputation as on
 ---
 
 <article>
+<div class="container">
 <h2>Our people</h2>
 <p class="lead">We win together and grow together</p>
 <div class="photo-section"></div>
+</div>
 </article>
