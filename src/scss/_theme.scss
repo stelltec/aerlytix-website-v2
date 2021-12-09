@@ -1,3 +1,6 @@
+body {
+    // background: #f5f9fe; For now we are going to drop this background color and stick to white. But this looks good.
+}
 
 .nav {
     &__feature {
@@ -51,5 +54,11 @@
 
     &__copyright {
         border-top:1px solid #2051B2;
+    }
+}
+
+.tags-list {
+    a {
+        color:white;
     }
 }
