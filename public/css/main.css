@@ -11677,6 +11677,68 @@ textarea.form-control-lg {
   color: white;
 }
 
+.carousel-item {
+  background: red;
+}
+
+.container-scroller {
+  --space: 1rem;
+  --space-md: calc(var(--space) * 2);
+  --gap: var(--space-md);
+  display: grid;
+  column-gap: var(--gap);
+  grid-template-columns: 1fr min(1300px, calc(100% - var(--gap) * 2)) 1fr;
+  margin-inline: auto;
+}
+.container-scroller > * {
+  grid-column: 2;
+}
+.container-scroller > * + * {
+  margin-block-start: var(--space);
+}
+.container-scroller .content {
+  grid-column: 1/-1;
+  display: grid;
+  grid-template-columns: inherit;
+  padding-block: 20px;
+  overflow-x: scroll;
+  overscroll-behavior-x: contain;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.container-scroller .content::-webkit-scrollbar {
+  display: none;
+}
+.container-scroller .wrap {
+  grid-column: 2;
+  display: flex;
+  gap: var(--space);
+}
+.container-scroller .item {
+  flex: 1 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  scroll-snap-align: center;
+  inline-size: 100%;
+  max-inline-size: 400px;
+  aspect-ratio: 16/9;
+  font-size: 2rem;
+  background: hotpink;
+  border-radius: 4px;
+}
+.container-scroller .card {
+  flex: 1 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  scroll-snap-align: center;
+  inline-size: 100%;
+  max-inline-size: 400px;
+}
+
 .cookieConsentContainer {
   z-index: 5;
   width: 350px;
