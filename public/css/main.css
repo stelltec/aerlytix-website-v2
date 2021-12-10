@@ -11690,6 +11690,10 @@ textarea.form-control-lg {
   width: 4%;
 }
 
+.posts-list a {
+  text-decoration: none;
+}
+
 .container-scroller {
   --space: 1rem;
   --space-md: calc(var(--space) * 2);

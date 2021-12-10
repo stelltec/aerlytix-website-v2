@@ -64,16 +64,16 @@
                     "url": "/company/about-us/"
                 },
                 {
-                    "text": "Contact Us",
-                    "url": "/company/contact-us/"
-                },
-                {
                     "text": "Culture",
                     "url": "/company/culture/"
                 },
                 {
                     "text": "FAQ's",
                     "url": "/company/faqs/"
+                },
+                {
+                    "text": "Contact Us",
+                    "url": "/company/contact-us/"
                 }
             ]
         },
