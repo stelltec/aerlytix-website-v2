@@ -65,6 +65,15 @@ body {
 
 // Quote slider
 
-.carousel-item {
-    background: red;
+.quote {
+    padding:0 8rem;
+    margin: auto;
+}
+
+.carousel-indicators {
+    margin-bottom:-3rem;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 4%;
 }
