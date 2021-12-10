@@ -12,60 +12,60 @@ summary: "Since our inception, we have built a strong brand and reputation as on
 <div class="container-scroller">
   <div class="content">
     <div class="wrap">
-        <div class="card mb-3 p-2" style="max-width: 540px;">
+        <div class="card mb-3 p-2">
             <div class="row g-0">
-                <div class="col-md-4">
-                <img src="https://via.placeholder.com/180x240" class="img-fluid rounded-start" alt="...">
+                <div class="col-md-3">
+                <img src="https://via.placeholder.com/300x380" class="img-fluid rounded-start" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-9">
                 <div class="card-body">
                     <blockquote>
-                        <p>"Combining industry knowledge with world-class technology capabilities is what differentiates Aerlytix from all other offerings. The Analytics Suite gives our clients the cutting-edge platform to succeed as the industry recovers and moves to the next phase of its evolution."</p>
+                        <p class="display-6">"Combining industry knowledge with world-class technology capabilities is what differentiates Aerlytix from all other offerings. The Analytics Suite gives our clients the cutting-edge platform to succeed as the industry recovers and moves to the next phase of its evolution."</p>
                     </blockquote>
                     <cite>— Alan Doyle, Aerlytix CEO</cite>
                 </div>
                 </div>
             </div>
         </div>
-        <div class="card mb-3 p-2" style="max-width: 540px;">
+        <div class="card mb-3 p-2">
             <div class="row g-0">
-                <div class="col-md-4">
-                <img src="https://via.placeholder.com/180x240" class="img-fluid rounded-start" alt="...">
+                <div class="col-md-3">
+                <img src="https://via.placeholder.com/300x380" class="img-fluid rounded-start" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-9">
                 <div class="card-body">
                     <blockquote>
-                        <p>"Combining industry knowledge with world-class technology capabilities is what differentiates Aerlytix from all other offerings. The Analytics Suite gives our clients the cutting-edge platform to succeed as the industry recovers and moves to the next phase of its evolution."</p>
+                        <p class="display-6">"Combining industry knowledge with world-class technology capabilities is what differentiates Aerlytix from all other offerings. The Analytics Suite gives our clients the cutting-edge platform to succeed as the industry recovers and moves to the next phase of its evolution."</p>
                     </blockquote>
                     <cite>— Alan Doyle, Aerlytix CEO</cite>
                 </div>
                 </div>
             </div>
         </div>
-        <div class="card mb-3 p-2" style="max-width: 540px;">
+        <div class="card mb-3 p-2">
             <div class="row g-0">
-                <div class="col-md-4">
-                <img src="https://via.placeholder.com/180x240" class="img-fluid rounded-start" alt="...">
+                <div class="col-md-3">
+                <img src="https://via.placeholder.com/300x380" class="img-fluid rounded-start" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-9">
                 <div class="card-body">
                     <blockquote>
-                        <p>"Combining industry knowledge with world-class technology capabilities is what differentiates Aerlytix from all other offerings. The Analytics Suite gives our clients the cutting-edge platform to succeed as the industry recovers and moves to the next phase of its evolution."</p>
+                        <p class="display-6">"Combining industry knowledge with world-class technology capabilities is what differentiates Aerlytix from all other offerings. The Analytics Suite gives our clients the cutting-edge platform to succeed as the industry recovers and moves to the next phase of its evolution."</p>
                     </blockquote>
                     <cite>— Alan Doyle, Aerlytix CEO</cite>
                 </div>
                 </div>
             </div>
         </div>
-        <div class="card mb-3 p-2" style="max-width: 540px;">
+        <div class="card mb-3 p-2">
             <div class="row g-0">
-                <div class="col-md-4">
-                <img src="https://via.placeholder.com/180x240" class="img-fluid rounded-start" alt="...">
+                <div class="col-md-3">
+                <img src="https://via.placeholder.com/300x380" class="img-fluid rounded-start" alt="...">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-9">
                 <div class="card-body">
                     <blockquote>
-                        <p>"Combining industry knowledge with world-class technology capabilities is what differentiates Aerlytix from all other offerings. The Analytics Suite gives our clients the cutting-edge platform to succeed as the industry recovers and moves to the next phase of its evolution."</p>
+                        <p class="display-6">"Combining industry knowledge with world-class technology capabilities is what differentiates Aerlytix from all other offerings. The Analytics Suite gives our clients the cutting-edge platform to succeed as the industry recovers and moves to the next phase of its evolution."</p>
                     </blockquote>
                     <cite>— Alan Doyle, Aerlytix CEO</cite>
                 </div>

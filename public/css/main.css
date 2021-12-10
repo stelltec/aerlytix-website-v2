@@ -11678,7 +11678,7 @@ textarea.form-control-lg {
 }
 
 .quote {
-  padding: 0 8rem;
+  padding: 0 6rem;
   margin: auto;
 }
 
@@ -11746,6 +11746,7 @@ textarea.form-control-lg {
   scroll-snap-align: center;
   inline-size: 100%;
   max-inline-size: 400px;
+  max-width: 100%;
 }
 
 .cookieConsentContainer {
