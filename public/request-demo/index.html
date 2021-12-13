@@ -42,7 +42,7 @@
 
 
 
-    <link rel="stylesheet" href="/css/main.css?cd51-9360-e85b" />
+    <link rel="stylesheet" href="/css/main.css?f8cd-033f-0a23" />
     <link rel="alternate" type="application/rss+xml" href="https://aerlytix.com/feed.xml" />
       
     
@@ -462,8 +462,10 @@
 
     <script>
     let requestDemo = document.querySelector("#contact form");
-      
-      requestDemo.addEventListener('submit', e => {
+
+      if (requestDemo) {    
+
+        requestDemo.addEventListener('submit', e => {
         e.preventDefault();
 
         const formData = new FormData(requestDemo);
@@ -481,6 +483,10 @@
           }
         });
       });
+
+      }
+      
+      
 </script>
 
     </div> <!-- container -->

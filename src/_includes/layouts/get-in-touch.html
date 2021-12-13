@@ -306,8 +306,10 @@
 
     <script>
     let requestDemo = document.querySelector("#contact form");
-      
-      requestDemo.addEventListener('submit', e => {
+
+      if (requestDemo) {    
+
+        requestDemo.addEventListener('submit', e => {
         e.preventDefault();
 
         const formData = new FormData(requestDemo);
@@ -325,6 +327,10 @@
           }
         });
       });
+
+      }
+      
+      
 </script>
 
     </div> <!-- container -->
