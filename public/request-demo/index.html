@@ -42,7 +42,7 @@
 
 
 
-    <link rel="stylesheet" href="/css/main.css?de0e-6cc7-291a" />
+    <link rel="stylesheet" href="/css/main.css?cd51-9360-e85b" />
     <link rel="alternate" type="application/rss+xml" href="https://aerlytix.com/feed.xml" />
       
     
@@ -166,26 +166,10 @@
 
   <article>
 
-<script>
-    document.querySelector("form").addEventListener("submit", handleSubmit);
-
-    const handleSubmit = (e) => {
-      e.preventDefault()
-      let myForm = document.getElementById('requestDemo');
-      let formData = new FormData(myForm)
-      fetch('/', {
-        method: 'POST',
-        headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: new URLSearchParams(formData).toString()
-      }).then(() => console.log('Form successfully submitted')).catch((error) =>
-        alert(error))
-    }
-</script>
-
     <div class="container col-md-6 mb-5">
 
     <div class="card p-5 shadow-sm">
-      <form class="row g-3" data-netlify="true" id="requestDemo">
+      <form class="row g-3" data-netlify="true" id="requestDemo" method="POST" action="/#contact" name="request-demo">
         <div class="col-md-6">
           <label for="inputName" class="form-label">Name</label>
           <input name="name" type="text" class="form-control form-control-lg" id="inputName" required>
@@ -476,7 +460,28 @@
       </form>
     </div>
 
-    
+    <script>
+    let requestDemo = document.querySelector("#contact form");
+      
+      requestDemo.addEventListener('submit', e => {
+        e.preventDefault();
+
+        const formData = new FormData(requestDemo);
+        fetch(requestDemo.getAttribute('action'), {
+          method: 'POST',
+          headers: {
+            'Accept': 'application/x-www-form-urlencoded;charset=UTF-8',
+            'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8'
+          },
+          body: new URLSearchParams(formData).toString()
+        })
+        .then(res => {
+          if (res) {
+            alert("Your form has been submited");
+          }
+        });
+      });
+</script>
 
     </div> <!-- container -->
   </article>
