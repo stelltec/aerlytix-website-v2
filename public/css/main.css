@@ -11711,7 +11711,7 @@ html, body {
   font-family: "Archivo", sans-serif;
   font-stretch: 103%;
 }
-html p, body p {
+html p, html li, html label, body p, body li, body label {
   font-size: 1.2rem;
 }
 
@@ -11778,9 +11778,9 @@ html p, body p {
 }
 
 .display-7 {
-  font-size: 1.7rem;
+  font-size: 1.5rem;
   font-weight: 300;
-  line-height: 1.3;
+  line-height: 1.4;
 }
 
 .text-tag {
@@ -11793,6 +11793,14 @@ html p, body p {
   padding-right: 8px;
   padding-top: 2px;
   font-weight: bold;
+}
+
+.bg-light {
+  background-color: red;
+}
+
+.brand-color {
+  color: #2B5DC1;
 }
 
 .container-scroller {

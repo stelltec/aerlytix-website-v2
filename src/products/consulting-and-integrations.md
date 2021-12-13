@@ -9,8 +9,8 @@ summary: "Digital transformation is imperative for businesses looking to maintai
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Simplifying Data</h2>
-      <p>We provide a full scope of data mining and implementation services, making your torrents of data usable by everyone in your company.</p>
+      <h2 class="h1">Simplifying Data</h2>
+      <p class="display-7">We provide a full scope of data mining and implementation services, making your torrents of data usable by everyone in your company.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ summary: "Digital transformation is imperative for businesses looking to maintai
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Process Automation</h2>
-      <p>Derive insights from operational data and automate workflows with our state-of-the-art process automation services.</p>
+      <h2 class="h1">Process Automation</h2>
+      <p class="display-7">Derive insights from operational data and automate workflows with our state-of-the-art process automation services.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ summary: "Digital transformation is imperative for businesses looking to maintai
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Modelling and Structuring</h2>
-      <p>Highly flexible transaction structuring and analysis capabilities, proprietary credit modelling.</p>
+      <h2 class="h1">Modelling and Structuring</h2>
+      <p class="display-7">Highly flexible transaction structuring and analysis capabilities, proprietary credit modelling.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>

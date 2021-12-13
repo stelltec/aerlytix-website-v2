@@ -9,8 +9,8 @@ header: 'Optimise asset lifecycle, operations and performance management'
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Remarketing and Extensions</h2>
-      <p>‘Rack n’Stack’ all future lease or extension scenarios on a dedicated remarketing dashboard.</p>
+      <h2 class="h1">Remarketing and Extensions</h2>
+      <p class="display-7">‘Rack n’Stack’ all future lease or extension scenarios on a dedicated remarketing dashboard.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ header: 'Optimise asset lifecycle, operations and performance management'
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Deal Analysis</h2>
-      <p>Create and appraise potential LOIs at a level of detail appropriate to the stage of negotiation.</p>
+      <h2 class="h1">Deal Analysis</h2>
+      <p class="display-7">Create and appraise potential LOIs at a level of detail appropriate to the stage of negotiation.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ header: 'Optimise asset lifecycle, operations and performance management'
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Lease Amendments</h2>
-      <p>Create unlimited amendment scenarios of existing contracted leases, instant impact analysis of PBH terms.</p>
+      <h2 class="h1">Lease Amendments</h2>
+      <p class="display-7">Create unlimited amendment scenarios of existing contracted leases, instant impact analysis of PBH terms.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>

@@ -8,8 +8,8 @@ header: "Manage exposure at all levels on indivisual asset or portfolio basis"
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>A 360-Degree View</h2>
-      <p>Full maintenance forecasting suite integrated to a best-in-class lease cashflow forecasting model.</p>
+      <h2 class="h1">A 360-Degree View</h2>
+      <p class="display-7">Full maintenance forecasting suite integrated to a best-in-class lease cashflow forecasting model.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -22,8 +22,8 @@ header: "Manage exposure at all levels on indivisual asset or portfolio basis"
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Technical Analysis</h2>
-      <p>Instant overview of maintenance reserves adequacy to the "metal picture".</p>
+      <h2 class="h1">Technical Analysis</h2>
+      <p class="display-7">Instant overview of maintenance reserves adequacy to the "metal picture".</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -36,8 +36,8 @@ header: "Manage exposure at all levels on indivisual asset or portfolio basis"
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Utilization adjustments</h2>
-      <p>Forecast and compare a spectrum of operating profiles by varying parameters and ratios.</p>
+      <h2 class="h1">Utilization adjustments</h2>
+      <p class="display-7">Forecast and compare a spectrum of operating profiles by varying parameters and ratios.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -50,8 +50,8 @@ header: "Manage exposure at all levels on indivisual asset or portfolio basis"
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Opportunities &amp; Amendments</h2>
-      <p>Create unlimited follow-on lease or amendment scenarios and instantly appraise ongoing opportunities and condition impact.</p>
+      <h2 class="h1">Opportunities &amp; Amendments</h2>
+      <p class="display-7">Create unlimited follow-on lease or amendment scenarios and instantly appraise ongoing opportunities and condition impact.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>

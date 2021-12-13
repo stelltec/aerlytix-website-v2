@@ -9,8 +9,8 @@ summary: "Maintain a competitive advantage through real-time data analytics and 
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Latest Technology</h2>
-      <p>Aerlytix is a technology eco-system used by leading lessors to run their business, supporting their asset management processes with a suite of tools, connecting in-depth technical analysis, scenario stress testing and metal value exposure.</p>
+      <h2 class="h1">Latest Technology</h2>
+      <p class="display-7">Aerlytix is a technology eco-system used by leading lessors to run their business, supporting their asset management processes with a suite of tools, connecting in-depth technical analysis, scenario stress testing and metal value exposure.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ summary: "Maintain a competitive advantage through real-time data analytics and 
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Connection</h2>
-      <p>Aerlytix platform brings technical, commercial, finance  and risk inputs together to ensure coordinated outcomes through one centralised infrastructure, making the most complex investments a simple matter.</p>
+      <h2 class="h1">Connection</h2>
+      <p class="display-7">Aerlytix platform brings technical, commercial, finance  and risk inputs together to ensure coordinated outcomes through one centralised infrastructure, making the most complex investments a simple matter.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ summary: "Maintain a competitive advantage through real-time data analytics and 
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Automation</h2>
-      <p>Aerlytix drives intelligent automation into every corner of the asset management process, creating a true competitive advantage through removing “the noise” and clutter out of decision-making process.</p>
+      <h2 class="h1">Automation</h2>
+      <p class="display-7">Aerlytix drives intelligent automation into every corner of the asset management process, creating a true competitive advantage through removing “the noise” and clutter out of decision-making process.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>

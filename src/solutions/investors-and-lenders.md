@@ -1,6 +1,6 @@
 ---
 title: "Investors and Lenders"
-header: "'Better-Informed' Aviation Investments"
+header: "Better-Informed Aviation Investments"
 summary: "Bringing clarity to aviation investments and taking 'the noise' out of decision-making"
 ---
 
@@ -9,8 +9,8 @@ summary: "Bringing clarity to aviation investments and taking 'the noise' out of
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Clarity</h2>
-      <p>Aerlytix empowers aviation investors with connected risk management tools needed to understand their exposure.</p>
+      <h2 class="h1">Clarity</h2>
+      <p class="display-7">Aerlytix empowers aviation investors with connected risk management tools needed to understand their exposure.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ summary: "Bringing clarity to aviation investments and taking 'the noise' out of
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Real-time Analytics</h2>
-      <p>Execute complex investments and maintain a competitive advantage through real time data analytics and connected asset condition.</p>
+      <h2 class="h1">Real-time Analytics</h2>
+      <p class="display-7">Execute complex investments and maintain a competitive advantage through real time data analytics and connected asset condition.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ summary: "Bringing clarity to aviation investments and taking 'the noise' out of
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Decision Support</h2>
-      <p>A 360-Degree view of the investment to maximise value and analyse exit opportunities through optimal investment management.</p>
+      <h2 class="h1">Decision Support</h2>
+      <p class="display-7">A 360-Degree view of the investment to maximise value and analyse exit opportunities through optimal investment management.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>

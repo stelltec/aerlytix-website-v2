@@ -9,8 +9,8 @@ summary: "We have the experience, expertise and innovation to rapidly step in wi
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>First featurette heading. It’ll blow your mind.</h2>
-      <p>Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+      <h2 class="h1">First featurette heading. It’ll blow your mind.</h2>
+      <p class="display-7">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ summary: "We have the experience, expertise and innovation to rapidly step in wi
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Oh yeah, it’s that good. See for yourself.</h2>
-      <p>Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+      <h2 class="h1">Oh yeah, it’s that good. See for yourself.</h2>
+      <p class="display-7">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ summary: "We have the experience, expertise and innovation to rapidly step in wi
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>And lastly, this one. Checkmate.</h2>
-      <p>And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+      <h2 class="h1">And lastly, this one. Checkmate.</h2>
+      <p class="display-7">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>

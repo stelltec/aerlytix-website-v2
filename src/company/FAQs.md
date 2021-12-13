@@ -1,11 +1,11 @@
 ---
 title: 'FAQs'
-header: "Questions we frequently get asked by potential clients"
-summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
+header: "Frequently Asked Questions"
+# summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
 ---
 
 <article>
-<div class="container">
+<div class="container col-md-6">
 <h2>Some questions you might have...</h2>
 <div class="accordion shadow-sm mt-5" id="accordionExample" style="border:0">
   <div class="accordion-item">
