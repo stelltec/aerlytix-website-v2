@@ -1,7 +1,7 @@
 ---
 title: 'Analysis and Risk Management'
-header: 'Nice Analysis and Risk MAnagement header'
-summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
+header: 'Risk Management'
+summary: 'Manage risk, improve decision making and simplify processes and controls.'
 ---
 
 <!-- Start marketing section -->
@@ -9,8 +9,8 @@ summary: 'A native iOS app to help people to keep a track of their finances by p
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>First featurette heading. It’ll blow your mind.</h2>
-      <p>Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+      <h2>Stress Testing.</h2>
+      <p>Stress test specific exposures on individual asset/portfolio and apply risk adjusted pricing analysis.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ summary: 'A native iOS app to help people to keep a track of their finances by p
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Oh yeah, it’s that good. See for yourself.</h2>
-      <p>Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+      <h2>Adjustments</h2>
+      <p>Calculate credit-adjusted yield and valuation benchmarks  underpinned by the latest  operator attributes.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ summary: 'A native iOS app to help people to keep a track of their finances by p
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>And lastly, this one. Checkmate.</h2>
-      <p>And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+      <h2>Impairment Assessment</h2>
+      <p>The Aerlytix repossession model forecasts recovery values and default probabilities.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -46,53 +46,81 @@ summary: 'A native iOS app to help people to keep a track of their finances by p
   </div>
 </div>
 </article>
+
+<article class="section__spacing-03">
+  <div class="container">
+  <div class="row featurette">
+    <div class="col-md-7 order-md-2">
+      <h2>Internal Ratings</h2>
+      <p>Automated credit-adjusted benchmarks by set parameters, to enable consistent  decision making on asset acquisition to remarketing.</p>
+    </div>
+    <div class="col-md-5 order-md-1">
+      <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+      </div>
+  </div>
+  </div>
+</article>
 <!-- End marketing section -->
 
 <article class="section__spacing-03 bg-light mt-5 mb-5 pt-5">
 <div class="container">
 <h2>And more...</h2>
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"></use></svg>
         </div>
-        <h4>Deal Support</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>Reporting</h4>
+        <p>Customised reporting & alerts notifying of events that require highlighting</p>
       </div>
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"></use></svg>
         </div>
-        <h4>Pricing and Execution</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>Portfolio Risk</h4>
+        <p>Aggregate & Slice exposures by portfolio, operator or asset type.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
         <h4>Credit Rating</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <p>Automated credit ratings functions to assess your investments.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
-        <h4>Reposession and Default</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>Recovery Value</h4>
+        <p>Analyse Recovery values and default probabilities.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
-        <h4>Reporting and Dashboards</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>EOL Exposure</h4>
+        <p>In-depth EOL analysis, drilling down to the component level.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
-        <h4>Technical Analysis</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>Automated Alerts</h4>
+        <p>Real-time, monitored Operator and Portfolio exposures at your fingertips.</p>
+      </div>
+      <div class="feature col">
+        <div class="feature-icon bg-primary bg-gradient">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        </div>
+        <h4>Multi-jurisdiction planning</h4>
+        <p>Manage portfolio concentration targets, limits & restrictions.</p>
+      </div>
+      <div class="feature col">
+        <div class="feature-icon bg-primary bg-gradient">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        </div>
+        <h4>Permissions</h4>
+        <p>Full permissions-based functionality for most up to date and approved ratings</p>
       </div>
     </div>
 </div>

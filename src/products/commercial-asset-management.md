@@ -1,7 +1,7 @@
 ---
 title: 'Commercial Asset Management'
-header: 'Nice Commercial Asset Management header'
-summary: "We have the experience, expertise and innovation to rapidly step in with flexible, high performance tools and minimal interruption, empowering our clients' decision-making process."
+header: 'Optimise asset lifecycle, operations and performance management'
+# summary: "We have the experience, expertise and innovation to rapidly step in with flexible, high performance tools and minimal interruption, empowering our clients' decision-making process."
 ---
 
 <!-- Start marketing section -->
@@ -9,8 +9,8 @@ summary: "We have the experience, expertise and innovation to rapidly step in wi
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>First featurette heading. It’ll blow your mind.</h2>
-      <p>Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+      <h2>Remarketing and Extensions</h2>
+      <p>‘Rack n’Stack’ all future lease or extension scenarios on a dedicated remarketing dashboard.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ summary: "We have the experience, expertise and innovation to rapidly step in wi
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Oh yeah, it’s that good. See for yourself.</h2>
-      <p>Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+      <h2>Deal Analysis</h2>
+      <p>Create and appraise potential LOIs at a level of detail appropriate to the stage of negotiation.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ summary: "We have the experience, expertise and innovation to rapidly step in wi
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>And lastly, this one. Checkmate.</h2>
-      <p>And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+      <h2>Lease Amendments</h2>
+      <p>Create unlimited amendment scenarios of existing contracted leases, instant impact analysis of PBH terms.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -46,53 +46,81 @@ summary: "We have the experience, expertise and innovation to rapidly step in wi
   </div>
 </div>
 </article>
+
+<article class="section__spacing-03">
+  <div class="container">
+  <div class="row featurette">
+    <div class="col-md-7 order-md-2">
+      <h2>Asset Monitor</h2>
+      <p>Monitor upcoming portfolio maintenance events with component level drill-down.</p>
+    </div>
+    <div class="col-md-5 order-md-1">
+      <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+      </div>
+  </div>
+  </div>
+</article>
 <!-- End marketing section -->
 
 <article class="section__spacing-03 bg-light mt-5 mb-5 pt-5">
 <div class="container">
 <h2>And more...</h2>
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"></use></svg>
         </div>
-        <h4>Deal Support</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>Reporting</h4>
+        <p>Full reporting suite with intuitive and easy charting.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"></use></svg>
         </div>
-        <h4>Pricing and Execution</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>CMS Connection</h4>
+        <p>Multi-tranched debt structures for levered pricing.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
-        <h4>Credit Rating</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>CRM Connection</h4>
+        <p>Perform detailed levered IRR & NPV analysis.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
-        <h4>Reposession and Default</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>Contracts</h4>
+        <p>Flexible UI enables pricing of external aircraft in minutes.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
-        <h4>Reporting and Dashboards</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>Invoicing</h4>
+        <p>Track opportunities evolution with integration to any CRM solutions.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
-        <h4>Technical Analysis</h4>
-        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+        <h4>Automation</h4>
+        <p>Forecast aircraft NBV for economic useful lives and residual values.</p>
+      </div>
+      <div class="feature col">
+        <div class="feature-icon bg-primary bg-gradient">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        </div>
+        <h4>Reconciliations</h4>
+        <p>Perform P&L impact analysis on maintenance and lease strategies.</p>
+      </div>
+      <div class="feature col">
+        <div class="feature-icon bg-primary bg-gradient">
+          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        </div>
+        <h4>Re/Negotiations</h4>
+        <p>Instant view of changes impact to the MR and EOL compensation cashflows.</p>
       </div>
     </div>
 </div>

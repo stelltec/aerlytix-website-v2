@@ -1,7 +1,7 @@
 ---
-title: "Bank & Lenders"
-header: 'Nice Bank & Lenders header'
-summary: "We believe in long term relationships with our clients and empowering the with cutting-edge technology tools and solutions to enable our clients' strategic positioning in the market."
+title: "Investors and Lenders"
+header: "'Better-Informed' Aviation Investments"
+summary: "Bringing clarity to aviation investments and taking 'the noise' out of decision-making"
 ---
 
 <!-- Start marketing section -->
@@ -9,8 +9,8 @@ summary: "We believe in long term relationships with our clients and empowering 
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>First featurette heading. It’ll blow your mind.</h2>
-      <p>Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+      <h2>Clarity</h2>
+      <p>Aerlytix empowers aviation investors with connected risk management tools needed to understand their exposure.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ summary: "We believe in long term relationships with our clients and empowering 
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Oh yeah, it’s that good. See for yourself.</h2>
-      <p>Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+      <h2>Real-time Analytics</h2>
+      <p>Execute complex investments and maintain a competitive advantage through real time data analytics and connected asset condition.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ summary: "We believe in long term relationships with our clients and empowering 
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>And lastly, this one. Checkmate.</h2>
-      <p>And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+      <h2>Decision Support</h2>
+      <p>A 360-Degree view of the investment to maximise value and analyse exit opportunities through optimal investment management.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -48,7 +48,7 @@ summary: "We believe in long term relationships with our clients and empowering 
 </article>
 <!-- End marketing section -->
 
-<article class="section__spacing-03 bg-light mt-5 mb-5 pt-5">
+<!-- <article class="section__spacing-03 bg-light mt-5 mb-5 pt-5">
 <div class="container">
 <h2>And more...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
@@ -96,4 +96,4 @@ summary: "We believe in long term relationships with our clients and empowering 
       </div>
     </div>
 </div>
-</article>
+</article> -->

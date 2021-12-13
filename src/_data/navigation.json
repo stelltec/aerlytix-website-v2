@@ -45,12 +45,8 @@
                     "url": "/solutions/lessors/"
                 },
                 {
-                    "text": "Investors",
-                    "url": "/solutions/investors/"
-                },
-                {
-                    "text": "Banks and Lenders",
-                    "url": "/solutions/banks-and-lenders/"
+                    "text": "Investors and Lenders",
+                    "url": "/solutions/investors-and-lenders/"
                 }
             ]
         },

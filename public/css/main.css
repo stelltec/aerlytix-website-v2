@@ -11636,6 +11636,37 @@ textarea.form-control-lg {
   border-radius: 1.2rem;
 }
 
+/* ----------------------------------------------
+Inter variable font. Usage:
+
+@supports (font-variation-settings: normal) {
+	html { font-family: "Inter var", sans-serif; }
+}
+---------------------------------------------- */
+@font-face {
+  font-family: "Inter var";
+  font-weight: 100 900;
+  font-style: normal;
+  src: url(../fonts/inter/Inter-upright-var.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Inter var";
+  font-weight: 100 900;
+  font-style: italic;
+  src: url(../fonts/inter/Inter-italic-var.woff2) format("woff2");
+}
+/* Structure --------------------------------- */
+body#tinymce.wp-editor.content {
+  /* stylelint-disable-line no-duplicate-selectors */
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+@supports (font-variation-settings: normal) {
+  body#tinymce.wp-editor.content {
+    /* stylelint-disable-line no-duplicate-selectors */
+    font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+  }
+}
 .nav__feature {
   border: 1px solid #000 !important;
   padding-top: 0.45rem;
@@ -11692,6 +11723,27 @@ textarea.form-control-lg {
 
 .posts-list a {
   text-decoration: none;
+}
+
+.accordion-button:not(.collapsed) {
+  background: none;
+}
+
+.display-7 {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.text-tag {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  border: 1px solid white;
+  display: inline-block;
+  border-radius: 20px;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-weight: bold;
 }
 
 .container-scroller {
