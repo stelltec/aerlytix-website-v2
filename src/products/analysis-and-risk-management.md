@@ -9,8 +9,8 @@ summary: 'Manage risk, improve decision making and simplify processes and contro
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Stress Testing.</h2>
-      <p>Stress test specific exposures on individual asset/portfolio and apply risk adjusted pricing analysis.</p>
+      <h2 class="h1">Stress Testing.</h2>
+      <p class="display-7">Stress test specific exposures on individual asset/portfolio and apply risk adjusted pricing analysis.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -23,8 +23,8 @@ summary: 'Manage risk, improve decision making and simplify processes and contro
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Adjustments</h2>
-      <p>Calculate credit-adjusted yield and valuation benchmarks  underpinned by the latest  operator attributes.</p>
+      <h2 class="h1">Adjustments</h2>
+      <p class="display-7">Calculate credit-adjusted yield and valuation benchmarks  underpinned by the latest  operator attributes.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -37,8 +37,8 @@ summary: 'Manage risk, improve decision making and simplify processes and contro
 <div class="container">
   <div class="row featurette">
     <div class="col-md-7">
-      <h2>Impairment Assessment</h2>
-      <p>The Aerlytix repossession model forecasts recovery values and default probabilities.</p>
+      <h2 class="h1">Impairment Assessment</h2>
+      <p class="display-7">The Aerlytix repossession model forecasts recovery values and default probabilities.</p>
     </div>
     <div class="col-md-5">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
@@ -51,8 +51,8 @@ summary: 'Manage risk, improve decision making and simplify processes and contro
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Internal Ratings</h2>
-      <p>Automated credit-adjusted benchmarks by set parameters, to enable consistent  decision making on asset acquisition to remarketing.</p>
+      <h2 class="h1">Internal Ratings</h2>
+      <p class="display-7">Automated credit-adjusted benchmarks by set parameters, to enable consistent  decision making on asset acquisition to remarketing.</p>
     </div>
     <div class="col-md-5 order-md-1">
       <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>

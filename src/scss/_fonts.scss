@@ -7,29 +7,29 @@ Inter variable font. Usage:
 ---------------------------------------------- */
 
 @font-face {
-	font-family: "Inter var";
+	font-family: "Archivo";
 	font-weight: 100 900;
+    font-stretch: 75% 125%;
 	font-style: normal;
-	src: url(../fonts/inter/Inter-upright-var.woff2) format("woff2");
+	src: url(../fonts/Archivo-VariableFont_wdth-wght.woff2) format("woff2");
 }
 
 @font-face {
-	font-family: "Inter var";
-	font-weight: 100 900;
+	font-family: "Archivo";
+    font-weight: 100 900;
+    font-stretch: 75% 125%;
 	font-style: italic;
-	src: url(../fonts/inter/Inter-italic-var.woff2) format("woff2");
+	src: url(../fonts/Archivo-Italic-VariableFont_wdth-wght.woff2) format("woff2");
 }
 
-/* Structure --------------------------------- */
-
-body#tinymce.wp-editor.content { /* stylelint-disable-line no-duplicate-selectors */
-	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+html, body {
+    font-family: 'Archivo', sans-serif; 
 }
 
 @supports ( font-variation-settings: normal ) {
 
-	body#tinymce.wp-editor.content { /* stylelint-disable-line no-duplicate-selectors */
-		font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	html, body {
+		font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	}
 
 }
