@@ -42,7 +42,7 @@
 
 
 
-    <link rel="stylesheet" href="/css/main.css?63c0-2d24-e59a" />
+    <link rel="stylesheet" href="/css/main.css?c78a-f849-0868" />
     <link rel="alternate" type="application/rss+xml" href="https://aerlytix.com/feed.xml" />
       
     
@@ -172,28 +172,28 @@
       <form class="row g-3" data-netlify="true">
         <div class="col-md-6">
           <label for="inputName" class="form-label">Name</label>
-          <input type="text" class="form-control form-control-lg" id="inputName" required>
+          <input name="name" type="text" class="form-control form-control-lg" id="inputName" required>
         </div>
         <div class="col-md-6">
           <label for="jobTitle" class="form-label">Job Title</label>
-          <input type="text" class="form-control form-control-lg" id="jobTitle" required>
+          <input name="job-title" type="text" class="form-control form-control-lg" id="jobTitle" required>
         </div>
         <div class="col-md-6">
           <label for="inputEmail" class="form-label">Email</label>
-          <input type="email" class="form-control form-control-lg" id="inputEmail" required>
+          <input name="email" type="email" class="form-control form-control-lg" id="inputEmail" required>
         </div>
         <div class="col-md-6">
           <label for="inputPhone" class="form-label">Phone number</label>
-          <input type="tel" class="form-control form-control-lg" id="inputPhone" required>
+          <input name="phone-number" type="tel" class="form-control form-control-lg" id="inputPhone" required>
         </div>
 
         <div class="col-md-6">
           <label for="inputCompany" class="form-label">Company</label>
-          <input type="text" class="form-control form-control-lg" id="inputCompany" required>
+          <input name="company" type="text" class="form-control form-control-lg" id="inputCompany" required>
         </div>
         <div class="col-md-6">
           <label for="selectCountry" class="form-label">Country</label>
-          <select id="selectCountry" class="form-select form-select-lg" required>
+          <select name="country" id="selectCountry" class="form-select form-select-lg" required>
             <option value="0">Choose country...</option>
             <option value="United States">United States</option>
             <option value="Canada">Canada</option>
@@ -435,7 +435,7 @@
         </div>
         <div class="col-md-6">
           <label for="selectIndustry" class="form-label">Industry Sector</label>
-          <select id="selectIndustry" class="form-select form-select-lg" required>
+          <select name="industry-sector" id="selectIndustry" class="form-select form-select-lg" required>
             <option selected>Choose...</option>
             <option value="lessors">Lessor</option>
             <option value="investors">Investor</option>
@@ -447,9 +447,8 @@
 
         <div class="col-12">
           <label for="textareaTellusmore" class="form-label">Address</label>
-          <textarea class="form-control form-control-lg" id="textareaTellusmore" rows="5" required></textarea>
-        </div>
-        
+          <textarea name="address" class="form-control form-control-lg" id="textareaTellusmore" rows="5" required></textarea>
+        </div>        
         <div class="col-12">
           <button type="submit" class="btn btn-lg btn-primary">Submit</button>
         </div>
