@@ -42,12 +42,11 @@
 
 
 
-    <link rel="stylesheet" href="/css/main.css?106d-cb8c-e7e9" />
+    <link rel="stylesheet" href="/css/main.css?de0e-6cc7-291a" />
     <link rel="alternate" type="application/rss+xml" href="https://aerlytix.com/feed.xml" />
       
     
      
-    <script src="/js/scripts.js"></script>
   </head>
   <body>
     
@@ -166,10 +165,27 @@
 
 
   <article>
+
+<script>
+    document.querySelector("form").addEventListener("submit", handleSubmit);
+
+    const handleSubmit = (e) => {
+      e.preventDefault()
+      let myForm = document.getElementById('requestDemo');
+      let formData = new FormData(myForm)
+      fetch('/', {
+        method: 'POST',
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(formData).toString()
+      }).then(() => console.log('Form successfully submitted')).catch((error) =>
+        alert(error))
+    }
+</script>
+
     <div class="container col-md-6 mb-5">
 
     <div class="card p-5 shadow-sm">
-      <form class="row g-3" data-netlify="true">
+      <form class="row g-3" data-netlify="true" id="requestDemo">
         <div class="col-md-6">
           <label for="inputName" class="form-label">Name</label>
           <input name="name" type="text" class="form-control form-control-lg" id="inputName" required>
