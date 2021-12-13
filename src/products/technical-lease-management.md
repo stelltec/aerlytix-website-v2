@@ -63,7 +63,7 @@ header: "Manage exposure at all levels on indivisual asset or portfolio basis"
 
 <article class="section__spacing-03 bg-light mt-5 mb-5 pt-5">
 <div class="container">
-<h2>And more...</h2>
+<h2 class="h1">And more...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">

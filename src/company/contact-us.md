@@ -1,11 +1,11 @@
 ---
-title: "Contact Uss"
-header: "Contact Us header"
-summary: "Since our inception, we have built a strong brand and reputation as one of the fastest-growing aviation finance technology companies in Ireland by hiring the right talent, continuously innovating and enhancing our products and services, and building long term partnerships with our clients."
+title: "Contact Us"
+header: "Contact Us"
+# summary: "Since our inception, we have built a strong brand and reputation as one of the fastest-growing aviation finance technology companies in Ireland by hiring the right talent, continuously innovating and enhancing our products and services, and building long term partnerships with our clients."
 ---
 
 <article>
-<div class="container">
+<div class="container col-md-8">
     <div class="row row-cols-1 row-cols-md-2 mb-3 text-center">
       <div class="col mb-4">
         <div class="card h-100 mb-4 pt-5 pb-5 rounded-3 shadow-sm">

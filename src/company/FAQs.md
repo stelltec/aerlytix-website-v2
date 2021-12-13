@@ -10,7 +10,7 @@ header: "Frequently Asked Questions"
 <div class="accordion shadow-sm mt-5" id="accordionExample" style="border:0">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+      <button class="pt-4 accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
         <h4>What is our business model?</h4>
       </button>
     </h2>
@@ -22,7 +22,7 @@ header: "Frequently Asked Questions"
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
         <h4>Does it integrate with CMS’s?</h4>
       </button>
     </h2>
@@ -34,7 +34,7 @@ header: "Frequently Asked Questions"
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+      <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
         <h4>Are you a CMS?</h4>
       </button>
     </h2>
@@ -46,7 +46,7 @@ header: "Frequently Asked Questions"
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFour">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+      <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
         <h4>How many data sources are you connected to?</h4>
       </button>
     </h2>
@@ -58,7 +58,7 @@ header: "Frequently Asked Questions"
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFive">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+      <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
         <h4>How long does it take an implementation?</h4>
       </button>
     </h2>
@@ -70,7 +70,7 @@ header: "Frequently Asked Questions"
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingSix">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+      <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
         <h4>Do you have a data cleansing service?</h4>
       </button>
     </h2>

@@ -51,7 +51,7 @@ header: 'Optimise asset lifecycle, operations and performance management'
   <div class="container">
   <div class="row featurette">
     <div class="col-md-7 order-md-2">
-      <h2>Asset Monitor</h2>
+      <h2 clas>Asset Monitor</h2>
       <p>Monitor upcoming portfolio maintenance events with component level drill-down.</p>
     </div>
     <div class="col-md-5 order-md-1">
@@ -64,7 +64,7 @@ header: 'Optimise asset lifecycle, operations and performance management'
 
 <article class="section__spacing-03 bg-light mt-5 mb-5 pt-5">
 <div class="container">
-<h2>And more...</h2>
+<h2 class="h1">And more...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon bg-primary bg-gradient">
