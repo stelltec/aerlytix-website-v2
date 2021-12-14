@@ -42,7 +42,7 @@
 
 
 
-    <link rel="stylesheet" href="/css/main.css?0959-175e-a35c" />
+    <link rel="stylesheet" href="/css/main.css?b60a-e049-625c" />
     <link rel="alternate" type="application/rss+xml" href="https://aerlytix.com/feed.xml" />
       
     
@@ -167,9 +167,13 @@
   <article>
 
     <div class="container col-md-6 mb-5">
-
+    
     <div class="card p-5 shadow-sm">
-      <form class="row g-3" data-netlify="true">
+      <div class="w-100 alert alert-success alert-dismissible fade show" role="alert" id="success" style="display: none">
+        Your request has been sent successfully. We'll be in touch very soon!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+      </div>
+      <form class="row g-3" data-netlify="true" id="requestDemo">
         <div class="col-md-6">
           <label for="inputName" class="form-label">Name</label>
           <input name="name" type="text" class="form-control form-control-lg" id="inputName" required>
@@ -461,18 +465,20 @@
     </div>
 
   <script>
-    document.querySelector("form").addEventListener("submit", handleSubmit);
-
-    const handleSubmit = (e) => {
+    let formElem = document.getElementById('requestDemo');
+    console.log(formElem,"ivan");
+    if (formElem) {
+      const handleSubmit = (e) => {
       e.preventDefault()
-      let myForm = document.getElementById('pizzaOrder');
-      let formData = new FormData(myForm)
+      let formData = new FormData(formElem)
       fetch('/', {
         method: 'POST',
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
         body: new URLSearchParams(formData).toString()
-      }).then(() => console.log('Form successfully submitted')).catch((error) =>
+      }).then(() => document.getElementById('success').style.display = "initial").catch((error) =>
         alert(error))
+    }
+    formElem.addEventListener("submit", handleSubmit)
     }
 </script>
 
