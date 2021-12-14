@@ -42,7 +42,7 @@
 
 
 
-    <link rel="stylesheet" href="/css/main.css?0155-b95e-3c96" />
+    <link rel="stylesheet" href="/css/main.css?0959-175e-a35c" />
     <link rel="alternate" type="application/rss+xml" href="https://aerlytix.com/feed.xml" />
       
     
@@ -461,18 +461,18 @@
     </div>
 
   <script>
-    if (document.querySelector("form").addEventListener("submit", handleSubmit)) {
-        const handleSubmit = (e) => {
-          e.preventDefault()
-          let myForm = document.getElementById('requestDemo');
-          let formData = new FormData(myForm)
-          fetch('/', {
-            method: 'POST',
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: new URLSearchParams(formData).toString()
-          }).then(() => console.log('Form successfully submitted')).catch((error) =>
-            alert(error))
-        }
+    document.querySelector("form").addEventListener("submit", handleSubmit);
+
+    const handleSubmit = (e) => {
+      e.preventDefault()
+      let myForm = document.getElementById('pizzaOrder');
+      let formData = new FormData(myForm)
+      fetch('/', {
+        method: 'POST',
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(formData).toString()
+      }).then(() => console.log('Form successfully submitted')).catch((error) =>
+        alert(error))
     }
 </script>
 
