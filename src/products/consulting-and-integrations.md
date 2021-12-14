@@ -1,7 +1,7 @@
 ---
 title: "Consulting & Integrations"
 header: "Consultancy and Integrations"
-summary: "Digital transformation is imperative for businesses looking to maintain a competitive edge. Software as the greatest enabler - you are the driver."
+summary: "Competitive advantage through digital transformation, Software as the greatest enabler. You are the driver."
 ---
 
 <!-- Start marketing section -->

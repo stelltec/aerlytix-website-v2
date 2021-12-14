@@ -1,7 +1,7 @@
 ---
 title: "Investors and Lenders"
 header: "Better-Informed Aviation Investments"
-summary: "Bringing clarity to aviation investments and taking 'the noise' out of decision-making"
+summary: "Simplifying the complexities of aviation finance and investments"
 ---
 
 <!-- Start marketing section -->
