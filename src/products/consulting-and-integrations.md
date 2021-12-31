@@ -121,7 +121,7 @@ summary: "Competitive advantage through digital transformation, Software as the 
           <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
         </div>
         <h4>Excel add-ins</h4>
-        <p>Here some text related to Excel add-ins</p>
+        <p>Seamless interconnection of the analysis engine to Excel</p>
       </div>
     </div>
 </div>
