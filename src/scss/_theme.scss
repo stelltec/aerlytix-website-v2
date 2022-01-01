@@ -2,24 +2,6 @@ body {
     // background: #f5f9fe; For now we are going to drop this background color and stick to white. But this looks good.
 }
 
-.nav {
-    &__feature {
-        border: 1px solid #000 !important;
-        padding-top: 0.45rem;
-        padding-bottom: 0.45rem;
-    }
-
-    &__main {
-        a {
-            color: black;
-        }
-
-        .nav-link.active {
-            background: black;
-        }
-    }
-}
-
 .tags-list {
     padding-left: 0;
     li {
@@ -40,10 +22,14 @@ body {
 }
 
 .footer {
+
     &__main {
         background: #2B5DC1;
         color: white;
-
+        
+        p, a {
+            font-size: 1.1rem;
+        }
         a {
             color: white;
             &:hover {
