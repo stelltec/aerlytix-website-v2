@@ -26,6 +26,10 @@ body {
     &__main {
         background: #2B5DC1;
         color: white;
+
+        h6 {
+            text-transform: uppercase;
+        }
         
         p, a {
             font-size: 1rem;
@@ -36,6 +40,10 @@ body {
                 color: #BACDF1;
             }
         }
+    }
+
+    &__brand {
+        margin-top:-.5rem;
     }
 
     &__brand-leading {

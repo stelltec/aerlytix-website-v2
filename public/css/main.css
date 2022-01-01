@@ -11730,6 +11730,9 @@ html p, html li, body p, body li {
   background: #2B5DC1;
   color: white;
 }
+.footer__main h6 {
+  text-transform: uppercase;
+}
 .footer__main p, .footer__main a {
   font-size: 1rem;
 }
@@ -11738,6 +11741,9 @@ html p, html li, body p, body li {
 }
 .footer__main a:hover {
   color: #BACDF1;
+}
+.footer__brand {
+  margin-top: -0.5rem;
 }
 .footer__brand-leading {
   padding-right: 2rem;
@@ -11869,6 +11875,9 @@ input, select, textarea {
 .navbar .navbar-nav {
   margin: auto;
 }
+.navbar .nav-link {
+  font-weight: bold;
+}
 .navbar .nav-item {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
@@ -11918,6 +11927,16 @@ input, select, textarea {
   .navbar .nav-item {
     margin-left: 0.2rem;
     margin-right: 0.2rem;
+  }
+}
+@media (max-width: 992px) {
+  .navbar-collapse {
+    padding-top: 1rem;
+  }
+
+  .navbar .nav-item {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 .cookieConsentContainer {
