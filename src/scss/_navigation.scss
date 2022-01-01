@@ -29,6 +29,12 @@
 
     .navbar-toggler {
         border: 1px solid #000;
+
+        &-icon {
+            svg {
+                fill: #000;
+            }
+        }
     }
 }
 

@@ -11887,6 +11887,9 @@ input, select, textarea {
 .navbar .navbar-toggler {
   border: 1px solid #000;
 }
+.navbar .navbar-toggler-icon svg {
+  fill: #000;
+}
 
 @media (min-width: 992px) {
   .navbar .nav-item .dropdown-menu {
