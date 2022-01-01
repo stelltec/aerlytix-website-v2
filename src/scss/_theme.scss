@@ -28,7 +28,7 @@ body {
         color: white;
         
         p, a {
-            font-size: 1.1rem;
+            font-size: 1rem;
         }
         a {
             color: white;
@@ -36,6 +36,10 @@ body {
                 color: #BACDF1;
             }
         }
+    }
+
+    &__brand-leading {
+        padding-right: 2rem;
     }
 
     &__copyright {

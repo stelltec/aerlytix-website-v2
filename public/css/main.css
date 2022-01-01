@@ -11731,13 +11731,16 @@ html p, html li, body p, body li {
   color: white;
 }
 .footer__main p, .footer__main a {
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 .footer__main a {
   color: white;
 }
 .footer__main a:hover {
   color: #BACDF1;
+}
+.footer__brand-leading {
+  padding-right: 2rem;
 }
 .footer__copyright {
   border-top: 1px solid #2051B2;
@@ -11871,7 +11874,7 @@ input, select, textarea {
   margin-right: 0.5rem;
 }
 .navbar a {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: #000;
 }
 .navbar a:hover {
