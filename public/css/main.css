@@ -11715,18 +11715,6 @@ html p, html li, body p, body li {
   font-size: 1.2rem;
 }
 
-.nav__feature {
-  border: 1px solid #000 !important;
-  padding-top: 0.45rem;
-  padding-bottom: 0.45rem;
-}
-.nav__main a {
-  color: black;
-}
-.nav__main .nav-link.active {
-  background: black;
-}
-
 .tags-list {
   padding-left: 0;
 }
@@ -11741,6 +11729,9 @@ html p, html li, body p, body li {
 .footer__main {
   background: #2B5DC1;
   color: white;
+}
+.footer__main p, .footer__main a {
+  font-size: 1.1rem;
 }
 .footer__main a {
   color: white;
@@ -11868,41 +11859,61 @@ input, select, textarea {
   max-width: 100%;
 }
 
-.navbar .dropdown-menu-end {
-  right: 0;
-  left: auto;
+.navbar {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
-
-.navbar .nav-item .dropdown-menu {
-  display: block;
-  opacity: 0;
-  visibility: hidden;
-  transition: 0.3s;
-  margin-top: 0;
+.navbar .navbar-nav {
+  margin: auto;
 }
-
-.navbar .nav-item:hover .nav-link {
+.navbar .nav-item {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.navbar a {
+  font-size: 1.1rem;
   color: #000;
 }
-
-.navbar .dropdown-menu.fade-down {
-  top: 80%;
-  transform: rotateX(-75deg);
-  transform-origin: 0% 0%;
+.navbar a:hover {
+  opacity: 0.8;
+}
+.navbar .navbar__feature {
+  border: 1px solid #000;
+  color: #000;
+  border-radius: 4px;
+  padding-top: 0.45rem;
+  padding-bottom: 0.45rem;
+}
+.navbar .navbar-toggler {
+  border: 1px solid #000;
 }
 
-.navbar .dropdown-menu.fade-up {
-  top: 180%;
-}
+@media (min-width: 992px) {
+  .navbar .nav-item .dropdown-menu {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+    margin-top: 0;
+  }
 
-.navbar .nav-item:hover .dropdown-menu {
-  transition: 0.3s;
-  opacity: 1;
-  visibility: visible;
-  top: 100%;
-  transform: rotateX(0deg);
-}
+  .navbar .nav-item:hover .nav-link {
+    color: #000;
+  }
 
+  .navbar .nav-item:hover .dropdown-menu {
+    transition: 0.3s;
+    opacity: 1;
+    visibility: visible;
+    top: 100%;
+    transform: rotateX(0deg);
+  }
+
+  .navbar .nav-item {
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+  }
+}
 .cookieConsentContainer {
   z-index: 5;
   width: 350px;
