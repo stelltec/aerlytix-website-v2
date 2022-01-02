@@ -1,6 +1,6 @@
 ---
 title: 'Aerlytix'
-metaDesc: 'Aerlytix is the web platform for aviation finance providing quantitative analytics, technology services and process management to lessors, investors, lenders and banks'
+metaDesc: 'Aerlytix is an analytics and technology solutions provider that offers a wide range of services to the aviation finance industry.'
 layout: 'layouts/home.html'
 hero:
   title: 'Bringing accuracy and clarity to your aviation investments'
