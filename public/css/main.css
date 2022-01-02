@@ -11723,7 +11723,7 @@ html p, html li, body p, body li {
 }
 
 .post__container {
-  width: 800px;
+  max-width: 800px;
 }
 
 .footer__main {

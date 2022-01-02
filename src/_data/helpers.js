@@ -21,6 +21,11 @@ module.exports = {
       return response;
     },
 
+    currentYear() {
+      const today = new Date();
+      return today.getFullYear();
+    },
+
     /**
    * Filters out the passed item from the passed collection
    * and randomises and limits them based on flags

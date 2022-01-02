@@ -14,8 +14,8 @@
 
 {# If the page’s Front Matter has specific metaTitle and/or metaDesc items, switch 
   them into the mix. #}
-{% if metaTitle %}
-  {% set pageTitle = metaTitle %}
+{% if metaDesc %}
+  {% set pageTitle = metaDesc + ' - ' + site.name %}
 {% endif %}
 
 {% if not metaDesc %}

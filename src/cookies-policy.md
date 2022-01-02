@@ -1,6 +1,6 @@
 ---
 header: 'Cookies Policy'
-metaDesc: 'Aerlytix Cookies Policy'
+metaDesc: 'Cookies Policy'
 summary: "Last updated January 1st, 2022"
 layout: 'layouts/page.html'
 headerType: 'blogPost'

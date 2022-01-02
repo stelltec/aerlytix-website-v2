@@ -1,6 +1,6 @@
 ---
 header: 'Privacy Policy'
-metaDesc: 'Aerlytix Privacy Policy'
+metaDesc: 'Privacy Policy'
 summary: "Last updated January 1st, 2022"
 layout: 'layouts/page.html'
 headerType: 'blogPost'
@@ -8,7 +8,7 @@ headerType: 'blogPost'
 
 ### Introduction
 
-Aerlytix respects your privacy and is committed to protecting your data. This privacy policy will inform you as to how we look after your data when you visit our website Aerlytix.com (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. This privacy policy should be read in conjunction with our [Cookies Policy](https://www.aerlytix.com/cookies-policy).
+Aerlytix respects your privacy and is committed to protecting your data. This privacy policy will inform you as to how we look after your data when you visit our website Aerlytix.com (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. This privacy policy should be read in conjunction with our [Cookies Policy](/cookies-policy).
 
 We will use your data only for the purposes and in the manner set forth below which describes the steps we take to ensure our processing of your data is in compliance with the General Data Protection Regulation ((EU) 2016/679) (GDPR) and any implementing legislation (Data Protection Laws).
 
@@ -30,9 +30,9 @@ This privacy policy is issued on behalf of Aerlytix so when we mention “Compan
 
 If you have any questions about this privacy policy or our privacy practices, please contact us in the following ways:
 
-Full name of legal entity: Aerlytix Limited
-Email address: info@aerlytix.com
-Postal address: Embassy House, Herbert Park Lane, Ballsbridge, Dublin 4, Ireland
+Full name of legal entity: Aerlytix Limited<br />
+Email address: [info@aerlytix.com](mailto:info@aerlytix.com)<br />
+Postal address: Embassy House, Herbert Park Lane, Ballsbridge, Dublin 4, Ireland<br />
 
 #### Changes to the privacy policy and your duty to inform us of changes
 
