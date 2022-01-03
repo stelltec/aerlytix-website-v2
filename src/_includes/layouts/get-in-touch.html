@@ -6,12 +6,50 @@
 
 {% block content %}
 
-  {% include "partials/page-header.html" %}
+  {# {% include "partials/page-header.html" %} #}
 
-  <article>
+  <article class="request-demo">
+    <div class="container">
+    <div class="row">
+    <div class="col-md-5 mb-5 align-items-center">
+      <h2 class="mb-5 pe-2">Get a live 1:1 demo and your questions answered with one of our team members.</h2>
+      <p class="mb-5">Booking a session with us we will cover:</p>
+      
+      <div class="col d-flex align-items-start mb-2">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.75em" height="1.75em" fill="currentColor" class="bi brand-color flex-shrink-0 bi-check2-circle me-3" viewBox="0 0 16 16">
+          <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
+          <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
+        </svg>
+        <div>          
+          <p>Get an overview of the Aerlytix platform</p>
+        </div>
+      </div>
 
-    <div class="container col-md-6 mb-5">
-    
+       <div class="col d-flex align-items-start mb-2">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.75em" height="1.75em" fill="currentColor" class="bi brand-color flex-shrink-0 bi-check2-circle me-3" viewBox="0 0 16 16">
+          <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
+          <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
+        </svg>
+        <div>
+          <p>Discuss your business goals with our product expert</p>
+        </div>
+      </div>
+
+       <div class="col d-flex align-items-start mb-2">
+        <svg xmlns="http://www.w3.org/2000/svg" width="1.75em" height="1.75em" fill="currentColor" class="bi brand-color flex-shrink-0 bi-check2-circle me-3" viewBox="0 0 16 16">
+          <path d="M2.5 8a5.5 5.5 0 0 1 8.25-4.764.5.5 0 0 0 .5-.866A6.5 6.5 0 1 0 14.5 8a.5.5 0 0 0-1 0 5.5 5.5 0 1 1-11 0z"/>
+          <path d="M15.354 3.354a.5.5 0 0 0-.708-.708L8 9.293 5.354 6.646a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l7-7z"/>
+        </svg>
+        <div>
+          <p>Learn about pricing options and plans</p>
+        </div>
+      </div>
+
+       <p class="mt-5">Once you complete the request form, a Aerlytix team member will reach out within 24 business hours.</p>
+
+    </div>
+
+    <div class="col-md-7 mb-5">
     <div class="card p-5 shadow-sm">
       <div class="w-100 mb-4 alert alert-success alert-dismissible fade show align-items-center" role="alert" id="success" style="display:none">
         <svg class="bi flex-shrink-0 me-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16" aria-label="Success:">
@@ -21,7 +59,7 @@
         <div>Your request has been sent successfully. We'll be in touch very soon!</div>
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
       </div>
-      <form class="row g-5" data-netlify="true" id="requestDemo">
+      <form class="row g-4" data-netlify="true" id="requestDemo">
         <div class="col-md-6">
           <label for="inputName" class="form-label">Name</label>
           <input name="name" type="text" class="form-control form-control-lg" id="inputName" required>
@@ -337,6 +375,8 @@
         document.getElementById('otherIndustry').style.display = style;
     });
 </script>
+      </div>
+      </div>
     </div> <!-- container -->
   </article>
 {% endblock %}

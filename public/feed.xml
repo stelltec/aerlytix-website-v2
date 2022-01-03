@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Aerlytix News</title>
 	<subtitle>A feed of the latest news about what we are doing.</subtitle>
-	<link href="https://aerlytix-2022.netlify.app/feed.xml" rel="self"/>
-	<link href="https://aerlytix-2022.netlify.app/"/>
+	<link href="https://www.aerlytix.com/feed.xml" rel="self"/>
+	<link href="https://www.aerlytix.com/"/>
 	<updated>2020-04-13T00:00:00Z</updated>
-	<id>https://aerlytix-2022.netlify.app</id>
+	<id>https://www.aerlytix.com</id>
 	<author>
     <name>Aerlytix</name>
     <email>info@aerlytix.com</email>
@@ -14,9 +14,9 @@
     
     <entry>
       <title>A Complete Guide to Wireframe Design</title>
-      <link href="https://aerlytix-2022.netlify.app/news/a-complete-guide-to-wireframe-design/"/>
+      <link href="https://www.aerlytix.com/news/a-complete-guide-to-wireframe-design/"/>
       <updated>2020-04-13T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/a-complete-guide-to-wireframe-design/</id>
+      <id>https://www.aerlytix.com/news/a-complete-guide-to-wireframe-design/</id>
       <content type="html"><![CDATA[
         <p>Placidis tamen. Amnem unda fores et nocent tellus. Ictu undis offensi nostra nempe dextra quod, illa causa expositum, dat. Cura rapta dum praepositam inhaesit, laeto sceleratus vicina utque. Annos nunc sumitur ignes ac nequit minanti.</p>
 <h2>Latus formam supplex dea ante cupies sanguisque</h2>
@@ -61,9 +61,9 @@
     
     <entry>
       <title>A Font for people with dyslexia</title>
-      <link href="https://aerlytix-2022.netlify.app/news/a-font-for-people-with-dyslexia/"/>
+      <link href="https://www.aerlytix.com/news/a-font-for-people-with-dyslexia/"/>
       <updated>2020-04-09T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/a-font-for-people-with-dyslexia/</id>
+      <id>https://www.aerlytix.com/news/a-font-for-people-with-dyslexia/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum <strong>verbis</strong>, fertur <em>fas</em> poplite cervix proximus ventis et. Regia ac gestu pugnacem actis, cum <a href="#murmurat-veros-tepescunt">illis</a>, et ungues ante mihi placet nomina relaxant circumstantes repagula non, speratque. Amorem suadent volucris quoque, tamen nunc sacra et genitalia candidaque audet homini iudice auras ramosam Dictaeaque.</p>
 <ol>
@@ -100,9 +100,9 @@
     
     <entry>
       <title>Why cross-cultural design really matters</title>
-      <link href="https://aerlytix-2022.netlify.app/news/why-cross-cultural-design-really-matters/"/>
+      <link href="https://www.aerlytix.com/news/why-cross-cultural-design-really-matters/"/>
       <updated>2020-04-01T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/why-cross-cultural-design-really-matters/</id>
+      <id>https://www.aerlytix.com/news/why-cross-cultural-design-really-matters/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum teneri dives, vota inarsit, numina qui mixto. Oculos quo vestro fero inrequieta magni. Ad inania pedes et volucrem, sub ex facti, nec huc curvamina! Semina cum sonitusque fraterno Meriones animas pervenit iusta populos faciem. Colebat et saepe!</p>
 <ol>
@@ -135,9 +135,9 @@
     
     <entry>
       <title>Laws of UX</title>
-      <link href="https://aerlytix-2022.netlify.app/news/laws-of-ux/"/>
+      <link href="https://www.aerlytix.com/news/laws-of-ux/"/>
       <updated>2020-03-23T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/laws-of-ux/</id>
+      <id>https://www.aerlytix.com/news/laws-of-ux/</id>
       <content type="html"><![CDATA[
         <p>Lorem <strong>markdownum illum</strong>: possem pectore trucis genitus volat de ictu reparet, repetenda translata tulit. Celanda sed. Contulerat flavum; tua versus patiensque dumque nemorum. Caput colla nomen aras vela tum favilla velle unica, venit poenaeque expertem in ligones huius et invenit libat <em>resupinus</em>.</p>
 <ul>
@@ -163,9 +163,9 @@
     
     <entry>
       <title>Design Thinking &amp; Understanding the Product Design Process</title>
-      <link href="https://aerlytix-2022.netlify.app/news/design-thinking-and-understanding-the-product-design-process/"/>
+      <link href="https://www.aerlytix.com/news/design-thinking-and-understanding-the-product-design-process/"/>
       <updated>2020-02-22T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/design-thinking-and-understanding-the-product-design-process/</id>
+      <id>https://www.aerlytix.com/news/design-thinking-and-understanding-the-product-design-process/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum purpura dolorem! Paterque gentis nam <strong>consilii</strong> temptanti comitum epulae hic iuvene inducta cava talia solebat iussit.</p>
 <blockquote>
@@ -196,9 +196,9 @@
     
     <entry>
       <title>How to create a remote usability test for fast, actionable insights</title>
-      <link href="https://aerlytix-2022.netlify.app/news/how-to-create-a-remote-usability-test-for-fast-actionable-insights/"/>
+      <link href="https://www.aerlytix.com/news/how-to-create-a-remote-usability-test-for-fast-actionable-insights/"/>
       <updated>2020-02-03T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/how-to-create-a-remote-usability-test-for-fast-actionable-insights/</id>
+      <id>https://www.aerlytix.com/news/how-to-create-a-remote-usability-test-for-fast-actionable-insights/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum tecta: sub candore removete cessit summum <a href="#adigitque-qua">laetitiae</a>? Per et est micantia nisi fato? Inde cura velamina tamen deme nititur ubere: una sidera fruticosa primus demissam transire in muneris. Inter est repugnat <a href="#medio-sine-quamvis">dempta</a>, sinu, quisque.</p>
 <blockquote>
@@ -245,9 +245,9 @@
     
     <entry>
       <title>10 Tips for Website Redesign in 2020</title>
-      <link href="https://aerlytix-2022.netlify.app/news/10-tips-for-website-redesign-in-2020/"/>
+      <link href="https://www.aerlytix.com/news/10-tips-for-website-redesign-in-2020/"/>
       <updated>2020-01-02T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/10-tips-for-website-redesign-in-2020/</id>
+      <id>https://www.aerlytix.com/news/10-tips-for-website-redesign-in-2020/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum <strong>verbis</strong>, fertur <em>fas</em> poplite cervix proximus ventis et. Regia ac gestu pugnacem actis, cum <a href="#murmurat-veros-tepescunt">illis</a>, et ungues ante mihi placet nomina relaxant circumstantes repagula non, speratque. Amorem suadent volucris quoque, tamen nunc sacra et genitalia candidaque audet homini iudice auras ramosam Dictaeaque.</p>
 <ol>
@@ -284,9 +284,9 @@
     
     <entry>
       <title>Making design tokens a single source of truth</title>
-      <link href="https://aerlytix-2022.netlify.app/news/making-design-tokens-a-single-source-of-truth/"/>
+      <link href="https://www.aerlytix.com/news/making-design-tokens-a-single-source-of-truth/"/>
       <updated>2019-12-21T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/making-design-tokens-a-single-source-of-truth/</id>
+      <id>https://www.aerlytix.com/news/making-design-tokens-a-single-source-of-truth/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum, bracchia iuvenis teneo, nec urget, iuvenum nec adusque. Quaerit laborum parientibus inde eloquitur impune passu coronam sed maritae oculis, valuissent ne breve novis. Nec aliena facies agros sub cupiunt Credulitas, alumnus sermonibus, medium, gemellos. Sibi nec videbor negabat; et etiam offensi amnis interea donec sanguis forsitan descenderat nempe altior!</p>
 <ol>
@@ -311,9 +311,9 @@
     
     <entry>
       <title>Typography tips for the web</title>
-      <link href="https://aerlytix-2022.netlify.app/news/typography-tips-for-the-web/"/>
+      <link href="https://www.aerlytix.com/news/typography-tips-for-the-web/"/>
       <updated>2019-12-04T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/typography-tips-for-the-web/</id>
+      <id>https://www.aerlytix.com/news/typography-tips-for-the-web/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum pectus neque! Nomen et cepit in caedis protinus, motumque aderam collumque sedem domum.</p>
 <ol>
@@ -342,9 +342,9 @@
     
     <entry>
       <title>How to test usability of websites remotely</title>
-      <link href="https://aerlytix-2022.netlify.app/news/how-to-test-usability-of-websites-remotely/"/>
+      <link href="https://www.aerlytix.com/news/how-to-test-usability-of-websites-remotely/"/>
       <updated>2019-12-03T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/how-to-test-usability-of-websites-remotely/</id>
+      <id>https://www.aerlytix.com/news/how-to-test-usability-of-websites-remotely/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum et quaeque nunc cum <em>Atlantiades</em> versis, valuit meos tumescere fateri in circa. Ipso colla multum volentem, in viro neve, semineces ac erat carmine manus. <em>Per</em> amat aut <strong>Thracesque semina</strong> meritus lacrimas scinditur et pro enim summis, probat gravi mare. Cuspide sustulit, secutis alte, muta tibi me o torum. Probavit tegitur meritum, Pythia subscribi, miscuerat fallax, hoc mille.</p>
 <blockquote>
@@ -369,9 +369,9 @@
     
     <entry>
       <title>Color Palette Generator</title>
-      <link href="https://aerlytix-2022.netlify.app/news/color-palette-generator/"/>
+      <link href="https://www.aerlytix.com/news/color-palette-generator/"/>
       <updated>2019-11-16T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/color-palette-generator/</id>
+      <id>https://www.aerlytix.com/news/color-palette-generator/</id>
       <content type="html"><![CDATA[
         <p>Lorem markdownum ait. Plaustrum gaudet: similis pulsarunt inmortalis multa cui et huic altera nil; non ingenio tormenta visa.</p>
 <blockquote>
@@ -404,9 +404,9 @@
     
     <entry>
       <title>Quick and simple image placeholder</title>
-      <link href="https://aerlytix-2022.netlify.app/news/quick-and-simple-image-placeholder/"/>
+      <link href="https://www.aerlytix.com/news/quick-and-simple-image-placeholder/"/>
       <updated>2019-09-28T00:00:00Z</updated>
-      <id>https://aerlytix-2022.netlify.app/news/quick-and-simple-image-placeholder/</id>
+      <id>https://www.aerlytix.com/news/quick-and-simple-image-placeholder/</id>
       <content type="html"><![CDATA[
         <p><em>Lorem markdownum</em> clamor, ver gemitus numen se dura mortalia inquit, sine telum durata licet teretes delphina, ex! Et genus. Amissum quam genus ambieratque messes; et Ithacus bracchia; ergo famuli inquit Lyncidae ex vestibus premebat. Rogis crimine nunc hae falsaque, dignus.</p>
 <ol>

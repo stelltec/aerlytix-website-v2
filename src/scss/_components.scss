@@ -1,0 +1,10 @@
+a {
+    color:var(--blue);
+}
+
+.btn {
+    &-primary {
+        background:var(--blue);
+        border-color: var(--blue);
+    }
+}
