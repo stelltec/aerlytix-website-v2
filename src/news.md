@@ -1,6 +1,6 @@
 ---
 title: 'Aerlytix News'
-header: "Aerlytix Latest News"
+header: "Latest Company Updates"
 layout: 'layouts/feed.html'
 pagination:
   data: collections.news
@@ -10,6 +10,3 @@ paginationPrevText: 'Newer posts'
 paginationNextText: 'Older posts'
 paginationAnchor: '#post-list'
 ---
-
-The latest articles from around the studio, demonstrating our design
-thinking, strategy and expertise.

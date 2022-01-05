@@ -2,6 +2,10 @@ body {
     // background: #f5f9fe; // For now we are going to drop this background color and stick to white. But this looks good.
 }
 
+p, li {
+    color:var(--grey);
+}
+
 .tags-list {
     padding-left: 0;
     li {
@@ -33,6 +37,9 @@ body {
         
         p, a {
             font-size: 1rem;
+        }
+        p {
+            color: white;
         }
         a {
             color: white;
@@ -92,10 +99,17 @@ body {
     line-height: 1.4;
 }
 
+.text-white {
+    .display-7 {
+        color: white;
+    }
+}
+
 .text-tag {
     text-transform: uppercase;
     font-size: .8rem;
     border: 1px solid white;
+    color:  white;
     display: inline-block;
     border-radius: 20px;
     padding-left: 8px;
@@ -106,7 +120,16 @@ body {
 
 .bg {
     &-light {
-        background-color: red;
+        background-color: var(--bg-grey) !important;
+    }
+    &-dark  {
+        background-color: var(--bg-dark) !important;
+    }
+    &-light-green {
+        background-color: var(--bg-light-green);
+    }
+    &-light-blue {
+        background-color: var(--bg-light-blue);
     }
 }
 

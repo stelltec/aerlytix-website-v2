@@ -6,14 +6,9 @@
             "url": "/solutions/lessors/"
         },
         {
-            "title": "Investors",
+            "title": "Investors & Lenders",
             "summary": "This is Technical Lease Management summary",
-            "url": "/solutions/investors/"
-        },
-        {
-            "title": "Banks and Lenders",
-            "summary": "This is Pricing & Trading summary",
-            "url": "/solutions/banks-and-lenders/"
+            "url": "/solutions/investors-and-lenders/"
         }
     ]
 }

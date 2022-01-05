@@ -48,11 +48,20 @@
     <link rel="mask-icon" href="https://www.aerlytix.com/images/safari-pinned-tab.svg" color="#2b5dc1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.aerlytix.com/images/favicon.ico">
 
-    <link rel="stylesheet" href="/css/main.css?2448-c9b2-e355" />
+    <link rel="stylesheet" href="/css/main.css?b1be-bf50-3778" />
     <link rel="alternate" type="application/rss+xml" href="https://www.aerlytix.com/feed.xml" />
       
     
      
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T9N2BPHEET"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-T9N2BPHEET');
+  </script>
   </head>
   <body>
     <div class="container">
@@ -94,7 +103,7 @@
         
                   
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown" aria-expanded="false">Products</a>
-              <ul class="dropdown-menu" aria-labelledby="dropdown04">
+              <ul class="dropdown-menu shadow-lg" aria-labelledby="dropdown04">
                 
                 <li><a class="dropdown-item" href="/products/analysis-and-risk-management/">Analysis &amp; Risk Management</a></li>
                 
@@ -116,7 +125,7 @@
         
                   
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown" aria-expanded="false">Solutions</a>
-              <ul class="dropdown-menu" aria-labelledby="dropdown04">
+              <ul class="dropdown-menu shadow-lg" aria-labelledby="dropdown04">
                 
                 <li><a class="dropdown-item" href="/solutions/lessors/">Lessors</a></li>
                 
@@ -130,15 +139,13 @@
         
                   
               <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown" aria-expanded="false">Company</a>
-              <ul class="dropdown-menu" aria-labelledby="dropdown04">
+              <ul class="dropdown-menu shadow-lg" aria-labelledby="dropdown04">
                 
                 <li><a class="dropdown-item" href="/company/about-us/">About Us</a></li>
                 
-                <li><a class="dropdown-item" href="/company/culture/">Culture</a></li>
+                <li><a class="dropdown-item" href="/company/contact-us/">Contact Us</a></li>
                 
                 <li><a class="dropdown-item" href="/company/faqs/">FAQ&#39;s</a></li>
-                
-                <li><a class="dropdown-item" href="/company/contact-us/">Contact Us</a></li>
                 
               </ul>
           
@@ -167,7 +174,6 @@
     <div class="row">
     <div class="col-md-5 mb-5 align-items-center">
       <h2 class="mb-5 pe-2">Get a live 1:1 demo and your questions answered with one of our team members.</h2>
-      <p class="mb-5">Booking a session with us we will cover:</p>
       
       <div class="col d-flex align-items-start mb-2">
         <svg xmlns="http://www.w3.org/2000/svg" width="1.75em" height="1.75em" fill="currentColor" class="bi brand-color flex-shrink-0 bi-check2-circle me-3" viewBox="0 0 16 16">
@@ -199,8 +205,6 @@
         </div>
       </div>
 
-       <p class="mt-5">Once you complete the request form, a Aerlytix team member will reach out within 24 business hours.</p>
-
     </div>
 
     <div class="col-md-7 mb-5">
@@ -211,7 +215,11 @@
           <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
         </svg>
         <div>Your request has been sent successfully. We'll be in touch very soon!</div>
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
+          <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+            <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+          </svg>
+        </button>
       </div>
       <form class="row g-4" data-netlify="true" id="requestDemo">
         <div class="col-md-6">
@@ -595,9 +603,7 @@
           
           <li class="nav-item mb-2"><a href="/solutions/lessors/" class="nav-link p-0">Lessors</a></li>
         
-          <li class="nav-item mb-2"><a href="/solutions/investors/" class="nav-link p-0">Investors</a></li>
-        
-          <li class="nav-item mb-2"><a href="/solutions/banks-and-lenders/" class="nav-link p-0">Banks and Lenders</a></li>
+          <li class="nav-item mb-2"><a href="/solutions/investors-and-lenders/" class="nav-link p-0">Investors &amp; Lenders</a></li>
         
         </ul>
       </div>
@@ -605,9 +611,8 @@
         <h6>Company</h6>
         <ul class="nav flex-column">
           <li class="nav-item mb-2"><a href="/company/about-us" class="nav-link p-0">About us</a></li>
-          <li class="nav-item mb-2"><a href="/company/culture" class="nav-link p-0">Culture</a></li>
-          <li class="nav-item mb-2"><a href="/company/faqs" class="nav-link p-0">FAQ'S</a></li>
           <li class="nav-item mb-2"><a href="/company/contact-us" class="nav-link p-0">Contact us</a></li>
+          <li class="nav-item mb-2"><a href="/company/faqs" class="nav-link p-0">FAQ'S</a></li>
         </ul>
       </div>
     </div>

@@ -11624,7 +11624,14 @@ textarea.form-control-lg {
 }
 /*# sourceMappingURL=bootstrap.min.css.map */
 :root {
-  --blue: #2B5DC1;
+  --blue: #2b5dc1;
+  --green: #42ba96;
+  --green-10: #e8f4f0;
+  --grey: #535353;
+  --bg-grey: #EDF0F0;
+  --bg-light-blue: #E9F0FB;
+  --bg-light-green: #EFFBF0;
+  --bg-dark: #252f4d;
 }
 
 :root {
@@ -11713,10 +11720,14 @@ textarea.form-control-lg {
 }
 html, body {
   font-family: "Archivo", sans-serif;
-  font-stretch: 103%;
+  font-stretch: 100%;
 }
 html p, html li, body p, body li {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+}
+
+p, li {
+  color: var(--grey);
 }
 
 .tags-list {
@@ -11739,6 +11750,9 @@ html p, html li, body p, body li {
 }
 .footer__main p, .footer__main a {
   font-size: 1rem;
+}
+.footer__main p {
+  color: white;
 }
 .footer__main a {
   color: white;
@@ -11787,10 +11801,15 @@ html p, html li, body p, body li {
   line-height: 1.4;
 }
 
+.text-white .display-7 {
+  color: white;
+}
+
 .text-tag {
   text-transform: uppercase;
   font-size: 0.8rem;
   border: 1px solid white;
+  color: white;
   display: inline-block;
   border-radius: 20px;
   padding-left: 8px;
@@ -11800,7 +11819,16 @@ html p, html li, body p, body li {
 }
 
 .bg-light {
-  background-color: red;
+  background-color: var(--bg-grey) !important;
+}
+.bg-dark {
+  background-color: var(--bg-dark) !important;
+}
+.bg-light-green {
+  background-color: var(--bg-light-green);
+}
+.bg-light-blue {
+  background-color: var(--bg-light-blue);
 }
 
 .brand-color {
@@ -11827,6 +11855,37 @@ a {
 .btn-primary {
   background: var(--blue);
   border-color: var(--blue);
+}
+.btn-close {
+  color: #fff;
+}
+
+.alert-success {
+  background-color: var(--green);
+  border-color: var(--green);
+  color: #fff;
+}
+.alert .btn-close {
+  color: white;
+  top: 10px;
+  right: 10px;
+  padding: 0;
+  width: 36px;
+  height: 36px;
+  background: none;
+}
+
+.icon__check--success {
+  fill: var(--green);
+}
+
+.feature-icon {
+  width: 3rem !important;
+  height: 3rem !important;
+  border-radius: 2.75rem !important;
+}
+.feature-icon--success {
+  background-color: var(--green-10);
 }
 
 .navbar {

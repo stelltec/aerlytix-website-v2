@@ -7,4 +7,44 @@ a {
         background:var(--blue);
         border-color: var(--blue);
     }
+    &-close {
+        color: #fff;
+    }
+}
+
+.alert {
+    &-success {
+        background-color: var(--green);
+        border-color: var(--green);
+        color: #fff;
+    }
+
+    .btn-close {
+        color: white;
+        top: 10px;
+        right: 10px;
+        padding: 0;
+        width: 36px;
+        height: 36px;
+        background: none;
+    }
+}
+
+
+.icon {
+    &__check {
+        &--success {
+            fill: var(--green);
+        }
+    }
+
+}
+
+.feature-icon {
+    width: 3rem !important;
+    height: 3rem !important;
+    border-radius: 2.75rem !important;
+    &--success {
+        background-color: var(--green-10);
+    }
 }

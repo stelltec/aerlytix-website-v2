@@ -60,16 +60,12 @@
                     "url": "/company/about-us/"
                 },
                 {
-                    "text": "Culture",
-                    "url": "/company/culture/"
+                    "text": "Contact Us",
+                    "url": "/company/contact-us/"
                 },
                 {
                     "text": "FAQ's",
                     "url": "/company/faqs/"
-                },
-                {
-                    "text": "Contact Us",
-                    "url": "/company/contact-us/"
                 }
             ]
         },
