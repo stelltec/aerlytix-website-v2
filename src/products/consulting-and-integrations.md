@@ -63,62 +63,78 @@ summary: "Competitive advantage through digital transformation, Software as the 
 
 <!-- End marketing section -->
 
-<article class="section__spacing-03 bg-light mt-5 mb-5 pt-5">
+<article class="section__spacing-03 mt-5 mb-5 pt-5">
 <div class="container">
 <h2 class="h1">And more...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
-        <div class="feature-icon bg-primary bg-gradient">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"></use></svg>
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
         </div>
         <h4>Reporting</h4>
         <p>BI and reporting implementations.</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon bg-primary bg-gradient">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"></use></svg>
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
         </div>
         <h4>Data Management</h4>
         <p>Data mining and data integrations.</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon bg-primary bg-gradient">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
         </div>
         <h4>Software</h4>
         <p>Software development (C++, Python, Typescript, Javascript).</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon bg-primary bg-gradient">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
         </div>
         <h4>DevOps</h4>
         <p>AI/Machine learning infrastructure.</p>
       </div>
     <div class="feature col">
-        <div class="feature-icon bg-primary bg-gradient">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
         </div>
         <h4>Analytics</h4>
         <p>Custom-built analytics and forecasting.</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon bg-primary bg-gradient">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
         </div>
         <h4>SSOT</h4>
         <p>Enable a single source of truth.</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon bg-primary bg-gradient">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
         </div>
         <h4>Integrations</h4>
         <p>Systems implementations and integrations.</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon bg-primary bg-gradient">
-          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
         </div>
         <h4>Excel add-ins</h4>
         <p>Seamless interconnection of the analysis engine to Excel</p>

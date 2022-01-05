@@ -2,6 +2,13 @@ body {
     // background: #f5f9fe; // For now we are going to drop this background color and stick to white. But this looks good.
 }
 
+.body- {
+    background:url(../images/pix-9-t.png) -20rem 0 no-repeat;
+    background-size: 170%;
+    background-blend-mode: color-burn;
+    // normal | multiply | screen | overlay | darken | lighten | color-dodge | color-burn | hard-light | soft-light | difference | exclusion | hue | saturation | color | luminosity
+}
+
 p, li {
     color:var(--grey);
 }
@@ -131,6 +138,9 @@ p, li {
     &-light-blue {
         background-color: var(--bg-light-blue);
     }
+    &-green {
+        background-color: var(--green);
+    }
 }
 
 .brand-color {
@@ -142,7 +152,7 @@ input, select, textarea {
     border-color: 1px solid black !important;
 }
 
-.request-demo {
+.request-demo-mt {
     padding-top:5rem;
 }
 

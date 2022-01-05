@@ -11628,7 +11628,7 @@ textarea.form-control-lg {
   --green: #42ba96;
   --green-10: #e8f4f0;
   --grey: #535353;
-  --bg-grey: #EDF0F0;
+  --bg-grey: #f4f6f8;
   --bg-light-blue: #E9F0FB;
   --bg-light-green: #EFFBF0;
   --bg-dark: #252f4d;
@@ -11724,6 +11724,12 @@ html, body {
 }
 html p, html li, body p, body li {
   font-size: 1.1rem;
+}
+
+.body- {
+  background: url(../images/pix-9-t.png) -20rem 0 no-repeat;
+  background-size: 170%;
+  background-blend-mode: color-burn;
 }
 
 p, li {
@@ -11830,6 +11836,9 @@ p, li {
 .bg-light-blue {
   background-color: var(--bg-light-blue);
 }
+.bg-green {
+  background-color: var(--green);
+}
 
 .brand-color {
   color: #2B5DC1;
@@ -11839,7 +11848,7 @@ input, select, textarea {
   border-color: 1px solid black !important;
 }
 
-.request-demo {
+.request-demo-mt {
   padding-top: 5rem;
 }
 
@@ -11880,9 +11889,7 @@ a {
 }
 
 .feature-icon {
-  width: 3rem !important;
-  height: 3rem !important;
-  border-radius: 2.75rem !important;
+  border-radius: 1rem !important;
 }
 .feature-icon--success {
   background-color: var(--green-10);
