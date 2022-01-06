@@ -11729,7 +11729,6 @@ html p, html li, body p, body li {
 .body- {
   background: url(../images/pix-9-t.png) -20rem 0 no-repeat;
   background-size: 170%;
-  background-blend-mode: color-burn;
 }
 
 p, li {
@@ -11893,6 +11892,26 @@ a {
 }
 .feature-icon--success {
   background-color: var(--green-10);
+}
+
+.carousel-team .row {
+  margin-left: 4rem;
+}
+.carousel-team .blockquote {
+  font-size: 2rem;
+}
+.carousel-team .blockquote-footer {
+  font-size: 1.25rem;
+}
+
+.careers-panel {
+  background: var(--blue) url(../images/map-pattern.svg) 0 0 repeat;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  color: white;
+}
+.careers-panel p {
+  color: white;
 }
 
 .navbar {
