@@ -12,6 +12,12 @@ a {
     }
 }
 
+.border {
+    &__blue {
+        border: 1px solid var(--bg-mid-blue);
+    }
+}
+
 .alert {
     &-success {
         background-color: var(--green);

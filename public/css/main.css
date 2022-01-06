@@ -11630,6 +11630,7 @@ textarea.form-control-lg {
   --grey: #535353;
   --bg-grey: #f4f6f8;
   --bg-light-blue: #E9F0FB;
+  --bg-mid-blue: #95AEE0;
   --bg-light-green: #EFFBF0;
   --bg-dark: #252f4d;
 }
@@ -11727,7 +11728,7 @@ html p, html li, body p, body li {
 }
 
 .body- {
-  background: url(../images/pix-9-t.png) -20rem 0 no-repeat;
+  background: url(../images/pix-12.png) -20rem 0 no-repeat;
   background-size: 170%;
 }
 
@@ -11866,6 +11867,10 @@ a {
 }
 .btn-close {
   color: #fff;
+}
+
+.border__blue {
+  border: 1px solid var(--bg-mid-blue);
 }
 
 .alert-success {
