@@ -11728,12 +11728,8 @@ html p, html li, body p, body li {
 }
 
 .body- {
-  background: url(../images/pix-12.png) -20rem 0 no-repeat;
-  background-size: 170%;
-}
-
-p, li {
-  color: var(--grey);
+  background: url(../images/pix-9-t.png) -20rem 0 no-repeat;
+  background-size: 160%;
 }
 
 .tags-list {
