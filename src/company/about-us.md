@@ -1,8 +1,25 @@
 ---
 title: "About Us"
-header: "About Us header"
-summary: "We are on a mission to simplify the complexities of aviation finance, building a more resilient, sustainable sector and transforming it from reactive cost-center to proactive value generator."
+header: "About Us"
+summary: "We are on a mission to simplify the complexities of aviation finance."
 ---
+
+<article class="pt-5 pb-5 mb-5">
+    <div class="container">
+        <div class="col-sm-6 col-lg-8 m-auto">
+            <p>Headquartered in Dublin, Ireland, Aerlytix was founded in 2016 to support a leading Aviation Services and Capital Management company.</p>
+            <p>Having assembled a team from the banking, technology, aviation and aircraft engineering world, the technical module of the platform was initially built to support asset-centric investment management decision process.</p>
+            <p>In 2020 the system further evolved into financing, trading and risk modules, thus creating a multi-layered decision support tool. The Aerlytix platform is now used by leading lessors and investors and has handled billions in aircraft transactions and leases to date. This includes in-depth technical asset analytics, driving asset investment decisions and optimising asset management outcomes.</p>
+        </div>
+    </div>
+</article>
+
+<article class="bg-light pb-5 pt-5 about-us__inception">
+    <div class="container">
+            <h2>Since our inception, we have built a strong brand and reputation as one of the fastest-growing aviation finance technology companies in Ireland by hiring the right talent, continuously innovating and enhancing our products and services, and building long term partnerships with our clients.</h2>
+        </div>
+    </div>
+</article>
 
 <article class="mt-5 mb-5">
 <div class="container">
@@ -54,14 +71,17 @@ summary: "We are on a mission to simplify the complexities of aviation finance, 
 </div>
 </article>
 
-<article class="theme-section__01 quotes my-5 py-5 bg-light">
+<article class="team__quotes my-5 py-5 bg-light">
 <div class="container" style="padding-bottom:6rem">
+<div class="intro pb-5 pt-5 col-8">
+    <h2>We are a team of 20 dedicated technologists and product people working extensibly on simplifying the complex processes of aviation finance.</h2>
+</div>
 <div id="carouselExampleDark" class="carousel carousel-team carousel-dark slide mt-5" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
@@ -161,8 +181,8 @@ summary: "We are on a mission to simplify the complexities of aviation finance, 
                   <img class="avatar avatar-circle" src="./assets/img/160x160/img4.jpg" alt="Image Description">
                 </div>
                 <div class="flex-grow-1 ms-3 ms-md-0">
-                  Sean Nicholson
-                  <span class="blockquote-footer-source"> - Data Analyst</span>
+                  Sean Garvey
+                  <span class="blockquote-footer-source"> - Senior Consultant</span>
                 </div>
               </div>
             </figcaption>
@@ -186,19 +206,8 @@ summary: "We are on a mission to simplify the complexities of aviation finance, 
 </div>
 </article>
 
-<article class="pt-5 pb-5 mb-5">
-    <div class="container">
-        <h2>Our history</h2>
-        <div class="mt-5">
-            <p>Headquartered in Dublin, Ireland, Aerlytix was founded in 2016 to support a leading Aviation Services and Capital Management company.</p>
-            <p>Having assembled a team from the banking, technology, aviation and aircraft engineering world, the technical module of the platform was initially built to support asset-centric investment management decision process.</p>
-            <p>In 2020 the system further evolved into financing, trading and risk modules, thus creating a multi-layered decision support tool. The Aerlytix platform is now used by leading lessors and investors and has handled billions in aircraft transactions and leases to date. This includes in-depth technical asset analytics, driving asset investment decisions and optimising asset management outcomes.</p>
-        </div>
-    </div>
-</article>
-
-<article class="careers-panel">
-      <div class="container">
+<article>
+      <div class="container careers-panel">
         <div class="row align-items-center">
           <div class="col-12 col-md">
             <!-- Heading -->
@@ -207,7 +216,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance, 
             </h3>
             <!-- Text -->
             <p class="fs-lg mb-5 mb-md-0">
-              Visit our linked in page and see what openings we have available.
+              Be a part of a fast-growing team that values teamwork, inclusivity and integrity.
             </p>
           </div>
           <div class="col-12 col-md-auto">

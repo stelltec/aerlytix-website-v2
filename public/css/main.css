@@ -11732,6 +11732,10 @@ html p, html li, body p, body li {
   background-size: 160%;
 }
 
+h2 {
+  line-height: 1.4;
+}
+
 .tags-list {
   padding-left: 0;
 }
@@ -11835,6 +11839,9 @@ html p, html li, body p, body li {
 .bg-green {
   background-color: var(--green);
 }
+.bg-blue {
+  background-color: var(--blue);
+}
 
 .brand-color {
   color: #2B5DC1;
@@ -11899,7 +11906,7 @@ a {
   margin-left: 4rem;
 }
 .carousel-team .blockquote {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .carousel-team .blockquote-footer {
   font-size: 1.25rem;
@@ -11909,10 +11916,27 @@ a {
   background: var(--blue) url(../images/map-pattern.svg) 0 0 repeat;
   padding-top: 5rem;
   padding-bottom: 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  border-radius: 1rem;
   color: white;
 }
 .careers-panel p {
   color: white;
+}
+
+.about-us__inception {
+  position: relative;
+}
+.about-us__inception--graph-1 {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+}
+.about-us__inception--graph-2 {
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
 }
 
 .navbar {

@@ -6,6 +6,9 @@ body {
     background:url(../images/pix-9-t.png) -20rem 0 no-repeat;
     background-size: 160%;
 }
+h2 {
+    line-height:1.4;
+}
 
 p, li {
     // color:var(--grey);
@@ -138,6 +141,9 @@ p, li {
     }
     &-green {
         background-color: var(--green);
+    }
+    &-blue {
+        background-color: var(--blue);
     }
 }
 
