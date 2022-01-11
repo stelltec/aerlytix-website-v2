@@ -11633,6 +11633,8 @@ textarea.form-control-lg {
   --bg-mid-blue: #95AEE0;
   --bg-light-green: #EFFBF0;
   --bg-dark: #252f4d;
+  --bg-dark-blue: #233F74;
+  --bg-turquoise: #47C0DD;
 }
 
 :root {
@@ -11842,6 +11844,12 @@ h2 {
 .bg-blue {
   background-color: var(--blue);
 }
+.bg-dark-blue {
+  background-color: var(--bg-dark-blue);
+}
+.bg-turquoise {
+  background-color: var(--bg-turquoise);
+}
 
 .brand-color {
   color: #2B5DC1;
@@ -11862,6 +11870,51 @@ input, select, textarea {
 }
 a {
   color: var(--blue);
+}
+
+.link-arrow {
+  color: white;
+}
+.link-arrow svg {
+  margin-left: 0;
+  transition: 0.2s;
+}
+.link-arrow:hover {
+  color: white;
+}
+.link-arrow:hover svg {
+  margin-left: 15px;
+}
+
+.products__icon {
+  margin-bottom: 5rem !important;
+}
+.products .border-top {
+  border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
+}
+
+.solutions .card {
+  min-height: 30rem;
+  color: white;
+}
+.solutions .card a {
+  color: white;
+}
+.solutions .card-body {
+  display: flex;
+  flex-direction: column;
+}
+.solutions .card-text {
+  flex-grow: 1;
+}
+.solutions__investors {
+  background: #2B5DC1 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
+}
+.solutions__lessors {
+  background: #233F74 url(../images/lessors-illustration.svg) 50% -4rem no-repeat;
+}
+.solutions .border-top {
+  border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
 }
 
 .btn-primary {
@@ -11927,11 +11980,18 @@ a {
 
 .about-us__inception {
   position: relative;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.about-us__inception .container {
+  position: relative;
+  z-index: 1;
 }
 .about-us__inception--graph-1 {
   position: absolute;
-  top: 0.5rem;
-  left: 0.5rem;
+  top: 2rem;
+  left: 2rem;
+  z-index: 0;
 }
 .about-us__inception--graph-2 {
   position: absolute;

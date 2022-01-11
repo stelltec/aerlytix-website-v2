@@ -145,6 +145,12 @@ p, li {
     &-blue {
         background-color: var(--blue);
     }
+    &-dark-blue {
+        background-color: var(--bg-dark-blue);
+    }
+    &-turquoise {
+        background-color: var(--bg-turquoise);
+    }
 }
 
 .brand-color {

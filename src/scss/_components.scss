@@ -2,6 +2,62 @@ a {
     color:var(--blue);
 }
 
+.link-arrow {
+    color: white;
+    svg {
+        margin-left:0;
+        transition: 0.2s;
+    }
+
+    &:hover {
+        color: white;
+        svg {
+            margin-left:15px;
+        }
+    }
+}
+
+.products {
+    &__icon {
+        margin-bottom: 5rem !important;
+    }
+    .border-top {
+        border-top: 1px solid rgba(255,255,255, .4) !important;
+    }
+}
+
+.solutions {
+    .card {
+        min-height: 30rem;
+        color: white;
+
+        a {
+            color: white;
+        }
+
+        &-body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        &-text {
+            flex-grow: 1;
+        }
+    }
+
+    &__investors {
+        background: #2B5DC1 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
+    }
+
+    &__lessors {
+        background: #233F74 url(../images/lessors-illustration.svg) 50% -4rem no-repeat;
+    }
+
+    .border-top {
+        border-top: 1px solid rgba(255,255,255, .4) !important;
+    }
+}
+
 .btn {
     &-primary {
         background:var(--blue);
@@ -85,11 +141,19 @@ a {
 .about-us {
     &__inception {
         position:relative;
+        padding-top: 6rem;
+        padding-bottom: 6rem;
+
+        .container {
+            position:relative;
+            z-index:1;
+        }
 
         &--graph-1 {
             position: absolute;
-            top: .5rem;
-            left: .5rem;
+            top: 2rem;
+            left: 2rem;
+            z-index:0;
         }
 
         &--graph-2 {
