@@ -1,0 +1,30 @@
+
+<svg width="1941px" height="908px" viewBox="0 0 1941 908" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-yi2lygmvpy-1" points="-6.00358571e-15 907.285909 1939.84901 585.487161 1939.84901 0 -1.13686838e-13 0"></polygon>
+        <radialGradient cx="59.271552%" cy="45.3867543%" fx="59.271552%" fy="45.3867543%" r="55.5564784%" gradientTransform="translate(0.592716,0.453868),scale(0.577084,1.000000),rotate(-54.780800),translate(-0.592716,-0.453868)" id="radialGradient-yi2lygmvpy-3">
+            <stop stop-color="#F0F3F7" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="15.2137926%" y1="37.4327501%" x2="74.6386208%" y2="74.0102777%" id="linearGradient-yi2lygmvpy-4">
+            <stop stop-color="#E2EBF7" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="99.8589561%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.1804194%" y1="21.5390395%" x2="129.101652%" y2="104.672427%" id="linearGradient-yi2lygmvpy-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DCE8F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card-11" transform="translate(0.646276, 0.232473)">
+            <mask id="mask-yi2lygmvpy-2" fill="white">
+                <use xlink:href="#path-yi2lygmvpy-1"></use>
+            </mask>
+            <g id="Path-2"></g>
+            <polygon id="Path" fill="url(#radialGradient-yi2lygmvpy-3)" fill-rule="nonzero" mask="url(#mask-yi2lygmvpy-2)" points="1698.07372 155.767527 -221.370885 155.767527 -221.370885 1263.44753 1698.07372 1263.44753"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-yi2lygmvpy-4)" fill-rule="nonzero" mask="url(#mask-yi2lygmvpy-2)" points="2037.21372 88.7265266 1435.26372 -258.823473 772.117692 901.001122 1374.07769 1248.54812"></polygon>
+            <polygon id="Path-Copy" fill="url(#linearGradient-yi2lygmvpy-5)" fill-rule="nonzero" mask="url(#mask-yi2lygmvpy-2)" points="1287.58511 0 523.263724 -63.8234734 19.0537242 809.460527 621.013724 1157.00753"></polygon>
+        </g>
+    </g>
+</svg>
