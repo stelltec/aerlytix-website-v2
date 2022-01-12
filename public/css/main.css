@@ -11730,8 +11730,8 @@ html p, html li, body p, body li {
 }
 
 .body- {
-  background: url(../images/pix-9-t.png) -20rem 0 no-repeat;
-  background-size: 160%;
+  background: url(../images/pix-20.png) -8.5rem 0 no-repeat;
+  background-size: 150%;
 }
 
 h2 {
@@ -12026,6 +12026,7 @@ a {
   border-radius: 4px;
   padding-top: 0.45rem;
   padding-bottom: 0.45rem;
+  background: white;
 }
 .navbar .navbar-toggler {
   border: 1px solid #000;
