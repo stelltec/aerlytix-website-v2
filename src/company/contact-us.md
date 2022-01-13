@@ -5,8 +5,8 @@ header: "Contact Us"
 ---
 
 <article>
-<div class="container col-md-8">
-    <div class="row row-cols-1 row-cols-md-2 mb-3 text-center">
+<div class="container col-md-12">
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col mb-4">
         <div class="card h-100 mb-4 pt-5 pb-5 rounded-3 shadow-sm">
             <h3>Email us:</h3>
@@ -37,7 +37,7 @@ header: "Contact Us"
             </p>
         </div>
       </div>
-      <div class="col mb-4">
+      <div class="col-md-12 mb-4">
         <div class="card h-100 mb-4 pt-5 pb-5 rounded-3 shadow-sm">
             <h3>Visit us:</h3>
             <p>We are at the epicenter or Aviation Finance</p>

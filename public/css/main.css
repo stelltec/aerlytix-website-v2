@@ -11729,9 +11729,21 @@ html p, html li, body p, body li {
   font-size: 1.1rem;
 }
 
+body {
+  animation: fadein 2s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 .body- {
-  background: url(../images/pix-20.png) -8.5rem 0 no-repeat;
-  background-size: 150%;
+  background: url(../images/pix-20.png) 20% 0 no-repeat;
+  background-size: 2500px;
 }
 
 h2 {
@@ -11816,8 +11828,8 @@ h2 {
 .text-tag {
   text-transform: uppercase;
   font-size: 0.8rem;
-  border: 1px solid white;
-  color: white;
+  border: 1px solid var(--blue);
+  color: var(--blue);
   display: inline-block;
   border-radius: 20px;
   padding-left: 8px;
@@ -11872,6 +11884,16 @@ a {
   color: var(--blue);
 }
 
+.header__common {
+  padding: 10rem 0;
+  margin-bottom: 5rem;
+  background: #F6F8FE url(../images/aviation-map.svg) 50% -3rem no-repeat;
+  background-size: 2000px;
+}
+.header__blog-post {
+  padding: 4rem 0;
+}
+
 .link-arrow {
   color: white;
 }
@@ -11886,6 +11908,10 @@ a {
   margin-left: 15px;
 }
 
+.products {
+  background: url(../images/engine-outline.svg) 90% 2rem no-repeat;
+  background-size: 50rem;
+}
 .products__icon {
   margin-bottom: 5rem !important;
 }
@@ -11893,6 +11919,9 @@ a {
   border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
 }
 
+.solutions {
+  background: url(../images/pattern-home.svg) 90% 2rem no-repeat, url(../images/pattern-home.svg) 2% 100% no-repeat;
+}
 .solutions .card {
   min-height: 30rem;
   color: white;
@@ -11917,6 +11946,9 @@ a {
   border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
 }
 
+.btn {
+  border-radius: 10px;
+}
 .btn-primary {
   background: var(--blue);
   border-color: var(--blue);
@@ -11999,9 +12031,25 @@ a {
   right: 2rem;
 }
 
+.dropdown-menu .dropdown-item {
+  padding: 0.325rem 1rem;
+}
+
+.section__product svg {
+  margin: auto;
+}
+.section__product .card {
+  border: none;
+}
+.section__spacing-3 {
+  padding: 5rem;
+}
+
 .navbar {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #f0f0f0;
+  background: white;
 }
 .navbar .navbar-nav {
   margin: auto;
@@ -12021,9 +12069,9 @@ a {
   opacity: 0.8;
 }
 .navbar .navbar__feature {
-  border: 1px solid #000;
+  border: 2px solid #000;
   color: #000;
-  border-radius: 4px;
+  border-radius: 10px;
   padding-top: 0.45rem;
   padding-bottom: 0.45rem;
   background: white;
