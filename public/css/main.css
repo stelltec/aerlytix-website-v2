@@ -11689,6 +11689,18 @@ textarea.form-control-lg {
   --bs-body-bg:#fff ;
 }
 
+.ac__mt-150 {
+  margin-top: 8rem;
+}
+.ac__mt-300 {
+  margin-top: 16rem;
+}
+
+@media (max-width: 575.98px) {
+  .ac__mt-150, .ac__mt-300 {
+    margin-top: 0rem;
+  }
+}
 .rounded-4 {
   border-radius: 0.35rem;
 }

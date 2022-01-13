@@ -173,7 +173,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
     <div class="carousel-item">
       <div class="row align-items-md-center">
         <div class="col-md-4 d-none d-md-block">
-          <img class="img-fluid rounded-2" src="/images/team/sean-garvey-01.jpg" alt="Sean Garvey Photo">
+          <img class="img-fluid rounded-6" src="/images/team/sean-garvey-01.jpg" alt="Sean Garvey Photo">
         </div>
         <!-- End Col -->
         <div class="col-md-7">
