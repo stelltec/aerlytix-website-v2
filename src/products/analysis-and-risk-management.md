@@ -1,5 +1,5 @@
 ---
-title: 'Analysis and Risk Management'
+title: 'Analysis & Risk Management'
 header: 'Risk Management'
 summary: 'Manage risk, improve decision making and simplify processes and controls.'
 ---

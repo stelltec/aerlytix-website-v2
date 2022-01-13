@@ -1,5 +1,5 @@
 ---
-title: "Maintenance and Lease Management"
+title: "Maintenance & Lease Management"
 header: "Manage exposure at all levels on indivisual asset or portfolio basis"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Investors and Lenders"
+title: "Investors & Lenders"
 header: "Better-Informed Aviation Investments"
 summary: "Simplifying the complexities of aviation finance and investments"
 ---
