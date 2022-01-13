@@ -5,12 +5,17 @@ a {
 .header {
     &__common {
         padding: 10rem 0;
-        margin-bottom: 5rem;
+        margin-bottom: 4rem;
         background:#F6F8FE url(../images/aviation-map.svg) 50% -3rem no-repeat;
         background-size: 2000px;
     }
     &__blog-post {
         padding: 4rem 0;
+        text-align: center;
+
+        a {
+            color: var(--blue);
+        }
     } 
 }
 
