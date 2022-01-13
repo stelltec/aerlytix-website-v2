@@ -98,7 +98,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
     <div class="carousel-item active" data-bs-interval="10000">
       <div class="row align-items-md-center">
         <div class="col-md-4 d-none d-md-block">
-          <img class="img-fluid rounded-2" src="https://placeholder.pics/svg/400x400" alt="Image Description">
+          <img class="img-fluid rounded-6" src="/images/team/amanda-cifuente-01.jpg" alt="Amanda Cifuente Photo">
         </div>
         <!-- End Col -->
         <div class="col-md-7">
@@ -107,9 +107,6 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
             <blockquote class="blockquote blockquote-lg">" Teamwork is the ability to work together toward a common vision. The ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results. "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
-                <div class="flex-shrink-0 d-md-none">
-                  <img class="avatar avatar-circle" src="./assets/img/160x160/img4.jpg" alt="Image Description">
-                </div>
                 <div class="flex-grow-1 ms-3 ms-md-0">
                   Amanda Cifuentes
                   <span class="blockquote-footer-source"> - Scrum Master</span>
@@ -125,7 +122,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
     <div class="carousel-item" data-bs-interval="2000">
       <div class="row align-items-md-center">
         <div class="col-md-4 d-none d-md-block">
-          <img class="img-fluid rounded-2" src="https://placeholder.pics/svg/400x400" alt="Image Description">
+          <img class="img-fluid rounded-6" src="/images/team/shane-callahan-01.jpg" alt="Shane Callahan Photo">
         </div>
         <!-- End Col -->
         <div class="col-md-7">
@@ -134,9 +131,6 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
             <blockquote class="blockquote blockquote-lg">" The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don’t play together, the club won’t be worth a dime. "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
-                <div class="flex-shrink-0 d-md-none">
-                  <img class="avatar avatar-circle" src="./assets/img/160x160/img4.jpg" alt="Image Description">
-                </div>
                 <div class="flex-grow-1 ms-3 ms-md-0">
                   Shane Callahan
                   <span class="blockquote-footer-source"> - Frontend Engineer</span>
@@ -179,7 +173,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
     <div class="carousel-item">
       <div class="row align-items-md-center">
         <div class="col-md-4 d-none d-md-block">
-          <img class="img-fluid rounded-2" src="https://placeholder.pics/svg/400x400" alt="Image Description">
+          <img class="img-fluid rounded-2" src="/images/team/sean-garvey-01.jpg" alt="Sean Garvey Photo">
         </div>
         <!-- End Col -->
         <div class="col-md-7">
