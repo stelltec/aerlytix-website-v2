@@ -12044,9 +12044,11 @@ a {
 }
 .section__product .card {
   border: none;
+  background: url(../images/icon-circle-electro.svg) 5.2rem 0.3rem no-repeat;
+  padding: 7.2rem 0;
 }
 .section__spacing-3 {
-  padding: 5rem;
+  padding: 3rem;
 }
 
 .navbar {
