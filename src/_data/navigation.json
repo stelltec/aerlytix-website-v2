@@ -10,20 +10,20 @@
             "url": "",
             "subitems": [
                 {
-                    "text": "Analysis & Risk Management",
-                    "url": "/products/analysis-and-risk-management/"
+                    "text": "Pricing & Trading",
+                    "url": "/products/pricing-and-trading/"
                 },
                 {
                     "text": "Maintenance & Lease Management",
                     "url": "/products/maintenance-and-lease-management/"
                 },
                 {
-                    "text": "Pricing & Trading",
-                    "url": "/products/pricing-and-trading/"
-                },
-                {
                     "text": "Commercial Asset Management",
                     "url": "/products/commercial-asset-management/"
+                },
+                {
+                    "text": "Analysis & Risk Management",
+                    "url": "/products/analysis-and-risk-management/"
                 },
                 {
                     "text": "Asset Tracker",

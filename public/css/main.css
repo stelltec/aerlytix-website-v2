@@ -11762,7 +11762,7 @@ h2 {
 }
 
 .footer__main {
-  background: #2B5DC1;
+  background: var(--bg-dark-blue);
   color: white;
 }
 .footer__main h6 {
@@ -11787,7 +11787,7 @@ h2 {
   padding-right: 2rem;
 }
 .footer__copyright {
-  border-top: 1px solid #2051B2;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .tags-list a {
@@ -12044,8 +12044,7 @@ a {
 }
 .section__product .card {
   border: none;
-  background: url(../images/icon-circle-electro.svg) 5.2rem 0.3rem no-repeat;
-  padding: 7.2rem 0;
+  padding: 2rem 0;
 }
 .section__spacing-3 {
   padding: 3rem;

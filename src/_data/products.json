@@ -1,9 +1,9 @@
 {
     "items": [
         {
-            "title": "Analysis & Risk Management",
-            "summary": "This is Analysis & Risk Management summary",
-            "url": "/products/analysis-and-risk-management/"
+            "title": "Pricing & Trading",
+            "summary": "User friendly, fast data input interface to run instant asset or portfolio pricing analysis",
+            "url": "/products/pricing-and-trading/"
         },
         {
             "title": "Maintenance & Lease Management",
@@ -11,14 +11,14 @@
             "url": "/products/maintenance-and-lease-management/"
         },
         {
-            "title": "Pricing & Trading",
-            "summary": "User friendly, fast data input interface to run instant asset or portfolio pricing analysis",
-            "url": "/products/pricing-and-trading/"
-        },
-        {
             "title": "Commercial Asset Management",
             "summary": "To assess commercial opportunities and manage risk appropriately",
             "url": "/products/commercial-asset-management/"
+        },
+        {
+            "title": "Analysis & Risk Management",
+            "summary": "This is Analysis & Risk Management summary",
+            "url": "/products/analysis-and-risk-management/"
         },
         {
             "title": "Asset Tracker",
