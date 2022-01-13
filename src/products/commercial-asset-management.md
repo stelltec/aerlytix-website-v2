@@ -99,7 +99,7 @@ header: 'Optimise asset lifecycle, operations and performance management'
 <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">Lease Amendments</h2>
+      <h2 class="h1">Lease Structuring and Amendments</h2>
       <p class="display-7">Create unlimited amendment scenarios of existing contracted leases, instant impact analysis of PBH terms.</p>
     </div>
     <div class="card col-md-5">
@@ -197,7 +197,7 @@ header: 'Optimise asset lifecycle, operations and performance management'
 </svg>
         </div>
         <h4>Reporting</h4>
-        <p>Full reporting suite with intuitive and easy charting.</p>
+        <p>Integrate actual historical asset cashflows for lifetime reporting.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -205,8 +205,8 @@ header: 'Optimise asset lifecycle, operations and performance management'
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>CMS Connection</h4>
-        <p>Multi-tranched debt structures for levered pricing.</p>
+        <h4>CMS Connectivity</h4>
+        <p>Integration to any in-house or external CMS solutions.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -214,25 +214,7 @@ header: 'Optimise asset lifecycle, operations and performance management'
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>CRM Connection</h4>
-        <p>Perform detailed levered IRR & NPV analysis.</p>
-      </div>
-      <div class="feature col">
-        <div class="feature-icon feature-icon--success">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
-</svg>
-        </div>
-        <h4>Contracts</h4>
-        <p>Flexible UI enables pricing of external aircraft in minutes.</p>
-      </div>
-    <div class="feature col">
-        <div class="feature-icon feature-icon--success">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
-</svg>
-        </div>
-        <h4>Invoicing</h4>
+        <h4>CRM Integration</h4>
         <p>Track opportunities evolution with integration to any CRM solutions.</p>
       </div>
       <div class="feature col">
@@ -241,8 +223,26 @@ header: 'Optimise asset lifecycle, operations and performance management'
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
+        <h4>Contract Monitoring</h4>
+        <p>Breakdown of data on each account, discrepancies and terms monitor.</p>
+      </div>
+    <div class="feature col">
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
+        </div>
+        <h4>Invoicing Integration</h4>
+        <p>Streamline workflow through connected processes.</p>
+      </div>
+      <div class="feature col">
+        <div class="feature-icon feature-icon--success">
+          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+</svg>
+        </div>
         <h4>Automation</h4>
-        <p>Forecast aircraft NBV for economic useful lives and residual values.</p>
+        <p>Automated processes to eliminate data silos and drive efficiency.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -251,7 +251,7 @@ header: 'Optimise asset lifecycle, operations and performance management'
 </svg>
         </div>
         <h4>Reconciliations</h4>
-        <p>Perform P&L impact analysis on maintenance and lease strategies.</p>
+        <p>Credits and Adjustments tracking through BI tools.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -259,8 +259,8 @@ header: 'Optimise asset lifecycle, operations and performance management'
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>Re/Negotiations</h4>
-        <p>Instant view of changes impact to the MR and EOL compensation cashflows.</p>
+        <h4>Real-time Re/Negotiations</h4>
+        <p>Running complex calculations across a very large number of scenarios.</p>
       </div>
     </div>
 </div>

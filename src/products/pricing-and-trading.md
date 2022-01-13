@@ -125,7 +125,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Compare opportunities</h2>
-      <p class="display-7">"Rack n' stack" asset and portfolio opportunities, cashflow composition and maintenance event scenarios comparison.</p>
+      <p class="display-7">"Rack n' stack" opportunities, cashflow composition and maintenance event scenarios comparison.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -207,7 +207,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>CRM Connection</h4>
+        <h4>CRM Connectivity</h4>
         <p>Track opportunities evolution with integration to any CRM solutions.</p>
       </div>
       <div class="feature col">
@@ -225,7 +225,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>P &amp; L</h4>
+        <h4>P &amp; L Impact Analysis</h4>
         <p>Perform P&L impact analysis on maintenance and lease strategies.</p>
       </div>
       <div class="feature col">

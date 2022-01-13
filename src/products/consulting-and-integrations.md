@@ -1,7 +1,7 @@
 ---
 title: "Consulting & Integrations"
 header: "Consultancy and Integrations"
-summary: "Competitive advantage through digital transformation, Software as the greatest enabler. You are the driver."
+summary: " Our teams are specialists at delivering modern ways of working with data and analytics – from design ideas through to operation."
 ---
 
 <!-- Start marketing section -->
@@ -209,7 +209,7 @@ summary: "Competitive advantage through digital transformation, Software as the 
 </svg>
         </div>
         <h4>DevOps</h4>
-        <p>AI/Machine learning infrastructure.</p>
+        <p>AI/Machine learning infrastructure, reengineering & migration.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon feature-icon--success">
