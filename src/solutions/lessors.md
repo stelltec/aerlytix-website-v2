@@ -59,7 +59,7 @@ summary: "Maintain a competitive advantage through real-time data analytics and 
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
-      <h2 class="h1">Connection</h2>
+      <h2 class="h1">Connectivity</h2>
       <p class="display-7">Aerlytix platform brings technical, commercial, finance and risk inputs together to ensure coordinated outcomes through one centralised infrastructure, making the most complex investments a simple matter.</p>
     </div>
     <div class="card col-md-5 order-md-1">
