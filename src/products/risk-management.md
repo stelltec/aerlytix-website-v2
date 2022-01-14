@@ -90,7 +90,7 @@ summary: 'Manage risk, improve decision making and simplify processes and contro
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Risk-Adjusted Pricing</h2>
-      <p class="display-7">Introduce risk-adjusted valuation benchmarks by combining asset exposures with lessee credit ratings.</p>
+      <p class="display-7">Apply risk-adjusted pricing from Aerlytix credit models and stress test specific exposures on individual asset or across a portfolio.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
