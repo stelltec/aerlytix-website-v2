@@ -38,15 +38,15 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
 <h2>Our core values</h2>
 <div class="row mt-5">
       <div class="col-lg-4">
-        <h3>Transformative</h3>
+        <h4>Transformative</h4>
         <p>We strive to shape future processes and decision-making within the industry by building experiences that transform, bring clarity and enhances the way things are done.</p>
       </div>
       <div class="col-lg-4">
-        <h3>Knowledgeable</h3>
+        <h4>Knowledgeable</h4>
         <p>We know Aviation and we understand the nuances and complexities of it. We have built an incredible team in a number of areas to develop powerful and efficient solutions.</p>
       </div>
       <div class="col-lg-4">
-        <h3>Customer-centric</h3>
+        <h4>Customer-centric</h4>
         <p>Building specialist technology for a nuanced industry requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to spec new functionality as client needs evolve.</p>
       </div>
     </div>
