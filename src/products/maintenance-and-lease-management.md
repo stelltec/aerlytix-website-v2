@@ -1,6 +1,6 @@
 ---
 title: "Maintenance & Lease Management"
-header: "Manage exposure at all levels on indivisual asset or portfolio basis"
+header: "Manage exposures at all levels on indivisual asset or portfolio basis"
 ---
 
 <!-- Start marketing section -->

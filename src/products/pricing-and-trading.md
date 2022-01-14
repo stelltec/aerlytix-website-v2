@@ -9,8 +9,8 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">Asset Purchase & Trading</h2>
-      <p class="display-7">Manage asset purchase and trading efforts efficiently and collaboratively through a centralized blotter.</p>
+      <h2 class="h1">Acquisitions & Trading</h2>
+      <p class="display-7">Manage asset origination and trading efforts efficiently and collaboratively through a centralized blotter.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">

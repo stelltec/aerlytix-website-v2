@@ -32,53 +32,24 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
 </svg>
 </article>
 
-<article class="mt-5 mb-5">
+<article class="my-5 py-5">
 <div class="container">
 
-<div class="row align-items-center">
-          <div class="col-lg-5 col-md-5 text-center text-md-start mb-5 mb-md-0">
-            <h2 class="mb-3">Our Values</h2>
-            <p class="text-muted mb-4 pb-2 pe-5">Principles we live by guiding us to build the best products and services for our clients</p>
-          </div>
-          <div class="col-lg-7 col-md-7 bg-position-center bg-repeat-0" style="background-image: url(img/demo/business-consulting/services/bg-shape.svg);">
-            <div class="mx-auto">
-              <div class="row align-items-center">
-                <div class="col-sm-6">
-                  <div class="bg-light rounded-3 p-4 mb-4">
-                    <h3 class="h4 mb-2">Transformative</h3>
-                    <p class="fs-sm">We strive to shape future processes and decision-making within the industry by building experiences that transform, bring clarity and enhances the way things are done.</p>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="bg-light rounded-3 p-4 mb-4">
-                    <h3 class="h4 mb-2">Knowledgeable</h3>
-                    <p class="fs-sm">We know Aviation and we understand the nuances and complexities of it. We have built an incredible team in a number of areas to develop powerful and efficient solutions.</p>
-                  </div>
-                  <div class="bg-light rounded-3 p-4 mb-4">
-                    <h3 class="h4 mb-2">Customer-centric</h3>
-                    <p class="fs-sm">Building specialist technology for a nuanced industry requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to spec new functionality as client needs evolve.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-<!-- <h2>Our core values</h2>
+<h2>Our core values</h2>
 <div class="row mt-5">
       <div class="col-lg-4">
         <h3>Transformative</h3>
-        <p>We build experiences that transform, bring clarity and enhances the way things are done. We challenge the industry's status quo to fully realize the transformative potential of technology.</p>
+        <p>We strive to shape future processes and decision-making within the industry by building experiences that transform, bring clarity and enhances the way things are done.</p>
       </div>
       <div class="col-lg-4">
         <h3>Knowledgeable</h3>
         <p>We know Aviation and we understand the nuances and complexities of it. We have built an incredible team in a number of areas to develop powerful and efficient solutions.</p>
       </div>
       <div class="col-lg-4">
-        <h3>Customer Centric</h3>
-        <p>Everything we do, we put at the forefront our customers and clients needs. We strive to understand every detail or their business to provide empowering and enriching solutions to enable our clients' strategic positioning in the market.</p>
+        <h3>Customer-centric</h3>
+        <p>Building specialist technology for a nuanced industry requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to spec new functionality as client needs evolve.</p>
       </div>
-    </div>-->
+    </div>
 </div>
 </article>
 
