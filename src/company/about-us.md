@@ -9,14 +9,14 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
         <div class="col-sm-6 col-lg-8 m-auto">
             <p>Headquartered in Dublin, Ireland, Aerlytix was founded in 2016 to support a leading Aviation Services and Capital Management company.</p>
             <p>Having assembled a team from the banking, technology, aviation and aircraft engineering world, the technical module of the platform was initially built to support asset-centric investment management decision process.</p>
-            <p>In 2020 the system further evolved into financing, trading and risk modules, thus creating a multi-layered decision support tool. The Aerlytix platform is now used by leading lessors, investors and has handled billions in aircraft transactions and leases to date. This includes in-depth technical asset analytics, driving asset investment decisions and optimising asset management outcomes.</p>
+            <p>In 2020 the system further evolved into financing, trading and risk modules, thus creating a multi-layered decision support tool. The Aerlytix platform is now used by leading lessors & investors, handling billions in aircraft transactions and leases to date.</p>
         </div>
     </div>
 </article>
 
 <article class="about-us__inception bg-dark-blue text-white">
     <div class="container">
-            <h2>Since our inception, we have built a strong brand and reputation as one of the fastest-growing aviation finance technology companies in Ireland by hiring the right talent, continuously innovating and enhancing our products and services, and building long term partnerships with our clients.</h2>
+            <h2>As one of the fastest growing aviation technology companies in Ireland, we have built a reputation as a leading high-end SaaS product developer by hiring the right talent and building long term partnerships with our clients.</h2>
     </div>
     <svg class="about-us__inception--graph-1" width="200" height="180" viewBox="0 0 467 362" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="13" cy="109" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="13" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="13" cy="301" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="109" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="157" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="301" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="349" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="61" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="157" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="160" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/>
@@ -46,7 +46,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
                 <div class="col-sm-6">
                   <div class="bg-light rounded-3 p-4 mb-4">
                     <h3 class="h4 mb-2">Transformative</h3>
-                    <p class="fs-sm">We build experiences that transform, bring clarity and enhances the way things are done. We challenge the industry's status quo to fully realize the transformative potential of technology.</p>
+                    <p class="fs-sm">We strive to shape future processes and decision-making within the industry by building experiences that transform, bring clarity and enhances the way things are done.</p>
                   </div>
                 </div>
                 <div class="col-sm-6">
@@ -55,8 +55,8 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
                     <p class="fs-sm">We know Aviation and we understand the nuances and complexities of it. We have built an incredible team in a number of areas to develop powerful and efficient solutions.</p>
                   </div>
                   <div class="bg-light rounded-3 p-4 mb-4">
-                    <h3 class="h4 mb-2">Customer Centric</h3>
-                    <p class="fs-sm">Everything we do, we put at the forefront our customers and clients needs. We strive to understand every detail or their business to provide empowering and enriching solutions to enable our clients' strategic positioning in the market.</p>
+                    <h3 class="h4 mb-2">Customer-centric</h3>
+                    <p class="fs-sm">Building specialist technology for a nuanced industry requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to spec new functionality as client needs evolve.</p>
                   </div>
                 </div>
               </div>

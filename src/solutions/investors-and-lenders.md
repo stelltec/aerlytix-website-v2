@@ -10,7 +10,7 @@ summary: "Simplifying the complexities of aviation finance and investments"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Clarity</h2>
-      <p class="display-7">Aerlytix empowers aviation investors with connected risk management tools needed to understand their exposure.</p>
+      <p class="display-7">Aerlytix empowers aviation investors with the connected risk management tools needed to understand underlying exposures.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -60,7 +60,7 @@ summary: "Simplifying the complexities of aviation finance and investments"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Real-time Analytics</h2>
-      <p class="display-7">Execute complex investments and maintain a competitive advantage through real time data analytics and connected asset condition.</p>
+      <p class="display-7">Execute complex investments and maintain a competitive advantage through real-time data analytics and connected asset condition.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
