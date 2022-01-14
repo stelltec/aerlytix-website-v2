@@ -85,7 +85,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
 <article class="team__quotes my-5 py-5 bg-light">
 <div class="container" style="padding-bottom:6rem">
 <div class="intro pb-5 pt-5 col-8">
-    <h2>We are a team of 20 dedicated technologists and product people working extensibly on simplifying the complex processes of aviation finance.</h2>
+    <h2 class="h1">Meet some of our team members</h2>
 </div>
 <div id="carouselExampleDark" class="carousel carousel-team carousel-dark slide mt-5" data-bs-ride="carousel">
   <div class="carousel-indicators">
