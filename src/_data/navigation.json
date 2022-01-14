@@ -62,16 +62,8 @@
                 {
                     "text": "Contact Us",
                     "url": "/company/contact-us/"
-                },
-                {
-                    "text": "FAQ's",
-                    "url": "/company/faqs/"
                 }
             ]
-        },
-        {
-            "text": "Latest News",
-            "url": "/news/"
         }
     ]
 }

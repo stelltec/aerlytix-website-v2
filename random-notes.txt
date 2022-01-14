@@ -274,3 +274,88 @@ This is the last update on the solutions section -----
     {# </div> #}
   </div>
 </article>
+
+
+
+
+########
+This is the original navigation.
+########
+
+{
+    "items": [
+        {
+            "text": "Home",
+            "url": "/"
+        },
+        {
+            "text": "Products",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Pricing & Trading",
+                    "url": "/products/pricing-and-trading/"
+                },
+                {
+                    "text": "Maintenance & Lease Management",
+                    "url": "/products/maintenance-and-lease-management/"
+                },
+                {
+                    "text": "Commercial Asset Management",
+                    "url": "/products/commercial-asset-management/"
+                },
+                {
+                    "text": "Analysis & Risk Management",
+                    "url": "/products/analysis-and-risk-management/"
+                },
+                {
+                    "text": "Asset Tracker",
+                    "url": "/products/asset-tracker/"
+                },
+                {
+                    "text": "Consulting & Integrations",
+                    "url": "/products/consulting-and-integrations/"
+                }
+            ]
+        },
+        {
+            "text": "Solutions",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Lessors",
+                    "url": "/solutions/lessors/"
+                },
+                {
+                    "text": "Investors & Lenders",
+                    "url": "/solutions/investors-and-lenders/"
+                }
+            ]
+        },
+        {
+            "text": "Company",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "About Us",
+                    "url": "/company/about-us/"
+                },
+                {
+                    "text": "Contact Us",
+                    "url": "/company/contact-us/"
+                },
+                {
+                    "text": "FAQ's",
+                    "url": "/company/faqs/"
+                }
+            ]
+        },
+        {
+            "text": "Latest News",
+            "url": "/news/"
+        }
+    ]
+}

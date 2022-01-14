@@ -9,7 +9,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
         <div class="col-sm-6 col-lg-8 m-auto">
             <p>Headquartered in Dublin, Ireland, Aerlytix was founded in 2016 to support a leading Aviation Services and Capital Management company.</p>
             <p>Having assembled a team from the banking, technology, aviation and aircraft engineering world, the technical module of the platform was initially built to support asset-centric investment management decision process.</p>
-            <p>In 2020 the system further evolved into financing, trading and risk modules, thus creating a multi-layered decision support tool. The Aerlytix platform is now used by leading lessors and investors and has handled billions in aircraft transactions and leases to date. This includes in-depth technical asset analytics, driving asset investment decisions and optimising asset management outcomes.</p>
+            <p>In 2020 the system further evolved into financing, trading and risk modules, thus creating a multi-layered decision support tool. The Aerlytix platform is now used by leading lessors, investors and has handled billions in aircraft transactions and leases to date. This includes in-depth technical asset analytics, driving asset investment decisions and optimising asset management outcomes.</p>
         </div>
     </div>
 </article>
@@ -108,7 +108,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
                 <div class="flex-grow-1 ms-3 ms-md-0">
-                  Amanda Cifuentes
+                  Amanda Cifuente
                   <span class="blockquote-footer-source"> - Scrum Master</span>
                 </div>
               </div>
@@ -186,7 +186,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
                   <img class="avatar avatar-circle" src="./assets/img/160x160/img4.jpg" alt="Image Description">
                 </div>
                 <div class="flex-grow-1 ms-3 ms-md-0">
-                  Sean Garvey
+                  Seán Garvey
                   <span class="blockquote-footer-source"> - Senior Consultant</span>
                 </div>
               </div>
