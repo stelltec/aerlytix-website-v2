@@ -1,6 +1,6 @@
 ---
 title: 'Pricing & Trading'
-header: 'Pricing, structuring and optimization suite for asset transactions'
+header: 'Pricing, structuring and optimisation suite for asset transactions'
 # summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
 ---
 
@@ -125,7 +125,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Compare opportunities</h2>
-      <p class="display-7">"Rack n' stack" opportunities, cashflow composition and maintenance event scenarios comparison.</p>
+      <p class="display-7">"Rack n' stack" opportunities, cashflow composition and maintenance event scenarios.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
