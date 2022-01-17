@@ -20,8 +20,8 @@ body {
 .airplane {
     &__trail {
         &-1 {
-            background:url(../images/plain-trail.svg) 0 50% no-repeat;
-            background-size:1000px;
+            background:url(../images/plain-trail.svg) 50% 50% no-repeat;
+            background-size:2000px;
             height:80px;
         }
         &-2 {

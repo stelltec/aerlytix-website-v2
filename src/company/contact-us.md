@@ -8,21 +8,21 @@ header: "Contact Us"
 <div class="container col-md-12">
     <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col mb-4">
-        <div class="card h-100 mb-4 pt-5 pb-5 rounded-3 shadow-sm">
+        <div class="card h-100 mb-4 pt-5 pb-5 rounded-6 shadow">
             <h3>Email us:</h3>
             <p>Email us for general queries.</p>
             <p><a class="h4" href="mailto:info@aerlytix.com">info@aerlytix.com</a></p>
         </div>
       </div>
       <div class="col mb-4">
-        <div class="card h-100 mb-4 pt-5 pb-5 ps-3 pe-3 rounded-3 shadow-sm">
+        <div class="card h-100 mb-4 pt-5 pb-5 ps-3 pe-3 rounded-6 shadow">
             <h3>Call us:</h3>
             <p>Call to speak to a member of our team.</p>
             <p><a class="h4" href="tel:0035316077070">+353 (0)1 607 7070</a></p>
         </div>
       </div>
       <div class="col mb-4">
-        <div class="card h-100 mb-4 pt-5 pb-5 rounded-3 shadow-sm">
+        <div class="card h-100 mb-4 pt-5 pb-5 rounded-6 shadow">
             <h3>Follow us:</h3>
             <p>We are present in this networks.</p>
             <p>
@@ -38,7 +38,7 @@ header: "Contact Us"
         </div>
       </div>
       <div class="col-md-12 mb-4">
-        <div class="card mb-4 pt-5 pb-5 rounded-3 shadow-sm">
+        <div class="card mb-4 pt-5 pb-5 rounded-6 shadow">
             <h3>Visit us:</h3>
             <p>Embassy House<br/> Herbert Park Lane<br />Ballsbridge<br />D04 H6Y0, Ireland</p>
         </div>

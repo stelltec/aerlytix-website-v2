@@ -148,15 +148,30 @@ a {
 }
 
 .careers-panel {
-    background:var(--blue) url(../images/map-pattern.svg) 0 0 repeat;
-    padding-top:5rem;
-    padding-bottom:5rem;
-    padding-left:5rem;
-    padding-right:5rem;
+    background:var(--blue); // url(../images/map-pattern.svg) 0 0 repeat
+    position: relative;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
     border-radius: 1rem;
     color: white;
+    clip-path: border-box;
     p {
         color: white;
+    }
+
+    .col-12 {
+        position: relative;
+        z-index: 1;
+    }
+
+    &__logo-background {
+        position: absolute;
+        right: 0;
+        width: 500px;
+        height: 400px;
+        z-index: 0;
     }
 }
 

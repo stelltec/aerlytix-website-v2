@@ -12014,16 +12014,29 @@ a {
 }
 
 .careers-panel {
-  background: var(--blue) url(../images/map-pattern.svg) 0 0 repeat;
+  background: var(--blue);
+  position: relative;
   padding-top: 5rem;
   padding-bottom: 5rem;
   padding-left: 5rem;
   padding-right: 5rem;
   border-radius: 1rem;
   color: white;
+  clip-path: border-box;
 }
 .careers-panel p {
   color: white;
+}
+.careers-panel .col-12 {
+  position: relative;
+  z-index: 1;
+}
+.careers-panel__logo-background {
+  position: absolute;
+  right: 0;
+  width: 500px;
+  height: 400px;
+  z-index: 0;
 }
 
 .about-us__inception {
@@ -12066,7 +12079,7 @@ a {
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid #f0f0f0;
-  background: white;
+  background: rgba(255, 255, 255, 0.7);
 }
 .navbar .navbar-nav {
   margin: auto;
@@ -12201,8 +12214,8 @@ a {
 }
 
 .airplane__trail-1 {
-  background: url(../images/plain-trail.svg) 0 50% no-repeat;
-  background-size: 1000px;
+  background: url(../images/plain-trail.svg) 50% 50% no-repeat;
+  background-size: 2000px;
   height: 80px;
 }
 .airplane__trail-2 {

@@ -68,14 +68,10 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
       <div class="row align-items-md-center">
-        <div class="col-md-4 d-none d-md-block">
-          <img class="img-fluid rounded-6" src="/images/team/amanda-cifuente-01.jpg" alt="Amanda Cifuente Photo">
-        </div>
-        <!-- End Col -->
-        <div class="col-md-7">
+        <div class="col-md-12">
           <!-- Blockquote -->
           <figure class="pe-md-7">
-            <blockquote class="blockquote blockquote-lg">" Teamwork is the ability to work together toward a common vision. The ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results. "</blockquote>
+            <blockquote class="display-6">" Teamwork is the ability to work together toward a common vision. The ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results. "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
                 <div class="flex-grow-1 ms-3 ms-md-0">
@@ -85,21 +81,15 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
               </div>
             </figcaption>
           </figure>
-          <!-- End Blockquote -->
         </div>
-        <!-- End Col -->
       </div> <!-- end of row  -->
     </div>
     <div class="carousel-item" data-bs-interval="2000">
       <div class="row align-items-md-center">
-        <div class="col-md-4 d-none d-md-block">
-          <img class="img-fluid rounded-6" src="/images/team/shane-callahan-01.jpg" alt="Shane Callahan Photo">
-        </div>
-        <!-- End Col -->
-        <div class="col-md-7">
+        <div class="col-md-12">
           <!-- Blockquote -->
           <figure class="pe-md-7">
-            <blockquote class="blockquote blockquote-lg">" The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don’t play together, the club won’t be worth a dime. "</blockquote>
+            <blockquote class="display-6">" The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don’t play together, the club won’t be worth a dime. "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
                 <div class="flex-grow-1 ms-3 ms-md-0">
@@ -109,21 +99,14 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
               </div>
             </figcaption>
           </figure>
-          <!-- End Blockquote -->
         </div>
-        <!-- End Col -->
       </div> <!-- end of row  -->
     </div>
     <div class="carousel-item">
       <div class="row align-items-md-center">
-        <div class="col-md-4 d-none d-md-block">
-          <img class="img-fluid rounded-2" src="https://placeholder.pics/svg/400x400" alt="Image Description">
-        </div>
-        <!-- End Col -->
-        <div class="col-md-7">
-          <!-- Blockquote -->
+        <div class="col-md-12">
           <figure class="pe-md-7">
-            <blockquote class="blockquote blockquote-lg">" You need to be aware of what others are doing, applaud their efforts, acknowledge their successes, and encourage them in their pursuits. When we all help one another, everybody wins. "</blockquote>
+            <blockquote class="display-6">" You need to be aware of what others are doing, applaud their efforts, acknowledge their successes, and encourage them in their pursuits. When we all help one another, everybody wins. "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
                 <div class="flex-shrink-0 d-md-none">
@@ -136,21 +119,14 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
               </div>
             </figcaption>
           </figure>
-          <!-- End Blockquote -->
         </div>
-        <!-- End Col -->
       </div> <!-- end of row  -->
     </div>
     <div class="carousel-item">
       <div class="row align-items-md-center">
-        <div class="col-md-4 d-none d-md-block">
-          <img class="img-fluid rounded-6" src="/images/team/sean-garvey-01.jpg" alt="Sean Garvey Photo">
-        </div>
-        <!-- End Col -->
-        <div class="col-md-7">
-          <!-- Blockquote -->
+        <div class="col-md-12">
           <figure class="pe-md-7">
-            <blockquote class="blockquote blockquote-lg">" One piece of log creates a small fire, adequate to warm you up, add just a few more pieces to blast an immense bonfire, large enough to warm up your entire circle of friends; needless to say that individuality counts but teamwork dynamites. "</blockquote>
+            <blockquote class="display-6">" One piece of log creates a small fire, adequate to warm you up, add just a few more pieces to blast an immense bonfire, large enough to warm up your entire circle of friends; needless to say that individuality counts but teamwork dynamites. "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
                 <div class="flex-shrink-0 d-md-none">
@@ -163,9 +139,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
               </div>
             </figcaption>
           </figure>
-          <!-- End Blockquote -->
         </div>
-        <!-- End Col -->
       </div> <!-- end of row  -->
     </div>
   </div>
@@ -201,6 +175,10 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
               Apply now
             </a>
           </div>
+          <svg class="careers-panel__logo-background" width="636" height="454" viewBox="0 0 636 454" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M95.2952 55.7287C78.1917 32.6834 94.6508 0 123.36 0H273.176C311.108 0 346.799 17.9539 369.398 48.4027L629.059 398.271C646.163 421.316 629.704 454 600.995 454H451.178C413.246 454 377.555 436.046 354.957 405.597L95.2952 55.7287Z" fill="#2658BB"/>
+<path d="M149.446 210.958C155.061 202.891 166.925 202.688 172.813 210.557L294.611 373.333C319.5 406.595 295.766 454 254.226 454H21.6551C4.19154 454 -6.06437 434.363 3.91309 420.03L149.446 210.958Z" fill="#2658BB"/>
+</svg>
         </div> <!-- / .row -->
       </div> <!-- / .container -->
     </article>

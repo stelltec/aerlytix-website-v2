@@ -2,9 +2,9 @@
 <svg width="1503px" height="79px" viewBox="0 0 1503 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Group 2</title>
     <defs>
-        <linearGradient x1="65.8678645%" y1="49.7430293%" x2="235.726244%" y2="50.1021132%" id="linearGradient-1">
+        <linearGradient x1="0%" y1="49.9065221%" x2="100%" y2="50.1491204%" id="linearGradient-1">
             <stop stop-color="#DEE4F0" offset="0%"></stop>
-            <stop stop-color="#D8DEF0" offset="100%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="65.8678645%" y1="-60.5588756%" x2="235.726244%" y2="93.9331027%" id="linearGradient-2">
             <stop stop-color="#DEE4F0" offset="0%"></stop>

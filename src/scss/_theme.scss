@@ -1,7 +1,4 @@
 body {
-    // background: #f5f9fe; // For now we are going to drop this background color and stick to white. But this looks good.
-}
-body {
     animation: fadein 2s; 
 }
   
@@ -20,10 +17,6 @@ body {
 }
 h2 {
     line-height:1.4;
-}
-
-p, li {
-    // color:var(--grey);
 }
 
 .tags-list {
