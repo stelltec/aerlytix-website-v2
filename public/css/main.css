@@ -11896,6 +11896,14 @@ a {
   color: var(--blue);
 }
 
+.shadow {
+  box-shadow: 0 0rem 1rem rgba(0, 0, 0, 0.085) !important;
+}
+
+.card, .dropdown-menu {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
 .header__common {
   padding: 10rem 0;
   margin-bottom: 4rem;
@@ -12075,6 +12083,23 @@ a {
   padding: 3rem;
 }
 
+.team__quotes blockquote {
+  margin-right: 4.2rem;
+}
+
+@media (max-width: 575.98px) {
+  .quote {
+    padding: 0 2rem;
+  }
+
+  .carousel-team .row {
+    margin-left: 2rem;
+  }
+
+  .team__quotes blockquote {
+    margin-right: 2rem;
+  }
+}
 .navbar {
   padding-top: 1rem;
   padding-bottom: 1rem;

@@ -89,7 +89,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
         <div class="col-md-12">
           <!-- Blockquote -->
           <figure class="pe-md-7">
-            <blockquote class="display-6">" The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don’t play together, the club won’t be worth a dime. "</blockquote>
+            <blockquote class="display-6">" Aerlytix has a strong development team guided by experienced individuals. This allows us to deliver fast without compromising on quality, and I'm thrilled to be a part of it! "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
                 <div class="flex-grow-1 ms-3 ms-md-0">
