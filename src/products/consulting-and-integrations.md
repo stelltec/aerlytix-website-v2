@@ -1,7 +1,7 @@
 ---
 title: "Consulting & Integrations"
 header: "Consultancy and Integrations"
-summary: " Our teams are specialists at delivering modern ways of working with data and analytics – from design ideas through to operation."
+summary: "We are specialists in delivering system integrations and solutions – from design ideas through to operation."
 ---
 
 <!-- Start marketing section -->
@@ -10,7 +10,7 @@ summary: " Our teams are specialists at delivering modern ways of working with d
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Simplifying Data</h2>
-      <p class="display-7">We provide a full scope of data mining and implementation services, making your torrents of data usable by everyone in your company.</p>
+      <p class="display-7">We provide a data cleansing and integration services; we partner with our clients ensuring a successful journey.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -70,7 +70,7 @@ summary: " Our teams are specialists at delivering modern ways of working with d
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Process Automation</h2>
-      <p class="display-7">Derive insights from operational data and automate workflows with our state-of-the-art process automation services.</p>
+      <p class="display-7">We strive to streamline and automate workflows, removing mundane tasks and allowing clients to focus on adding value to their business.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -104,8 +104,8 @@ summary: " Our teams are specialists at delivering modern ways of working with d
 <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">Modelling and Structuring</h2>
-      <p class="display-7">Highly flexible transaction structuring and analysis capabilities, proprietary credit modelling.</p>
+      <h2 class="h1">Modelling and Analysis</h2>
+      <p class="display-7">We have best-in-class modelling and analysis services, including bespoke credit model and ESG modelling.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -139,8 +139,8 @@ summary: " Our teams are specialists at delivering modern ways of working with d
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
-      <h2 class="h1">Data Cleansing</h2>
-      <p class="display-7">Full data analysis capabilities as we partner with our clients ensuring an active partnership and successful journey.</p>
+      <h2 class="h1">Integration</h2>
+      <p class="display-7">Interconnecting systems allowing seamless data flow that drives automation .</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">

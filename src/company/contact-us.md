@@ -38,9 +38,8 @@ header: "Contact Us"
         </div>
       </div>
       <div class="col-md-12 mb-4">
-        <div class="card h-100 mb-4 pt-5 pb-5 rounded-3 shadow-sm">
+        <div class="card mb-4 pt-5 pb-5 rounded-3 shadow-sm">
             <h3>Visit us:</h3>
-            <p>We are at the epicenter of Aviation Finance</p>
             <p>Embassy House<br/> Herbert Park Lane<br />Ballsbridge<br />D04 H6Y0, Ireland</p>
         </div>
       </div>

@@ -47,7 +47,7 @@ summary: "We are on a mission to simplify the complexities of aviation finance."
       </div>
       <div class="col-lg-4">
         <h4>Customer-centric</h4>
-        <p>Building specialist technology for a nuanced industry requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to spec new functionality as client needs evolve.</p>
+        <p>Building specialist technology for requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to spec new functionality as client needs evolve.</p>
       </div>
     </div>
 </div>
