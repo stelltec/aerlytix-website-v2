@@ -16,3 +16,27 @@ body {
 .solutions-page {
     
 }
+
+.airplane {
+    &__trail {
+        &-1 {
+            background:url(../images/plain-trail.svg) 0 50% no-repeat;
+            background-size:1000px;
+            height:80px;
+        }
+        &-2 {
+            background:url(../images/plain-trail-02.svg) 100% 50% no-repeat;
+            background-size:1000px;
+            height:80px;
+        }
+        &-3 {
+            background:url(../images/plain-trail-corner-01.svg) 96% 100% no-repeat;
+            background-size:400px;
+        }
+        &-4 {
+            background:url(../images/plain-trail-03.svg) 0 50% no-repeat;
+            background-size:500px;
+            height:80px;
+        }
+    }
+}

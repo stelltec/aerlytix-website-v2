@@ -40,6 +40,8 @@ header: 'Pricing, structuring and optimisation suite for asset transactions'
   </div>
 </article>
 
+<div class="airplane__trail-1"></div>
+
 <article class="section__product section__spacing-3">
   <div class="container">
   <div class="row gx-lg-5 featurette">
@@ -74,7 +76,7 @@ header: 'Pricing, structuring and optimisation suite for asset transactions'
   </div>
   </div>
 </article>
-
+<div class="airplane__trail-2"></div>
 <article class="section__product section__spacing-3">
 <div class="container">
   <div class="row gx-lg-5 featurette">
@@ -119,7 +121,7 @@ header: 'Pricing, structuring and optimisation suite for asset transactions'
   </div>
 </div>
 </article>
-
+<div class="airplane__trail-4"></div>
 <article class="section__product section__spacing-3">
   <div class="container">
   <div class="row gx-lg-5 featurette">
@@ -161,7 +163,7 @@ header: 'Pricing, structuring and optimisation suite for asset transactions'
 </article>
 <!-- End marketing section -->
 
-<article class="section__spacing-03 mt-5 mb-5 pt-5">
+<article class="section__spacing-03 mt-5 mb-5 pt-5 airplane__trail-3">
 <div class="container">
 <h2 class="h1">And more...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">

@@ -12200,6 +12200,26 @@ a {
   background: url(../images/card-11.svg) 0 0 no-repeat;
 }
 
+.airplane__trail-1 {
+  background: url(../images/plain-trail.svg) 0 50% no-repeat;
+  background-size: 1000px;
+  height: 80px;
+}
+.airplane__trail-2 {
+  background: url(../images/plain-trail-02.svg) 100% 50% no-repeat;
+  background-size: 1000px;
+  height: 80px;
+}
+.airplane__trail-3 {
+  background: url(../images/plain-trail-corner-01.svg) 96% 100% no-repeat;
+  background-size: 400px;
+}
+.airplane__trail-4 {
+  background: url(../images/plain-trail-03.svg) 0 50% no-repeat;
+  background-size: 500px;
+  height: 80px;
+}
+
 /* Featurettes
 ------------------------- */
 .featurette {
