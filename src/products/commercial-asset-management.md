@@ -1,6 +1,6 @@
 ---
 title: 'Commercial Asset Management'
-header: 'Appraise commercial lease opportunities and assess maintenance & lease exposures'
+header: 'Optimise lease negotiations with streamlined commercial operations'
 # summary: "We have the experience, expertise and innovation to rapidly step in with flexible, high performance tools and minimal interruption, empowering our clients' decision-making process."
 ---
 
