@@ -1,4 +1,18 @@
 .body {
+    // &-pricing-and-trading {
+    //     .header__common {
+    //         background: #F6F8FE url(../images/product/pricing-trading-illustration.svg) 98% 10% no-repeat;
+    //         background-size: 40rem;
+    //     }
+    // }
+
+    // &-maintenance-and-lease-management {
+    //     .header__common {
+    //         background: #F6F8FE url(../images/product/maintenance-and-lease-management-illustration.svg) 98% 50% no-repeat;
+    //         background-size: 40rem;
+    //     }
+    // }
+
     &-request-demo {
         background: url(../images/card-11.svg) 0 0 no-repeat;
     }
@@ -8,6 +22,8 @@ body {
     // background: url(../images/gradient-fade-01.png) 0 -40rem no-repeat, url(../images/gradient-fade-02.png) 100% 0 no-repeat;
     // background-size:150%;
 }
+
+
 
 .products-page {
 
@@ -25,8 +41,8 @@ body {
             height:80px;
         }
         &-2 {
-            background:url(../images/plain-trail-02.svg) 100% 50% no-repeat;
-            background-size:1000px;
+            background:url(../images/plain-trail-02.svg) 50% 50% no-repeat;
+            background-size:2000px;
             height:80px;
         }
         &-3 {

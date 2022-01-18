@@ -40,7 +40,7 @@ header: 'Pricing, structuring and optimisation suite for asset transactions'
   </div>
 </article>
 
-<div class="airplane__trail-1"></div>
+<!-- <div class="airplane__trail-1"></div> -->
 
 <article class="section__product section__spacing-3">
   <div class="container">
@@ -76,7 +76,7 @@ header: 'Pricing, structuring and optimisation suite for asset transactions'
   </div>
   </div>
 </article>
-<div class="airplane__trail-2"></div>
+<!-- <div class="airplane__trail-2"></div> -->
 <article class="section__product section__spacing-3">
 <div class="container">
   <div class="row gx-lg-5 featurette">

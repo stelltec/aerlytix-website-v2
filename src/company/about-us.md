@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 header: "About Us"
-summary: "We are on a mission to simplify the complexities of aviation finance."
+summary: "Our mission is to transform aviation finance with technology and analytics."
 ---
 
 <article class="pt-5 pb-5 mb-5">
