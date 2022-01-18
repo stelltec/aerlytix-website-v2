@@ -1,6 +1,6 @@
 ---
 title: 'Pricing & Trading'
-header: 'Pricing, structuring and optimisation suite for asset transactions'
+header: 'User friendly, fast data input interface to run instant asset or portfolio pricing analysis.'
 # summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
 ---
 

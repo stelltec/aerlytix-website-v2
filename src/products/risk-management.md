@@ -1,7 +1,7 @@
 ---
 title: 'Risk Management'
-header: 'Risk Management'
-summary: 'Manage risk, improve decision making and simplify processes and controls.'
+header: 'Manage risk, improve decision making and simplify processes and controls'
+# summary: 'Manage risk, improve decision making and simplify processes and controls.'
 ---
 
 <!-- Start marketing section -->

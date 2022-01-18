@@ -1,6 +1,6 @@
 ---
 title: "Maintenance & Lease Management"
-header: "Manage exposures at all levels on individual asset or portfolio basis"
+header: "Fully automated asset maintenance and lease forecasting"
 ---
 
 <!-- Start marketing section -->
