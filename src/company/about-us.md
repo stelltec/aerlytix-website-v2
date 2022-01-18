@@ -43,7 +43,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </div>
       <div class="col-lg-4">
         <h4>Knowledgeable</h4>
-        <p>We know Aviation and we understand the nuances and complexities of it. We have built an incredible team in a number of areas to develop powerful and efficient solutions.</p>
+        <p>We know aviation and we understand the nuances and complexities of it. We have built an incredible team in a number of areas to develop powerful and efficient solutions.</p>
       </div>
       <div class="col-lg-4">
         <h4>Customer-centric</h4>
