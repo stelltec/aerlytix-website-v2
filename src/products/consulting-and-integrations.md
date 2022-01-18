@@ -1,7 +1,7 @@
 ---
 title: "Consulting & Integrations"
-header: "Consulting & Integrations"
-summary: "We are specialists in delivering system integrations and solutions – from design ideas through to operation."
+header: "API focused integrations and data-driven services led by highly skilled consultants"
+# summary: "We are specialists in delivering system integrations and solutions – from design ideas through to operation."
 ---
 
 <!-- Start marketing section -->

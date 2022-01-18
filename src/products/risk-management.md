@@ -50,7 +50,7 @@ header: 'Manage risk, improve decision making and simplify processes and control
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Sensitivity & Stress-Test Analysis</h2>
-      <p class="display-7">Monitor aggregate portfolio sensitivities to shocks ranging from operator utilisation levels to engine time-on-wing, to many others.</p>
+      <p class="display-7">Monitor aggregate portfolio sensitivities to shocks ranging from operator utilization levels to engine time-on-wing, to many others.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
