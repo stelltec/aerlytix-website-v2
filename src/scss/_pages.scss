@@ -13,6 +13,13 @@
     //     }
     // }
 
+    &-about-us {
+        .header__common {
+            background: #F6F8FE url(../images/abstract-background-1.jpg) 0 0 no-repeat;
+            background-size: cover;
+        }
+    }
+
     &-request-demo {
         background: url(../images/card-11.svg) 0 0 no-repeat;
     }

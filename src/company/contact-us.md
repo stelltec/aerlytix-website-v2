@@ -38,10 +38,6 @@ header: "Contact Us"
         </div>
       </div>
       <div class="col-md-12 mb-4">
-        <!-- <div class="card mb-4 pt-5 pb-5 rounded-6 shadow">
-            <h3>Visit us:</h3>
-            <p>Embassy House<br/> Herbert Park Lane<br />Ballsbridge<br />D04 H6Y0, Ireland</p>
-        </div> -->
         <div class="card mb-4 rounded-6 shadow contact-us__map-card">
           <div class="row g-0">
             <div class="col-md-4">
