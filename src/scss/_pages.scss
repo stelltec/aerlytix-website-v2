@@ -17,6 +17,7 @@
         .header__common {
             background: #F6F8FE url(../images/abstract-background-1.jpg) 0 0 no-repeat;
             background-size: cover;
+            color: white;
         }
     }
 
@@ -24,6 +25,12 @@
         background: url(../images/card-11.svg) 0 0 no-repeat;
     }
     &-contact-us {
+        background: url(../images/gradient-fade-01.png) -90rem -80rem no-repeat;
+        background-size: 4000px;
+        .header__common {
+            padding:4rem 0 0rem;
+            background: none;
+        }
         .contact-us__map-card {
             clip-path: border-box;
         }

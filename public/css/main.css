@@ -12237,9 +12237,18 @@ a {
 .body-about-us .header__common {
   background: #F6F8FE url(../images/abstract-background-1.jpg) 0 0 no-repeat;
   background-size: cover;
+  color: white;
 }
 .body-request-demo {
   background: url(../images/card-11.svg) 0 0 no-repeat;
+}
+.body-contact-us {
+  background: url(../images/gradient-fade-01.png) -90rem -80rem no-repeat;
+  background-size: 4000px;
+}
+.body-contact-us .header__common {
+  padding: 4rem 0 0rem;
+  background: none;
 }
 .body-contact-us .contact-us__map-card {
   clip-path: border-box;
