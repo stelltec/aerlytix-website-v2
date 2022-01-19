@@ -1,6 +1,6 @@
 ---
 title: 'Risk Management'
-header: 'Manage risk, improve decision making and simplify processes and controls'
+header: 'Manage risk, improve decision-making and simplify processes and controls'
 # summary: 'Manage risk, improve decision making and simplify processes and controls.'
 ---
 
@@ -90,7 +90,7 @@ header: 'Manage risk, improve decision making and simplify processes and control
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Risk-Adjusted Pricing</h2>
-      <p class="display-7">Apply risk-adjusted pricing from Aerlytix credit models and stress test specific exposures on individual asset or across a portfolio.</p>
+      <p class="display-7">Introduce risk-adjusted pricing & valuation benchmarks by combining asset exposures with lessee credit ratings.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -185,7 +185,7 @@ header: 'Manage risk, improve decision making and simplify processes and control
 </svg>
         </div>
         <h4>Credit Rating</h4>
-        <p>Automated credit ratings functions to assess your investments.</p>
+        <p>Automated credit ratings driven by API-connected lessee financial data as well as non-financial fleet data.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -194,7 +194,7 @@ header: 'Manage risk, improve decision making and simplify processes and control
 </svg>
         </div>
         <h4>Recovery Value</h4>
-        <p>Analyse Recovery values and default probabilities.</p>
+        <p>Analyse recovery values and default probabilities.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -230,7 +230,7 @@ header: 'Manage risk, improve decision making and simplify processes and control
 </svg>
         </div>
         <h4>Permissions</h4>
-        <p>Full permissions-based functionality for most up to date and approved ratings</p>
+        <p>Full permissions-based functionality for most up-to-date and approved ratings</p>
       </div>
     </div>
 </div>

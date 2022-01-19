@@ -264,7 +264,7 @@ header: "Manage exposures at all levels on individual asset or portfolio basis"
 </svg>
         </div>
         <h4>Maintenance Analysis</h4>
-        <p>Refine and analyse engine performance restoration and flight-hour-intervals.</p>
+        <p>Refine and analyse engine performance restoration flight-hour-intervals.</p>
       </div>
     </div>
 </div>

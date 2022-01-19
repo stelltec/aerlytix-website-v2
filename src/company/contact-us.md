@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 header: "Contact Us"
-# summary: "Since our inception, we have built a strong brand and reputation as one of the fastest-growing aviation finance technology companies in Ireland by hiring the right talent, continuously innovating and enhancing our products and services, and building long term partnerships with our clients."
+# summary: ""
 ---
 
 <article>
@@ -38,9 +38,45 @@ header: "Contact Us"
         </div>
       </div>
       <div class="col-md-12 mb-4">
-        <div class="card mb-4 pt-5 pb-5 rounded-6 shadow">
+        <!-- <div class="card mb-4 pt-5 pb-5 rounded-6 shadow">
             <h3>Visit us:</h3>
             <p>Embassy House<br/> Herbert Park Lane<br />Ballsbridge<br />D04 H6Y0, Ireland</p>
+        </div> -->
+        <div class="card mb-4 pt-5 pb-5 rounded-6 shadow">
+          <div class="row g-0">
+            <div class="col-md-4">
+              <div class="card-body">
+                <h3>Visit us:</h3>
+                <p>Embassy House<br/> Herbert Park Lane<br />Ballsbridge<br />D04 H6Y0, Ireland</p>
+              </div>
+            </div>
+             <div class="col-md-8 bg-green">
+              <div id="map-dublin" class="map-canvas rounded-left" data-lat="25.7617" data-lng="-80.1918" data-color="#0c66ff" style="height: 600px"></div>
+            <script>
+              var map = L.map("map-dublin").setView([53.328268, -6.231743], 17);
+              L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+                  attribution:
+                    '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                }
+              ).addTo(map);
+              var LeafIcon = L.Icon.extend({
+                options: {
+                  iconSize: [45, 120],
+                },
+              });
+              var greenIcon = new LeafIcon({
+                iconUrl: "assets/img/map-marker.svg",
+              });
+              L.marker([53.328268, -6.231743], { icon: greenIcon })
+                .bindPopup(
+                  "Embassy House, Herbert Park Lane, Ballsbridge, D04 H6Y0, Ireland"
+                )
+                .addTo(map);
+            </script>
+            </div>
+          </div>
         </div>
       </div>
     </div>

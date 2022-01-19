@@ -1,7 +1,7 @@
 ---
 title: 'Pricing & Trading'
 header: 'Pricing, structuring and optimisation suite for asset transactions'
-# summary: 'A native iOS app to help people to keep a track of their finances by providing easy-to use tracking and organising capabilities.'
+# summary: ''
 ---
 
 <!-- Start marketing section -->
@@ -121,7 +121,7 @@ header: 'Pricing, structuring and optimisation suite for asset transactions'
   </div>
 </div>
 </article>
-<div class="airplane__trail-4"></div>
+<!-- <div class="airplane__trail-4"></div> -->
 <article class="section__product section__spacing-3">
   <div class="container">
   <div class="row gx-lg-5 featurette">
