@@ -1,9 +1,8 @@
 ---
 title: 'Commercial Asset Management'
-header: 'Optimise lease negotiations with streamlined commercial operations'
+header: 'Optimize lease negotiations with streamlined commercial operations'
 # summary: "We have the experience, expertise and innovation to rapidly step in with flexible, high performance tools and minimal interruption, empowering our clients' decision-making process."
 ---
-
 <!-- Start marketing section -->
 <article class="section__product section__spacing-3">
   <div class="container">

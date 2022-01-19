@@ -1,6 +1,6 @@
 ---
 title: 'Pricing & Trading'
-header: 'Pricing, structuring and optimisation suite for asset transactions'
+header: 'Pricing, structuring and optimization suite for asset transactions'
 # summary: ''
 ---
 
