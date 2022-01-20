@@ -35,18 +35,18 @@ summary: "Our mission is to transform aviation finance with technology and analy
 <article class="my-5 py-5">
 <div class="container">
 
-<h2>Our core values</h2>
+<h2>Our values</h2>
 <div class="row mt-5">
       <div class="col-lg-4">
-        <h4>Transformative</h4>
-        <p>We aim to shape decision-making within the industry by providing technology and analytics solutions to transform process and bring clarity to decision-making.</p>
-      </div>
-      <div class="col-lg-4">
-        <h4>Knowledgeable</h4>
+        <h4 class="fw-bold">Knowledgeable</h4>
         <p>We know aviation finance. We have built an incredible team with extensive insights into the nuances and complexities of aviation finance, harnessing this knowledge to build and develop powerful and efficient solutions.</p>
       </div>
       <div class="col-lg-4">
-        <h4>Customer-centric</h4>
+        <h4 class="fw-bold">Transformative</h4>
+        <p>We aim to shape decision-making within the industry by providing technology and analytics solutions to transform process and bring clarity to decision-making.</p>
+      </div>
+      <div class="col-lg-4">
+        <h4 class="fw-bold">Customer-centric</h4>
         <p>We are always listening to client needs and committed to evolve as our clients evolve.</p>
         <!-- <p>Building specialist technology requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to evolve as our clients evolve.</p> -->
       </div>
@@ -72,6 +72,24 @@ summary: "Our mission is to transform aviation finance with technology and analy
         <div class="col-md-12">
           <!-- Blockquote -->
           <figure class="pe-md-7">
+            <blockquote class="display-6">" Aerlytix has given me and the team the opportunity of working with very innovative and forward-thinking clients. There is never a dull day, and we are in the business of transforming the industry together! "</blockquote>
+            <figcaption class="blockquote-footer">
+              <div class="d-flex align-items-center">
+                <div class="flex-grow-1 ms-3 ms-md-0">
+                  Seán Garvey
+                  <span class="blockquote-footer-source"> - Senior Consultant</span>
+                </div>
+              </div>
+            </figcaption>
+          </figure>
+        </div>
+      </div> <!-- end of row  -->
+    </div>
+    <div class="carousel-item" data-bs-interval="2000">
+      <div class="row align-items-md-center">
+        <div class="col-md-12">
+          <!-- Blockquote -->
+          <figure class="pe-md-7">
             <blockquote class="display-6">" It is so exciting to be part of such a dedicated and experienced team with a wealth of experience in the industry. It is energising to be transforming the industry with our in-house development expertise and state-of-the-art technology "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
@@ -85,12 +103,11 @@ summary: "Our mission is to transform aviation finance with technology and analy
         </div>
       </div> <!-- end of row  -->
     </div>
-    <div class="carousel-item" data-bs-interval="2000">
+    <div class="carousel-item">
       <div class="row align-items-md-center">
         <div class="col-md-12">
-          <!-- Blockquote -->
-          <figure class="pe-md-7">
-            <blockquote class="display-6">" Aerlytix has a strong development team guided by experienced individuals. This allows us to deliver fast without compromising on quality, and I'm thrilled to be a part of it! "</blockquote>
+        <figure class="pe-md-7">
+            <blockquote class="display-6">" Aerlytix has given me the opportunity to really challenge myself while working to design, test and plan the best user experiences. Our clients expect the best and we do not compromise on quality. "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
                 <div class="flex-grow-1 ms-3 ms-md-0">
@@ -110,32 +127,9 @@ summary: "Our mission is to transform aviation finance with technology and analy
             <blockquote class="display-6">" 2022 has got off to a great start and here in Aerlytix we are eager and excited to continue our mission and reach new heights. Our team are experts in their field and together we look forward to reshaping the industry with our clients. "</blockquote>
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
-                <div class="flex-shrink-0 d-md-none">
-                  <img class="avatar avatar-circle" src="./assets/img/160x160/img4.jpg" alt="Image Description">
-                </div>
                 <div class="flex-grow-1 ms-3 ms-md-0">
                   Nancy Derby
                   <span class="blockquote-footer-source"> - Head of Business Development</span>
-                </div>
-              </div>
-            </figcaption>
-          </figure>
-        </div>
-      </div> <!-- end of row  -->
-    </div>
-    <div class="carousel-item">
-      <div class="row align-items-md-center">
-        <div class="col-md-12">
-          <figure class="pe-md-7">
-            <blockquote class="display-6">" Aerlytix has given me and the team the opportunity of working with very innovative and forward-thinking clients. There is never a dull day, and we are in the business of transforming the industry together! "</blockquote>
-            <figcaption class="blockquote-footer">
-              <div class="d-flex align-items-center">
-                <div class="flex-shrink-0 d-md-none">
-                  <img class="avatar avatar-circle" src="./assets/img/160x160/img4.jpg" alt="Image Description">
-                </div>
-                <div class="flex-grow-1 ms-3 ms-md-0">
-                  Seán Garvey
-                  <span class="blockquote-footer-source"> - Senior Consultant</span>
                 </div>
               </div>
             </figcaption>

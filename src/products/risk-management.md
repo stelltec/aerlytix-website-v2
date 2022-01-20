@@ -1,6 +1,6 @@
 ---
 title: 'Risk Management'
-header: 'Manage risk, improve decision-making and simplify processes and controls'
+header: 'Efficient risk management, improved decision-making and simplified processes'
 # summary: 'Manage risk, improve decision making and simplify processes and controls.'
 ---
 
@@ -10,7 +10,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Portfolio Exposure Analysis</h2>
-      <p class="display-7">Monitor maintenance & lease exposures across a portfolio with drill-down capability to high-risk assets.</p>
+      <p class="display-7">Maintenance & lease exposure monitoring across a portfolio with drill-down capability to high-risk assets.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -50,7 +50,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Sensitivity & Stress-Test Analysis</h2>
-      <p class="display-7">Monitor aggregate portfolio sensitivities to shocks ranging from operator utilization levels to engine time-on-wing, to many others.</p>
+      <p class="display-7">Monitoring aggregate portfolio sensitivities to shocks ranging from operator utilization levels to engine time-on-wing, amongst others.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -90,7 +90,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Risk-Adjusted Pricing</h2>
-      <p class="display-7">Introduce risk-adjusted pricing & valuation benchmarks by combining asset exposures with lessee credit ratings.</p>
+      <p class="display-7">Risk-adjusted pricing & valuation benchmarks with combined asset exposures and lessee credit ratings.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -125,7 +125,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Internal Ratings</h2>
-      <p class="display-7">Automated credit-adjusted benchmarks by set parameters, to enable consistent  decision making on asset acquisition to remarketing.</p>
+      <p class="display-7">Automated credit-adjusted benchmarks by set parameters, to enable consistent decision making on asset acquisition to remarketing.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -167,7 +167,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
 </svg>
         </div>
         <h4>Reporting</h4>
-        <p>Customised reporting & alerts notifying of events that require highlighting</p>
+        <p>Customised reporting & events notification alerts.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -185,7 +185,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
 </svg>
         </div>
         <h4>Credit Rating</h4>
-        <p>Automated credit ratings driven by API-connected lessee financial data as well as non-financial fleet data.</p>
+        <p>Automated credit ratings driven by API-connected lessee’s financial data, in addition to specified fleet data.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -194,7 +194,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
 </svg>
         </div>
         <h4>Recovery Value</h4>
-        <p>Analyse recovery values and default probabilities.</p>
+        <p>Recovery values and default probabilities analysis.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -212,7 +212,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
 </svg>
         </div>
         <h4>Impairment Assessment</h4>
-        <p>The Aerlytix repossession model forecasts recovery values and default probabilities.</p>
+        <p>Aerlytix repossession model.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -221,7 +221,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
 </svg>
         </div>
         <h4>Risk Concentration</h4>
-        <p>Manage portfolio concentration targets, limits & restrictions.</p>
+        <p>Portfolio concentration targets, limits & restrictions management.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -230,7 +230,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
 </svg>
         </div>
         <h4>Permissions</h4>
-        <p>Full permissions-based functionality for most up-to-date and approved ratings</p>
+        <p>Full permissions-based functionality for most up-to-date and approved ratings.</p>
       </div>
     </div>
 </div>
