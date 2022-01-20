@@ -54,7 +54,7 @@ header: 'Streamlined commercial operations and lease negotiations'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Deal Analysis</h2>
-      <p class="display-7">Potential LOIs creation and appraisal at a level of detail appropriate to the stage of negotiation.</p>
+      <p class="display-7">Creation and appraisal of potential deals at level of detail pertaining to stage of negotiation.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -99,7 +99,7 @@ header: 'Streamlined commercial operations and lease negotiations'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Lease Structuring and Amendments</h2>
-      <p class="display-7">Create unlimited amendment scenarios of existing contracted leases.</p>
+      <p class="display-7">Unlimited amendment scenario creation of existing contracted leases.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -148,8 +148,8 @@ header: 'Streamlined commercial operations and lease negotiations'
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
-      <h2 class="h1">Asset Monitor</h2>
-      <p class="display-7">Monitor upcoming portfolio maintenance events with component level drill-down.</p>
+      <h2 class="h1">Asset Monitoring</h2>
+      <p class="display-7">Upcoming asset or portfolio maintenance events monitoring with component level drill-down.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -187,7 +187,7 @@ header: 'Streamlined commercial operations and lease negotiations'
 
 <article class="section__spacing-03 mt-5 mb-5 pt-5">
 <div class="container">
-<h2 class="h1">And more...</h2>
+<h2 class="h1">In addition...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -196,7 +196,7 @@ header: 'Streamlined commercial operations and lease negotiations'
 </svg>
         </div>
         <h4>Reporting</h4>
-        <p>Integrate actual historical asset cashflows for lifetime reporting.</p>
+        <p>Integration of actual historical asset cashflows for lifetime reporting.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -205,7 +205,7 @@ header: 'Streamlined commercial operations and lease negotiations'
 </svg>
         </div>
         <h4>CMS Connectivity</h4>
-        <p>Integration to any in-house or external CMS solutions.</p>
+        <p>Integration to any in-house or external CMS systems.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -214,7 +214,7 @@ header: 'Streamlined commercial operations and lease negotiations'
 </svg>
         </div>
         <h4>CRM Integration</h4>
-        <p>Track opportunities evolution with integration to any CRM solutions.</p>
+        <p>Opportunity evolution tracking with integration to any CRM solutions.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -223,7 +223,7 @@ header: 'Streamlined commercial operations and lease negotiations'
 </svg>
         </div>
         <h4>Contract Monitoring</h4>
-        <p>Breakdown of data on each account, discrepancies and terms monitor.</p>
+        <p>Breakdown of data on each account, discrepancies and terms monitoring.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -250,7 +250,7 @@ header: 'Streamlined commercial operations and lease negotiations'
 </svg>
         </div>
         <h4>Reconciliations</h4>
-        <p>Credits and Adjustments tracking through BI tools.</p>
+        <p>Credits and adjustments tracking through BI tools.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -258,8 +258,8 @@ header: 'Streamlined commercial operations and lease negotiations'
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>Real-time Re/Negotiations</h4>
-        <p>Running complex calculations across a very large number of scenarios.</p>
+        <h4>Negotiations</h4>
+        <p>Instant conduction of complex calculations across a large number of scenarios.</p>
       </div>
     </div>
 </div>
