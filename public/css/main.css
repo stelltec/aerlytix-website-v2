@@ -12104,7 +12104,7 @@ a {
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid #f0f0f0;
-  background: rgba(255, 255, 255, 0.5);
+  background: white;
 }
 .navbar .navbar-nav {
   margin: auto;
@@ -12243,8 +12243,8 @@ a {
   background: url(../images/card-11.svg) 0 0 no-repeat;
 }
 .body-contact-us {
-  background: url(../images/gradient-fade-01.png) -90rem -80rem no-repeat;
-  background-size: 4000px;
+  background: #F3F5FB url(../images/abstract-background-1-contact.jpg) 0 0 no-repeat;
+  background-size: 1400px;
 }
 .body-contact-us .header__common {
   padding: 4rem 0 0rem;
@@ -12276,6 +12276,15 @@ a {
 
 /* Featurettes
 ------------------------- */
+b {
+  background: #2B5DC1;
+  background: -webkit-linear-gradient(to bottom right, #2B5DC1 0%, #233F74 100%);
+  background: -moz-linear-gradient(to bottom right, #2B5DC1 0%, #233F74 100%);
+  background: linear-gradient(to bottom right, #2B5DC1 0%, #233F74 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .featurette {
   align-items: center;
 }

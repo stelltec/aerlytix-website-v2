@@ -1,6 +1,6 @@
 ---
 title: 'Commercial Asset Management'
-header: 'Optimize lease negotiations with streamlined commercial operations'
+header: 'Streamlined commercial operations and lease negotiations'
 # summary: "We have the experience, expertise and innovation to rapidly step in with flexible, high performance tools and minimal interruption, empowering our clients' decision-making process."
 ---
 <!-- Start marketing section -->
@@ -54,7 +54,7 @@ header: 'Optimize lease negotiations with streamlined commercial operations'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Deal Analysis</h2>
-      <p class="display-7">Create and appraise potential LOIs at a level of detail appropriate to the stage of negotiation.</p>
+      <p class="display-7">Potential LOIs creation and appraisal at a level of detail appropriate to the stage of negotiation.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
