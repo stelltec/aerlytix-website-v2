@@ -11945,26 +11945,50 @@ a {
 .products__pricing-and-trading {
   background: url(../images/product/pricing-abstract.jpg) 0 0 no-repeat;
   background-size: cover;
+  transition: all 0.5s;
+}
+.products__pricing-and-trading:hover {
+  transform: scale(1.05);
 }
 .products__maintenance-and-lease-management {
   background: url(../images/product/maintenance-abstract.jpg) 0 0 no-repeat;
   background-size: cover;
+  transition: all 0.5s;
+}
+.products__maintenance-and-lease-management:hover {
+  transform: scale(1.05);
 }
 .products__commercial-asset-management {
   background: url(../images/product/commercial-abstract.jpg) 0 0 no-repeat;
   background-size: cover;
+  transition: all 0.5s;
+}
+.products__commercial-asset-management:hover {
+  transform: scale(1.05);
 }
 .products__risk-management {
   background: url(../images/product/risk-abstract.jpg) 0 0 no-repeat;
   background-size: cover;
+  transition: all 0.5s;
+}
+.products__risk-management:hover {
+  transform: scale(1.05);
 }
 .products__fleet-monitoring-system {
   background: url(../images/product/fleet-abstract.jpg) 0 0 no-repeat;
   background-size: cover;
+  transition: all 0.5s;
+}
+.products__fleet-monitoring-system:hover {
+  transform: scale(1.05);
 }
 .products__consulting-and-integrations {
   background: url(../images/product/consulting-abstract.jpg) 0 0 no-repeat;
   background-size: cover;
+  transition: all 0.5s;
+}
+.products__consulting-and-integrations:hover {
+  transform: scale(1.05);
 }
 
 .solutions {
@@ -11986,9 +12010,17 @@ a {
 }
 .solutions__investors {
   background: #233F74 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
+  transition: all 0.5s;
+}
+.solutions__investors:hover {
+  transform: scale(1.05);
 }
 .solutions__lessors {
   background: #233F74 url(../images/lessors-illustration.svg) 50% -4rem no-repeat;
+  transition: all 0.5s;
+}
+.solutions__lessors:hover {
+  transform: scale(1.05);
 }
 .solutions .border-top {
   border-top: 1px solid rgba(255, 255, 255, 0.4) !important;

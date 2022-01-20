@@ -228,7 +228,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 </svg>
         </div>
         <h4>P &amp; L Impact Analysis</h4>
-        <p>P&L impact analysis on maintenance and lease strategies.</p>
+        <p>P & L impact analysis on maintenance and lease strategies.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">

@@ -158,7 +158,7 @@ header: 'Efficient risk management, improved decision-making and simplified proc
 
 <article class="section__product section__spacing-03 mt-5 mb-5 pt-5">
 <div class="container">
-<h2>And more...</h2>
+<h2>In addition...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
