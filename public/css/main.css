@@ -12317,6 +12317,24 @@ a {
   background-size: cover;
   color: white;
 }
+.body-lessors .header__common {
+  background: var(--bg-dark-blue) url(../images/lessors-illustration.svg) 100% -30rem no-repeat;
+  background-size: 1400px;
+  color: white;
+}
+.body-lessors .text-tag {
+  color: var(--green);
+  border-color: var(--green);
+}
+.body-investors-and-lenders .header__common {
+  background: var(--bg-dark-blue) url(../images/investors-lenders-illustration.svg) 100% -30rem no-repeat;
+  background-size: 1000px;
+  color: white;
+}
+.body-investors-and-lenders .text-tag {
+  color: var(--green);
+  border-color: var(--green);
+}
 .body-request-demo {
   background: url(../images/card-11.svg) 0 0 no-repeat;
 }
