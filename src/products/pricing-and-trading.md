@@ -10,7 +10,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Acquisitions & Divestitures</h2>
-      <p class="display-7">Manage asset origination and trading efforts efficiently and collaboratively through a centralized blotter.</p>
+      <p class="display-7">Efficient and collaborative asset origination and trading efforts, managed/funnelled through a centralized blotter.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -47,7 +47,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Portfolio Pricing Analysis</h2>
-      <p class="display-7">User friendly asset pricing with the added benefit of multiple sensitivity outputs in seconds.</p>
+      <p class="display-7">User friendly asset pricing with instantaneous multiple sensitivity outputs.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -81,8 +81,8 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">Risk Adjusted Pricing</h2>
-      <p class="display-7">Apply risk-adjusted pricing from Aerlytix credit models and stress test specific exposures on individual asset or across a portfolio.</p>
+      <h2 class="h1">Risk-adjusted</h2>
+      <p class="display-7">Risk-adjusted pricing & valuation benchmarks by combining asset exposures with lessee credit ratings.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -126,7 +126,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
-      <h2 class="h1">Compare opportunities</h2>
+      <h2 class="h1">Opportunities Comparison</h2>
       <p class="display-7">"Rack n' stack" opportunities, cashflow composition and maintenance event scenarios.</p>
     </div>
     <div class="card col-md-5 order-md-1">
@@ -165,7 +165,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 
 <article class="section__spacing-03 mt-5 mb-5 pt-5">
 <div class="container">
-<h2 class="h1">And more...</h2>
+<h2 class="h1">In addition...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -192,7 +192,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 </svg>
         </div>
         <h4>Cashflow Analytics</h4>
-        <p>Perform detailed levered IRR & NPV analysis.</p>
+        <p>Detailed levered IRR & NPV analysis.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -201,7 +201,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 </svg>
         </div>
         <h4>Automation</h4>
-        <p>Flexible UI enables pricing of external aircraft in minutes.</p>
+        <p>Flexible user interface enabling pricing of external aircraft in minutes.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -210,7 +210,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 </svg>
         </div>
         <h4>CRM Connectivity</h4>
-        <p>Track opportunities evolution with integration to any CRM solutions.</p>
+        <p>Opportunity evolution tracking with integration to any CRM solutions.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -219,7 +219,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 </svg>
         </div>
         <h4>Forecasting</h4>
-        <p>Forecast aircraft NBV for economic useful lives and residual values.</p>
+        <p>Aircraft NBV for economic useful lives and residual values.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -228,7 +228,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 </svg>
         </div>
         <h4>P &amp; L Impact Analysis</h4>
-        <p>Perform P&L impact analysis on maintenance and lease strategies.</p>
+        <p>P&L impact analysis on maintenance and lease strategies.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -237,7 +237,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 </svg>
         </div>
         <h4>Collateral Security</h4>
-        <p>Instant view of changes impact to the MR and EOL compensation cashflows.</p>
+        <p>Instant visibility of applied changes’ impact to the MR and EOL compensation cashflows.</p>
       </div>
     </div>
 </div>
