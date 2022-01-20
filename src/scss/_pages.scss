@@ -79,6 +79,10 @@
             background-size: cover;
             color: white;
         }
+        .text-tag {
+            color: var(--green);
+            border-color:var(--green);
+        }
     }
 
     &-lessors {

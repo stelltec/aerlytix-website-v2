@@ -10,7 +10,7 @@ header: "System integrations and data-driven services led by highly skilled cons
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Simplifying Data</h2>
-      <p class="display-7">We provide a data cleansing and integration services; we partner with our clients ensuring a successful journey.</p>
+      <p class="display-7">Data cleansing and integration services.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -70,7 +70,7 @@ header: "System integrations and data-driven services led by highly skilled cons
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Process Automation</h2>
-      <p class="display-7">We strive to streamline and automate workflows, removing mundane tasks and allowing clients to focus on adding value to their business.</p>
+      <p class="display-7">Streamlined and automated workflows services.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -105,7 +105,7 @@ header: "System integrations and data-driven services led by highly skilled cons
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Modelling and Analysis</h2>
-      <p class="display-7">We have best-in-class modelling and analysis services, including bespoke credit model and ESG modelling.</p>
+      <p class="display-7">Best-in-class modelling and analysis services, including bespoke credit and ESG modelling.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -140,7 +140,7 @@ header: "System integrations and data-driven services led by highly skilled cons
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Integration</h2>
-      <p class="display-7">Interconnecting systems allowing seamless data flow that drives automation.</p>
+      <p class="display-7">Interconnecting systems for seamless data flow to drive automation.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -173,7 +173,7 @@ header: "System integrations and data-driven services led by highly skilled cons
 
 <article class="section__spacing-03 mt-5 mb-5 pt-5">
 <div class="container">
-<h2 class="h1">And more...</h2>
+<h2 class="h1">And addition...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -226,8 +226,8 @@ header: "System integrations and data-driven services led by highly skilled cons
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>SSOT</h4>
-        <p>Enable a single source of truth.</p>
+        <h4>Single Source of Truth</h4>
+        <p>Enabling a single source of truth to streamline efficiency and accuracy.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -236,7 +236,7 @@ header: "System integrations and data-driven services led by highly skilled cons
 </svg>
         </div>
         <h4>Integrations</h4>
-        <p>Systems implementations and integrations.</p>
+        <p>Systems implementation and integrations.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">

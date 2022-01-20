@@ -12317,6 +12317,10 @@ a {
   background-size: cover;
   color: white;
 }
+.body-about-us .text-tag {
+  color: var(--green);
+  border-color: var(--green);
+}
 .body-lessors .header__common {
   background: var(--bg-dark-blue) url(../images/lessors-illustration.svg) 100% -30rem no-repeat;
   background-size: 1400px;
