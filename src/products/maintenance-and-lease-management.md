@@ -1,6 +1,6 @@
 ---
 title: "Maintenance & Lease Management"
-header: "Manage exposures at all levels, from individual components to assets and portfolios"
+header: "Asset and portfolio exposure management at all levels"
 ---
 
 <!-- Start marketing section -->
@@ -114,7 +114,7 @@ header: "Manage exposures at all levels, from individual components to assets an
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Utilization adjustments</h2>
-      <p class="display-7">Forecast and compare a spectrum of operating profiles by varying parameters and ratios.</p>
+      <p class="display-7">Forecast and comparison of operating profiles by varying parameters and ratios.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -154,7 +154,7 @@ header: "Manage exposures at all levels, from individual components to assets an
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Opportunities & Amendments</h2>
-      <p class="display-7">Create unlimited follow-on leases or amendment scenarios and instantly appraise conditions impact.</p>
+      <p class="display-7">Creation of unlimited follow-on leases or amendment scenarios for on-the-fly asset condition analysis.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -192,7 +192,7 @@ header: "Manage exposures at all levels, from individual components to assets an
 
 <article class="section__spacing-03 mt-5 mb-5 pt-5">
 <div class="container">
-<h2 class="h1">And more...</h2>
+<h2 class="h1">In addition...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -210,7 +210,7 @@ header: "Manage exposures at all levels, from individual components to assets an
 </svg>
         </div>
         <h4>P &amp; L Analysis</h4>
-        <p>Perform P&L impact analysis on maintenance and lease strategies.</p>
+        <p>P & L impact analysis on maintenance and lease strategies. </p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -219,7 +219,7 @@ header: "Manage exposures at all levels, from individual components to assets an
 </svg>
         </div>
         <h4>Redelivery</h4>
-        <p>Perform "what-if’ impact analysis on Redelivery Conditions.</p>
+        <p>"What-if" impact analysis of redelivery conditions.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -228,7 +228,7 @@ header: "Manage exposures at all levels, from individual components to assets an
 </svg>
         </div>
         <h4>CMS Connectivity</h4>
-        <p>Integration to any in-house or external CMS solutions.</p>
+        <p>Integration to any in-house or external CMS systems.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -237,7 +237,7 @@ header: "Manage exposures at all levels, from individual components to assets an
 </svg>
         </div>
         <h4>Condition Analysis</h4>
-        <p>Imposing/waiving conditions analysis per engine or component levels.</p>
+        <p>Analysis of imposing/waiving conditions per component or engine.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -264,7 +264,7 @@ header: "Manage exposures at all levels, from individual components to assets an
 </svg>
         </div>
         <h4>Maintenance Analysis</h4>
-        <p>Refine and analyse engine performance restoration flight-hour-intervals.</p>
+        <p>Refinement and analysis of engine performance restoration flight-hour-intervals.</p>
       </div>
     </div>
 </div>
