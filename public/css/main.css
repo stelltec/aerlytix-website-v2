@@ -11942,6 +11942,30 @@ a {
 .products .border-top {
   border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
 }
+.products__pricing-and-trading {
+  background: url(../images/product/pricing-abstract.jpg) 0 0 no-repeat;
+  background-size: cover;
+}
+.products__maintenance-and-lease-management {
+  background: url(../images/product/maintenance-abstract.jpg) 0 0 no-repeat;
+  background-size: cover;
+}
+.products__commercial-asset-management {
+  background: url(../images/product/commercial-abstract.jpg) 0 0 no-repeat;
+  background-size: cover;
+}
+.products__risk-management {
+  background: url(../images/product/risk-abstract.jpg) 0 0 no-repeat;
+  background-size: cover;
+}
+.products__fleet-monitoring-system {
+  background: url(../images/product/fleet-abstract.jpg) 0 0 no-repeat;
+  background-size: cover;
+}
+.products__consulting-and-integrations {
+  background: url(../images/product/consulting-abstract.jpg) 0 0 no-repeat;
+  background-size: cover;
+}
 
 .solutions {
   background: url(../images/pattern-home.svg) 90% 2rem no-repeat, url(../images/pattern-home.svg) 2% 100% no-repeat;
@@ -11961,7 +11985,7 @@ a {
   flex-grow: 1;
 }
 .solutions__investors {
-  background: #2B5DC1 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
+  background: #233F74 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
 }
 .solutions__lessors {
   background: #233F74 url(../images/lessors-illustration.svg) 50% -4rem no-repeat;
@@ -12233,6 +12257,60 @@ a {
     left: 0px;
     width: 100%;
   }
+}
+.body-pricing-and-trading .header__common {
+  background: #F6F8FE url(../images/abstract-background_pricing-trading.jpg) 0 0 no-repeat;
+  background-size: cover;
+  color: white;
+}
+.body-pricing-and-trading .header__common .text-tag {
+  color: var(--green);
+  border-color: var(--green);
+}
+.body-maintenance-and-lease-management .header__common {
+  background: #F6F8FE url(../images/abstract-background_maintenance.jpg) 0 0 no-repeat;
+  background-size: cover;
+  color: white;
+}
+.body-maintenance-and-lease-management .text-tag {
+  color: var(--green);
+  border-color: var(--green);
+}
+.body-commercial-asset-management .header__common {
+  background: #F6F8FE url(../images/abstract-background_commercial.jpg) 0 0 no-repeat;
+  background-size: cover;
+  color: white;
+}
+.body-commercial-asset-management .text-tag {
+  color: var(--green);
+  border-color: var(--green);
+}
+.body-risk-management .header__common {
+  background: #F6F8FE url(../images/abstract-background_risk.jpg) 0 0 no-repeat;
+  background-size: cover;
+  color: white;
+}
+.body-risk-management .text-tag {
+  color: var(--green);
+  border-color: var(--green);
+}
+.body-fleet-monitoring-system .header__common {
+  background: #F6F8FE url(../images/abstract-background_fleet.jpg) 0 0 no-repeat;
+  background-size: cover;
+  color: white;
+}
+.body-fleet-monitoring-system .text-tag {
+  color: var(--green);
+  border-color: var(--green);
+}
+.body-consulting-and-integrations .header__common {
+  background: #F6F8FE url(../images/abstract-background_consulting.jpg) 0 0 no-repeat;
+  background-size: cover;
+  color: white;
+}
+.body-consulting-and-integrations .text-tag {
+  color: var(--green);
+  border-color: var(--green);
 }
 .body-about-us .header__common {
   background: #F6F8FE url(../images/abstract-background-1.jpg) 0 0 no-repeat;

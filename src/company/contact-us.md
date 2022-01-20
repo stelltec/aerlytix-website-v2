@@ -28,7 +28,7 @@ header: "Contact Us"
             </div>
             <h3>Call us:</h3>
             <p>Call to speak to a member of our team.</p>
-            <p><a class="h4" href="tel:0035316077070">+353 (0)1 607 7070</a></p>
+            <p><a class="h4" href="tel:0035315392929">+353 (0)1 539 29 29</a></p>
         </div>
       </div>
       <div class="col mb-4">

@@ -16,7 +16,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 
 <article class="about-us__inception bg-dark-blue text-white">
     <div class="container">
-            <h2>As one of the fastest growing aviation technology companies in Ireland, we have built a reputation as a leading high-end SaaS product developer by hiring the right talent and building long term partnerships with our clients.</h2>
+            <h2 class="display-4">As one of the fastest growing aviation technology companies in Ireland, we have built a reputation as a leading high-end SaaS product developer by hiring the right talent and building long term partnerships with our clients.</h2>
     </div>
     <svg class="about-us__inception--graph-1" width="200" height="180" viewBox="0 0 467 362" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="13" cy="109" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="13" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="13" cy="301" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="109" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="157" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="301" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="349" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="61" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="157" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="160" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/>

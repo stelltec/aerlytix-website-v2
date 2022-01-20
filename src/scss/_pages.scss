@@ -1,17 +1,77 @@
 .body {
-    // &-pricing-and-trading {
-    //     .header__common {
-    //         background: #F6F8FE url(../images/product/pricing-trading-illustration.svg) 98% 10% no-repeat;
-    //         background-size: 40rem;
-    //     }
-    // }
+    &-pricing-and-trading {
+        .header__common {
+            background: #F6F8FE url(../images/abstract-background_pricing-trading.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+            background-size: cover;
+            color: white;
 
-    // &-maintenance-and-lease-management {
-    //     .header__common {
-    //         background: #F6F8FE url(../images/product/maintenance-and-lease-management-illustration.svg) 98% 50% no-repeat;
-    //         background-size: 40rem;
-    //     }
-    // }
+            .text-tag {
+                color: var(--green);
+                border-color:var(--green);
+            }
+        }
+    }
+
+    &-maintenance-and-lease-management {
+        .header__common {
+            background: #F6F8FE url(../images/abstract-background_maintenance.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+            background-size: cover;
+            color: white;
+        }
+        .text-tag {
+            color: var(--green);
+            border-color:var(--green);
+        }
+    }
+
+    &-commercial-asset-management {
+        .header__common {
+            background: #F6F8FE url(../images/abstract-background_commercial.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+            background-size: cover;
+            color: white;
+        }
+        .text-tag {
+            color: var(--green);
+            border-color:var(--green);
+        }
+    }
+
+    &-risk-management {
+        .header__common {
+            background: #F6F8FE url(../images/abstract-background_risk.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+            background-size: cover;
+            color: white;
+        }
+        .text-tag {
+            color: var(--green);
+            border-color:var(--green);
+        }
+    }
+
+    &-fleet-monitoring-system {
+        .header__common {
+            background: #F6F8FE url(../images/abstract-background_fleet.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+            background-size: cover;
+            color: white;
+        }
+        .text-tag {
+            color: var(--green);
+            border-color:var(--green);
+        }
+    }
+
+    &-consulting-and-integrations {
+        .header__common {
+            background: #F6F8FE url(../images/abstract-background_consulting.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+            background-size: cover;
+            color: white;
+        }
+        .text-tag {
+            color: var(--green);
+            border-color:var(--green);
+        }
+    }
+
 
     &-about-us {
         .header__common {

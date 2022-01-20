@@ -176,7 +176,7 @@ header: 'Manage risk, improve decision-making and simplify processes and control
 </svg>
         </div>
         <h4>Portfolio Risk</h4>
-        <p>Aggregate & Slice exposures by portfolio, operator or asset type.</p>
+        <p>Aggregate & slice exposures by portfolio, operator or asset type.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
