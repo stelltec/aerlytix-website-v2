@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-header: "About Us"
+header: "About us"
 summary: "Our mission is to transform aviation finance with technology and analytics."
 ---
 
@@ -16,7 +16,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 
 <article class="about-us__inception bg-dark-blue text-white">
     <div class="container">
-            <h2 class="display-4">As one of the fastest growing aviation technology companies in Ireland, Aerlytix have built a reputation as a leading high-end SaaS product developer by hiring the right talent and building long term partnerships with our clients.</h2>
+            <h2 class="display-4">As one of the fastest growing aviation technology companies in Ireland, we have built a reputation as a leading high-end SaaS product developer by hiring the right talent and building long term partnerships with our clients.</h2>
     </div>
     <svg class="about-us__inception--graph-1" width="300" height="240" viewBox="0 0 467 362" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="13" cy="109" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="13" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="13" cy="301" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="109" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="157" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="301" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="62" cy="349" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="61" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="157" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="111" cy="253" r="12" stroke="#2B5DC1" stroke-width="2"/><circle cx="160" cy="13" r="12" stroke="#2B5DC1" stroke-width="2"/>
@@ -35,18 +35,18 @@ summary: "Our mission is to transform aviation finance with technology and analy
 <article class="my-5 py-5">
 <div class="container">
 
-<h2>Core principles of our business</h2>
+<h2 class="h1">Core principles of our business</h2>
 <div class="row mt-5">
       <div class="col-lg-4">
-        <h4 class="fw-bold">Knowledgeable</h4>
+        <h4 class="fw-bold pb-2">Knowledgeable</h4>
         <p>We know aviation finance. We have built an incredible team with extensive insights into the nuances and complexities of aviation finance, harnessing this knowledge to build and develop powerful and efficient solutions.</p>
       </div>
       <div class="col-lg-4">
-        <h4 class="fw-bold">Transformative</h4>
+        <h4 class="fw-bold pb-2">Transformative</h4>
         <p>We aim to shape decision-making within the industry by providing technology and analytics solutions to transform process and bring clarity to decision-making.</p>
       </div>
       <div class="col-lg-4">
-        <h4 class="fw-bold">Customer-centric</h4>
+        <h4 class="fw-bold pb-2">Customer-centric</h4>
         <p>Building specialist technology requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to evolve as our clients evolve, delivering forward-thinking solutions.</p>
       </div>
     </div>

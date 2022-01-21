@@ -1,6 +1,6 @@
 ---
 title: "Investors & Lenders"
-header: "Better-Informed Aviation Investments"
+header: "Better-informed aviation investments"
 summary: "Simplifying the complexities of aviation finance and investments"
 ---
 

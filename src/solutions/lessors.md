@@ -1,7 +1,7 @@
 ---
 title: "Lessors"
 header: "Actionable insights from connected data"
-summary: "Maintain a competitive advantage through real-time data analytics and connected asset condition."
+summary: "Competitive advantage through real-time data analytics and connected asset condition."
 ---
 
 <!-- Start marketing section -->

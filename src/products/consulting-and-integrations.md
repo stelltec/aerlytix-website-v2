@@ -209,7 +209,7 @@ header: "System integrations and data-driven services led by highly skilled cons
 </svg>
         </div>
         <h4>DevOps</h4>
-        <p>AI/Machine learning infrastructure, reengineering & migration.</p>
+        <p>AI/Machine learning infrastructure, reengineering and migration.</p>
       </div>
     <div class="feature col">
         <div class="feature-icon feature-icon--success">

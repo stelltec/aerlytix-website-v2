@@ -223,7 +223,7 @@ header: "Aircraft and fleet utilization monitoring"
 </svg>
         </div>
         <h4>Global Fleet Trends</h4>
-        <p>Easy trends analysis by condensing millions of flight data points.</p>
+        <p>Easy trend analysis, condensing global fleet data.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
