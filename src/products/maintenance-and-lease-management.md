@@ -113,7 +113,7 @@ header: "Asset and portfolio exposure management at all levels"
 <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">Utilization adjustments</h2>
+      <h2 class="h1">Utilization Adjustments</h2>
       <p class="display-7">Forecast and comparison of operating profiles by varying parameters and ratios.</p>
     </div>
     <div class="card col-md-5">

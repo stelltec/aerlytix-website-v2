@@ -85,7 +85,7 @@ summary: "Simplifying the complexities of aviation finance and investments"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Decision Support</h2>
-      <p class="display-7">Aerlytix provides a 360-degree view, allowing aviation investors to maximise value and analyse exit opportunities through optimal investment management.</p>
+      <p class="display-7">Aerlytix allows aviation investors to maximise value and analyse exit opportunities through optimal investment visibility.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
