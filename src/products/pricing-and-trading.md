@@ -82,7 +82,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Risk-adjusted</h2>
-      <p class="display-7">Risk-adjusted pricing and valuation benchmarks by combining asset exposures with lessee credit ratings.</p>
+      <p class="display-7">Risk-adjusted pricing and valuation benchmarks that combine asset exposures with lessee credit ratings.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -167,16 +167,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 <div class="container">
 <h2 class="h1">In addition...</h2>
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
-      <div class="feature col">
-        <div class="feature-icon feature-icon--success">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
-</svg>
-        </div>
-        <h4>Reporting</h4>
-        <p>Full reporting suite with intuitive and easy charting.</p>
-      </div>
-      <div class="feature col">
+ <div class="feature col">
         <div class="feature-icon feature-icon--success">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
@@ -200,7 +191,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>Automation</h4>
+        <h4>Enhance Productivity</h4>
         <p>Intuitive user interface enabling pricing of external aircraft in minutes.</p>
       </div>
     <div class="feature col">
@@ -211,33 +202,6 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
         </div>
         <h4>CRM Connectivity</h4>
         <p>Opportunity evolution tracking with integration to any CRM solutions.</p>
-      </div>
-      <div class="feature col">
-        <div class="feature-icon feature-icon--success">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
-</svg>
-        </div>
-        <h4>Forecasting</h4>
-        <p>Aircraft NBV for economic useful lifes and residual values.</p>
-      </div>
-      <div class="feature col">
-        <div class="feature-icon feature-icon--success">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
-</svg>
-        </div>
-        <h4>P &amp; L Impact Analysis</h4>
-        <p>P & L impact analysis on maintenance and lease strategies.</p>
-      </div>
-      <div class="feature col">
-        <div class="feature-icon feature-icon--success">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
-</svg>
-        </div>
-        <h4>Collateral Security</h4>
-        <p>Instant visibility of applied changes’ impact to the MR and EOL compensation cashflows.</p>
       </div>
     </div>
 </div>

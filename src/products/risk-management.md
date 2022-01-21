@@ -1,6 +1,6 @@
 ---
 title: 'Risk Management'
-header: 'Efficient risk management and faster risk-aware decisions through connected data'
+header: 'Efficient risk management with connected data'
 # summary: 'Manage risk, improve decision making and simplify processes and controls.'
 ---
 
@@ -10,7 +10,7 @@ header: 'Efficient risk management and faster risk-aware decisions through conne
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Portfolio Exposure Analysis</h2>
-      <p class="display-7">Maintenance & lease exposures monitoring across a portfolio with drill-down capability to high-risk assets.</p>
+      <p class="display-7">Maintenance and lease exposures monitoring across a portfolio with drill-down capability to high-risk assets.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
