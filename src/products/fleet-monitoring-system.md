@@ -10,7 +10,7 @@ header: "Aircraft and fleet utilization monitoring"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Portfolio Monitoring</h2>
-      <p class="display-7">Tracking owned or managed assets' utilization, highlighting exceptions and jurisdictional rule breaches.</p>
+      <p class="display-7">Tracking asset utilization, highlighting exceptions and jurisdictional rule breaches.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -204,7 +204,7 @@ header: "Aircraft and fleet utilization monitoring"
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>Status Alert</h4>
+        <h4>Status Alerts</h4>
         <p>Automated aircraft status driven by recent utilization.</p>
       </div>
       <div class="feature col">

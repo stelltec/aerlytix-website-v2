@@ -47,7 +47,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </div>
       <div class="col-lg-4">
         <h4 class="fw-bold pb-2">Customer-centric</h4>
-        <p>Building specialist technology requires intensive customer engagement. Beyond initial requirements gathering, we are always listening to client needs and never afraid to evolve as our clients evolve, delivering forward-thinking solutions.</p>
+        <p>Building specialist technology requires intensive customer engagement. Beyond initial requirements gathering and delivery, we are always listening to client needs and never afraid to evolve as our clients evolve.</p>
       </div>
     </div>
 </div>

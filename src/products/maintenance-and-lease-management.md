@@ -114,7 +114,7 @@ header: "Asset and portfolio exposure management at all levels"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Utilization Adjustments</h2>
-      <p class="display-7">Forecast and comparison of operating profiles by varying parameters and ratios.</p>
+      <p class="display-7">Forecast operating profiles by varying parameters and ratios.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -154,7 +154,7 @@ header: "Asset and portfolio exposure management at all levels"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Opportunities and Amendments</h2>
-      <p class="display-7">Creation of unlimited follow-on leases or amendment scenarios for on-the-fly asset condition analysis.</p>
+      <p class="display-7">On-the-fly asset condition analysis of follow-on leases or amendment scenarios.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -264,7 +264,7 @@ header: "Asset and portfolio exposure management at all levels"
 </svg>
         </div>
         <h4>Intervals Analysis</h4>
-        <p>Refinement and analysis of engine performance restoration flight-hour-intervals.</p>
+        <p>Engine performance restoration flight-hour-intervals.</p>
       </div>
     </div>
 </div>

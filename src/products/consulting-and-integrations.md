@@ -105,7 +105,7 @@ header: "System integrations and data-driven services led by highly skilled cons
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Modelling and Analysis</h2>
-      <p class="display-7">Best-in-class modelling and analysis services, including bespoke credit and ESG modelling.</p>
+      <p class="display-7">Best-in-class modelling and analysis services.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">

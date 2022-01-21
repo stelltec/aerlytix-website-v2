@@ -1,7 +1,7 @@
 ---
 title: "Investors & Lenders"
 header: "Better-informed aviation investments"
-summary: "Simplifying the complexities of aviation finance and investments"
+summary: "Simplifying aviation finance and investments"
 ---
 
 <!-- Start marketing section -->
@@ -45,7 +45,7 @@ summary: "Simplifying the complexities of aviation finance and investments"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
       <h2 class="h1">Real-time Analytics</h2>
-      <p class="display-7">The Aerlytix platform enables investors to execute complex investments and maintain a competitive advantage through real-time data analytics and connected asset condition.</p>
+      <p class="display-7">The Aerlytix platform enables investors to manage complex investments and maintain a competitive advantage through real-time data analytics and connected asset condition.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -85,7 +85,7 @@ summary: "Simplifying the complexities of aviation finance and investments"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Decision Support</h2>
-      <p class="display-7">Aerlytix allows aviation investors to maximise value and analyse exit opportunities through optimal investment visibility.</p>
+      <p class="display-7">Aerlytix allows aviation investors to maximise value and analyse exit opportunities.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">

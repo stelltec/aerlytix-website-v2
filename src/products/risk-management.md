@@ -90,7 +90,7 @@ header: 'Efficient risk management with connected data'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Risk-adjusted Pricing</h2>
-      <p class="display-7">Risk-adjusted pricing and valuation benchmarks with combined asset exposures and lessee credit ratings.</p>
+      <p class="display-7">Risk-adjusted pricing and valuation benchmarks that combine asset exposures with lessee credit ratings.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
