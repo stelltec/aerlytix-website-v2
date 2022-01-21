@@ -1,6 +1,6 @@
 ---
 title: 'Risk Management'
-header: 'Efficient risk management, improved decision-making and simplified processes'
+header: 'Efficient risk management and faster risk-aware decisions through connected data'
 # summary: 'Manage risk, improve decision making and simplify processes and controls.'
 ---
 

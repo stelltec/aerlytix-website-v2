@@ -8,7 +8,7 @@ header: "Asset and portfolio exposure management at all levels"
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">A 360-Degree View</h2>
+      <h2 class="h1">A 360-degree View</h2>
       <p class="display-7">Full maintenance forecasting suite integrated to a best-in-class lease cashflow forecasting model.</p>
     </div>
     <div class="card col-md-5">
