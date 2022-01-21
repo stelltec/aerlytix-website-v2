@@ -1,6 +1,6 @@
 ---
 title: "Fleet Monitoring System"
-header: "Aircraft and Fleet utilization monitoring"
+header: "Aircraft and fleet utilization monitoring"
 # summary: ""
 ---
 
@@ -10,7 +10,7 @@ header: "Aircraft and Fleet utilization monitoring"
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Portfolio Monitoring</h2>
-      <p class="display-7">Tracking owned or managed fleet utilization, highlighting exceptions and jurisdictional rule breaches.</p>
+      <p class="display-7">Tracking owned or managed assets' utilization, highlighting exceptions and jurisdictional rule breaches.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -54,7 +54,7 @@ header: "Aircraft and Fleet utilization monitoring"
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
-      <h2 class="h1">Global Fleet Monitoring</h2>
+      <h2 class="h1">Asset Operations</h2>
       <p class="display-7">Insights into an operator's aircraft usage and their continuing operations.</p>
     </div>
     <div class="card col-md-5 order-md-1">
@@ -99,7 +99,7 @@ header: "Aircraft and Fleet utilization monitoring"
 <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">Process & Controls</h2>
+      <h2 class="h1">Process and Controls</h2>
       <p class="display-7">Fleet monitoring collaborative processes, utilizing best practice controls, recording statuses and commentary on all aircraft.</p>
     </div>
     <div class="card col-md-5">
@@ -222,8 +222,8 @@ header: "Aircraft and Fleet utilization monitoring"
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>Global Fleet</h4>
-        <p>Easy analysis of trends across a fleet by condensing millions of flight data points.</p>
+        <h4>Global Fleet Trends</h4>
+        <p>Easy trends analysis by condensing millions of flight data points.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -241,7 +241,7 @@ header: "Aircraft and Fleet utilization monitoring"
 </svg>
         </div>
         <h4>Risk</h4>
-        <p>Monitor watch countries.</p>
+        <p>Monitoring of watch countries and asset utilization alerts.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">

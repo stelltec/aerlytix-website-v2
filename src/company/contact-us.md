@@ -56,7 +56,7 @@ header: "Contact Us"
       <div class="col-md-12 mb-4">
         <div class="card mb-4 rounded-6 contact-us__map-card">
           <div class="row g-0">
-            <div class="col-md-4">
+            <div class="col-md-4" style="display:flex; align-items: center">
               <div class="card-body pt-5 pb-5">
                 <div class="contact__icon mb-3">
                 <svg class="brand-color" xmlns="http://www.w3.org/2000/svg" width="2.5rem" height="2.5rem" fill="currentColor" class="bi bi-pin-map" viewBox="0 0 16 16">

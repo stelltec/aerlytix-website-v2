@@ -9,7 +9,7 @@ header: 'Streamlined commercial operations and lease negotiations'
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
       <h2 class="h1">Remarketing and Extensions</h2>
-      <p class="display-7">"Rack n’Stack" all future lease or extension scenarios on a dedicated remarketing dashboard.</p>
+      <p class="display-7">"Rack 'n' stack" all future lease or extension scenarios on a dedicated remarketing dashboard.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">

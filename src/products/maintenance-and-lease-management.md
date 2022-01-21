@@ -153,7 +153,7 @@ header: "Asset and portfolio exposure management at all levels"
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
-      <h2 class="h1">Opportunities & Amendments</h2>
+      <h2 class="h1">Opportunities and Amendments</h2>
       <p class="display-7">Creation of unlimited follow-on leases or amendment scenarios for on-the-fly asset condition analysis.</p>
     </div>
     <div class="card col-md-5 order-md-1">
@@ -237,7 +237,7 @@ header: "Asset and portfolio exposure management at all levels"
 </svg>
         </div>
         <h4>Condition Analysis</h4>
-        <p>Analysis of imposing/waiving conditions per component or engine.</p>
+        <p>Analysis of imposing or waiving conditions per component.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -254,8 +254,8 @@ header: "Asset and portfolio exposure management at all levels"
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>Maintenance Events</h4>
-        <p>A short and concise paragraph related to privacy and confidentiality.</p>
+        <h4>Maintenance Cost Analysis</h4>
+        <p>MR and EOL adequacy analysis.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -263,7 +263,7 @@ header: "Asset and portfolio exposure management at all levels"
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
 </svg>
         </div>
-        <h4>Maintenance Analysis</h4>
+        <h4>Intervals Analysis</h4>
         <p>Refinement and analysis of engine performance restoration flight-hour-intervals.</p>
       </div>
     </div>
