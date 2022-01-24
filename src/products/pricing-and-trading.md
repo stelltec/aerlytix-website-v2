@@ -219,7 +219,7 @@ header: 'Pricing, structuring and optimization suite for asset transactions'
 </svg>
         </div>
         <h4>Forecasting</h4>
-        <p>Aircraft NBV for economic useful lifes and residual values.</p>
+        <p>Aircraft NBV for economic useful life and residual values.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
