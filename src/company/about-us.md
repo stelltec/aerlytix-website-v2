@@ -43,7 +43,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </div>
       <div class="col-lg-4">
         <h4 class="fw-bold pb-2">Transformative</h4>
-        <p>We aim to shape decision-making within the industry by providing technology and analytics solutions to transform process and bring clarity to decision-making.</p>
+        <p>We aim to shape decision-making within the industry by providing technology and analytics solutions to transform processes and bring clarity to decision-making.</p>
       </div>
       <div class="col-lg-4">
         <h4 class="fw-bold pb-2">Customer-centric</h4>
