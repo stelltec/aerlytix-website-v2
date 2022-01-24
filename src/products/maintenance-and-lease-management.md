@@ -219,7 +219,7 @@ header: "Asset and portfolio exposure management at all levels"
 </svg>
         </div>
         <h4>Excel Add-in</h4>
-        <p>"What-if" impact analysis of redelivery conditions.</p>
+        <p>Seamless interconnection of the analysis engine to Excel.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -246,7 +246,7 @@ header: "Asset and portfolio exposure management at all levels"
 </svg>
         </div>
         <h4>Collateral Security</h4>
-        <p>Instant visibility of applied changes’ impact to the MR and EOL compensation cashflows.</p>
+        <p>Maintenance reserves and end-of-lease compensation cashflows analysis.</p>
       </div>
       <div class="feature col">
         <div class="feature-icon feature-icon--success">
@@ -264,7 +264,7 @@ header: "Asset and portfolio exposure management at all levels"
 </svg>
         </div>
         <h4>EPR Modelling</h4>
-        <p>In-depth EPR modelling.</p>
+        <p>In-depth engine performance restoration modelling.</p>
       </div>
     </div>
 </div>
