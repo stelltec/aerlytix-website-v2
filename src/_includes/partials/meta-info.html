@@ -1,47 +1,22 @@
 {% set pageTitle = title + ' - ' + site.name %}
-
 {# We don't want any duplication. This is likely for the home page. #}
-{% if site.name === title %} 
-  {% set pageTitle = title %}
-{% endif %}
-
+{% if site.name === title %} {% set pageTitle = title %} {% endif %}
 {% set siteTitle = site.name %}
 {% set currentUrl = site.url + page.url %}
-
-{% if not socialImage %} 
-  {% set socialImage = site.url + '/images/meta/social-share.png' %} 
-{% endif %}
-
-{# If the page’s Front Matter has specific metaTitle and/or metaDesc items, switch 
-  them into the mix. #}
-{% if metaDesc %}
-  {% set pageTitle = metaDesc + ' - ' + site.name %}
-{% endif %}
-
-{% if not metaDesc %}
-  {% set metaDesc = summary %}
-{% endif %}
-
-
+{% if metaDesc %} {% set metaDesc = metaDesc + ' - ' + site.name %} {% endif %}
+{% if not metaDesc %} {% set metaDesc = header + ' - ' + site.name %} {% endif %}
 <title>{{ pageTitle }}</title>
 <link rel="canonical" href="{{ currentUrl }}" />
-
-<meta property="og:site_name" content="{{ siteTitle }}" />
+<meta name="description" content="{{ pageTitle }}" />
+<meta name="robots" content="index, follow" />
 <meta property="og:title" content="{{ pageTitle }}" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="{{ pageTitle }}" />
-<meta property="og:type" content="website" />
+<meta property="og:description" content="{{ metaDesc }}" />
+<meta property="og:type" content="company" />
 <meta property="og:url" content="{{ currentUrl }}" />
+<meta property="og:image" content="https://www.aerlytix.com/images/meta/aerlytix-logo_1200x630.png" />
+<meta property="og:site_name" content="{{ siteTitle }}" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:title" content="{{ pageTitle }}" />
+<meta property="twitter:description" content="{{ metaDesc }}" />
+<meta property="twitter:image" content="https://www.aerlytix.com/images/meta/aerlytix-logo_179x109.png" />
 <meta property="twitter:site" content="@aerlytix" />
-{% if socialImage %}
-  <meta property="og:image" content="{{ socialImage }}" />
-  <meta name="twitter:image" content="{{ socialImage }}" />
-  <meta property="og:image:alt" content="Page image for {{ site.name }}" />
-  <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
-{% endif %}
-
-{% if metaDesc %}
-  <meta name="description" content="{{ metaDesc }}" />
-  <meta name="twitter:description" content="{{ metaDesc }}" />
-  <meta property="og:description" content="{{ metaDesc }}" />
-{% endif %}

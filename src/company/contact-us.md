@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 header: "Contact Us"
-# summary: ""
+metaDesc: "Get in touch through any of these means of communication"
 ---
 
 <article>
