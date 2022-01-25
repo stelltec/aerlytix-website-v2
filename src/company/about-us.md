@@ -110,7 +110,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
             <figcaption class="blockquote-footer">
               <div class="d-flex align-items-center">
                 <div class="flex-grow-1 ms-3 ms-md-0">
-                  Shane Callahan
+                  Shane Callanan
                   <span class="blockquote-footer-source"> - Frontend Engineer</span>
                 </div>
               </div>
