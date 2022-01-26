@@ -112,15 +112,15 @@
       {# application form ends #}
     </div>
 
-  <script>
+<script>
     let formElem = document.getElementById('jobApply');
     if (formElem) {
         const handleSubmit = (e) => {
         e.preventDefault()
         let formData = new FormData(formElem)
-        fetch('/', {
+        fetch("/", {
           method: 'POST',
-          headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          headers: { "Content-Type": "multipart/form-data" },
           body: new URLSearchParams(formData).toString()
         }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
           alert(error))
