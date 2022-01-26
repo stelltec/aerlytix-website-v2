@@ -39,7 +39,7 @@
         </button>
       </div>
       {# application form starts #}
-      <form class="row g-4" data-netlify="true" id="jobApply">
+      <form name="fileForm" class="row g-4" data-netlify="true" id="jobApply">
               <div class="mb-5">
                 <h class="h1">Submit your application</h2>
               </div>
@@ -88,7 +88,7 @@
               <div class="row mb-3">
                 <label for="portfolioURLCareersForm" class="col-sm-4 col-form-label">Portfolio URL</label>
                 <div class="col-sm-8">
-                  <input name="portfolio_link" type="text" class="form-control" id="portfolioURLCareersForm" placeholder="www.mysite.com/" aria-label="www.mysite.com/">
+                  <input name="portfolio_link" type="text" class="form-control" id="portfolioURLCareersForm" placeholder="www.mysite.com" aria-label="www.mysite.com">
                 </div>
               </div>
 
@@ -113,7 +113,24 @@
     </div>
 
 <script>
-    let formElem = document.getElementById('jobApply');
+document.forms.fileForm.addEventListener("submit", (event) => {
+  event.preventDefault();
+  const result = document.querySelector(".result");
+  fetch("/", {
+    body: new FormData(event.target),
+    headers: { "Content-Type": "multipart/form-data" },
+    method: "POST",
+  })
+    .then(() => {
+      //result.innerHTML = "Success";
+      document.getElementById('success').style.display = "flex";
+    })
+    .catch((error) => {
+      // result.innerHTML = `Failed: ${error}`;
+      document.getElementById('fail').style.display = "flex"
+    });
+}); 
+    {# let formElem = document.getElementById('jobApply');
     if (formElem) {
         const handleSubmit = (e) => {
         e.preventDefault()
@@ -126,12 +143,11 @@
           alert(error))
       }
       formElem.addEventListener("submit", handleSubmit)
-    }
+    } #}
 </script>
       </div>
     </div> <!-- container -->
 </article>
-  
 {% endblock %}
 
 
