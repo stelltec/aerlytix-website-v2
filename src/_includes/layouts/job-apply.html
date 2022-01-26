@@ -46,25 +46,25 @@
               <div class="row mb-3">
                 <label for="resumeCVCareersForm" class="col-sm-4 col-form-label">Resume/CV</label>
                 <div class="col-sm-8">
-                  <input type="file" name="file" class="js-file-attach form-control" id="resumeCVCareersForm" name="resumeCVCareersFormName" required>
+                  <input name="file" type="file" class="form-control" id="resumeCVCareersForm" required>
                 </div>
               </div>
               <div class="row mb-3">
                 <label for="fullNameCareersForm" class="col-sm-4 col-form-label">Full name</label>
                 <div class="col-sm-8">
-                  <input type="text" class="form-control" id="fullNameCareersForm" name="fullNameCareersFormName" placeholder="Your full name" aria-label="Your full name" required>
+                  <input name="name" type="text" class="form-control" id="fullNameCareersForm" placeholder="Your full name" aria-label="Your full name" required>
                 </div>
               </div>
               <div class="row mb-3">
                 <label for="emailCareersForm" class="col-sm-4 col-form-label">Email</label>
                 <div class="col-sm-8">
-                  <input type="email" class="form-control" id="emailCareersForm" name="emailCareersFormName" placeholder="Your email address" aria-label="Your email address" required>
+                  <input name="email" type="email" class="form-control" id="emailCareersForm" placeholder="Your email address" aria-label="Your email address" required>
                 </div>
               </div>
               <div class="row mb-3">
                 <label for="phoneCareersForm" class="col-sm-4 col-form-label">Phone</label>
                 <div class="col-sm-8">
-                  <input type="tel" class="form-control" id="phoneCareersForm" name="phoneCareersFormName" placeholder="+x(xxx)xxx-xx-xx" aria-label="+x(xxx)xxx-xx-xx" required>
+                  <input name="phone-number" type="tel" class="form-control" id="phoneCareersForm" placeholder="+x(xxx)xxx-xx-xx" aria-label="+x(xxx)xxx-xx-xx" required>
                 </div>
               </div>
 
@@ -76,19 +76,19 @@
               <div class="row mb-3">
                 <label for="linkedinURLCareersForm" class="col-sm-4 col-form-label">LinkedIn URL</label>
                 <div class="col-sm-8">
-                  <input type="text" class="form-control" id="linkedinURLCareersForm" name="linkedinURLCareersFormName" placeholder="www.linkedin.com/username" aria-label="www.linkedin.com/username">
+                  <input name="linkedin_link" type="text" class="form-control" id="linkedinURLCareersForm" placeholder="www.linkedin.com/username" aria-label="www.linkedin.com/username">
                 </div>
               </div>
               <div class="row mb-3">
                 <label for="githubURLCareersForm" class="col-sm-4 col-form-label">GitHub URL</label>
                 <div class="col-sm-8">
-                  <input type="text" class="form-control" id="githubURLCareersForm" name="githubURLCareersFormName" placeholder="www.github.com/username" aria-label="www.github.com/username">
+                  <input name="github_link" type="text" class="form-control" id="githubURLCareersForm" placeholder="www.github.com/username" aria-label="www.github.com/username">
                 </div>
               </div>
               <div class="row mb-3">
                 <label for="portfolioURLCareersForm" class="col-sm-4 col-form-label">Portfolio URL</label>
                 <div class="col-sm-8">
-                  <input type="text" class="form-control" id="portfolioURLCareersForm" name="portfolioURLCareersFormName" placeholder="www.mysite.com/" aria-label="www.mysite.com/">
+                  <input name="portfolio_link" type="text" class="form-control" id="portfolioURLCareersForm" placeholder="www.mysite.com/" aria-label="www.mysite.com/">
                 </div>
               </div>
 
@@ -100,7 +100,7 @@
 
               <div class="mb-3">
                 <label for="additionalInfoCareersForm" class="form-label visually-hidden">Additional information (optional)</label>
-                <textarea class="form-control" name="additionalInfoCareersFormName" id="additionalInfoCareersForm" placeholder="Add a cover letter or anything else you want to share." aria-label="Add a cover letter or anything else you want to share." rows="5"></textarea>
+                <textarea name="additional_info" class="form-control" id="additionalInfoCareersForm" placeholder="Add a cover letter or anything else you want to share." aria-label="Add a cover letter or anything else you want to share." rows="5"></textarea>
               </div>
               <div class="mb-3">
                 <div data-netlify-recaptcha="true"></div>
