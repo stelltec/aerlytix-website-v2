@@ -11758,8 +11758,16 @@ body {
   background-size: 2100px, 4000px;
 }
 
+main {
+  margin-bottom: -3rem;
+}
+
 h2 {
   line-height: 1.4;
+}
+
+hr {
+  background-color: #b3b3b3;
 }
 
 .tags-list {
@@ -11900,7 +11908,7 @@ a {
   box-shadow: 0 0rem 1rem rgba(0, 0, 0, 0.085) !important;
 }
 
-.card, .dropdown-menu {
+.card, .dropdown-menu, .list-group-item {
   border: 1px solid rgba(0, 0, 0, 0.08);
 }
 

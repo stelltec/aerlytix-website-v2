@@ -1,4 +1,7 @@
 {% set pageTitle = title + ' - ' + site.name %}
+{%if not title %}
+{% set pageTitle = header + ' - ' + site.name %}
+{% endif %}
 {# We don't want any duplication. This is likely for the home page. #}
 {% if site.name === title %} {% set pageTitle = title %} {% endif %}
 {% set siteTitle = site.name %}
