@@ -20,7 +20,10 @@
     </article>
   {% endif %}
   
-  {% include "partials/cta.html" %} 
+  {% if cta == 'false' %}
+  {% else %}
+  {% include "partials/cta.html" %}
+  {% endif %}
 {% endblock %}
 
 
