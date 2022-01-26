@@ -1,9 +1,9 @@
 ---
-header: ' DevOps/SRE engineer'
-metaDesc: 'DevOps/SRE engineer'
+header: "DevOps/SRE engineer"
+metaDesc: "DevOps/SRE engineer"
 summary: "Dublin Ireland or Remote - Engineering Team - Full-Time or Contractors"
-layout: 'layouts/job-apply.html'
-headerType: 'blogPost'
+layout: "layouts/job-apply.html"
+headerType: "blogPost"
 ---
 
 As Aerlytix moves to the next stage in its evolution, a very exciting new opportunity has opened up within the organization. If you want to work with an experienced team who are transforming a technology-starved industry with a world-class technology stack and industry-beating analytics products, then this is the right job for you.

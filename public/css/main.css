@@ -11758,6 +11758,10 @@ body {
   background-size: 2100px, 4000px;
 }
 
+main {
+  margin-bottom: -3rem;
+}
+
 h2 {
   line-height: 1.4;
 }
