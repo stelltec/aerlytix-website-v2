@@ -39,7 +39,7 @@
         </button>
       </div>
       {# application form starts #}
-      <form class="row g-4" data-netlify="true" id="jobApply">
+      <form class="row g-4" method="POST" data-netlify="true" id="jobApply">
               <div class="mb-5">
                 <h class="h1">Submit your application</h2>
               </div>
@@ -136,7 +136,7 @@
         let formData = new FormData(formElem)
         fetch("/", {
           method: 'POST',
-          // headers: { "Content-Type": "multipart/form-data" },
+          headers: { "Content-Type": "multipart/form-data" },
           body: new URLSearchParams(formData).toString()
         }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
           alert(error))
