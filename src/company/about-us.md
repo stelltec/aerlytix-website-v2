@@ -160,7 +160,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
         <li class="list-group-item p-4">
           <div class="row align-items-center">
             <div class="col-md-4 mb-2 mb-md-0">
-              <span class="h5">DevOps/SRE engineer</span>
+              <a href="/company/careers/devops-sre-engineer" class="h5">DevOps/SRE engineer</a>
             </div>
             <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
               <span>Dublin, Ireland or Remote</span>
@@ -169,7 +169,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
               <span>Engineering team</span>
             </div>
             <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/devops-sre-engineer">Apply <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+              <a class="btn btn-primary" href="/company/careers/devops-sre-engineer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
             </div>
           </div>
         </li>
