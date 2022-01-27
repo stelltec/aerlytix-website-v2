@@ -106,7 +106,7 @@
                 <div data-netlify-recaptcha="true"></div>
               </div>
               <div class="d-grid text-center mt-7">
-                <button class="btn btn-primary btn-lg">Submit application</button>
+                <button type="submit" class="btn btn-primary btn-lg">Submit application</button>
                 <div class="result"></div>
               </div>
             </form>
@@ -114,7 +114,7 @@
     </div>
 
 <script>
-document.forms.fileForm.addEventListener("submit", (event) => {
+{# document.forms.fileForm.addEventListener("submit", (event) => {
   event.preventDefault();
   const result = document.querySelector(".result");
   fetch("/", {
@@ -124,15 +124,12 @@ document.forms.fileForm.addEventListener("submit", (event) => {
   })
     .then(() => {
       result.innerHTML = "Success";
-      //document.getElementById('success').style.display = "flex";
     })
     .catch((error) => {
       result.innerHTML = `Failed: ${error}`;
-      //document.getElementById('fail').style.display = "flex"
-
     });
-}); 
-    {# let formElem = document.getElementById('jobApply');
+});  #}
+    let formElem = document.getElementById('jobApply');
     if (formElem) {
         const handleSubmit = (e) => {
         e.preventDefault()
@@ -145,7 +142,7 @@ document.forms.fileForm.addEventListener("submit", (event) => {
           alert(error))
       }
       formElem.addEventListener("submit", handleSubmit)
-    } #}
+    }
 </script>
       </div>
     </div> <!-- container -->
