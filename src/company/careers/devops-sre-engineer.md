@@ -36,3 +36,5 @@ As Aerlytix moves to the next stage in its evolution, a very exciting new opport
 * TypeScript and/or Flow  
 * Terraform
 * Pulumi
+
+**Salary:** highly competitive.
