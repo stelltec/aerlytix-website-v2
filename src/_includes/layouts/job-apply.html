@@ -136,7 +136,7 @@
         let formData = new FormData(formElem)
         fetch("/", {
           method: 'POST',
-          headers: { "Content-Type": "multipart/form-data" },
+          // headers: { "Content-Type": "multipart/form-data" },
           body: new URLSearchParams(formData).toString()
         }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
           alert(error))
