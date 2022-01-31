@@ -107,6 +107,7 @@
               </div>
               <div class="d-grid text-center mt-7">
                 <button type="submit" class="btn btn-primary btn-lg">Submit application</button>
+                 <small class="d-block regulatory pt-4 text-center">By submiting this form you are agreeing to our <a href="/privacy-policy/">privaycy policy</a> terms and conditions</small>
                 <div class="result"></div>
               </div>
             </form>
@@ -114,12 +115,12 @@
     </div>
 
 <script>
-document.forms.fileForm.addEventListener("submit", (event) => {
+{# document.forms.fileForm.addEventListener("submit", (event) => {
   event.preventDefault();
   const result = document.querySelector(".result");
   fetch("/", {
     body: new FormData(event.target),
-    //headers: { "Content-Type": "multipart/form-data" },
+    headers: { "Content-Type": "multipart/form-data" },
     method: "POST",
   })
     .then(() => {
@@ -128,21 +129,21 @@ document.forms.fileForm.addEventListener("submit", (event) => {
     .catch((error) => {
       result.innerHTML = `Failed: ${error}`;
     });
-});
-    {# let formElem = document.getElementById('jobApply');
-    if (formElem) {
-        const handleSubmit = (e) => {
-        e.preventDefault()
-        let formData = new FormData(formElem)
-        fetch("/", {
-          method: 'POST',
-          headers: { "Content-Type": "multipart/form-data" },
-          body: new URLSearchParams(formData).toString()
-        }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
-          alert(error))
-      }
-      formElem.addEventListener("submit", handleSubmit)
-    } #}
+}); #}
+let formElem = document.getElementById('jobApply');
+if (formElem) {
+    const handleSubmit = (e) => {
+    e.preventDefault()
+    let formData = new FormData(formElem)
+    fetch("/", {
+      method: 'POST',
+      headers: { "Content-Type": "multipart/form-data" },
+      body: new URLSearchParams(formData).toString()
+    }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
+      alert(error))
+  }
+  formElem.addEventListener("submit", handleSubmit)
+}
 </script>
       </div>
     </div> <!-- container -->
