@@ -40,7 +40,7 @@
 <link rel="mask-icon" href="https://www.aerlytix.com/images/safari-pinned-tab.svg" color="#2b5dc1">
 <link rel="shortcut icon" type="image/x-icon" href="https://www.aerlytix.com/images/favicon.ico">
 
-<link rel="stylesheet" href="/css/main.css?a81b-877f-a201" />
+<link rel="stylesheet" href="/css/main.css?a6d5-4eff-2d3f" />
 <link rel="alternate" type="application/rss+xml" href="https://www.aerlytix.com/feed.xml" />
   
 
@@ -226,7 +226,7 @@
         </button>
       </div>
       
-      <form class="row g-4" method="POST" data-netlify="true" id="jobApply">
+      <form class="row g-4" data-netlify="true" id="jobApply">
               <div class="mb-5">
                 <h2 class="h1">Submit your application</h2>
               </div>
@@ -303,20 +303,21 @@
 
 <script>
 
+
 let formElem = document.getElementById('jobApply');
-if (formElem) {
-    const handleSubmit = (e) => {
-    e.preventDefault()
-    let formData = new FormData(formElem)
-    fetch("/", {
-      method: 'POST',
-      headers: { "Content-Type": "multipart/form-data" },
-      body: new URLSearchParams(formData).toString()
-    }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
-      alert(error))
-  }
-  formElem.addEventListener("submit", handleSubmit)
-}
+      if (formElem) {
+          const handleSubmit = (e) => {
+          e.preventDefault()
+          let formData = new FormData(formElem)
+          fetch('/', {
+            method: 'POST',
+            headers: { "Content-Type": "multipart/form-data" },
+            body: new URLSearchParams(formData).toString()
+          }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
+            alert(error))
+        }
+        formElem.addEventListener("submit", handleSubmit)
+      }
 </script>
       </div>
     </div> <!-- container -->
