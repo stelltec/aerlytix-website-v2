@@ -114,12 +114,12 @@
     </div>
 
 <script>
-{# document.forms.fileForm.addEventListener("submit", (event) => {
+document.forms.fileForm.addEventListener("submit", (event) => {
   event.preventDefault();
   const result = document.querySelector(".result");
   fetch("/", {
     body: new FormData(event.target),
-    headers: { "Content-Type": "multipart/form-data" },
+    //headers: { "Content-Type": "multipart/form-data" },
     method: "POST",
   })
     .then(() => {
@@ -128,21 +128,21 @@
     .catch((error) => {
       result.innerHTML = `Failed: ${error}`;
     });
-}); #}
-    let formElem = document.getElementById('jobApply');
+});
+    {# let formElem = document.getElementById('jobApply');
     if (formElem) {
         const handleSubmit = (e) => {
         e.preventDefault()
         let formData = new FormData(formElem)
         fetch("/", {
           method: 'POST',
-          // headers: { "Content-Type": "multipart/form-data" },
+          headers: { "Content-Type": "multipart/form-data" },
           body: new URLSearchParams(formData).toString()
         }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
           alert(error))
       }
       formElem.addEventListener("submit", handleSubmit)
-    }
+    } #}
 </script>
       </div>
     </div> <!-- container -->
