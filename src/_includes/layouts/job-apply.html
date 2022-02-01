@@ -39,7 +39,7 @@
         </button>
       </div>
       {# application form starts #}
-      <form class="row g-4" data-netlify="true" id="jobApply">
+      <form class="row g-4" data-netlify="true" id="{{ job }}">
               <div class="mb-5">
                 <h2 class="h1">Submit your application</h2>
               </div>
@@ -130,7 +130,7 @@
       result.innerHTML = `Failed: ${error}`;
     });
 }); #}
-{# let formElem = document.getElementById('jobApply');
+{# let formElem = document.getElementById('{{ job }}');
 if (formElem) {
     const handleSubmit = (e) => {
     e.preventDefault()
@@ -144,7 +144,7 @@ if (formElem) {
   }
   formElem.addEventListener("submit", handleSubmit)
 } #}
-let formElem = document.getElementById('jobApply');
+let formElem = document.getElementById('{{ job }}');
       if (formElem) {
           const handleSubmit = (e) => {
           e.preventDefault()
