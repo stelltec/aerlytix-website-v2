@@ -37,24 +37,25 @@
       <div class="col-8 col-lg-3 mb-4 footer__products">
         <h6>Products</h6>
         <ul class="nav flex-column">
-        {% for item in products.items %}
-          <li class="nav-item mb-2"><a href="{{item.url}}" class="nav-link p-0">{{ item.title }}</a></li>
-        {% endfor %}
+          {% for item in navigation.items[1].subitems %}    
+            <li class="nav-item mb-2"><a href="{{ item.url }}" class="nav-link p-0">{{ item.text }}</a></li>
+          {% endfor %}
         </ul>
       </div>
       <div class="col-6 col-lg-2 mb-4 footer__products">
         <h6>Solutions</h6>
         <ul class="nav flex-column">
-          {% for item in solutions.items %}
-          <li class="nav-item mb-2"><a href="{{item.url}}" class="nav-link p-0">{{ item.title }}</a></li>
-        {% endfor %}
+          {% for item in navigation.items[2].subitems %}  
+          <li class="nav-item mb-2"><a href="{{ item.url }}" class="nav-link p-0">{{ item.text }}</a></li>
+          {% endfor %}
         </ul>
       </div>
       <div class="col-6 col-lg-2 mb-4 footer__products">
         <h6>Company</h6>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a href="/company/about-us" class="nav-link p-0">About Us</a></li>
-          <li class="nav-item mb-2"><a href="/company/contact-us" class="nav-link p-0">Contact Us</a></li>
+          {% for item in navigation.items[3].subitems %}  
+          <li class="nav-item mb-2"><a href="{{ item.url }}" class="nav-link p-0">{{ item.text }}</a></li>
+          {% endfor %}
           <li class="nav-item mb-2"><a href="/request-demo" class="nav-link p-0">Request Demo</a></li>
         </ul>
       </div>
