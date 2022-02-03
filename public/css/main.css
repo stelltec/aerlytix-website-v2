@@ -12165,8 +12165,8 @@ a {
   }
 }
 .navbar {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 0.65rem;
+  padding-bottom: 0.65rem;
   border-bottom: 1px solid #f0f0f0;
   background: white;
 }
@@ -12383,7 +12383,6 @@ a {
   background: url(../images/card-11.svg) 0 0 no-repeat;
 }
 .body-contact-us {
-  background: #F3F5FB url(../images/abstract-background-1-contact.jpg) 0 0 no-repeat;
   background-size: 1400px;
 }
 .body-contact-us .header__common {
