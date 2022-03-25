@@ -176,7 +176,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
         <li class="list-group-item p-4">
           <div class="row align-items-center">
             <div class="col-md-4 mb-2 mb-md-0">
-              <a href="/company/careers/quantitative-developer" class="h5">Quantitative Developer</a>
+              <a href="/company/careers/software-developer-modelling" class="h5">Software Developer – Modelling/Data/Application</a>
             </div>
             <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
               <span>Dublin, Ireland or Remote</span>
@@ -185,7 +185,23 @@ summary: "Our mission is to transform aviation finance with technology and analy
               <span>Engineering team</span>
             </div>
             <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/quantitative-developer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+              <a class="btn btn-primary" href="/company/careers/software-developer-modelling">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+            </div>
+          </div>
+        </li>
+        <li class="list-group-item p-4">
+          <div class="row align-items-center">
+            <div class="col-md-4 mb-2 mb-md-0">
+              <a href="/company/careers/data-analyst" class="h5">Data Analyst</a>
+            </div>
+            <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
+              <span>Dublin, Ireland or Remote</span>
+            </div>
+            <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
+              <span>Data team</span>
+            </div>
+            <div class="col-sm-2 text-sm-end">
+              <a class="btn btn-primary" href="/company/careers/data-analyst">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
             </div>
           </div>
         </li>
