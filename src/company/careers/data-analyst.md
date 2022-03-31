@@ -1,7 +1,7 @@
 ---
 header: "Data Analyst"
 metaDesc: "Data Analyst"
-summary: "Dublin, Ireland - Data Team - Full-Time or Contractors"
+summary: "Within Rep. of Ireland - Data Team - Full-Time or Contractors"
 layout: "layouts/job-apply.html"
 headerType: "blogPost"
 job: dataAnalyst
