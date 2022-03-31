@@ -195,7 +195,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
               <a href="/company/careers/data-analyst" class="h5">Data Analyst</a>
             </div>
             <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
-              <span>Dublin, Ireland or Remote</span>
+              <span>Dublin, Ireland</span>
             </div>
             <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
               <span>Data team</span>
