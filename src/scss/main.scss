@@ -55,6 +55,12 @@
     overflow-y: hidden;
     overflow-x: hidden;
   }
+
+  .card-footer {
+    border: 0;
+    background-color: transparent;
+    padding-bottom: 1rem;
+  }
 }
 
 .article-image {
