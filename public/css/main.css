@@ -11776,7 +11776,8 @@ hr {
 .footer__main h6 {
   text-transform: uppercase;
 }
-.footer__main p, .footer__main a {
+.footer__main p,
+.footer__main a {
   font-size: 1rem;
 }
 .footer__main p {
@@ -11811,7 +11812,8 @@ hr {
   margin-bottom: -3rem;
 }
 
-.carousel-control-next, .carousel-control-prev {
+.carousel-control-next,
+.carousel-control-prev {
   width: 4%;
 }
 
@@ -11875,7 +11877,9 @@ hr {
   color: var(--blue);
 }
 
-input, select, textarea {
+input,
+select,
+textarea {
   border-color: 1px solid black !important;
 }
 
@@ -12435,6 +12439,16 @@ a {
   font-size: 2rem;
   color: #fff;
   border-radius: 0.75rem;
+}
+
+.posts-list .card {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.article-image img {
+  width: 100%;
+  object-fit: contain;
 }
 
 /*# sourceMappingURL=main.css.map */

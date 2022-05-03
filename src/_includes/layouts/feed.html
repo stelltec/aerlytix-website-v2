@@ -1,66 +1,68 @@
-{% extends "layouts/base.html" %} 
+{% extends "layouts/base.html" %}
 
 {% set pageHeaderTitle = title %}
 {% set pageMainHeader = header %}
-{% set pageHeaderSummary = content %}
+{% set pageHeaderSummary = summary %}
 {% set postListItems = pagination.items %}
 
 {# If this is a tag, grab those items instead as one large collection #}
 {% if tag %}
-  {% set postListItems = collections[tag] %}
-  {% set pageMainHeader = 'Blog posts filed under “' + tag + '”' %}
+{% set postListItems = collections[tag] %}
+{% set pageMainHeader = 'Blog posts filed under “' + tag + '”' %}
 {% endif %}
 
 {% block content %}
-  {% include "partials/page-header.html" %}
-  <article class="py-5" style="margin-top:-46px">
+{% include "partials/page-header.html" %}
+<article class="py-5" style="margin-top:-46px">
 
-    <div class="container">
+  <div class="container">
     <div class="row justify-content-around">
-        <div class="col-12 col-md-3 mb-5 mb-md-0">
-            <h2 class="h1 mb-3">Upcoming events we'll be taking part</h2>
+      <div class="col-12 col-md-3 mb-5 mb-md-0">
+        <h2 class="h1 mb-3">Upcoming events</h2>
+      </div>
+      <div class="col-12 col-md-4 mb-5 mb-md-0">
+        <div class="card h-100">
+          <div class="card-header pt-0 pb-2 border-bottom">
+            <h3 class="display-1 text-danger lh-100">20<span class="font-weight-normal h5">/ January / 2022</span></h3>
+          </div>
+          <div class="card-body pb-2">
+            <h3 class="h4">Airline Economics</h3>
+            <div class="small">Open to attendants,</div>
+            <div class="small">Free 10:00 AM – 12:00 PM</div>
+            <p class="text-dark mt-4 mb-0">We'll be taking part of Airline Economics where will be demonstrating
+              Aerlytix Suite of products. Come join us!</p>
+          </div>
         </div>
-        <div class="col-12 col-md-4 mb-5 mb-md-0">
-            <div class="card h-100">
-                <div class="card-header pt-0 pb-2 border-bottom">
-                    <h3 class="display-1 text-danger lh-100">20<span class="font-weight-normal h5">/ January / 2022</span></h3>
-                </div>
-                <div class="card-body pb-2">
-                    <h3 class="h4">Airline Economics</h3>
-                    <div class="small">Open to attendants,</div>
-                    <div class="small">Free 10:00 AM – 12:00 PM</div>
-                    <p class="text-dark mt-4 mb-0">We'll be taking part of Airline Economics where will be demonstrating Aerlytix Suite of products. Come join us!</p>
-                </div>
-            </div>
+      </div>
+      <div class="col-12 col-md-4">
+        <div class="card h-100">
+          <div class="card-header pt-0 pb-2 border-bottom">
+            <h3 class="display-1 text-danger lh-100">10<span class="font-weight-normal h5">/ May / 2022</span></h3>
+          </div>
+          <div class="card-body pb-4">
+            <h3 class="h4">Air Finance - Noth America</h3>
+            <div class="small">Open to the Public,</div>
+            <div class="small">Free 15:00 PM – 22:00 PM</div>
+            <p class="text-dark mt-4 mb-0">We'll be talking to lessors and investors presenting Aerlytix Suite new
+              upcoming features released in 2022</p>
+          </div>
         </div>
-        <div class="col-12 col-md-4">
-            <div class="card h-100">
-                <div class="card-header pt-0 pb-2 border-bottom">
-                    <h3 class="display-1 text-danger lh-100">10<span class="font-weight-normal h5">/ May / 2022</span></h3>
-                </div>
-                <div class="card-body pb-4">
-                    <h3 class="h4">Air Finance - Noth America</h3>
-                    <div class="small">Open to the Public,</div>
-                    <div class="small">Free 15:00 PM – 22:00 PM</div>
-                    <p class="text-dark mt-4 mb-0">We'll be talking to lessors and investors presenting Aerlytix Suite new upcoming features released in 2022</p>
-                </div>
-            </div>
-        </div>
+      </div>
     </div>
-</div>
+  </div>
 </article>
 
 <article>
-    <div class="container">
-      
-      {% include "partials/post-list.html" %}
+  <div class="container">
 
-      {# If we leave pagination in for tags, the next and prev links will
-        link to tags and be rather confusing, so don't render in that situation #}
-      {% if not tag %}
-        {% include "partials/pagination.html" %}
-      {% endif %}
-    </div>
-  </article>
-  {% include "partials/cta.html" %}
+    {% include "partials/post-list.html" %}
+
+    {# If we leave pagination in for tags, the next and prev links will
+    link to tags and be rather confusing, so don't render in that situation #}
+    {% if not tag %}
+    {% include "partials/pagination.html" %}
+    {% endif %}
+  </div>
+</article>
+{% include "partials/cta.html" %}
 {% endblock %}

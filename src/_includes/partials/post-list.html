@@ -9,7 +9,8 @@
       <ol class="">
         {% for item in postListItems %}
         <li class="">
-          <a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a> <span>{{ date | dateFilter }}</span>
+          <a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a> <span>{{ item.date | dateFilter
+            }}</span>
           <p>{{ item.data.intro }}</p>
         </li>
         {% endfor %}
@@ -19,31 +20,31 @@
 </div>
 
 <div class="album py-5">
-    {# <div class="container"> #}
+  {# <div class="container"> #}
 
-      <div class="posts-list row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
+    <div class="posts-list row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
 
-        {% for item in postListItems %}
-        <div class="col">
-          <div class="card shadow-sm h-100">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <h4><a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a></h4>
-              <p class="card-text">{{ item.data.intro }}</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div>
-                  <a href="{{ item.url }}" class="btn btn-sm btn-outline-secondary">Read more</a>
-                </div>
-                <small class="text-muted">{{ date | dateFilter }}</small>
+      {% for item in postListItems %}
+      <div class="col">
+        <div class="card rounded-6 h-100">
+          <img class="card-image" src="/images/news/{{ item.data.articleImg }}" alt="" role="img" />
+          <div class="card-body">
+            <h4><a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a></h4>
+            <p class="card-text">{{ item.data.intro }}</p>
+            <div class="d-flex justify-content-between align-items-center">
+              <div>
+                <a href="{{ item.url }}" class="btn btn-sm btn-outline-secondary">Read more</a>
               </div>
+              <small class="text-muted">{{ item.date | dateFilter }}</small>
             </div>
           </div>
         </div>
-        {% endfor %}
-
-
-
       </div>
-    {# </div> #}
-  </div>
+      {% endfor %}
+
+
+
+    </div>
+    {#
+  </div> #}
+</div>

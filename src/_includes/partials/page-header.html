@@ -1,22 +1,31 @@
 {# this works and open possibilities for multiple header types if needed #}
-{% if (headerType == 'blogPost')  %}
-  <div class="header__blog-post">
-{% else %}
+
+{% if (headerType == 'blogPost') %}
+<div class="header__blog-post">
+  {% else %}
   <div class="header__common">
-{% endif %}
-
-  <div class="container">
-    {% if pageHeaderTitle %}
-    <p class="text-tag">{{ pageHeaderTitle }}</p>
-    {% endif %} 
-    <h1 class="display-4 fw-bold" data-highlight="primary">
-      {{ pageMainHeader }}
-    </h1>
-    {% if pageHeaderSummary %}
-    <p class="display-7">
-      {{ pageHeaderSummary | safe }}
-    </p>
     {% endif %}
-  </div>
-</div>
 
+    <div class="container">
+      {% if pageHeaderTitle %}
+      <p class="text-tag">{{ pageHeaderTitle }}</p>
+      {% endif %}
+      <h1 class="display-4 fw-bold" data-highlight="primary">
+        {{ pageMainHeader }}
+      </h1>
+      {% if pageHeaderSummary %}
+      <p class="display-7">
+        {{ pageHeaderSummary | safe }}
+      </p>
+      {% endif %}
+
+      {% if articleImg %}
+      <div class="article-image mt-5 rounded-6">
+        <img class="rounded-6" src="/images/news/{{ articleImg }}" alt="{{ articleImgAlt }}" />
+      </div>
+      {% endif %}
+
+
+    </div>
+
+  </div>

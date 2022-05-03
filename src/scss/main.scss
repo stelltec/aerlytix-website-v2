@@ -18,22 +18,23 @@
 }
 
 .featurette-divider {
-    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-  }
-  
-  /* Thin out the marketing headings */
+  margin: 5rem 0;
+  /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  /* rtl:remove */
+  letter-spacing: -.05rem;
+}
+
+@media (min-width: 62em) {
   .featurette-heading {
-    font-weight: 300;
-    line-height: 1;
-    /* rtl:remove */
-    letter-spacing: -.05rem;
+    margin-top: 7rem;
   }
-  
-  @media (min-width: 62em) {
-    .featurette-heading {
-      margin-top: 7rem;
-    }
-  }
+}
 
 .feature {
   .feature-icon {
@@ -46,5 +47,19 @@
     font-size: 2rem;
     color: #fff;
     border-radius: .75rem;
+  }
+}
+
+.posts-list {
+  .card {
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+}
+
+.article-image {
+  img {
+    width: 100%;
+    object-fit: contain;
   }
 }

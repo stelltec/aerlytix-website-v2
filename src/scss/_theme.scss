@@ -1,14 +1,14 @@
 .body- {
-    background:url(../images/aviation-map.svg) 50% 0 no-repeat, url(../images/gradient-fade-01.png) -90rem -80rem no-repeat ;
+    background: url(../images/aviation-map.svg) 50% 0 no-repeat, url(../images/gradient-fade-01.png) -90rem -80rem no-repeat;
     background-size: 2100px, 4000px;
 }
 
 main {
-    margin-bottom:-3rem;
+    margin-bottom: -3rem;
 }
 
 h2 {
-    line-height:1.4;
+    line-height: 1.4;
 }
 
 hr {
@@ -17,6 +17,7 @@ hr {
 
 .tags-list {
     padding-left: 0;
+
     li {
         display: inline-block;
     }
@@ -29,9 +30,7 @@ hr {
 }
 
 .header {
-    &__blog-post {
-
-    }
+    &__blog-post {}
 }
 
 .footer {
@@ -43,15 +42,19 @@ hr {
         h6 {
             text-transform: uppercase;
         }
-        
-        p, a {
+
+        p,
+        a {
             font-size: 1rem;
         }
+
         p {
             color: white;
         }
+
         a {
             color: white;
+
             &:hover {
                 color: #BACDF1;
             }
@@ -59,7 +62,7 @@ hr {
     }
 
     &__brand {
-        margin-top:-.5rem;
+        margin-top: -.5rem;
     }
 
     &__brand-leading {
@@ -67,28 +70,29 @@ hr {
     }
 
     &__copyright {
-        border-top:1px solid rgba(255,255,255,.1);
+        border-top: 1px solid rgba(255, 255, 255, .1);
     }
 }
 
 .tags-list {
     a {
-        color:white;
+        color: white;
     }
 }
 
 // Quote slider
 
 .quote {
-    padding:0 6rem;
+    padding: 0 6rem;
     margin: auto;
 }
 
 .carousel-indicators {
-    margin-bottom:-3rem;
+    margin-bottom: -3rem;
 }
 
-.carousel-control-next, .carousel-control-prev {
+.carousel-control-next,
+.carousel-control-prev {
     width: 4%;
 }
 
@@ -118,12 +122,12 @@ hr {
     text-transform: uppercase;
     font-size: .8rem;
     border: 1px solid var(--blue);
-    color:  var(--blue);
+    color: var(--blue);
     display: inline-block;
     border-radius: 20px;
     padding-left: 8px;
     padding-right: 8px;
-    padding-top:2px;
+    padding-top: 2px;
     font-weight: bold;
 }
 
@@ -131,24 +135,31 @@ hr {
     &-light {
         background-color: var(--bg-grey) !important;
     }
-    &-dark  {
+
+    &-dark {
         background-color: var(--bg-dark) !important;
     }
+
     &-light-green {
         background-color: var(--bg-light-green);
     }
+
     &-light-blue {
         background-color: var(--bg-light-blue);
     }
+
     &-green {
         background-color: var(--green);
     }
+
     &-blue {
         background-color: var(--blue);
     }
+
     &-dark-blue {
         background-color: var(--bg-dark-blue);
     }
+
     &-turquoise {
         background-color: var(--bg-turquoise);
     }
@@ -159,12 +170,14 @@ hr {
 }
 
 
-input, select, textarea {
+input,
+select,
+textarea {
     border-color: 1px solid black !important;
 }
 
 .request-demo-mt {
-    padding-top:5rem;
+    padding-top: 5rem;
 }
 
 @media (max-width:992px) {

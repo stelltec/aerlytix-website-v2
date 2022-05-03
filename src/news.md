@@ -1,6 +1,8 @@
 ---
-title: 'Aerlytix News'
-header: "Latest Company Updates"
+title: 'News and Updates'
+header: "Updates"
+# summary: "Please write to us at info@aerlytix.com if you have a media enquiries. We'll do our best to get back to you as soon as possible."
+getInTouch: 'true'
 layout: 'layouts/feed.html'
 pagination:
   data: collections.news
