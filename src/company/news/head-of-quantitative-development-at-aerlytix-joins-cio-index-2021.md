@@ -12,7 +12,7 @@ articleImgAlt: 'Image of Aerlytix with FlightAware in Partnership'
 
 The [Business & Finance CIO 100 Index 2021](https://businessandfinance.com/cio-100-index-part-1/) recognises the top 100 Chief Information Officers working across some of the most innovative companies in Ireland today. As head of quantitative development, Claudio is spearheading Aerlytix efforts that are leading the way in aviation finance technology.
 
-With a degree in aeronautical engineering and a PhD in mathematics from a prestigious US university, plus valuable years of experience in both academic research and commercial technology companies, Viotti was perfectly placed to lead the quantitative effort in this highly capital intensive, complex, yet technology starved industry.
+With a degree in aeronautical engineering and a PhD in mathematics from a prestigious US university, plus valuable years of experience in both academic research and commercial technology companies, Claudio was perfectly placed to lead the quantitative effort in this highly capital intensive, complex, yet technology starved industry.
 
 Working closely with his team and clients, Claudio has advanced modelling capabilities using the latest world class technology in ways that the industry has never seen before. His skills, vision and contribution to aviation finance technology are unrivalled in the sector. 
 
