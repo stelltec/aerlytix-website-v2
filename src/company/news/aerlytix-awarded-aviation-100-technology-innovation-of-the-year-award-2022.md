@@ -1,5 +1,5 @@
 ---
-title: 'Aerlytix awarded the 100 Technology Innovation of the Year Award 2022'
+title: 'Aerlytix wins Technology Innovation of the Year Award 2022'
 intro: 'Aerlytix has been awarded the Airline Economics and Growth Frontiers Global Leaders Aviation 100 Technology Innovation of the Year Award 2022.'
 date: '2022-05-03'
 tags: ['Branding','Business','Aerlytix Team', 'Awards']
