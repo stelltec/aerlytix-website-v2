@@ -8,9 +8,9 @@ articleImg: '2022-Awards-banners-aerlytix.png'
 articleImgAlt: 'Image of Aerlytix new brand'
 ---
 
-**Dublin, Ireland – 24th of January, 2022:**: Aerlytix has been awarded the Airline Economics and Growth Frontiers Global Leaders Aviation 100 Technology Innovation of the Year Award 2022. 
+**Dublin, Ireland – May 3, 2022:**: Aerlytix has been awarded the Airline Economics and Growth Frontiers Global Leaders Aviation 100 Technology Innovation of the Year Award 2022.
 
-Aerlytix Analytics Suite was nominated by several aviation industry clients for the Technology Innovation Award, which was awarded based on the product’s innovation and its success in answering the needs of the aviation finance and leasing industry. 
+Aerlytix Analytics Suite was nominated by several aviation industry clients for the Technology Innovation Award, which was awarded based on the product’s innovation and its success in answering the needs of the aviation finance and leasing industry.
 
 Client comments supporting their nominations of the Aerlytix Analytics Suite highlighted the benefits of the maintenance forecast process and the efficiency of the cashflow and maintenance reserve reporting tool, which many noting its flexibility and useability.
 
@@ -20,4 +20,4 @@ One of the core pillars of Aerlytix business philosophy is that clients need to 
 
 The Aerlytix team were also praised for working closely with clients to ensure the smooth integration of the platform, which adapts to the needs of the individual company. “Our strong growth trajectory places high demands on us but rising to meet these challenges is what excites us,” says Alan Doyle, Chief Executive Officer, Aerlytix. “The highlight of the past year has been working with major lessors and investors and supporting them with their operational and business goals. We partner closely with our clients and adapt to their expanding needs as they explore the transformative nature of our technology.”
 
-Aerlytix is delighted to accept the Airline Economics Aviation 100 Technology Innovation Award and looks forward to celebrating with the industry during the Growth Frontiers Dublin Conference from May 9, 2022. 
+Aerlytix is delighted to accept the Airline Economics Aviation 100 Technology Innovation Award and looks forward to celebrating with the industry during the Growth Frontiers Dublin Conference from May 9, 2022.
