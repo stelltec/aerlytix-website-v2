@@ -4,7 +4,7 @@
 	<subtitle>A feed of the latest news about what we are doing.</subtitle>
 	<link href="https://www.aerlytix.com/feed.xml" rel="self"/>
 	<link href="https://www.aerlytix.com/"/>
-	<updated>2022-04-22T00:00:00Z</updated>
+	<updated>2022-05-04T00:00:00Z</updated>
 	<id>https://www.aerlytix.com</id>
 	<author>
     <name>Aerlytix</name>
@@ -13,10 +13,28 @@
 	
     
     <entry>
+      <title>Aerlytix awarded the 100 Technology Innovation of the Year Award 2022</title>
+      <link href="https://www.aerlytix.com/company/news/aerlytix-awarded-the-100-technology-innovation-of-the-year-award-2022/"/>
+      <updated>2022-05-04T00:00:00Z</updated>
+      <id>https://www.aerlytix.com/company/news/aerlytix-awarded-the-100-technology-innovation-of-the-year-award-2022/</id>
+      <content type="html"><![CDATA[
+        <p><strong>Dublin, Ireland – 24th of January, 2022:</strong>: Aerlytix has been awarded the Airline Economics and Growth Frontiers Global Leaders Aviation 100 Technology Innovation of the Year Award 2022.</p>
+<p>Aerlytix Analytics Suite was nominated by several aviation industry clients for the Technology Innovation Award, which was awarded based on the product’s innovation and its success in answering the needs of the aviation finance and leasing industry.</p>
+<p>Client comments supporting their nominations of the Aerlytix Analytics Suite highlighted the benefits of the maintenance forecast process and the efficiency of the cashflow and maintenance reserve reporting tool, which many noting its flexibility and useability.</p>
+<p>The Aerlytix team was praised for their depth of their knowledge of aircraft asset management, lease reporting requirements, and lessor metric priorities, in addition to their technical skills and ability to systemise and automate all these requirements into one intuitive and sophisticated platform.</p>
+<p>One of the core pillars of Aerlytix business philosophy is that clients need to spend time making decisions rather than gathering information and data. Employing the Aerlytix centralised data and model eco-system, ensures clients spend time analysing, rather than manually processing, data.</p>
+<p>The Aerlytix team were also praised for working closely with clients to ensure the smooth integration of the platform, which adapts to the needs of the individual company. “Our strong growth trajectory places high demands on us but rising to meet these challenges is what excites us,” says Alan Doyle, Chief Executive Officer, Aerlytix. “The highlight of the past year has been working with major lessors and investors and supporting them with their operational and business goals. We partner closely with our clients and adapt to their expanding needs as they explore the transformative nature of our technology.”</p>
+<p>Aerlytix is delighted to accept the Airline Economics Aviation 100 Technology Innovation Award and looks forward to celebrating with the industry during the Growth Frontiers Dublin Conference from May 9, 2022.</p>
+
+      ]]></content>
+    </entry>
+	
+    
+    <entry>
       <title>The Aerlytix team moves into new headquarters in the center of Dublin</title>
-      <link href="https://www.aerlytix.com/news/the-aerlytix-team-moves-into-new-headquarters-in-the-center-of-dublin/"/>
+      <link href="https://www.aerlytix.com/company/news/the-aerlytix-team-moves-into-new-headquarters-in-the-center-of-dublin/"/>
       <updated>2022-04-22T00:00:00Z</updated>
-      <id>https://www.aerlytix.com/news/the-aerlytix-team-moves-into-new-headquarters-in-the-center-of-dublin/</id>
+      <id>https://www.aerlytix.com/company/news/the-aerlytix-team-moves-into-new-headquarters-in-the-center-of-dublin/</id>
       <content type="html"><![CDATA[
         <p><strong>Dublin, Ireland – April 2022:</strong>: Aerlytix, the aviation industry technology solutions company, has opened its new office at Upper Mount Street in Dublin, Ireland.</p>
 <p>As one of the fastest growing aviation technology companies in Ireland, Aerlytix now has room to continue its rapid growth trajectory. After a long time working from home, the Aerlytix team are delighted to be working under the same roof as the company continues to expand.</p>
@@ -31,9 +49,9 @@
     
     <entry>
       <title>A fresh new look and website from Aerlytix</title>
-      <link href="https://www.aerlytix.com/news/a-fresh-new-look-and-website-from-aerlytix/"/>
+      <link href="https://www.aerlytix.com/company/news/a-fresh-new-look-and-website-from-aerlytix/"/>
       <updated>2022-01-24T00:00:00Z</updated>
-      <id>https://www.aerlytix.com/news/a-fresh-new-look-and-website-from-aerlytix/</id>
+      <id>https://www.aerlytix.com/company/news/a-fresh-new-look-and-website-from-aerlytix/</id>
       <content type="html"><![CDATA[
         <p><strong>Dublin, Ireland – 24th of January, 2022:</strong>: On the same day as Ireland emerged from restrictions due to the Covid-19 pandemic, Aerlytix also emerged with a brand new logo and website.</p>
 <p>“We are delighted to launch our new website on the same day as the easing of Covid-19 restrictions in Ireland,” says Alan Doyle, Chief Executive Officer, Aerlytix. “2022 promises to be a great year for Aerlytix and our clients.”</p>
@@ -46,9 +64,9 @@
     
     <entry>
       <title>Raymond Phelan joins the development team at Aerlytix</title>
-      <link href="https://www.aerlytix.com/news/raymond-phelan-joins-the-development-team-at-aerlytix/"/>
+      <link href="https://www.aerlytix.com/company/news/raymond-phelan-joins-the-development-team-at-aerlytix/"/>
       <updated>2021-11-10T00:00:00Z</updated>
-      <id>https://www.aerlytix.com/news/raymond-phelan-joins-the-development-team-at-aerlytix/</id>
+      <id>https://www.aerlytix.com/company/news/raymond-phelan-joins-the-development-team-at-aerlytix/</id>
       <content type="html"><![CDATA[
         <p><strong>Dublin, Ireland – November 2021:</strong>: Raymond Phelan, an experienced technology programmer, has joined Aerlytix’s development team as Senior Frontend Developer.</p>
 <p>Phelan has decades of experience across the full software development lifecycle, which industry experience spanning the transportation and supply chain sector through to gaming and the public sector.</p>
@@ -60,9 +78,9 @@
     
     <entry>
       <title>Aerlytix strengthens its commercial team as the company expansion continues</title>
-      <link href="https://www.aerlytix.com/news/aerlytix-strengthens-its-commercial-team-as-the-company-expansion-continues/"/>
+      <link href="https://www.aerlytix.com/company/news/aerlytix-strengthens-its-commercial-team-as-the-company-expansion-continues/"/>
       <updated>2021-10-16T00:00:00Z</updated>
-      <id>https://www.aerlytix.com/news/aerlytix-strengthens-its-commercial-team-as-the-company-expansion-continues/</id>
+      <id>https://www.aerlytix.com/company/news/aerlytix-strengthens-its-commercial-team-as-the-company-expansion-continues/</id>
       <content type="html"><![CDATA[
         <p><strong>Dublin, Ireland – October 2021:</strong>: With over 16 years of experience in various commercial, operational, and regulatory roles in aviation, Nancy Derby has joined the Aerlytix team as its Head of Business Development.</p>
 <p>Prior to Aerlytix, Nancy worked as a Commercial Director at leading Dublin-based aviation asset management and technical services company, Santos Dumont. Nancy has extensive experience working on behalf of aircraft investors, as well as being responsible for business expansion, aircraft remarketing activities and technical asset management services that support global airlines and lessors, marketing and promoting Irish aviation expertise abroad. Prior to Santos Dumont, Nancy’s technology experience in the aviation industry includes digital transformation projects with major airlines at Viasat and a number of regulatory, training and airport investments projects in her previous roles.</p>
@@ -75,9 +93,9 @@
     
     <entry>
       <title>Head of Quantitative Development at Aerlytix joins CIO Index 2021</title>
-      <link href="https://www.aerlytix.com/news/head-of-quantitative-development-at-aerlytix-joins-cio-index-2021/"/>
+      <link href="https://www.aerlytix.com/company/news/head-of-quantitative-development-at-aerlytix-joins-cio-index-2021/"/>
       <updated>2021-09-03T00:00:00Z</updated>
-      <id>https://www.aerlytix.com/news/head-of-quantitative-development-at-aerlytix-joins-cio-index-2021/</id>
+      <id>https://www.aerlytix.com/company/news/head-of-quantitative-development-at-aerlytix-joins-cio-index-2021/</id>
       <content type="html"><![CDATA[
         <p><strong>Dublin, Ireland – September 2021:</strong>:  Claudio Viotti, Head of Quantitative Development at Aerlytix, has been included to the Business &amp; Finance CIO 100 Index 2021, produced in association with Equinix.</p>
 <p>The <a href="https://businessandfinance.com/cio-100-index-part-1/">Business &amp; Finance CIO 100 Index 2021</a> recognises the top 100 Chief Information Officers working across some of the most innovative companies in Ireland today. As head of quantitative development, Claudio is spearheading Aerlytix efforts that are leading the way in aviation finance technology.</p>
@@ -91,9 +109,9 @@
     
     <entry>
       <title>Aerlytix partners with FlightAware to power new fleet monitoring solution </title>
-      <link href="https://www.aerlytix.com/news/aerlytix-partners-with-flightaware-to-power-new-fleet-monitoring-solution/"/>
+      <link href="https://www.aerlytix.com/company/news/aerlytix-partners-with-flightaware-to-power-new-fleet-monitoring-solution/"/>
       <updated>2021-02-03T00:00:00Z</updated>
-      <id>https://www.aerlytix.com/news/aerlytix-partners-with-flightaware-to-power-new-fleet-monitoring-solution/</id>
+      <id>https://www.aerlytix.com/company/news/aerlytix-partners-with-flightaware-to-power-new-fleet-monitoring-solution/</id>
       <content type="html"><![CDATA[
         <p><strong>Houston, USA – February 3, 2021</strong>:  Aerlytix, the aviation finance technology specialist, is delighted to announce a partnership with FlightAware, the global provider of flight information and insights, that delivers a new and innovative automated fleet monitoring solution – the Aerlytix Alert Tracker.</p>
 <p>The Aerlytix solution was developed by the company in Dublin for the global aviation financing industry using FlightAware's AeroAPI, a query-based engine for accessing real-time, historical and predictive aviation information. By offering access to detailed flight information, the Aerlytix Alert Tracker drives sounder metrics-based decision-making.</p>
