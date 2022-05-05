@@ -1,6 +1,6 @@
 ---
 title: 'Raymond Phelan joins the development team at Aerlytix'
-intro: 'Aerlytix appoints new Senior Frontend Developer'
+# intro: 'Aerlytix appoints new Senior Frontend Developer'
 date: '2021-11-10'
 tags: ['Development','Business','Aerlytix Team']
 headerType: 'blogPost'

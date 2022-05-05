@@ -1,6 +1,6 @@
 ---
 title: 'Aerlytix strengthens its commercial team as the company expansion continues'
-intro: 'Aerlytix gains new Head of Business Development '
+# intro: 'Aerlytix gains new Head of Business Development '
 date: '2021-10-16'
 tags: ['Commercial','Business','Aerlytix Team']
 headerType: 'blogPost'

@@ -11768,6 +11768,41 @@ hr {
 .post__container {
   max-width: 800px;
 }
+.post__container blockquote {
+  padding: 2rem 2rem 1rem;
+  border-left: 4px solid black;
+  margin-left: -2rem;
+}
+.post__container blockquote p {
+  font-size: 1.58rem;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 1.4;
+  color: black;
+}
+.post__container blockquote cite {
+  font-size: 1.1rem;
+  color: #000;
+}
+
+.posts-list h4 a {
+  color: black;
+  font-weight: bold;
+}
+.posts-list .card {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.posts-list .card-footer {
+  border: 0;
+  background-color: transparent;
+  padding-bottom: 1rem;
+}
+
+.article-image img {
+  width: 100%;
+  object-fit: contain;
+}
 
 .footer__main {
   background: var(--bg-dark-blue);
@@ -11900,7 +11935,9 @@ a {
   box-shadow: 0 0rem 1rem rgba(0, 0, 0, 0.085) !important;
 }
 
-.card, .dropdown-menu, .list-group-item {
+.card,
+.dropdown-menu,
+.list-group-item {
   border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
@@ -12035,6 +12072,14 @@ a {
 }
 .btn-close {
   color: #fff;
+}
+.btn-outline-secondary {
+  border-color: black;
+  color: black;
+}
+.btn-outline-secondary:hover {
+  border-color: black;
+  background-color: black;
 }
 
 .border__blue {
@@ -12439,21 +12484,6 @@ a {
   font-size: 2rem;
   color: #fff;
   border-radius: 0.75rem;
-}
-
-.posts-list .card {
-  overflow-y: hidden;
-  overflow-x: hidden;
-}
-.posts-list .card-footer {
-  border: 0;
-  background-color: transparent;
-  padding-bottom: 1rem;
-}
-
-.article-image img {
-  width: 100%;
-  object-fit: contain;
 }
 
 /*# sourceMappingURL=main.css.map */

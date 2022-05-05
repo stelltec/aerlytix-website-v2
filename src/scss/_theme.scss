@@ -26,6 +26,50 @@ hr {
 .post {
     &__container {
         max-width: 800px;
+
+        blockquote {
+            padding: 2rem 2rem 1rem;
+            border-left: 4px solid black;
+            margin-left: -2rem;
+
+            p {
+                font-size: 1.58rem;
+                font-style: italic;
+                font-weight: bold;
+                line-height: 1.4;
+                color: black
+            }
+
+            cite {
+                font-size: 1.1rem;
+                color: #000;
+            }
+        }
+    }
+}
+
+.posts-list {
+    h4 a {
+        color: black;
+        font-weight: bold;
+    }
+
+    .card {
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+
+    .card-footer {
+        border: 0;
+        background-color: transparent;
+        padding-bottom: 1rem;
+    }
+}
+
+.article-image {
+    img {
+        width: 100%;
+        object-fit: contain;
     }
 }
 

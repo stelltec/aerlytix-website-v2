@@ -7,7 +7,7 @@
 
             .text-tag {
                 color: var(--green);
-                border-color:var(--green);
+                border-color: var(--green);
             }
         }
     }
@@ -18,9 +18,10 @@
             background-size: cover;
             color: white;
         }
+
         .text-tag {
             color: var(--green);
-            border-color:var(--green);
+            border-color: var(--green);
         }
     }
 
@@ -30,9 +31,10 @@
             background-size: cover;
             color: white;
         }
+
         .text-tag {
             color: var(--green);
-            border-color:var(--green);
+            border-color: var(--green);
         }
     }
 
@@ -42,9 +44,10 @@
             background-size: cover;
             color: white;
         }
+
         .text-tag {
             color: var(--green);
-            border-color:var(--green);
+            border-color: var(--green);
         }
     }
 
@@ -54,9 +57,10 @@
             background-size: cover;
             color: white;
         }
+
         .text-tag {
             color: var(--green);
-            border-color:var(--green);
+            border-color: var(--green);
         }
     }
 
@@ -66,9 +70,10 @@
             background-size: cover;
             color: white;
         }
+
         .text-tag {
             color: var(--green);
-            border-color:var(--green);
+            border-color: var(--green);
         }
     }
 
@@ -79,9 +84,10 @@
             background-size: cover;
             color: white;
         }
+
         .text-tag {
             color: var(--green);
-            border-color:var(--green);
+            border-color: var(--green);
         }
     }
 
@@ -91,9 +97,10 @@
             background-size: 1400px;
             color: white;
         }
+
         .text-tag {
             color: var(--green);
-            border-color:var(--green);
+            border-color: var(--green);
         }
     }
 
@@ -103,9 +110,10 @@
             background-size: 1000px;
             color: white;
         }
+
         .text-tag {
             color: var(--green);
-            border-color:var(--green);
+            border-color: var(--green);
         }
     }
 
@@ -116,52 +124,41 @@
     &-contact-us {
         // background: #F3F5FB url(../images/abstract-background-1-contact.jpg) 0 0 no-repeat;
         background-size: 1400px;
-        
+
         .header__common {
-            padding:4rem 0 0rem;
+            padding: 4rem 0 0rem;
             background: none;
         }
+
         .contact-us__map-card {
             clip-path: border-box;
         }
     }
 }
 
-body {
-    // background: url(../images/gradient-fade-01.png) 0 -40rem no-repeat, url(../images/gradient-fade-02.png) 100% 0 no-repeat;
-    // background-size:150%;
-}
-
-
-
-.products-page {
-
-}
-
-.solutions-page {
-    
-}
-
 .airplane {
     &__trail {
         &-1 {
-            background:url(../images/plain-trail.svg) 50% 50% no-repeat;
-            background-size:2000px;
-            height:80px;
+            background: url(../images/plain-trail.svg) 50% 50% no-repeat;
+            background-size: 2000px;
+            height: 80px;
         }
+
         &-2 {
-            background:url(../images/plain-trail-02.svg) 50% 50% no-repeat;
-            background-size:2000px;
-            height:80px;
+            background: url(../images/plain-trail-02.svg) 50% 50% no-repeat;
+            background-size: 2000px;
+            height: 80px;
         }
+
         &-3 {
-            background:url(../images/plain-trail-corner-01.svg) 96% 100% no-repeat;
-            background-size:400px;
+            background: url(../images/plain-trail-corner-01.svg) 96% 100% no-repeat;
+            background-size: 400px;
         }
+
         &-4 {
-            background:url(../images/plain-trail-03.svg) 0 50% no-repeat;
-            background-size:500px;
-            height:80px;
+            background: url(../images/plain-trail-03.svg) 0 50% no-repeat;
+            background-size: 500px;
+            height: 80px;
         }
     }
 }

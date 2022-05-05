@@ -1,13 +1,15 @@
 a {
-    color:var(--blue);
+    color: var(--blue);
 }
 
 .shadow {
     box-shadow: 0 0rem 1rem rgba(0, 0, 0, 0.085) !important;
 }
 
-.card, .dropdown-menu, .list-group-item {
-    border:1px solid rgba(0, 0, 0, 0.080);
+.card,
+.dropdown-menu,
+.list-group-item {
+    border: 1px solid rgba(0, 0, 0, 0.080);
 }
 
 
@@ -15,9 +17,10 @@ a {
     &__common {
         padding: 10rem 0;
         margin-bottom: 4rem;
-        background:#F6F8FE url(../images/aviation-map.svg) 50% -3rem no-repeat;
+        background: #F6F8FE url(../images/aviation-map.svg) 50% -3rem no-repeat;
         background-size: 2000px;
     }
+
     &__blog-post {
         padding: 4rem 0;
         text-align: center;
@@ -25,21 +28,23 @@ a {
         a {
             color: var(--blue);
         }
-    } 
+    }
 }
 
 
 .link-arrow {
     color: white;
+
     svg {
-        margin-left:0;
+        margin-left: 0;
         transition: 0.2s;
     }
 
     &:hover {
         color: white;
+
         svg {
-            margin-left:15px;
+            margin-left: 15px;
         }
     }
 }
@@ -47,17 +52,20 @@ a {
 .products {
     background: url(../images/engine-outline.svg) 90% 2rem no-repeat;
     background-size: 37rem;
+
     &__icon {
         margin-bottom: 5rem !important;
     }
+
     .border-top {
-        border-top: 1px solid rgba(255,255,255, .4) !important;
+        border-top: 1px solid rgba(255, 255, 255, .4) !important;
     }
 
     &__pricing-and-trading {
         background: url(../images/product/pricing-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
+
         &:hover {
             transform: scale(1.05);
         }
@@ -67,6 +75,7 @@ a {
         background: url(../images/product/maintenance-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
+
         &:hover {
             transform: scale(1.05);
         }
@@ -76,6 +85,7 @@ a {
         background: url(../images/product/commercial-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
+
         &:hover {
             transform: scale(1.05);
         }
@@ -85,6 +95,7 @@ a {
         background: url(../images/product/risk-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
+
         &:hover {
             transform: scale(1.05);
         }
@@ -94,6 +105,7 @@ a {
         background: url(../images/product/fleet-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
+
         &:hover {
             transform: scale(1.05);
         }
@@ -103,6 +115,7 @@ a {
         background: url(../images/product/consulting-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
+
         &:hover {
             transform: scale(1.05);
         }
@@ -111,6 +124,7 @@ a {
 
 .solutions {
     background: url(../images/pattern-home.svg) 90% 2rem no-repeat, url(../images/pattern-home.svg) 2% 100% no-repeat;
+
     .card {
         min-height: 30rem;
         color: white;
@@ -132,6 +146,7 @@ a {
     &__investors {
         background: #233F74 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
         transition: all .5s;
+
         &:hover {
             transform: scale(1.05);
         }
@@ -140,24 +155,37 @@ a {
     &__lessors {
         background: #233F74 url(../images/lessors-illustration.svg) 50% -4rem no-repeat;
         transition: all .5s;
+
         &:hover {
             transform: scale(1.05);
         }
     }
 
     .border-top {
-        border-top: 1px solid rgba(255,255,255, .4) !important;
+        border-top: 1px solid rgba(255, 255, 255, .4) !important;
     }
 }
 
 .btn {
-    border-radius:10px;
+    border-radius: 10px;
+
     &-primary {
-        background:var(--blue);
+        background: var(--blue);
         border-color: var(--blue);
     }
+
     &-close {
         color: #fff;
+    }
+
+    &-outline-secondary {
+        border-color: black;
+        color: black;
+
+        &:hover {
+            border-color: black;
+            background-color: black;
+        }
     }
 }
 
@@ -197,6 +225,7 @@ a {
 
 .feature-icon {
     border-radius: 1rem !important;
+
     &--success {
         background-color: var(--bg-light-blue);
     }
@@ -205,21 +234,21 @@ a {
 .carousel {
     &-team {
         .row {
-            margin-left:4rem;
+            margin-left: 4rem;
         }
 
         .blockquote {
-            font-size:1.5rem;
+            font-size: 1.5rem;
 
             &-footer {
-                font-size:1.25rem;
+                font-size: 1.25rem;
             }
         }
     }
 }
 
 .careers-panel {
-    background:var(--blue); // url(../images/map-pattern.svg) 0 0 repeat
+    background: var(--blue); // url(../images/map-pattern.svg) 0 0 repeat
     position: relative;
     padding-top: 5rem;
     padding-bottom: 5rem;
@@ -228,6 +257,7 @@ a {
     border-radius: 1rem;
     color: white;
     clip-path: border-box;
+
     p {
         color: white;
     }
@@ -248,20 +278,20 @@ a {
 
 .about-us {
     &__inception {
-        position:relative;
+        position: relative;
         padding-top: 6rem;
         padding-bottom: 6rem;
 
         .container {
-            position:relative;
-            z-index:1;
+            position: relative;
+            z-index: 1;
         }
 
         &--graph-1 {
             position: absolute;
             top: 2rem;
             left: 2rem;
-            z-index:0;
+            z-index: 0;
         }
 
         &--graph-2 {
@@ -279,10 +309,11 @@ a {
 }
 
 .section {
-    &__product  {
+    &__product {
         svg {
             margin: auto;
         }
+
         .card {
             border: none;
             // background: url(../images/icon-circle-electro.svg) 5.2rem .3rem no-repeat;
@@ -292,7 +323,7 @@ a {
 
     &__spacing {
         &-3 {
-            padding:3rem;
+            padding: 3rem;
         }
     }
 }
@@ -300,24 +331,24 @@ a {
 .team {
     &__quotes {
         blockquote {
-            margin-right:4.2rem;
+            margin-right: 4.2rem;
         }
     }
 }
 
 @media (max-width: 575.98px) {
     .quote {
-        padding:0 2rem;
+        padding: 0 2rem;
     }
 
     .carousel-team .row {
         margin-left: 2rem;
-    } 
+    }
 
     .team {
         &__quotes {
             blockquote {
-                margin-right:2rem;
+                margin-right: 2rem;
             }
         }
     }

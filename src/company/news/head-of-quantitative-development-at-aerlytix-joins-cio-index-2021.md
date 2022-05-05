@@ -1,6 +1,6 @@
 ---
 title: 'Head of Quantitative Development at Aerlytix joins CIO Index 2021'
-intro: "Aerlytix’s Claudio Viotti included to the Business & Finance CIO 100 Index 2021"
+# intro: "Aerlytix’s Claudio Viotti included to the Business & Finance CIO 100 Index 2021"
 date: '2021-09-03'
 tags: ['CIO', 'Finance', 'Press Release']
 headerType: 'blogPost'
