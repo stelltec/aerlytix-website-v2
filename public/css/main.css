@@ -12188,6 +12188,12 @@ a {
   margin-right: 4.2rem;
 }
 
+.form-label {
+  margin-bottom: 0.2rem;
+  font-weight: 700;
+  font-size: small;
+}
+
 @media (max-width: 575.98px) {
   .quote {
     padding: 0 2rem;
@@ -12339,6 +12345,7 @@ a {
   background: #F6F8FE url(../images/abstract-background_pricing-trading.jpg) 0 0 no-repeat;
   background-size: cover;
   color: white;
+  text-align: center;
 }
 .body-pricing-and-trading .header__common .text-tag {
   color: var(--green);
@@ -12348,6 +12355,7 @@ a {
   background: #F6F8FE url(../images/abstract-background_maintenance.jpg) 0 0 no-repeat;
   background-size: cover;
   color: white;
+  text-align: center;
 }
 .body-maintenance-and-lease-management .text-tag {
   color: var(--green);
@@ -12357,6 +12365,7 @@ a {
   background: #F6F8FE url(../images/abstract-background_commercial.jpg) 0 0 no-repeat;
   background-size: cover;
   color: white;
+  text-align: center;
 }
 .body-commercial-asset-management .text-tag {
   color: var(--green);
@@ -12366,6 +12375,7 @@ a {
   background: #F6F8FE url(../images/abstract-background_risk.jpg) 0 0 no-repeat;
   background-size: cover;
   color: white;
+  text-align: center;
 }
 .body-risk-management .text-tag {
   color: var(--green);
@@ -12375,6 +12385,7 @@ a {
   background: #F6F8FE url(../images/abstract-background_fleet.jpg) 0 0 no-repeat;
   background-size: cover;
   color: white;
+  text-align: center;
 }
 .body-fleet-monitoring-system .text-tag {
   color: var(--green);
@@ -12384,6 +12395,7 @@ a {
   background: #F6F8FE url(../images/abstract-background_consulting.jpg) 0 0 no-repeat;
   background-size: cover;
   color: white;
+  text-align: center;
 }
 .body-consulting-and-integrations .text-tag {
   color: var(--green);
@@ -12393,6 +12405,7 @@ a {
   background: #F6F8FE url(../images/abstract-background-1.jpg) 0 0 no-repeat;
   background-size: cover;
   color: white;
+  text-align: center;
 }
 .body-about-us .text-tag {
   color: var(--green);
@@ -12402,6 +12415,7 @@ a {
   background: var(--bg-dark-blue) url(../images/lessors-illustration.svg) 100% -30rem no-repeat;
   background-size: 1400px;
   color: white;
+  text-align: center;
 }
 .body-lessors .text-tag {
   color: var(--green);
@@ -12411,6 +12425,7 @@ a {
   background: var(--bg-dark-blue) url(../images/investors-lenders-illustration.svg) 100% -30rem no-repeat;
   background-size: 1000px;
   color: white;
+  text-align: center;
 }
 .body-investors-and-lenders .text-tag {
   color: var(--green);
@@ -12425,9 +12440,13 @@ a {
 .body-contact-us .header__common {
   padding: 4rem 0 0rem;
   background: none;
+  text-align: center;
 }
 .body-contact-us .contact-us__map-card {
   clip-path: border-box;
+}
+.body-news .header__common {
+  text-align: center;
 }
 
 .airplane__trail-1 {

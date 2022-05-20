@@ -4,6 +4,7 @@
             background: #F6F8FE url(../images/abstract-background_pricing-trading.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
             background-size: cover;
             color: white;
+            text-align: center;
 
             .text-tag {
                 color: var(--green);
@@ -17,6 +18,7 @@
             background: #F6F8FE url(../images/abstract-background_maintenance.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
             background-size: cover;
             color: white;
+            text-align: center;
         }
 
         .text-tag {
@@ -30,6 +32,7 @@
             background: #F6F8FE url(../images/abstract-background_commercial.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
             background-size: cover;
             color: white;
+            text-align: center;
         }
 
         .text-tag {
@@ -43,6 +46,7 @@
             background: #F6F8FE url(../images/abstract-background_risk.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
             background-size: cover;
             color: white;
+            text-align: center;
         }
 
         .text-tag {
@@ -56,6 +60,7 @@
             background: #F6F8FE url(../images/abstract-background_fleet.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
             background-size: cover;
             color: white;
+            text-align: center;
         }
 
         .text-tag {
@@ -69,6 +74,7 @@
             background: #F6F8FE url(../images/abstract-background_consulting.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
             background-size: cover;
             color: white;
+            text-align: center;
         }
 
         .text-tag {
@@ -83,6 +89,7 @@
             background: #F6F8FE url(../images/abstract-background-1.jpg) 0 0 no-repeat;
             background-size: cover;
             color: white;
+            text-align: center;
         }
 
         .text-tag {
@@ -96,6 +103,7 @@
             background: var(--bg-dark-blue) url(../images/lessors-illustration.svg) 100% -30rem no-repeat;
             background-size: 1400px;
             color: white;
+            text-align: center;
         }
 
         .text-tag {
@@ -109,6 +117,7 @@
             background: var(--bg-dark-blue) url(../images/investors-lenders-illustration.svg) 100% -30rem no-repeat;
             background-size: 1000px;
             color: white;
+            text-align: center;
         }
 
         .text-tag {
@@ -128,10 +137,17 @@
         .header__common {
             padding: 4rem 0 0rem;
             background: none;
+            text-align: center;
         }
 
         .contact-us__map-card {
             clip-path: border-box;
+        }
+    }
+
+    &-news {
+        .header__common {
+            text-align: center;
         }
     }
 }

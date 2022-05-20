@@ -336,6 +336,14 @@ a {
     }
 }
 
+.form {
+    &-label {
+        margin-bottom: 0.2rem;
+        font-weight: 700;
+        font-size: small;
+    }
+}
+
 @media (max-width: 575.98px) {
     .quote {
         padding: 0 2rem;

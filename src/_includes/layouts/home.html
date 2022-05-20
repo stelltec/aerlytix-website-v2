@@ -3,17 +3,24 @@
 {% block content %}
 
 <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-left ">
-   <div class="container">
-    <div class="col-md-10 pt-5 pb-5 my-5">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-10 text-center pt-5 pb-5">
+        <h1 class="display-3 fw-bold pb-3">Bringing accuracy and clarity to aviation investments</h1>
+        <p class="display-6 pb-4">Aerlytix is a technology solutions company in the aviation finance industry.</p>
+        <a class="btn btn-primary btn-lg" href="/request-demo">Request Demo</a>
+      </div>
+    </div>
+    <!-- <div class="col-md-10 pt-5 pb-5 my-5">
       <h1 class="display-3 fw-bold pb-3">Bringing accuracy and clarity to aviation investments</h1>
       <p class="display-6 pb-4">Aerlytix is a technology solutions company in the aviation finance industry.</p>
       <a class="btn btn-primary btn-lg" href="/request-demo">Request Demo</a>
-    </div>
+    </div> -->
     <div class="product-device shadow-sm d-none d-md-block"></div>
     <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
-   </div>
   </div>
-       
+</div>
+
 {% include "partials/home/products.html" %}
 
 {% include "partials/home/solutions.html" %}
@@ -24,8 +31,8 @@
 
 {{ content | safe }}
 
-{% set ctaContent = cta %} 
-{% include "partials/cta.html" %} 
+{% set ctaContent = cta %}
+{% include "partials/cta.html" %}
 
 
 {% endblock %}
