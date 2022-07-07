@@ -12207,6 +12207,18 @@ a {
     margin-right: 2rem;
   }
 }
+.announcements {
+  background: var(--bg-dark);
+  max-width: 60rem;
+  color: white;
+}
+.announcements__ae-100-logo {
+  margin-left: 1.8rem;
+}
+.announcements__link {
+  color: #F20017;
+}
+
 .navbar {
   padding-top: 0.65rem;
   padding-bottom: 0.65rem;

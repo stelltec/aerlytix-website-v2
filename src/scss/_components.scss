@@ -361,3 +361,17 @@ a {
         }
     }
 }
+
+.announcements {
+    background: var(--bg-dark);
+    max-width: 60rem;
+    color: white;
+
+    &__ae-100-logo {
+        margin-left: 1.8rem;
+    }
+
+    &__link {
+        color: #F20017;
+    }
+}
