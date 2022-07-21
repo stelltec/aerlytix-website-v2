@@ -176,3 +176,5 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </ul>
   </div>
 </article>
+
+{% include "partials/home/announcements.html" %}
