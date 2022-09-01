@@ -63,7 +63,6 @@ summary: "Our mission is to transform aviation finance with technology and analy
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
@@ -112,23 +111,6 @@ summary: "Our mission is to transform aviation finance with technology and analy
                 <div class="flex-grow-1 ms-3 ms-md-0">
                   Shane Callanan
                   <span class="blockquote-footer-source"> - Frontend Engineer</span>
-                </div>
-              </div>
-            </figcaption>
-          </figure>
-        </div>
-      </div> <!-- end of row  -->
-    </div>
-    <div class="carousel-item">
-      <div class="row align-items-md-center">
-        <div class="col-md-12">
-          <figure class="pe-md-7">
-            <blockquote class="display-6">" 2022 has got off to a great start and here in Aerlytix we are eager and excited to continue our mission and reach new heights. Our team are experts in their field and together we look forward to reshaping the industry with our clients. "</blockquote>
-            <figcaption class="blockquote-footer">
-              <div class="d-flex align-items-center">
-                <div class="flex-grow-1 ms-3 ms-md-0">
-                  Nancy Derby
-                  <span class="blockquote-footer-source"> - Head of Business Development</span>
                 </div>
               </div>
             </figcaption>
