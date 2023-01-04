@@ -22,7 +22,7 @@ module.exports = {
     },
 
     currentYear() {
-      const today = new Date();
+      let today = new Date();
       return today.getFullYear();
     },
 
