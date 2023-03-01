@@ -5,6 +5,7 @@ summary: "Within Rep. of Ireland - Data Team - Full-Time or Contractors"
 layout: "layouts/job-apply.html"
 headerType: "blogPost"
 job: dataAnalyst
+reference: "AER23/001"
 ---
 
 As Aerlytix expands rapidly, a very exciting new opportunity exists within the organization. In this role the candidate will be working in an experienced, dynamic team who are transforming the aviation finance industry with a world-class stack and industry-leading automation & analytics products.

@@ -142,7 +142,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
         <li class="list-group-item p-4">
           <div class="row align-items-center">
             <div class="col-md-4 mb-2 mb-md-0">
-              <a href="/company/careers/software-developer-modelling" class="h5">Software Developer – Modelling/Data/Application</a>
+              <a href="/company/careers/software-engineer-backend" class="h5">Software Engineer (Back-end focus)</a>
             </div>
             <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
               <span>Dublin, Ireland or Remote</span>
@@ -151,7 +151,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
               <span>Engineering team</span>
             </div>
             <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/software-developer-modelling">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+              <a class="btn btn-primary" href="/company/careers/software-engineer-backend">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
             </div>
           </div>
         </li>
