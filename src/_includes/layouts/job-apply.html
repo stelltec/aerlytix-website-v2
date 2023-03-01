@@ -171,12 +171,9 @@ document.forms.{{ job }}.addEventListener("submit", (event) => {
     body: new FormData(event.target),
     method: "POST",
   })
-    .then(() => {
-      result.innerText = "Success";
-    })
-    .catch((error) => {
-      result.innerText = `Failed: ${error}`;
-    });
+    .then(() => document.getElementById('success').style.display = "flex")
+    .catch((error) =>
+            alert(error));
 });
 </script>
       </div>
