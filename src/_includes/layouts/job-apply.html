@@ -39,7 +39,7 @@
         </button>
       </div>
       {# application form starts #}
-      <form class="row g-4" data-netlify="true" id="{{ job }}">
+      <form class="row g-4" enctype="multipart/form-data" data-netlify="true" id="{{ job }}">
               <div class="mb-5">
                 <h2 class="h1">Submit your application</h2>
               </div>
@@ -168,6 +168,7 @@ let formElem = document.getElementById('{{ job }}');
       </div>
     </div> <!-- container -->
 </article>
+
 {% endblock %}
 
 
