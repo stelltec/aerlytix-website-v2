@@ -39,7 +39,7 @@
         </button>
       </div>
       {# application form starts #}
-      <form class="row g-4" enctype="multipart/form-data" data-netlify="true" id="{{ job }}">
+      <form class="row g-4" enctype="multipart/form-data" data-netlify="true" id="{{ job }}" name="{{ job }}">
               <div class="mb-5">
                 <h2 class="h1">Submit your application</h2>
               </div>
@@ -150,7 +150,7 @@ if (formElem) {
   }
   formElem.addEventListener("submit", handleSubmit)
 } #}
-let formElem = document.getElementById('{{ job }}');
+{#let formElem = document.getElementById('{{ job }}');
       if (formElem) {
           const handleSubmit = (e) => {
           e.preventDefault()
@@ -163,12 +163,25 @@ let formElem = document.getElementById('{{ job }}');
             alert(error))
         }
         formElem.addEventListener("submit", handleSubmit)
-      }
+      }#}
+document.forms.{{ job }}.addEventListener("submit", (event) => {
+  event.preventDefault();
+  const result = document.querySelector(".result");
+  fetch("/", {
+    body: new FormData(event.target),
+    method: "POST",
+  })
+    .then(() => {
+      result.innerText = "Success";
+    })
+    .catch((error) => {
+      result.innerText = `Failed: ${error}`;
+    });
+});
 </script>
       </div>
     </div> <!-- container -->
 </article>
-
 {% endblock %}
 
 
