@@ -89,5 +89,5 @@ We reserve the right to change this Cookie Policy from time to time at our sole 
 
 ### 7. Contact us
 
-Questions, comments, requests and complaints regarding this Cookie Policy are welcome and may be communicated by email to [info@aerlytix.com](mailto:info@aerlytix.com) or by writing to Embassy House, Herbert Park Lane, Ballsbridge, Dublin 4, Ireland. All requests will be dealt with promptly and efficiently.
+Questions, comments, requests and complaints regarding this Cookie Policy are welcome and may be communicated by email to [info@aerlytix.com](mailto:info@aerlytix.com) or by writing to 17 Mount Street Upper, Dublin, D02 EK80, Ireland. All requests will be dealt with promptly and efficiently.
 Last Updated: January 1st, 2020

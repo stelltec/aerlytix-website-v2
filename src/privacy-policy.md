@@ -24,7 +24,7 @@ It is important that you read this privacy policy together with any other privac
 
 #### Controller
 
-This privacy policy is issued on behalf of Aerlytix so when we mention “Company”, “we”, “us” or “our” in this privacy policy, we are referring to Aerlytix Limited, with registered number 908481 and address at Embassy House, Herbert Park Lane, Ballsbridge, Dublin 4, Ireland. Aerlytix is the controller and is responsible for this website.
+This privacy policy is issued on behalf of Aerlytix so when we mention “Company”, “we”, “us” or “our” in this privacy policy, we are referring to Aerlytix Limited, with registered number 908481 and address at 17 Mount Street Upper, Dublin, D02 EK80, Ireland. Aerlytix is the controller and is responsible for this website.
 
 #### Contact Details
 
@@ -32,7 +32,7 @@ If you have any questions about this privacy policy or our privacy practices, pl
 
 Full name of legal entity: Aerlytix Limited<br />
 Email address: [info@aerlytix.com](mailto:info@aerlytix.com)<br />
-Postal address: Embassy House, Herbert Park Lane, Ballsbridge, Dublin 4, Ireland<br />
+Postal address: 17 Mount Street Upper, Dublin, D02 EK80, Ireland<br />
 
 #### Changes to the privacy policy and your duty to inform us of changes
 
