@@ -1,7 +1,7 @@
 ---
 header: 'Privacy Policy'
 metaDesc: 'Privacy Policy'
-summary: "Last updated January 1st, 2022"
+summary: "Last updated March 27, 2023"
 layout: 'layouts/page.html'
 headerType: 'blogPost'
 ---
