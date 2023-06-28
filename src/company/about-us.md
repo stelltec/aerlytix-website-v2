@@ -132,7 +132,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 </div>
 </article>
 
-<article class="my-5 py-5">
+{# COMMENTED OUT <article class="my-5 py-5">
   <div class="container">
       <div class="w-md-75 w-lg-50 mx-md-auto mb-5 mb-md-9">
         <h2 class="h1">Current opportunities</h2>
@@ -157,6 +157,6 @@ summary: "Our mission is to transform aviation finance with technology and analy
         </li>
       </ul>
   </div>
-</article>
+</article> #}
 
 {% include "partials/home/announcements.html" %}
