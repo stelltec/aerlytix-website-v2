@@ -11833,6 +11833,9 @@ hr {
 .footer__copyright {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
+.footer__copyright--policy-links a {
+  text-decoration: none;
+}
 
 .tags-list a {
   color: white;
