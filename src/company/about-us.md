@@ -63,7 +63,6 @@ summary: "Our mission is to transform aviation finance with technology and analy
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
@@ -119,23 +118,6 @@ summary: "Our mission is to transform aviation finance with technology and analy
         </div>
       </div> <!-- end of row  -->
     </div>
-    <div class="carousel-item">
-      <div class="row align-items-md-center">
-        <div class="col-md-12">
-          <figure class="pe-md-7">
-            <blockquote class="display-6">" 2022 has got off to a great start and here in Aerlytix we are eager and excited to continue our mission and reach new heights. Our team are experts in their field and together we look forward to reshaping the industry with our clients. "</blockquote>
-            <figcaption class="blockquote-footer">
-              <div class="d-flex align-items-center">
-                <div class="flex-grow-1 ms-3 ms-md-0">
-                  Nancy Derby
-                  <span class="blockquote-footer-source"> - Head of Business Development</span>
-                </div>
-              </div>
-            </figcaption>
-          </figure>
-        </div>
-      </div> <!-- end of row  -->
-    </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -150,7 +132,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 </div>
 </article>
 
-<article class="my-5 py-5">
+{# COMMENTED OUT <article class="my-5 py-5">
   <div class="container">
       <div class="w-md-75 w-lg-50 mx-md-auto mb-5 mb-md-9">
         <h2 class="h1">Current opportunities</h2>
@@ -160,7 +142,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
         <li class="list-group-item p-4">
           <div class="row align-items-center">
             <div class="col-md-4 mb-2 mb-md-0">
-              <a href="/company/careers/software-developer-modelling" class="h5">Software Developer – Modelling/Data/Application</a>
+              <a href="/company/careers/software-engineer-backend" class="h5">Software Engineer (Back-end focus)</a>
             </div>
             <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
               <span>Dublin, Ireland or Remote</span>
@@ -169,12 +151,12 @@ summary: "Our mission is to transform aviation finance with technology and analy
               <span>Engineering team</span>
             </div>
             <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/software-developer-modelling">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+              <a class="btn btn-primary" href="/company/careers/software-engineer-backend">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
             </div>
           </div>
         </li>
       </ul>
   </div>
-</article>
+</article> #}
 
 {% include "partials/home/announcements.html" %}

@@ -1,7 +1,7 @@
 ---
 header: 'Cookies Policy'
 metaDesc: 'Cookies Policy'
-summary: "Last updated January 1st, 2022"
+summary: "Last updated June 26, 2023"
 layout: 'layouts/page.html'
 headerType: 'blogPost'
 ---
@@ -89,5 +89,4 @@ We reserve the right to change this Cookie Policy from time to time at our sole 
 
 ### 7. Contact us
 
-Questions, comments, requests and complaints regarding this Cookie Policy are welcome and may be communicated by email to [info@aerlytix.com](mailto:info@aerlytix.com) or by writing to Embassy House, Herbert Park Lane, Ballsbridge, Dublin 4, Ireland. All requests will be dealt with promptly and efficiently.
-Last Updated: January 1st, 2020
+Questions, comments, requests and complaints regarding this Cookie Policy are welcome and may be communicated by email to [info@aerlytix.com](mailto:info@aerlytix.com) or by writing to First Floor, Communications House, 1A Barrow Street, Dublin D04 E9R0, Ireland. All requests will be dealt with promptly and efficiently.

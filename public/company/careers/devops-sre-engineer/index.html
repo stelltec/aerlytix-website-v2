@@ -39,19 +39,33 @@
 <link rel="icon" type="image/png" sizes="16x16" href="https://www.aerlytix.com/images/favicon-16x16.png">
 <link rel="mask-icon" href="https://www.aerlytix.com/images/safari-pinned-tab.svg" color="#2b5dc1">
 <link rel="shortcut icon" type="image/x-icon" href="https://www.aerlytix.com/images/favicon.ico">
+<<<<<<< HEAD
 <link rel="stylesheet" href="/css/main.css?274c-0990-0b09" />
+=======
+<link rel="stylesheet" href="/css/main.css?0528-c898-3106" />
+>>>>>>> 4e136539bd3d6f46a83404f323101c62149ab47d
 <link rel="alternate" type="application/rss+xml" href="https://www.aerlytix.com/feed.xml" />
   
 
  
-<!-- Global site tag (gtag.js) - Google Analytics -->
+
+
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-T9N2BPHEET"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+
   gtag('config', 'G-T9N2BPHEET');
 </script>
+
+<!-- PostHog -->
+<script>
+  !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+  posthog.init('phc_ibbsRdixbraoy4FYyznWnYMxPEFZNUfa7frWA0vvFBU',{api_host:'https://eu.posthog.com'})
+</script>
+
 
 
 </head>
@@ -218,22 +232,16 @@
 
     <div class="col-md-8 mb-5 mx-auto">
     <div class="card p-5 rounded-6">
-      <div class="w-100 mb-4 alert alert-success alert-dismissible fade show align-items-center" role="alert" id="success" style="display:none">
-        <svg class="bi flex-shrink-0 me-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16" aria-label="Success:">
-          <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
-          <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
-        </svg>
-        <div>Thanks for your interest in Aerlytix. We'll be in touch soon!</div>
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
-          <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
-            <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
-          </svg>
-        </button>
-      </div>
       
-      <form class="row g-4" data-netlify="true" id="devOps">
+      <form class="row g-4" enctype="multipart/form-data" data-netlify="true" id="devOps" name="devOps">
               <div class="mb-5">
                 <h2 class="h1">Submit your application</h2>
+              </div>
+              <div class="row mb-3">
+                <label for="jobReference" class="col-sm-4 col-form-label">Job Reference</label>
+                <div class="col-sm-8">
+                  <input name="reference" type="text" class="form-control" id="jobReference" value="AER23/001" readonly>
+                </div>
               </div>
               <div class="row mb-3">
                 <label for="resumeCVCareersForm" class="col-sm-4 col-form-label">Resume/CV</label>
@@ -297,6 +305,20 @@
               <div class="mb-3">
                 <div data-netlify-recaptcha="true"></div>
               </div>
+
+              <div class="w-100 mb-4 alert alert-success alert-dismissible fade show align-items-center" role="alert" id="success" style="display:none">
+                <svg class="bi flex-shrink-0 me-2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16" aria-label="Success:">
+                  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+                  <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05z"/>
+                </svg>
+                <div>Thanks for your interest in Aerlytix. We'll review your application and be in touch!</div>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                    <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+                  </svg>
+                </button>
+              </div>
+
               <div class="d-grid text-center mt-7">
                 <button type="submit" class="btn btn-primary btn-lg">Submit application</button>
                  <small class="d-block regulatory pt-4 text-center">By submitting this form you are confirming that the information you provide may be collected, processed, used and retained in accordance with our <a href="/privacy-policy/">privacy policy</a>.</small>
@@ -307,22 +329,17 @@
     </div>
 
 <script>
-
-
-let formElem = document.getElementById('devOps');
-      if (formElem) {
-          const handleSubmit = (e) => {
-          e.preventDefault()
-          let formData = new FormData(formElem)
-          fetch('/', {
-            method: 'POST',
-            headers: { "Content-Type": "multipart/form-data" },
-            body: new URLSearchParams(formData).toString()
-          }).then(() => document.getElementById('success').style.display = "flex").catch((error) =>
-            alert(error))
-        }
-        formElem.addEventListener("submit", handleSubmit)
-      }
+document.forms.devOps.addEventListener("submit", (event) => {
+  event.preventDefault();
+  const result = document.querySelector(".result");
+  fetch("/", {
+    body: new FormData(event.target),
+    method: "POST",
+  })
+    .then(() => document.getElementById('success').style.display = "flex")
+    .catch((error) =>
+            alert(error));
+});
 </script>
       </div>
     </div> <!-- container -->
@@ -348,7 +365,7 @@ let formElem = document.getElementById('devOps');
         </svg>
         </a>
         <p class="footer__brand-leading">Aerlytix is a technology solutions company in the aviation finance industry specializing in analytics, data integration and process management. Our clients include lessors, investors and lenders.</p>
-        <ul class="list-unstyled d-flex mb-4">
+        <!-- <ul class="list-unstyled d-flex mb-4">
             <li>
               <a class="link-dark" href="https://www.twitter.com/aerlytix">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
@@ -363,7 +380,7 @@ let formElem = document.getElementById('devOps');
                 </svg>
               </a>
             </li>        
-        </ul>
+        </ul> -->
       </div>
       <div class="col-8 col-lg-3 mb-4 footer__products">
         <h6>Products</h6>
@@ -407,6 +424,7 @@ let formElem = document.getElementById('devOps');
         </ul>
       </div>
     </div>
+<<<<<<< HEAD
     <div class="d-flex justify-content-between pt-4 w-100 footer__copyright">
       <p>&copy; 2023 Aerlytix, Ltd. All rights reserved.</p>
       <ul class="list-unstyled d-flex">
@@ -416,7 +434,32 @@ let formElem = document.getElementById('devOps');
         <li class="ms-3">
           <a href="/cookies-policy" class="nav-link p-0">Cookies Policy</a>
         </li>        
+=======
+    <div class="d-flex justify-content-between align-items-center footer__copyright">
+      <div class="footer__copyright--info">
+        <ul class="list-unstyled d-flex mb-4 mt-4">
+          <li>
+            <a class="link-dark" href="https://www.twitter.com/aerlytix">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+                <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+              </svg>
+            </a>
+          </li>
+          <li class="ms-3">
+            <a class="link-dark" href="https://www.linkedin.com/company/aerlytix">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-linkedin" viewBox="0 0 16 16">
+                <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"/>
+              </svg>
+            </a>
+          </li>        
+>>>>>>> 4e136539bd3d6f46a83404f323101c62149ab47d
       </ul>
+        <p class="footer__copyright--policy-links"><a href="/privacy-policy" class="p-0 pe-2">Privacy Policy</a>  |  <a href="/cookies-policy" class="p-0 ps-2">Cookies Policy</a></p>
+        <p>&copy; 2023 Aerlytix, Ltd. All rights reserved.</p>
+      </div>
+      <div class="footer__copyright--aicpa-badge">
+        <img src="/images/AICPA_SOC_Logo.png" width="180px" alt="AICPA SOC Logo Badge" />
+      </div>
     </div>
   </div> <!-- row container -->
   </div>

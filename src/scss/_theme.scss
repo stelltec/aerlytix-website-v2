@@ -115,6 +115,10 @@ hr {
 
     &__copyright {
         border-top: 1px solid rgba(255, 255, 255, .1);
+
+        &--policy-links a {
+            text-decoration: none;
+        }
     }
 }
 
