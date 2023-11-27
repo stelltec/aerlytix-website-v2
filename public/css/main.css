@@ -10813,6 +10813,11 @@ textarea {
     width: 100%;
   }
 }
+@media (max-width: 900px) {
+  .post__container blockquote.callout {
+    margin-left: 0;
+  }
+}
 a {
   color: var(--blue);
 }
