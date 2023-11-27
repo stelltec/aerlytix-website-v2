@@ -1,5 +1,5 @@
 ---
-title: 'Stratos and Aerlytix Join Forces to Transform Aircraft ABS Market'
+title: 'Aerlytix partners with Stratos to Transform Aircraft ABS Reporting'
 date: '2023-11-27'
 tags: ['Stratos', 'Partnership', 'ABS', 'Portal']
 headerType: 'blogPost'
@@ -57,3 +57,4 @@ Fitzgerald believes that the wider use among the asset managers should ‘massiv
 For him, banks have been slowly pulling away from the aircraft finance sector because of the cost of capital allocation and increasingly punitive regulation affecting the banking sector.
 
 "The only segment large enough to replace such a huge volume of bank lending capacity over time is the capital markets where you have properly rated, properly reported securitized structures which are re-traded in a liquid secondary market so they can be underwritten by pension funds and insurers. Up to now, there has been relatively little trading in the secondary market, and we need to change this momentum."
+
