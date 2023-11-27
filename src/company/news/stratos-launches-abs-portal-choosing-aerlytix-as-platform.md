@@ -7,6 +7,9 @@ articleImg: 'aerlytix-and-stratos.png'
 articleImgAlt: 'Image of Aerlytix new brand'
 ---
 
+> [!NOTE]
+> Article originally published in Air Finance Journal: [Exclusive: Stratos Launches ABS Portal](https://www.airfinancejournal.com/articles/3592323/exclusive-stratos-launches-abs-portal)
+
 **Dublin, Ireland – November 27, 2023:** Asset manager and servicer Stratos has launched an innovative reporting system for its asset-backed securitization (ABS) Jol-Air 2019.
 
 The enhanced reporting portal features information per aircraft MSN on lease rate ranges, maintenance status, forward maintenance projections, and estimated end-of-lease compensation payments for investors.
