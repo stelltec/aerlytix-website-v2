@@ -10656,6 +10656,11 @@ hr {
   font-size: var(--bs-body-font-size);
   font-weight: normal;
 }
+.post__container blockquote.callout__info .airfinance-logo {
+  margin: 0 auto;
+  display: block;
+  max-width: 500px;
+}
 .post__container blockquote p {
   font-size: 1.58rem;
   font-style: italic;
