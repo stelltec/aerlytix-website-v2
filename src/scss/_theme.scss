@@ -32,6 +32,20 @@ hr {
             border-left: 4px solid black;
             margin-left: -2rem;
 
+            &.callout {
+                border-radius: 4px;
+                border: 0;
+                font-weight: normal;
+            
+                &__info {
+                    background:rgb(240, 240, 240);
+
+                    p {
+                        font-size: 1.2rem;
+                    }
+                }
+            }
+
             p {
                 font-size: 1.58rem;
                 font-style: italic;
