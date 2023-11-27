@@ -10647,13 +10647,14 @@ hr {
 .post__container blockquote.callout {
   border-radius: 4px;
   border: 0;
-  font-weight: normal;
+  font-weight: var(--bs-body-font-size);
 }
 .post__container blockquote.callout__info {
   background: rgb(240, 240, 240);
 }
 .post__container blockquote.callout__info p {
-  font-size: 1.2rem;
+  font-size: var(--bs-body-font-size);
+  font-weight: normal;
 }
 .post__container blockquote p {
   font-size: 1.58rem;
