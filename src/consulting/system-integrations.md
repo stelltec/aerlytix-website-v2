@@ -1,7 +1,7 @@
 ---
-title: "Lessors"
-header: "Better-informed aviation investments"
-summary: "Simplifying aviation finance and investments"
+title: "System Integrations"
+header: "Actionable insights from connected data"
+summary: "Competitive advantage through real-time data analytics and connected asset condition."
 ---
 
 <!-- Start marketing section -->
@@ -9,8 +9,8 @@ summary: "Simplifying aviation finance and investments"
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">Clarity</h2>
-      <p class="display-7">Aerlytix empowers aviation investors with the connected risk management tools needed to understand underlying exposures. </p>
+      <h2 class="h1">Latest Technology</h2>
+      <p class="display-7">Aerlytix is a technology eco-system used by leading lessors to run their business, supporting their asset management processes with a suite of tools, connecting in-depth technical analysis, scenario stress testing and metal value exposure.</p>
     </div>
     <div class="card col-md-5">
       <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -27,9 +27,9 @@ summary: "Simplifying aviation finance and investments"
 <path fill-rule="evenodd" clip-rule="evenodd" d="M276.661 87.8386C276.661 85.1661 274.499 83 271.831 83C269.162 83 267 85.1661 267 87.8386C267 90.5111 269.162 92.6763 271.831 92.6763C274.499 92.6763 276.661 90.5111 276.661 87.8386Z" fill="#E5E7F1"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M255.329 251.167C255.329 249.97 254.361 249 253.164 249C251.969 249 251 249.97 251 251.167C251 252.364 251.969 253.336 253.164 253.336C254.361 253.336 255.329 252.364 255.329 251.167Z" fill="#E5E7F1"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M179.329 2.16699C179.329 0.969938 178.361 0 177.164 0C175.969 0 175 0.969938 175 2.16699C175 3.36405 175.969 4.33568 177.164 4.33568C178.361 4.33568 179.329 3.36405 179.329 2.16699Z" fill="#E5E7F1"/>
-<path d="M134.602 77.6564C135.948 74.7708 140.052 74.7708 141.398 77.6564L159.298 116.014C159.671 116.812 160.313 117.454 161.111 117.826L199.468 135.726C202.354 137.073 202.354 141.176 199.468 142.523L161.111 160.423C160.313 160.795 159.671 161.437 159.298 162.235L141.398 200.593C140.052 203.478 135.948 203.478 134.602 200.593L116.702 162.235C116.329 161.437 115.688 160.795 114.889 160.423L76.5318 142.523C73.6463 141.176 73.6463 137.073 76.5318 135.726L114.889 117.826C115.688 117.454 116.329 116.812 116.702 116.014L134.602 77.6564Z" stroke="url(#paint0_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M170.625 186L133.125 182.875M80 142.25H139.375H80ZM80 142.25L105 170.375L80 142.25ZM80 142.25L105 114.125L80 142.25ZM139.375 142.25L170.625 86L139.375 142.25ZM139.375 142.25L170.625 186L139.375 142.25ZM170.625 86L133.125 92.25L170.625 86ZM170.625 86L180 120.375L170.625 86ZM170.625 186L180 151.625L170.625 186Z" stroke="url(#paint0_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
 <defs>
-<linearGradient id="paint0_linear_398_4764" x1="138" y1="75.4922" x2="138" y2="202.757" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_398_4764" x1="130" y1="86" x2="130" y2="186" gradientUnits="userSpaceOnUse">
 <stop stop-color="#3B6BCA"/>
 <stop offset="1" stop-color="#2654AF"/>
 </linearGradient>
@@ -44,8 +44,8 @@ summary: "Simplifying aviation finance and investments"
   <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7 order-md-2">
-      <h2 class="h1">Real-time Analytics</h2>
-      <p class="display-7">The Aerlytix platform enables investors to manage complex investments and maintain a competitive advantage through real-time data analytics and connected asset condition.</p>
+      <h2 class="h1">Connectivity</h2>
+      <p class="display-7">Aerlytix platform brings technical, commercial, finance and risk inputs together to ensure coordinated outcomes through one centralised infrastructure, making the most complex investments a simple matter.</p>
     </div>
     <div class="card col-md-5 order-md-1">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -62,14 +62,19 @@ summary: "Simplifying aviation finance and investments"
 <path fill-rule="evenodd" clip-rule="evenodd" d="M276.661 87.8386C276.661 85.1661 274.499 83 271.831 83C269.162 83 267 85.1661 267 87.8386C267 90.5111 269.162 92.6763 271.831 92.6763C274.499 92.6763 276.661 90.5111 276.661 87.8386Z" fill="#E5E7F1"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M255.329 251.167C255.329 249.97 254.361 249 253.164 249C251.969 249 251 249.97 251 251.167C251 252.364 251.969 253.336 253.164 253.336C254.361 253.336 255.329 252.364 255.329 251.167Z" fill="#E5E7F1"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M179.329 2.16699C179.329 0.969938 178.361 0 177.164 0C175.969 0 175 0.969938 175 2.16699C175 3.36405 175.969 4.33568 177.164 4.33568C178.361 4.33568 179.329 3.36405 179.329 2.16699Z" fill="#E5E7F1"/>
-<path d="M195.563 160.313C191.586 169.716 185.367 178.001 177.449 184.446C169.531 190.89 160.155 195.296 150.14 197.28C140.126 199.263 129.778 198.763 120.001 195.824C110.224 192.884 101.316 187.594 94.0565 180.417C86.7964 173.239 81.4052 164.392 78.354 154.65C75.3029 144.907 74.6848 134.566 76.5538 124.529C78.4228 114.492 82.7219 105.066 89.0754 97.0752C95.4288 89.0839 103.643 82.7707 113 78.6875" stroke="url(#paint0_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M200.5 136C200.5 127.792 198.883 119.665 195.742 112.082C192.602 104.499 187.998 97.6095 182.194 91.8058C176.391 86.0022 169.501 81.3984 161.918 78.2575C154.335 75.1166 146.208 73.5 138 73.5V136H200.5Z" stroke="url(#paint1_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M81.75 179.75H138H81.75ZM194.25 179.75H138H194.25ZM138 179.75V142.25V179.75ZM138 142.25H175.5V92.25H100.5V142.25H138Z" stroke="url(#paint0_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M119.25 117.313L119.312 117.243" stroke="url(#paint1_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M138 117.313L138.063 117.243" stroke="url(#paint2_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
 <defs>
-<linearGradient id="paint0_linear_398_4764" x1="135.53" y1="78.6875" x2="135.53" y2="198.471" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_398_4764" x1="138" y1="92.25" x2="138" y2="179.75" gradientUnits="userSpaceOnUse">
 <stop stop-color="#3B6BCA"/>
 <stop offset="1" stop-color="#2654AF"/>
 </linearGradient>
-<linearGradient id="paint1_linear_398_4764" x1="169.25" y1="73.5" x2="169.25" y2="136" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear_398_4764" x1="119.281" y1="117.243" x2="119.281" y2="117.313" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3B6BCA"/>
+<stop offset="1" stop-color="#2654AF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_398_4764" x1="138.031" y1="117.243" x2="138.031" y2="117.313" gradientUnits="userSpaceOnUse">
 <stop stop-color="#3B6BCA"/>
 <stop offset="1" stop-color="#2654AF"/>
 </linearGradient>
@@ -84,8 +89,8 @@ summary: "Simplifying aviation finance and investments"
 <div class="container">
   <div class="row gx-lg-5 featurette">
     <div class="col-md-7">
-      <h2 class="h1">Decision Support</h2>
-      <p class="display-7">Aerlytix allows aviation investors to maximise value and analyse exit opportunities.</p>
+      <h2 class="h1">Automation</h2>
+      <p class="display-7">Aerlytix drives intelligent automation into every corner of the asset management process, creating a true competitive advantage by removing “the noise” and introducing quantitative rigour to the decision-making process.</p>
     </div>
     <div class="card col-md-5">
     <svg width="277" height="272" viewBox="0 0 277 272" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -102,39 +107,19 @@ summary: "Simplifying aviation finance and investments"
 <path fill-rule="evenodd" clip-rule="evenodd" d="M276.661 87.8386C276.661 85.1661 274.499 83 271.831 83C269.162 83 267 85.1661 267 87.8386C267 90.5111 269.162 92.6763 271.831 92.6763C274.499 92.6763 276.661 90.5111 276.661 87.8386Z" fill="#E5E7F1"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M255.329 251.167C255.329 249.97 254.361 249 253.164 249C251.969 249 251 249.97 251 251.167C251 252.364 251.969 253.336 253.164 253.336C254.361 253.336 255.329 252.364 255.329 251.167Z" fill="#E5E7F1"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M179.329 2.16699C179.329 0.969938 178.361 0 177.164 0C175.969 0 175 0.969938 175 2.16699C175 3.36405 175.969 4.33568 177.164 4.33568C178.361 4.33568 179.329 3.36405 179.329 2.16699Z" fill="#E5E7F1"/>
-<path d="M193.25 82.5L187 88.75" stroke="url(#paint0_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M80.75 82.5L87 88.75" stroke="url(#paint1_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M193.25 170L187 163.75" stroke="url(#paint2_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M80.75 170L87 163.75" stroke="url(#paint3_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M118.25 182.5H155.75" stroke="url(#paint4_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M124.5 201.25H149.5" stroke="url(#paint5_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M136.999 88.75C111.998 88.75 99.1991 100.939 99.499 120C99.6452 129.293 102.623 135.625 108.874 141.875C115.125 148.125 118.25 151.25 118.249 163.75H155.749C155.75 151.251 158.875 148.125 165.123 141.876L165.124 141.875C171.373 135.625 174.353 129.293 174.499 120C174.799 100.939 162 88.75 136.999 88.75Z" stroke="url(#paint6_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M144.25 161H175.5" stroke="url(#paint0_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100.5 111L125.5 136L100.5 161" stroke="url(#paint1_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M75.5 173.5V98.5C75.5 91.5964 81.0964 86 88 86H188C194.904 86 200.5 91.5964 200.5 98.5V173.5C200.5 180.404 194.904 186 188 186H88C81.0964 186 75.5 180.404 75.5 173.5Z" stroke="url(#paint2_linear_398_4764)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
 <defs>
-<linearGradient id="paint0_linear_398_4764" x1="190.125" y1="82.5" x2="190.125" y2="88.75" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_398_4764" x1="159.875" y1="161" x2="159.875" y2="162" gradientUnits="userSpaceOnUse">
 <stop stop-color="#3B6BCA"/>
 <stop offset="1" stop-color="#2654AF"/>
 </linearGradient>
-<linearGradient id="paint1_linear_398_4764" x1="83.875" y1="82.5" x2="83.875" y2="88.75" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear_398_4764" x1="113" y1="111" x2="113" y2="161" gradientUnits="userSpaceOnUse">
 <stop stop-color="#3B6BCA"/>
 <stop offset="1" stop-color="#2654AF"/>
 </linearGradient>
-<linearGradient id="paint2_linear_398_4764" x1="190.125" y1="163.75" x2="190.125" y2="170" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3B6BCA"/>
-<stop offset="1" stop-color="#2654AF"/>
-</linearGradient>
-<linearGradient id="paint3_linear_398_4764" x1="83.875" y1="163.75" x2="83.875" y2="170" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3B6BCA"/>
-<stop offset="1" stop-color="#2654AF"/>
-</linearGradient>
-<linearGradient id="paint4_linear_398_4764" x1="137" y1="182.5" x2="137" y2="183.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3B6BCA"/>
-<stop offset="1" stop-color="#2654AF"/>
-</linearGradient>
-<linearGradient id="paint5_linear_398_4764" x1="137" y1="201.25" x2="137" y2="202.25" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3B6BCA"/>
-<stop offset="1" stop-color="#2654AF"/>
-</linearGradient>
-<linearGradient id="paint6_linear_398_4764" x1="136.999" y1="88.75" x2="136.999" y2="163.75" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint2_linear_398_4764" x1="138" y1="86" x2="138" y2="186" gradientUnits="userSpaceOnUse">
 <stop stop-color="#3B6BCA"/>
 <stop offset="1" stop-color="#2654AF"/>
 </linearGradient>
@@ -144,3 +129,5 @@ summary: "Simplifying aviation finance and investments"
   </div>
 </div>
 </article>
+
+<!-- End marketing section -->

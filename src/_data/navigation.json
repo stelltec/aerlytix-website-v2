@@ -41,14 +41,50 @@
             "url": "",
             "subitems": [
                 {
-                    "text": "Lessors",
-                    "url": "/solutions/lessors/"
+                    "text": "Banks & Lenders",
+                    "url": "/solutions/banks-and-lenders/"
                 },
                 {
-                    "text": "Investors & Lenders",
-                    "url": "/solutions/investors-and-lenders/"
+                    "text": "Owners & Investors",
+                    "url": "/solutions/owners-and-investors/"
+                },
+                {
+                    "text": "Airlines",
+                    "url": "/solutions/airlines/"
+                },
+                {
+                    "text": "Lessors",
+                    "url": "/solutions/lessors/"
+                }
+
+            ]
+        },
+        {
+            "text": "Consulting",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Technology Advisory",
+                    "url": "/consulting/technology-advisory/"
+                },
+                {
+                    "text": "System Integrations",
+                    "url": "/consulting/system-integrations/"
+                },
+                {
+                    "text": "Data Integrations",
+                    "url": "/consulting/data-integrations/"
+                },
+                {
+                    "text": "Excel Modelling Services",
+                    "url": "/consulting/excel-modelling-services/"
                 }
             ]
+        },
+        {
+            "text": "Pricing",
+            "url": "/pricing"
         },
         {
             "text": "Company",
@@ -60,8 +96,16 @@
                     "url": "/company/about-us/"
                 },
                 {
+                    "text": "Careers",
+                    "url": "/company/careers/"
+                },
+                {
                     "text": "News",
                     "url": "/company/news/"
+                },
+                {
+                    "text": "FAQs",
+                    "url": "/company/faqs/"
                 },
                 {
                     "text": "Contact Us",

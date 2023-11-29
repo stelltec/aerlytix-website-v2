@@ -1,5 +1,5 @@
 ---
-title: "Lessors"
+title: "Owners & Investors"
 header: "Better-informed aviation investments"
 summary: "Simplifying aviation finance and investments"
 ---
