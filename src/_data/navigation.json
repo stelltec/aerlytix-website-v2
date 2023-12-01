@@ -60,6 +60,10 @@
                     "url": "/company/about-us/"
                 },
                 {
+                    "text": "Careers",
+                    "url": "/company/careers/"
+                },
+                {
                     "text": "News",
                     "url": "/company/news/"
                 },
