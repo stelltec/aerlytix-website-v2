@@ -132,7 +132,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 </div>
 </article>
 
-{# COMMENTED OUT <article class="my-5 py-5">
+<article class="my-5 py-5">
   <div class="container">
       <div class="w-md-75 w-lg-50 mx-md-auto mb-5 mb-md-9">
         <h2 class="h1">Current opportunities</h2>
@@ -142,21 +142,37 @@ summary: "Our mission is to transform aviation finance with technology and analy
         <li class="list-group-item p-4">
           <div class="row align-items-center">
             <div class="col-md-4 mb-2 mb-md-0">
-              <a href="/company/careers/software-engineer-backend" class="h5">Software Engineer (Back-end focus)</a>
+              <a href="/company/careers/ms-dynamics-365-and-analytics-specialist" class="h5">MS Dynamics 365 and Analytics Specialist</a>
             </div>
             <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
-              <span>Dublin, Ireland or Remote</span>
+              <span>Dublin, Ireland (Hybrid)</span>
+            </div>
+            <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
+              <span>Data team</span>
+            </div>
+            <div class="col-sm-2 text-sm-end">
+              <a class="btn btn-primary" href="/company/careers/ms-dynamics-365-and-analytics-specialist">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+            </div>
+          </div>
+        </li>
+        <li class="list-group-item p-4">
+          <div class="row align-items-center">
+            <div class="col-md-4 mb-2 mb-md-0">
+              <a href="/company/careers/senior-ai-engineer" class="h5">Senior AI (Artificial Intelligence) Engineer </a>
+            </div>
+            <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
+              <span>Dublin, Ireland (Hybrid)</span>
             </div>
             <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
               <span>Engineering team</span>
             </div>
             <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/software-engineer-backend">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+              <a class="btn btn-primary" href="/company/careers/senior-ai-engineer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
             </div>
           </div>
         </li>
       </ul>
   </div>
-</article> #}
+</article>
 
 {% include "partials/home/announcements.html" %}
