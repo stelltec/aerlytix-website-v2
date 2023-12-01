@@ -41,7 +41,7 @@ This role is ideal for candidates who have a strong interest in Microsoft Power 
 * Interest in working with clients and on gathering and refining reporting requirements.
 * 1-5 years’ experience in a Business Intelligence or data role.  
 * Good written and verbal communication skills.
-* A great attitude who creates a positive environment, as well as working independently on time sensitive task.
+* Great attitude creating a positive environment, as well as working independently on time sensitive tasks.
 
 ### Bonus points if you have experience in
 
@@ -51,3 +51,4 @@ This role is ideal for candidates who have a strong interest in Microsoft Power 
 * Prior knowledge of the aviation industry.
 
 **Job Reference: AER23/001**
+
