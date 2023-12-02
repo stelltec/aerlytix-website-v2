@@ -180,19 +180,22 @@ summary: "Be a part of a fast-growing team that values teamwork, inclusivity and
    <div class="row align-items-md-stretch mb-4">
     <div class="col-md-4">
         <div class="h-100 p-5 bg-body-tertiary border rounded-3">
-            <h4 class="fw-bold mb-3">🚀 Strive for excellence, embrace connections</h5>
+            <h3>🚀</h3>
+            <h4 class="fw-bold mb-3">Strive for excellence, embrace connections</h5>
             <p>Cohesive and dynamic teams operate with enhanced agility, communication, and freedom compared to large-scale corporations.</p>
         </div>
     </div>
     <div class="col-md-4">
         <div class="h-100 p-5 bg-body-tertiary border rounded-3">
-            <h4 class="fw-bold mb-3">💪 Unleash your ambition</h4>
+            <h3>💪</h3>
+            <h4 class="fw-bold mb-3">Unleash your ambition</h4>
             <p>We value individuals who aspire to achieve greatness, inspiring and energizing their teammates, thereby elevating the standards for all.</p>
         </div>
     </div>
     <div class="col-md-4">
         <div class="h-100 p-5 bg-body-tertiary border rounded-3">
-            <h4 class="fw-bold mb-3">🗣️ Foster transparent communication</h4>
+            <h3>🗣️</h3>
+            <h4 class="fw-bold mb-3">Foster transparent communication</h4>
             <p>We strongly advocate for transparency for various reasons, with the condensed version being: it simplifies collaboration.</p>
         </div>
     </div>
@@ -200,19 +203,22 @@ summary: "Be a part of a fast-growing team that values teamwork, inclusivity and
 <div class="row align-items-md-stretch">
     <div class="col-md-4">
         <div class="h-100 p-5 bg-body-tertiary border rounded-3">
-            <h4 class="fw-bold mb-3">🌱 Encourage autonomy and positive attitude</h4>
+            <h4>🌱</h4>
+            <h4 class="fw-bold mb-3">Encourage autonomy and positive attitude</h4>
             <p>We are a collective of self-starters who take immense pride in our work – a commitment that is evident in our results.</p>
         </div>
     </div>
     <div class="col-md-4">
         <div class="h-100 p-5 bg-body-tertiary border rounded-3">
-            <h4 class="fw-bold mb-3">🏆 Provide support and achieve victory together</h4>
+            <h3>🏆</h3>
+            <h4 class="fw-bold mb-3">Provide support and achieve victory together</h4>
             <p>Empowering others to succeed is a win for all. (And we're not referring to participation trophies.)</p>
         </div>
     </div>
     <div class="col-md-4">
         <div class="h-100 p-5 bg-body-tertiary border rounded-3">
-            <h4 class="fw-bold mb-3">🤝 Collaboration drives success</h4>
+            <h3>🤝</h3>
+            <h4 class="fw-bold mb-3">Collaboration drives success</h4>
             <p>We collaborate to channel our passions and expertise, striving to make Teachable the best it can possibly be.</p>
         </div>
     </div>
