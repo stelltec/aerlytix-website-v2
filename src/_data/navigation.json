@@ -1,10 +1,6 @@
 {
     "items": [
         {
-            "text": "Home",
-            "url": "/"
-        },
-        {
             "text": "Products",
             "class": "dropdown",
             "url": "",
@@ -56,7 +52,6 @@
                     "text": "Lessors",
                     "url": "/solutions/lessors/"
                 }
-
             ]
         },
         {
