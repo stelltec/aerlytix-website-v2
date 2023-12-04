@@ -53,86 +53,9 @@ summary: "Our mission is to transform aviation finance with technology and analy
 </div>
 </article>
 
-<article class="team__quotes my-5 py-5 bg-light">
-<div class="container" style="padding-bottom:6rem">
-<div class="intro pb-5 pt-5 col-8">
-    <h2 class="h1">Meet some of our team members</h2>
-</div>
-<div id="carouselExampleDark" class="carousel carousel-team carousel-dark slide mt-5" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="10000">
-      <div class="row align-items-md-center">
-        <div class="col-md-12">
-          <!-- Blockquote -->
-          <figure class="pe-md-7">
-            <blockquote class="display-6">" Aerlytix has given me and the team the opportunity of working with very innovative and forward-thinking clients. There is never a dull day, and we are in the business of transforming the industry together! "</blockquote>
-            <figcaption class="blockquote-footer">
-              <div class="d-flex align-items-center">
-                <div class="flex-grow-1 ms-3 ms-md-0">
-                  Seán Garvey
-                  <span class="blockquote-footer-source"> - Senior Consultant</span>
-                </div>
-              </div>
-            </figcaption>
-          </figure>
-        </div>
-      </div> <!-- end of row  -->
-    </div>
-    <div class="carousel-item" data-bs-interval="2000">
-      <div class="row align-items-md-center">
-        <div class="col-md-12">
-          <!-- Blockquote -->
-          <figure class="pe-md-7">
-            <blockquote class="display-6">" It is so exciting to be part of such a dedicated and experienced team with a wealth of experience in the industry. It is energising to be transforming the industry with our in-house development expertise and state-of-the-art technology "</blockquote>
-            <figcaption class="blockquote-footer">
-              <div class="d-flex align-items-center">
-                <div class="flex-grow-1 ms-3 ms-md-0">
-                  Amanda Cifuente
-                  <span class="blockquote-footer-source"> - Scrum Master</span>
-                </div>
-              </div>
-            </figcaption>
-          </figure>
-        </div>
-      </div> <!-- end of row  -->
-    </div>
-    <div class="carousel-item">
-      <div class="row align-items-md-center">
-        <div class="col-md-12">
-        <figure class="pe-md-7">
-            <blockquote class="display-6">" Aerlytix has given me the opportunity to really challenge myself while working to design, test and plan the best user experiences. Our clients expect the best and we do not compromise on quality. "</blockquote>
-            <figcaption class="blockquote-footer">
-              <div class="d-flex align-items-center">
-                <div class="flex-grow-1 ms-3 ms-md-0">
-                  Shane Callanan
-                  <span class="blockquote-footer-source"> - Frontend Engineer</span>
-                </div>
-              </div>
-            </figcaption>
-          </figure>
-        </div>
-      </div> <!-- end of row  -->
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
 
-</div>
-</article>
 
-{# COMMENTED OUT <article class="my-5 py-5">
+<!-- <article class="my-5 py-5">
   <div class="container">
       <div class="w-md-75 w-lg-50 mx-md-auto mb-5 mb-md-9">
         <h2 class="h1">Current opportunities</h2>
@@ -142,21 +65,37 @@ summary: "Our mission is to transform aviation finance with technology and analy
         <li class="list-group-item p-4">
           <div class="row align-items-center">
             <div class="col-md-4 mb-2 mb-md-0">
-              <a href="/company/careers/software-engineer-backend" class="h5">Software Engineer (Back-end focus)</a>
+              <a href="/company/careers/ms-dynamics-365-and-analytics-specialist" class="h5">MS Dynamics 365 and Analytics Specialist</a>
             </div>
             <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
-              <span>Dublin, Ireland or Remote</span>
+              <span>Dublin, Ireland (Hybrid)</span>
+            </div>
+            <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
+              <span>Data team</span>
+            </div>
+            <div class="col-sm-2 text-sm-end">
+              <a class="btn btn-primary" href="/company/careers/ms-dynamics-365-and-analytics-specialist">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+            </div>
+          </div>
+        </li>
+        <li class="list-group-item p-4">
+          <div class="row align-items-center">
+            <div class="col-md-4 mb-2 mb-md-0">
+              <a href="/company/careers/senior-ai-engineer" class="h5">Senior AI (Artificial Intelligence) Engineer </a>
+            </div>
+            <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
+              <span>Dublin, Ireland (Hybrid)</span>
             </div>
             <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
               <span>Engineering team</span>
             </div>
             <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/software-engineer-backend">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+              <a class="btn btn-primary" href="/company/careers/senior-ai-engineer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
             </div>
           </div>
         </li>
       </ul>
   </div>
-</article> #}
+</article> -->
 
 {% include "partials/home/announcements.html" %}
