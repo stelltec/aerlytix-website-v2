@@ -1,10 +1,6 @@
 {
     "items": [
         {
-            "text": "Home",
-            "url": "/"
-        },
-        {
             "text": "Products",
             "class": "dropdown",
             "url": "",
@@ -36,6 +32,32 @@
             ]
         },
         {
+<<<<<<< HEAD
+=======
+            "text": "Solutions",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Banks & Lenders",
+                    "url": "/solutions/banks-and-lenders/"
+                },
+                {
+                    "text": "Owners & Investors",
+                    "url": "/solutions/owners-and-investors/"
+                },
+                {
+                    "text": "Airlines",
+                    "url": "/solutions/airlines/"
+                },
+                {
+                    "text": "Lessors",
+                    "url": "/solutions/lessors/"
+                }
+            ]
+        },
+        {
+>>>>>>> 102a3e048cfbe7e60e565f0cc44c18625cb57c49
             "text": "Consulting",
             "class": "dropdown",
             "url": "",
