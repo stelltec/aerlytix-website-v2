@@ -6,55 +6,87 @@
             "url": "",
             "subitems": [
                 {
-                    "text": "Pricing & Trading",
-                    "url": "/products/pricing-and-trading/"
+                    "text": "Maintenance Forecasting",
+                    "url": "/products/maintenance-forecasting/"
                 },
                 {
-                    "text": "Maintenance & Lease Management",
-                    "url": "/products/maintenance-and-lease-management/"
+                    "text": "Lease Cashflow Forecasting",
+                    "url": "/products/lease-cashflow-forecasting/"
                 },
                 {
-                    "text": "Commercial Asset Management",
-                    "url": "/products/commercial-asset-management/"
+                    "text": "Pricing & Valuation",
+                    "url": "/products/pricing-and-valuation/"
+                },
+                {
+                    "text": "Finance Structuring",
+                    "url": "/products/finance-structuring/"
+                },
+                {
+                    "text": "Portfolio Management",
+                    "url": "/products/portfolio-management/"
                 },
                 {
                     "text": "Risk Management",
                     "url": "/products/risk-management/"
                 },
                 {
-                    "text": "Fleet Monitoring System",
-                    "url": "/products/fleet-monitoring-system/"
+                    "text": "Third Party Reporting",
+                    "url": "/products/third-party-reporting/"
                 },
                 {
-                    "text": "Consulting & Integrations",
-                    "url": "/products/consulting-and-integrations/"
+                    "text": "Fleet Tracker",
+                    "url": "/products/fleet-tracker/"
                 }
             ]
         },
         {
-            "text": "Solutions",
+            "text": "Services",
             "class": "dropdown",
             "url": "",
             "subitems": [
                 {
-                    "text": "Banks & Lenders",
-                    "url": "/solutions/banks-and-lenders/"
+                    "text": "Advisory",
+                    "url": "/services/Advisory/"
                 },
                 {
-                    "text": "Owners & Investors",
-                    "url": "/solutions/owners-and-investors/"
+                    "text": "Integrations",
+                    "url": "/services/integrations/"
                 },
                 {
-                    "text": "Airlines",
-                    "url": "/solutions/airlines/"
+                    "text": "Data Services",
+                    "url": "/services/data-services/"
                 },
                 {
-                    "text": "Lessors",
-                    "url": "/solutions/lessors/"
+                    "text": "Consulting",
+                    "url": "/services/consulting/"
                 }
             ]
         },
         {
+            "text": "Customers",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Lessors",
+                    "url": "/customers/lessors/"
+                },
+                {
+                    "text": "Airlines",
+                    "url": "/customers/Airlines/"
+                },
+                {
+                    "text": "Owners and Investors",
+                    "url": "/customers/owners-and-investors/"
+                },
+                {
+                    "text": "Bank and Lenders",
+                    "url": "/customers/bank-and-lenders/"
+                }
+            ]
+        },
+        {
+<<<<<<< HEAD
             "text": "Consulting",
             "class": "dropdown",
             "url": "",
@@ -106,6 +138,8 @@
             "url": "/pricing"
         },
         {
+=======
+>>>>>>> cf9fb2dc (Updated navigaiton menu.)
             "text": "Company",
             "class": "dropdown",
             "url": "",
@@ -131,6 +165,10 @@
                     "url": "/company/contact-us/"
                 }
             ]
+        },
+        {
+            "text": "Pricing",
+            "url": "/pricing"
         }
     ]
 }
