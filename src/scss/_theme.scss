@@ -1,6 +1,6 @@
 .body- {
-    background: url(../images/aviation-map.svg) 50% 0 no-repeat, url(../images/gradient-fade-01.png) -90rem -80rem no-repeat;
-    background-size: 2100px, 4000px;
+    // background: url(../images/aviation-map.svg) 50% 0 no-repeat, url(../images/gradient-fade-01.png) -90rem -80rem no-repeat;
+    // background-size: 2100px, 4000px;
 }
 
 main {
@@ -36,9 +36,9 @@ hr {
                 border-radius: 4px;
                 border: 0;
                 font-weight: var(--bs-body-font-size);
-            
+
                 &__info {
-                    background:rgb(240, 240, 240);
+                    background: rgb(240, 240, 240);
 
                     p {
                         font-size: var(--bs-body-font-size);
@@ -46,9 +46,9 @@ hr {
                     }
 
                     .airfinance-logo {
-                       margin:0 auto;
-                       display: block;
-                       max-width: 500px;
+                        margin: 0 auto;
+                        display: block;
+                        max-width: 500px;
                     }
                 }
             }
@@ -259,9 +259,9 @@ textarea {
 @media (max-width:900px) {
     .post {
         &__container {
-            blockquote {    
+            blockquote {
                 &.callout {
-                    margin-left:0;
+                    margin-left: 0;
                 }
             }
         }

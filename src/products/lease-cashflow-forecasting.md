@@ -1,7 +1,7 @@
 ---
-title: 'Risk Management'
-header: 'Risk Management headline'
-summary: 'Enabling Risk Departments to define a custom credit rating methodology and apply scoring within the rigorous Aerlytix asset context'
+title: 'Lease Cashflow Forecasting'
+header: 'Lease structuring for every deal type '
+summary: 'With thousands owned and managed leased assets within Aerlytix the platform has matured into the most sophisticated industry model'
 ---
 
 <!-- Start marketing section -->

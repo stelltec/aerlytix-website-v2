@@ -1,7 +1,7 @@
 ---
-title: 'Risk Management'
-header: 'Risk Management headline'
-summary: 'Enabling Risk Departments to define a custom credit rating methodology and apply scoring within the rigorous Aerlytix asset context'
+title: '3rd Party Reporting'
+header: 'Connecting the industry through technology'
+summary: 'An API centric engine, Aerlytix integrates with internal systems and external data providers ensuring automation of the platform'
 ---
 
 <!-- Start marketing section -->

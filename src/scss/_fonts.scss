@@ -1,5 +1,7 @@
-@supports ( font-variation-settings: normal ) {
-	html, body {
+@supports (font-variation-settings: normal) {
+
+	html,
+	body {
 		font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	}
 }
@@ -8,25 +10,35 @@
 @font-face {
 	font-family: "Inter";
 	font-weight: 200 900;
-    font-stretch: 75% 125%;
+	font-stretch: 75% 125%;
 	font-style: normal;
 	src: url(/fonts/InterVariable.woff2) format("woff2");
 }
 
 @font-face {
 	font-family: "Inter";
-    font-weight: 200 900;
-    font-stretch: 75% 125%;
+	font-weight: 200 900;
+	font-stretch: 75% 125%;
 	font-style: italic;
 	src: url(/fonts/InterVariable-Italic.woff2) format("woff2");
 }
 
-html, body {
-    font-family: 'Inter', sans-serif;
-    font-stretch: 100%;
+html,
+body {
+	font-family: 'Inter', sans-serif;
+	font-stretch: 100%;
 	font-weight: 500;
-    
-    p, li {
-        font-size:1.1rem;
-    }
+
+	p,
+	li {
+		font-size: 1.1rem;
+	}
+}
+
+.hero-display-1 {
+	font-size: 6rem !important;
+}
+
+.fw-bold {
+	font-weight: 900 !important;
 }

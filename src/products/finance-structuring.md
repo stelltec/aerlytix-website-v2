@@ -1,7 +1,7 @@
 ---
-title: 'Risk Management'
-header: 'Risk Management headline'
-summary: 'Enabling Risk Departments to define a custom credit rating methodology and apply scoring within the rigorous Aerlytix asset context'
+title: 'Finance Structuring'
+header: 'Deal structuring and LTV monitoring'
+summary: 'Integrated debt structures within the asset modelling context for maximized equity returns'
 ---
 
 <!-- Start marketing section -->

@@ -29,10 +29,10 @@
 
     &-commercial-asset-management {
         .header__common {
-            background: #F6F8FE url(../images/abstract-background_commercial.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
-            background-size: cover;
-            color: white;
-            text-align: center;
+            // background: #F6F8FE url(../images/abstract-background_commercial.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+            // background-size: cover;
+            // color: white;
+            // text-align: center;
         }
 
         .text-tag {
@@ -43,10 +43,10 @@
 
     &-risk-management {
         .header__common {
-            background: #F6F8FE url(../images/abstract-background_risk.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
-            background-size: cover;
-            color: white;
-            text-align: center;
+            // background: #F6F8FE url(../images/abstract-background_risk.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+            // background-size: cover;
+            // color: white;
+            // text-align: center;
         }
 
         .text-tag {
@@ -98,12 +98,26 @@
         }
     }
 
+    &-pricing {
+        .header__common {
+            // background: #F6F8FE url(../images/abstract-background-1.jpg) 0 0 no-repeat;
+            // background-size: cover;
+            // color: white;
+            text-align: center;
+        }
+
+        .text-tag {
+            color: var(--green);
+            border-color: var(--green);
+        }
+    }
+
     &-lessors {
         .header__common {
-            background: var(--bg-dark-blue) url(../images/lessors-illustration.svg) 100% -30rem no-repeat;
-            background-size: 1400px;
-            color: white;
-            text-align: center;
+            // background: var(--bg-dark-blue) url(../images/lessors-illustration.svg) 100% -30rem no-repeat;
+            // background-size: 1400px;
+            // color: white;
+            // text-align: center;
         }
 
         .text-tag {

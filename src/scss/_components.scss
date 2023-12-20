@@ -17,8 +17,8 @@ a {
     &__common {
         padding: 10rem 0;
         margin-bottom: 4rem;
-        background: #F6F8FE url(../images/aviation-map.svg) 50% -3rem no-repeat;
-        background-size: 2000px;
+        //background: #F6F8FE url(../images/aviation-map.svg) 50% -3rem no-repeat;
+        //background-size: 2000px;
     }
 
     &__blog-post {
@@ -33,7 +33,7 @@ a {
 
 
 .link-arrow {
-    color: white;
+    // color: white;
 
     svg {
         margin-left: 0;
@@ -41,7 +41,7 @@ a {
     }
 
     &:hover {
-        color: white;
+        // color: white;
 
         svg {
             margin-left: 15px;
@@ -62,7 +62,7 @@ a {
     }
 
     &__pricing-and-trading {
-        background: url(../images/product/pricing-abstract.jpg) 0 0 no-repeat;
+        // background: url(../images/product/pricing-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
 
@@ -72,7 +72,7 @@ a {
     }
 
     &__maintenance-and-lease-management {
-        background: url(../images/product/maintenance-abstract.jpg) 0 0 no-repeat;
+        // background: url(../images/product/maintenance-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
 
@@ -82,7 +82,7 @@ a {
     }
 
     &__commercial-asset-management {
-        background: url(../images/product/commercial-abstract.jpg) 0 0 no-repeat;
+        // background: url(../images/product/commercial-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
 
@@ -92,7 +92,7 @@ a {
     }
 
     &__risk-management {
-        background: url(../images/product/risk-abstract.jpg) 0 0 no-repeat;
+        // background: url(../images/product/risk-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
 
@@ -102,7 +102,7 @@ a {
     }
 
     &__fleet-monitoring-system {
-        background: url(../images/product/fleet-abstract.jpg) 0 0 no-repeat;
+        // background: url(../images/product/fleet-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
 
@@ -112,7 +112,7 @@ a {
     }
 
     &__consulting-and-integrations {
-        background: url(../images/product/consulting-abstract.jpg) 0 0 no-repeat;
+        // background: url(../images/product/consulting-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
         transition: all .5s;
 
@@ -123,14 +123,14 @@ a {
 }
 
 .solutions {
-    background: url(../images/pattern-home.svg) 90% 2rem no-repeat, url(../images/pattern-home.svg) 2% 100% no-repeat;
+    // background: url(../images/pattern-home.svg) 90% 2rem no-repeat, url(../images/pattern-home.svg) 2% 100% no-repeat;
 
     .card {
-        min-height: 30rem;
-        color: white;
+        min-height: 27rem;
+        // color: white;
 
         a {
-            color: white;
+            // color: white;
         }
 
         &-body {
@@ -144,7 +144,7 @@ a {
     }
 
     &__investors {
-        background: #233F74 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
+        // background: #233F74 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
         transition: all .5s;
 
         &:hover {
@@ -153,7 +153,7 @@ a {
     }
 
     &__lessors {
-        background: #233F74 url(../images/lessors-illustration.svg) 50% -4rem no-repeat;
+        // background: #233F74 url(../images/lessors-illustration.svg) 50% -4rem no-repeat;
         transition: all .5s;
 
         &:hover {

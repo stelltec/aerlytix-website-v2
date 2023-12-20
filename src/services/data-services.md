@@ -1,5 +1,5 @@
 ---
-title: "Excell Modelling Services"
+title: "Data Services"
 header: "Actionable insights from connected data"
 summary: "Competitive advantage through real-time data analytics and connected asset condition."
 ---

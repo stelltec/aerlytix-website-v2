@@ -1,7 +1,7 @@
 ---
-title: 'Risk Management'
-header: 'Risk Management headline'
-summary: 'Enabling Risk Departments to define a custom credit rating methodology and apply scoring within the rigorous Aerlytix asset context'
+title: 'Pricing & Valuation'
+header: 'Optimization suite for asset transactions'
+summary: 'In-depth acquisition & divestiture analysis for both primary and secondary market deals'
 ---
 
 <!-- Start marketing section -->

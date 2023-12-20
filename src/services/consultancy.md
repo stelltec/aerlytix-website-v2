@@ -1,7 +1,7 @@
 ---
-title: "System Integrations"
-header: "Actionable insights from connected data"
-summary: "Competitive advantage through real-time data analytics and connected asset condition."
+title: "Consultancy"
+header: "Consultancy and Modeling Services"
+summary: "Continuous client partnership post implementation"
 ---
 
 <!-- Start marketing section -->

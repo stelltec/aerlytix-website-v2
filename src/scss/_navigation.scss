@@ -1,8 +1,8 @@
 .navbar {
-    padding-top:.65rem;
-    padding-bottom:.65rem;
-    border-bottom:1px solid rgb(240,240,240);
-    background: rgba(255,255,255,1);
+    padding-top: .65rem;
+    padding-bottom: .65rem;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    background: rgba(255, 255, 255, 1);
 
     .navbar-nav {
         margin: auto;
@@ -13,24 +13,27 @@
     }
 
     .nav-item {
-        margin-left:.5rem;
-        margin-right:.5rem;
+        margin-left: .5rem;
+        margin-right: .5rem;
     }
 
     a {
         font-size: 1rem;
         color: #000;
+
         &:hover {
-            opacity:.8;
+            opacity: .8;
         }
     }
 
     .navbar__feature {
         border: 2px solid #000;
         color: #000;
-        border-radius:10px;
+        border-radius: 10px;
         padding-top: 0.45rem;
         padding-bottom: 0.45rem;
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
         background: white;
     }
 
@@ -45,19 +48,36 @@
     }
 }
 
-@media (min-width: 992px) {  
-    .navbar .nav-item .dropdown-menu {  display:block; opacity: 0;  visibility: hidden; transition:.3s; margin-top:0;  }
-    .navbar .nav-item:hover .nav-link { color: #000;  }
-    .navbar .nav-item:hover .dropdown-menu { transition: .3s; opacity:1; visibility:visible; top:100%; transform: rotateX(0deg); }
+@media (min-width: 992px) {
+    .navbar .nav-item .dropdown-menu {
+        display: block;
+        opacity: 0;
+        visibility: hidden;
+        transition: .3s;
+        margin-top: 0;
+    }
+
+    .navbar .nav-item:hover .nav-link {
+        color: #000;
+    }
+
+    .navbar .nav-item:hover .dropdown-menu {
+        transition: .3s;
+        opacity: 1;
+        visibility: visible;
+        top: 100%;
+        transform: rotateX(0deg);
+    }
+
     .navbar .nav-item {
-        margin-left:.2rem;
-        margin-right:.2rem;
+        margin-left: .2rem;
+        margin-right: .2rem;
     }
 }
 
 @media (max-width:992px) {
     .navbar-collapse {
-        padding-top:1rem;
+        padding-top: 1rem;
     }
 
     .navbar .nav-item {

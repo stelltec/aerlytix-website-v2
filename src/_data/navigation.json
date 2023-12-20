@@ -46,7 +46,7 @@
             "subitems": [
                 {
                     "text": "Advisory",
-                    "url": "/services/Advisory/"
+                    "url": "/services/advisory/"
                 },
                 {
                     "text": "Integrations",
@@ -57,8 +57,8 @@
                     "url": "/services/data-services/"
                 },
                 {
-                    "text": "Consulting",
-                    "url": "/services/consulting/"
+                    "text": "Consultancy",
+                    "url": "/services/consultancy/"
                 }
             ]
         },
@@ -70,76 +70,22 @@
                 {
                     "text": "Lessors",
                     "url": "/customers/lessors/"
-                },
-                {
-                    "text": "Airlines",
-                    "url": "/customers/Airlines/"
-                },
-                {
-                    "text": "Owners and Investors",
-                    "url": "/customers/owners-and-investors/"
-                },
-                {
-                    "text": "Bank and Lenders",
-                    "url": "/customers/bank-and-lenders/"
-                }
-            ]
-        },
-        {
-<<<<<<< HEAD
-            "text": "Consulting",
-            "class": "dropdown",
-            "url": "",
-            "subitems": [
-                {
-                    "text": "Technology Advisory",
-                    "url": "/consulting/technology-advisory/"
-                },
-                {
-                    "text": "System Integrations",
-                    "url": "/consulting/system-integrations/"
-                },
-                {
-                    "text": "Data Integrations",
-                    "url": "/consulting/data-integrations/"
-                },
-                {
-                    "text": "Excel Modelling Services",
-                    "url": "/consulting/excel-modelling-services/"
-                }
-            ]
-        },
-        {
-            "text": "Customers",
-            "class": "dropdown",
-            "url": "",
-            "subitems": [
-                {
-                    "text": "Banks & Lenders",
-                    "url": "/customers/banks-and-lenders/"
-                },
-                {
-                    "text": "Owners & Investors",
-                    "url": "/customers/owners-and-investors/"
                 },
                 {
                     "text": "Airlines",
                     "url": "/customers/airlines/"
                 },
                 {
-                    "text": "Lessors",
-                    "url": "/customers/lessors/"
+                    "text": "Owners and Investors",
+                    "url": "/customers/owners-and-investors/"
+                },
+                {
+                    "text": "Banks and Lenders",
+                    "url": "/customers/banks-and-lenders/"
                 }
-
             ]
         },
         {
-            "text": "Pricing",
-            "url": "/pricing"
-        },
-        {
-=======
->>>>>>> cf9fb2dc (Updated navigaiton menu.)
             "text": "Company",
             "class": "dropdown",
             "url": "",

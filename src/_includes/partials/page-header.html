@@ -10,8 +10,8 @@
       {% if pageHeaderTitle %}
       <p class="text-tag">{{ pageHeaderTitle }}</p>
       {% endif %}
-      <h1 class="display-4 fw-bold" data-highlight="primary">
-        {{ pageMainHeader }}
+      <h1 class="display-1 fw-bold" data-highlight="primary">
+        {{ pageMainHeader | safe }}
       </h1>
       {% if pageHeaderSummary %}
       <p class="display-7">
