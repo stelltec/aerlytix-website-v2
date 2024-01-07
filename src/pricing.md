@@ -6,7 +6,7 @@ layout: "layouts/page.html"
 ---
 
 <div class="container">
-
+<h2 class="display-3 fw-bold mb-3 lh-1 mb-5">Recent customer delivery examples...</h2>
 <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
@@ -15,16 +15,24 @@ layout: "layouts/page.html"
           </div>
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Access in Weeks with Easy Modular Delivery</h3>
-            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Modules</strong>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>✔ Maintenance Forecasting</li>
-              <li>✔ Lease Cashflow Forecasting</li>
-              <li>✔ Pricing and Valuations</li>
-            </ul>
-            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Services</strong>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>✔ Custom Excel Add-in Template Builds</li>
-            </ul>
+            <div class="card-section">
+              <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Implementation timeline</strong>
+              <p class="mt-3 mb-4">Aprox.  4-weeks from project kick-off</p>
+            </div>
+            <div class="card-section">
+              <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Modules</strong>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>✔ Maintenance Forecasting</li>
+                <li>✔ Lease Cashflow Forecasting</li>
+                <li>✔ Pricing and Valuations</li>
+              </ul>
+            </div>
+            <div class="card-section">
+              <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Services</strong>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>✔ Custom Excel Add-in Template Builds</li>
+              </ul>
+            </div>
             <p class="pricing_level_notes">These customers typically add additional modules in subsequent deliveries</p>
             <!-- <button type="button" class="w-100 btn btn-lg btn-outline-primary">Get Started</button> -->
           </div>
@@ -37,6 +45,9 @@ layout: "layouts/page.html"
           </div>
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Off-the-Shelf Business Transformation</h3>
+            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Implementation timeline</strong>
+            <p class="mt-3">Aprox. 8-weeks from project Kick-off</p>
+            <hr/>
             <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Modules</strong>
             <ul class="list-unstyled mt-3 mb-4">
               <li>✔ Maintenance Forecasting</li>
@@ -45,6 +56,7 @@ layout: "layouts/page.html"
               <li>✔ Portfolio Management</li>
               <li>✔ 3rd Party Reporting</li>
             </ul>
+            <hr/>
             <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Services</strong>
             <ul class="list-unstyled mt-3 mb-4">
               <li>✔ Lease Editor Entry Consultancy</li>
@@ -62,6 +74,9 @@ layout: "layouts/page.html"
           </div>
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Fully Integrated Enterprise Delivery</h3>
+            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Implementation timeline</strong>
+            <p class="mt-3">Aprox. 16-weeks from project kick-off</p>
+            <hr/>
             <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Modules</strong>
             <ul class="list-unstyled mt-3 mb-4">
               <li>✔ Maintenance Forecasting</li>
@@ -73,6 +88,7 @@ layout: "layouts/page.html"
               <li>✔ Aerlytix CRM</li>
               <li>✔ Fleet Tracker</li>
             </ul>
+            <hr/>
             <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Services</strong>
             <ul class="list-unstyled mt-3 mb-4">
               <li>✔ Operations and IT Consultancy</li>
