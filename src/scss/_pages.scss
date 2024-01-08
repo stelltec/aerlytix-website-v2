@@ -192,3 +192,35 @@
         }
     }
 }
+
+/************ PRICING PAGE ***********/
+
+.pricing {
+    &__levels {
+
+        .card-title {
+            text-align: left;
+            font-weight: 900;
+        }
+
+        .card-body {
+            padding: 32px;
+        }
+
+        &--card-section {
+
+
+            text-align: left;
+
+            h6 {
+                text-transform: uppercase;
+                color: grey;
+                padding-top: 20px;
+            }
+        }
+    }
+
+    &__faq-contact {
+        padding-top: 4.6rem;
+    }
+}

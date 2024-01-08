@@ -13444,6 +13444,26 @@ a {
   height: 80px;
 }
 
+/************ PRICING PAGE ***********/
+.pricing__levels .card-title {
+  text-align: left;
+  font-weight: 900;
+}
+.pricing__levels .card-body {
+  padding: 32px;
+}
+.pricing__levels--card-section {
+  text-align: left;
+}
+.pricing__levels--card-section h6 {
+  text-transform: uppercase;
+  color: grey;
+  padding-top: 20px;
+}
+.pricing__faq-contact {
+  padding-top: 4.6rem;
+}
+
 /* Featurettes
 ------------------------- */
 .featurette {

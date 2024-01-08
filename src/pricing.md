@@ -7,7 +7,7 @@ layout: "layouts/page.html"
 
 <div class="container">
 <h2 class="display-3 fw-bold mb-3 lh-1 mb-5">Recent customer delivery examples...</h2>
-<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+<div class="pricing__levels row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
           <div class="card-header py-3">
@@ -15,26 +15,25 @@ layout: "layouts/page.html"
           </div>
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Access in Weeks with Easy Modular Delivery</h3>
-            <div class="card-section">
-              <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Implementation timeline</strong>
+            <div class="pricing__levels--card-section">
+              <h6>Implementation timeline</h6>
               <p class="mt-3 mb-4">Aprox.  4-weeks from project kick-off</p>
             </div>
-            <div class="card-section">
-              <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Modules</strong>
+            <div class="pricing__levels--card-section">
+              <h6>Modules</h6>
               <ul class="list-unstyled mt-3 mb-4">
                 <li>✔ Maintenance Forecasting</li>
                 <li>✔ Lease Cashflow Forecasting</li>
                 <li>✔ Pricing and Valuations</li>
               </ul>
             </div>
-            <div class="card-section">
-              <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Services</strong>
+            <div class="pricing__levels--card-section">
+              <h6>Services</h6>
               <ul class="list-unstyled mt-3 mb-4">
                 <li>✔ Custom Excel Add-in Template Builds</li>
               </ul>
+              <p class="pricing_level_notes">These customers typically add additional modules in subsequent deliveries</p>
             </div>
-            <p class="pricing_level_notes">These customers typically add additional modules in subsequent deliveries</p>
-            <!-- <button type="button" class="w-100 btn btn-lg btn-outline-primary">Get Started</button> -->
           </div>
         </div>
       </div>
@@ -45,25 +44,28 @@ layout: "layouts/page.html"
           </div>
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Off-the-Shelf Business Transformation</h3>
-            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Implementation timeline</strong>
-            <p class="mt-3">Aprox. 8-weeks from project Kick-off</p>
-            <hr/>
-            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Modules</strong>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>✔ Maintenance Forecasting</li>
-              <li>✔ Lease Cashflow Forecasting</li>
-              <li>✔ Pricing and Valuations</li>
-              <li>✔ Portfolio Management</li>
-              <li>✔ 3rd Party Reporting</li>
-            </ul>
-            <hr/>
-            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Services</strong>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>✔ Lease Editor Entry Consultancy</li>
-              <li>✔ Data Integration Services</li>
-            </ul>            
-            <p class="pricing_level_notes">These customers usually avail of Aerlytix integration services into existing AMS and CFM systems for subsequent deliveries.</p>
-            <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button> -->
+            <div class="pricing__levels--card-section">
+              <h6>Implementation timeline</h6>
+              <p class="mt-3">Aprox. 8-weeks from project Kick-off</p>
+            </div>
+            <div class="pricing__levels--card-section">
+              <h6>Modules</h6>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>✔ Maintenance Forecasting</li>
+                <li>✔ Lease Cashflow Forecasting</li>
+                <li>✔ Pricing and Valuations</li>
+                <li>✔ Portfolio Management</li>
+                <li>✔ 3rd Party Reporting</li>
+              </ul>
+            </div>
+            <div class="pricing__levels--card-section">
+              <h6>Services</h6>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>✔ Lease Editor Entry Consultancy</li>
+                <li>✔ Data Integration Services</li>
+              </ul>            
+              <p class="pricing_level_notes">These customers usually avail of Aerlytix integration services into existing AMS and CFM systems for subsequent deliveries.</p>
+            </div>
           </div>
         </div>
       </div>
@@ -74,29 +76,32 @@ layout: "layouts/page.html"
           </div>
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Fully Integrated Enterprise Delivery</h3>
-            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Implementation timeline</strong>
-            <p class="mt-3">Aprox. 16-weeks from project kick-off</p>
-            <hr/>
-            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Modules</strong>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>✔ Maintenance Forecasting</li>
-              <li>✔ Lease Cashflow Forecasting</li>
-              <li>✔ Pricing and Valuations</li>
-              <li>✔ Portfolio Management</li>
-              <li>✔ Risk Management</li>
-              <li>✔ 3rd Party Reporting</li>
-              <li>✔ Aerlytix CRM</li>
-              <li>✔ Fleet Tracker</li>
-            </ul>
-            <hr/>
-            <strong style="display:block;text-transform:uppercase; color: grey; padding-top:20px">Services</strong>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>✔ Operations and IT Consultancy</li>
-              <li>✔ Custom BI - Report Build Consultancy</li>
-              <li>✔ Self-service Reporting</li>
-            </ul>
-            <p class="pricing_level_notes">These customers often focus on a specific cumbersome and manual business process initially, then quickly add additional functionality for wider organizational adoption.</p>
-            <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Get Started</button> -->
+            <div class="pricing__levels--card-section">
+              <h6>Implementation timeline</h6>
+              <p class="mt-3">Aprox. 16-weeks from project kick-off</p>
+            </div>
+            <div class="pricing__levels--card-section">
+              <h6>Modules</h6>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>✔ Maintenance Forecasting</li>
+                <li>✔ Lease Cashflow Forecasting</li>
+                <li>✔ Pricing and Valuations</li>
+                <li>✔ Portfolio Management</li>
+                <li>✔ Risk Management</li>
+                <li>✔ 3rd Party Reporting</li>
+                <li>✔ Aerlytix CRM</li>
+                <li>✔ Fleet Tracker</li>
+              </ul>
+            </div>
+            <div class="pricing__levels--card-section">
+              <h6>Services</h6>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>✔ Operations and IT Consultancy</li>
+                <li>✔ Custom BI - Report Build Consultancy</li>
+                <li>✔ Self-service Reporting</li>
+              </ul>
+              <p class="pricing_level_notes">These customers often focus on a specific cumbersome and manual business process initially, then quickly add additional functionality for wider organizational adoption.</p>
+            </div>
           </div>
         </div>
       </div>
@@ -168,37 +173,43 @@ layout: "layouts/page.html"
   </div>
 </div>
 
-
-
-<div class="container col-md-7" style="padding-top:6rem; padding-bottom:6rem;">
+<div class="container col-md-12" style="padding-top:6rem; padding-bottom:6rem;">
 
 <h2 class="display-3 fw-bold mb-3">Commonly asked questions</h2>
 
 <div class="row">
-<div class="col">
+
+<div class="col-lg-4">
+  <div class="pricing__faq-contact">
+    <p>Not seeing your question answered here?</p>
+    <p><a href="/company/contact-us/">Contact us</a></p>
+  </div>
+</div>
+
+<div class="col-lg-8">
 
 <div class="accordion mt-5" id="accordionExample" style="border:0">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="pt-4 accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        <h4>How long does implementation take?</h4>
+        <h4>How long does an implementation take?</h4>
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        Users can access an Aerlytix Pre-production (test) environment within four weeks of signing contracts. All that is required is a fleet extract and one asset type’s cost & interval data. Deployment of a Production (Live) environment is client driven based on data sourcing and user acceptance testing (UAT). 
+        <p>Users gain access to the Aerlytix Pre-production (test) environment within two weeks of contract signing. The only prerequisites are providing a fleet extract and cost & interval data for one asset type. Deployment of a Production (Live) environment is determined by the client, contingent upon data sourcing and successful user acceptance testing (UAT).</p>
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTwo">
       <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        <h4>Are there restrictions on number of users?</h4>
+        <h4>Are there limitations on the number of users?</h4>
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <p>There are no restrictions on the quantity of users who can register with Aerlytix. The Analytics suite incorporates a detailed permissions system, allowing precise management of each user's access.</p> 
       </div>
     </div>
   </div>
@@ -210,43 +221,43 @@ layout: "layouts/page.html"
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <p>In collaboration with servicers and lessors, Aerlytix can offer secure Investor Portals for Investors to monitor portfolios or singular aircraft. Providing transparent information to investors helps facilitate deals, offering accurate insights into asset health and access to interactive BI dashboards through secure portals.</p>
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFour">
       <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-        <h4>Can we buy individual modules standalone?</h4>
+        <h4>Can we purchase individual modules?</h4>
       </button>
     </h2>
     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <p>Certainly, Aerlytix encourages an iterative approach with modular deliveries. The available modules include Maintenance and Lease Forecasting, Pricing & Valuations, Financing, Portfolio Management, and Risk.</p>
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingFive">
       <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-        <h4>How long does it take an implementation?</h4>
+        <h4>What is required to populate a Knowledge Base?</h4>
       </button>
     </h2>
     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <p>Our experienced and expert Aerlytix data team collaborates with you to establish a seamless knowledge base setup. Essential elements include cost and interval data for airframe and engines, global fleet data, and house view assumptions (utilization, workscope, maintenance inflation, downtimes, etc.)</p>
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingSix">
       <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-        <h4>Can I add additional modules after the first Aerlytix delivery?</h4>
+        <h4>Does Aerlytix provide knowledge base data?</h4>
       </button>
     </h2>
     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <p>Aerlytix partners with numerous data providers and can offer guidance on best practices. However, we do not supply any source data.</p>
       </div>
     </div>
   </div>
@@ -258,31 +269,19 @@ layout: "layouts/page.html"
     </h2>
     <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <p>Absolutely, we take pride in delivering first-class support to our customers. Ongoing support and training are included within the annual fee. Customers also have access to an online help-centre which directs queries directly to our business and product development teams.</p>
       </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingEight">
       <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-        <h4>How long do Aerlytix contracts typically run?</h4>
+        <h4>Is my data secure?</h4>
       </button>
     </h2>
     <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingNine">
-      <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-        <h4>Does Aerlytix provide cost & interval data?</h4>
-      </button>
-    </h2>
-    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
-      <div class="accordion-body">
-        <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <p>Your data security is our top priority. We are SOC compliant, meeting stringent standards for protection. Our system employs industry-leading encryption protocols to ensure the confidentiality and integrity of your data both in transit and at rest. Our system is regularly updated, and access is always restricted to authorized personnel.</p>
       </div>
     </div>
   </div>
