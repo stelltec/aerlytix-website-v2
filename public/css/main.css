@@ -13373,12 +13373,6 @@ a {
   color: var(--green);
   border-color: var(--green);
 }
-.body-about-us .header__common {
-  background: #F6F8FE url(../images/abstract-background-1.jpg) 0 0 no-repeat;
-  background-size: cover;
-  color: white;
-  text-align: center;
-}
 .body-about-us .text-tag {
   color: var(--green);
   border-color: var(--green);
@@ -13403,9 +13397,6 @@ a {
 .body-investors-and-lenders .text-tag {
   color: var(--green);
   border-color: var(--green);
-}
-.body-request-demo {
-  background: url(../images/card-11.svg) 0 0 no-repeat;
 }
 .body-contact-us {
   background-size: 1400px;
