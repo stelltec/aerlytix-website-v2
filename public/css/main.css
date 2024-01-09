@@ -12830,6 +12830,9 @@ hr {
 .footer__copyright--policy-links a {
   text-decoration: none;
 }
+.footer__copyright svg {
+  fill: white;
+}
 
 .tags-list a {
   color: white;
@@ -13148,7 +13151,7 @@ a {
 }
 
 .dropdown-menu .dropdown-item {
-  padding: 0.325rem 1rem;
+  padding: 0.6rem 2rem;
 }
 
 .section__product svg {
@@ -13462,15 +13465,9 @@ a {
 /* Featurettes
 ------------------------- */
 .featurette-divider {
-  margin: 5rem 0;
   /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
-@media (min-width: 62em) {
-  .featurette-heading {
-    margin-top: 7rem;
-  }
-}
 
 /*# sourceMappingURL=main.css.map */

@@ -14,7 +14,7 @@
                     "url": "/products/lease-cashflow-forecasting/"
                 },
                 {
-                    "text": "Pricing & Valuation",
+                    "text": "Pricing and Valuation",
                     "url": "/products/pricing-and-valuation/"
                 },
                 {
@@ -45,16 +45,12 @@
             "url": "",
             "subitems": [
                 {
-                    "text": "Advisory",
-                    "url": "/services/advisory/"
+                    "text": "Advisory and Consulting",
+                    "url": "/services/advisory-and-consulting/"
                 },
                 {
                     "text": "Integrations",
                     "url": "/services/integrations/"
-                },
-                {
-                    "text": "Consultancy",
-                    "url": "/services/consultancy/"
                 }
             ]
         },

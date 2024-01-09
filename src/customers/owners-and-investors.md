@@ -6,7 +6,7 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
 
 <article class="section__product section__spacing-3">
   <div class="container">
-  <div class="row gx-lg-5 featurette">
+  <div class="row gx-lg-5">
     <div class="col-md-5">
       <h2 class="h1">What we can offer</h2>
     </div>
@@ -28,7 +28,7 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
 
 <article class="section__product section__spacing-3">
   <div class="container">
-  <div class="row gx-lg-5 featurette">
+  <div class="row gx-lg-5">
     <div class="col-md-5">
       <h2 class="h1">Case Study: ABS Reporting Portal</h2>
     </div>
