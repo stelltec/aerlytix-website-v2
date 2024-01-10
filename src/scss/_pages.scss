@@ -55,33 +55,33 @@
         }
     }
 
-    &-fleet-monitoring-system {
-        .header__common {
-            background: #F6F8FE url(../images/abstract-background_fleet.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
-            background-size: cover;
-            color: white;
-            text-align: center;
-        }
+    // &-fleet-monitoring-system {
+    //     .header__common {
+    //         background: #F6F8FE url(../images/abstract-background_fleet.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+    //         background-size: cover;
+    //         color: white;
+    //         text-align: center;
+    //     }
 
-        .text-tag {
-            color: var(--green);
-            border-color: var(--green);
-        }
-    }
+    //     .text-tag {
+    //         color: var(--green);
+    //         border-color: var(--green);
+    //     }
+    // }
 
-    &-consulting-and-integrations {
-        .header__common {
-            background: #F6F8FE url(../images/abstract-background_consulting.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
-            background-size: cover;
-            color: white;
-            text-align: center;
-        }
+    // &-consulting-and-integrations {
+    //     .header__common {
+    //         background: #F6F8FE url(../images/abstract-background_consulting.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+    //         background-size: cover;
+    //         color: white;
+    //         text-align: center;
+    //     }
 
-        .text-tag {
-            color: var(--green);
-            border-color: var(--green);
-        }
-    }
+    //     .text-tag {
+    //         color: var(--green);
+    //         border-color: var(--green);
+    //     }
+    // }
 
 
     &-about-us {
@@ -144,13 +144,13 @@
         // ahh... 
     }
 
-    &-contact-us {
+    &-contact-us, &-news {
         // background: #F3F5FB url(../images/abstract-background-1-contact.jpg) 0 0 no-repeat;
-        background-size: 1400px;
+        // background-size: 1400px;
 
         .header__common {
             padding: 4rem 0 0rem;
-            background: none;
+            // background: none;
             text-align: center;
         }
 

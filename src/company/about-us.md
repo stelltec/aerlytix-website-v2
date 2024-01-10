@@ -21,9 +21,97 @@ summary: "Our mission is to transform aviation finance with technology and analy
 </article>
 
 <article class="my-5 py-5">
+  <div class="container">
+    <h2 class="h1 mb-5">Key Results</h2>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      <div class="col">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="display-4 fw-bold">+3,600</h5>
+            <div class="text-uppercase">Aircraft Entrusted to Aerlytix</div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="display-4 fw-bold">0</h5>
+            <div class="text-uppercase">Customer Churn</div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="display-4 fw-bold">100%</h5>
+            <div class="text-uppercase">Software Delivery Success </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="display-4 fw-bold">In-House</h5>
+            <div class="text-uppercase">Dublin Based Development Team</div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="display-4 fw-bold">+$64.4b</h5>
+            <div class="text-uppercase">Value Entrusted to Aerlytix</div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="display-4 fw-bold">13%</h5>
+            <div class="text-uppercase">Global Fleet in Aerlytix</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+<article class="my-5 py-5">
+  <div class="container">
+    <h2 class="h1 mb-5">How did it all started</h2>
+    <ul class="timeline">
+      <li class="timeline__item">
+        <div class="timeline__date fw-bold"><span class="timeline__date-label">2016</span></div>
+        <div class="timeline__date-reference">Founded within a leading Dublin-based Lessor</div>
+      </li>
+      <li class="timeline__item">
+        <div class="timeline__date fw-bold"><span class="timeline__date-label">2020</span></div>
+        <div class="timeline__date-reference">Core Leadership and Development Teams create standalone business entity</div>
+      </li>
+      <li class="timeline__item">
+        <div class="timeline__date fw-bold"><span class="timeline__date-label">2021</span></div>
+        <div class="timeline__date-reference">Rapid Aerlytix adoption begins with major Aviation Lessors and Global Banks</div>
+      </li>
+      <li class="timeline__item">
+        <div class="timeline__date fw-bold"><span class="timeline__date-label">2022</span></div>
+        <div class="timeline__date-reference">Awarded Technology Innovation of the Year by Airline Economics</div>
+      </li>
+      <li class="timeline__item">
+        <div class="timeline__date fw-bold"><span class="timeline__date-label">2023</span></div>
+        <div class="timeline__date-reference">Aerlytix moves into long-term office on Barrow Street, Dublin 2</div>
+      </li>
+      <li class="timeline__item">
+        <div class="timeline__date fw-bold"><span class="timeline__date-label">2024</span></div>
+        <div class="timeline__date-reference">We are just getting started...</div>
+      </li>
+    </ul>
+  </div>
+</article>
+
+<article class="my-5 py-5">
 <div class="container">
 
-<h2 class="h1">Core principles of our business</h2>
+<h2 class="h1 mb-5">Core principles of our business</h2>
 <div class="row row-cols-1 row-cols-md-3 g-4 mt-5">
       <div class="col">
         <div class="card p-4 h-100">
@@ -50,7 +138,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 <article class="my-5 py-5">
   
   <div class="container">
-  <h2 class="h1">Executive team</h2>
+  <h2 class="h1 mb-5">Executive team</h2>
     <div class="row row-cols-1 row-cols-md-4 g-4">
       <div class="col">
         <div class="card">

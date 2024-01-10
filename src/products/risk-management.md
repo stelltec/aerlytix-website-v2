@@ -40,7 +40,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 <!-- <h2 class="h1">In addition...</h2> -->
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
-        <div class="feature-icon feature-icon--success">
+        <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
 </svg>
@@ -49,7 +49,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
         <p>Add non-financial operator attributes, including flight tracking data, jurisdictional data, etc.</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon feature-icon--success">
+        <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
 </svg>
@@ -58,7 +58,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
         <p>Customer-defined credit scoring methodology (metrics and weightings) applied to all global operators.</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon feature-icon--success">
+        <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
 </svg>
@@ -67,7 +67,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
         <p>Plot credit-adjusted portfolio benchmarks by operator, asset type, or region.</p>
       </div>
       <div class="feature col">
-        <div class="feature-icon feature-icon--success">
+        <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
 </svg>
