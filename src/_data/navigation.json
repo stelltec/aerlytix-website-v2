@@ -30,10 +30,6 @@
                     "url": "/products/risk-management/"
                 },
                 {
-                    "text": "Third Party Reporting",
-                    "url": "/products/third-party-reporting/"
-                },
-                {
                     "text": "Fleet Tracker",
                     "url": "/products/fleet-tracker/"
                 }
@@ -45,8 +41,16 @@
             "url": "",
             "subitems": [
                 {
-                    "text": "Advisory and Consulting",
-                    "url": "/services/advisory-and-consulting/"
+                    "text": "Advisory",
+                    "url": "/services/advisory/"
+                },
+                {
+                    "text": "Reporting",
+                    "url": "/services/reporting/"
+                },
+                {
+                    "text": "Modelling",
+                    "url": "/services/modelling/"
                 },
                 {
                     "text": "Integrations",

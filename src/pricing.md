@@ -5,19 +5,54 @@ summary: "Iterative modular deliveries are encouraged.<br> Clients can start sma
 layout: "layouts/page.html"
 ---
 
+<article class="py-5 px-5">
+
+<div class="container">
+  <h2 class="display-3 fw-bold mb-3 lh-1 mb-5">The Aerlytix simple, hassle free, pricing structure:</h2>
+  <div class="card p-5">
+      <ul class="pricing__structure">
+        <li class="display-6"><svg fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+    </svg> Annual licensing fees</li>
+        <li class="display-6"><svg width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+    </svg> Contracts range from 12 months to 5+ years</li>
+        <li class="display-6"><svg width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+    </svg> No restrictions on the number of users</li>
+        <li class="display-6"><svg width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+    </svg> No implementation fees for agreed project timelines</li>
+        <li class="display-6"><svg width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+    </svg> No training fees for group and 1:1 sessions during project</li>
+        <li class="display-6"><svg width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+    </svg> Aerlytix Services charged on day-rate basis</li>
+        <li class="display-6"><svg width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+    </svg> Clear timelines provided, based on project complexity</li>
+        <li class="display-6"><svg width="16" height="16" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+      <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+    </svg> Dedicated project team assigned, with support ongoing ensuring customer success</li>
+      </ul>
+  </div>
+</div>
+</article>
+
+
+
+
 <div class="container">
 <h2 class="display-3 fw-bold mb-3 lh-1 mb-5">Recent customer delivery examples...</h2>
 <div class="pricing__levels row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Small</h4>
-          </div>
+        <div class="card h-100 mb-4 rounded-3">
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Access in Weeks with Easy Modular Delivery</h3>
             <div class="pricing__levels--card-section">
               <h6>Implementation timeline</h6>
-              <p class="mt-3 mb-4">Aprox.  4-weeks from project kick-off</p>
+              <p class="mt-3 mb-4">Approx.  4-weeks from project kick-off</p>
             </div>
             <div class="pricing__levels--card-section">
               <h6>Modules</h6>
@@ -38,15 +73,12 @@ layout: "layouts/page.html"
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Medium</h4>
-          </div>
+        <div class="card h-100 mb-4 rounded-3">
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Off-the-Shelf Business Transformation</h3>
             <div class="pricing__levels--card-section">
               <h6>Implementation timeline</h6>
-              <p class="mt-3">Aprox. 8-weeks from project Kick-off</p>
+              <p class="mt-3">Approx. 8-weeks from project Kick-off</p>
             </div>
             <div class="pricing__levels--card-section">
               <h6>Modules</h6>
@@ -70,15 +102,12 @@ layout: "layouts/page.html"
         </div>
       </div>
       <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
-          <div class="card-header py-3 text-bg-primary border-primary">
-            <h4 class="my-0 fw-normal">Enterprise</h4>
-          </div>
+        <div class="card h-100 mb-4 rounded-3">
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Fully Integrated Enterprise Delivery</h3>
             <div class="pricing__levels--card-section">
               <h6>Implementation timeline</h6>
-              <p class="mt-3">Aprox. 16-weeks from project kick-off</p>
+              <p class="mt-3">Approx. 16-weeks from project kick-off</p>
             </div>
             <div class="pricing__levels--card-section">
               <h6>Modules</h6>
@@ -107,14 +136,24 @@ layout: "layouts/page.html"
       </div>
     </div>
 
+    <div class="bd-example">
+      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
+        Vertically centered modal
+      </button>
+      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalCenteredScrollable">
+        Vertically centered scrollable modal
+      </button>
+    </div>
+
 </div> <!-- end container -->
+
 
 <div class="container px-4 py-5">
     <h2 class="display-3 fw-bold">Customer collaboration</h2>
     <p class="display-7 mb-5">In partnership with our customers, Aerlytix builds bespoke products, all driven by the Analytics Suite API engine. Our product  development roadmap is paved by our customers business requirements.</p>
     <div class="row row-cols-1 row-cols-sm-3 g-4">
       <div class="col d-flex flex-column gap-2">
-        <div class="">
+        <div class="feature-icon">
           <svg width="16" height="16" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
             <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
             <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05" />
@@ -123,7 +162,7 @@ layout: "layouts/page.html"
         <h4 class="fw-semibold mb-0 text-body-emphasis">ABS Noteholder Reports</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
-        <div class="">
+        <div class="feature-icon">
           <svg width="16" height="16" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
             <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
             <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05" />
@@ -132,7 +171,7 @@ layout: "layouts/page.html"
         <h4 class="fw-semibold mb-0 text-body-emphasis">Business Development Tools</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
-        <div class="">
+        <div class="feature-icon">
           <svg width="16" height="16" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
             <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
             <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05" />
@@ -141,7 +180,7 @@ layout: "layouts/page.html"
         <h4 class="fw-semibold mb-0 text-body-emphasis">Performance Dashboard</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
-        <div class="">
+        <div class="feature-icon">
           <svg width="16" height="16" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
             <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
             <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05" />
@@ -150,7 +189,7 @@ layout: "layouts/page.html"
         <h4 class="fw-semibold mb-0 text-body-emphasis">Digital Asset Management Products</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
-        <div class="">
+        <div class="feature-icon">
           <svg width="16" height="16" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
             <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
             <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05" />
@@ -161,7 +200,7 @@ layout: "layouts/page.html"
           details missed.</p> -->
       </div>
       <div class="col d-flex flex-column gap-2">
-        <div class="">
+        <div class="feature-icon">
           <svg width="16" height="16" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
             <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
             <path d="M10.97 4.97a.235.235 0 0 0-.02.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-1.071-1.05" />

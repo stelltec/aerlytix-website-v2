@@ -1,7 +1,7 @@
 ---
-title: "Consultancy"
-header: "Consultancy and Modeling Services"
-summary: "Continuous client partnership post implementation"
+title: "Modelling"
+header: "Modelling"
+summary: "Competitive advantage through real-time data analytics and connected asset condition."
 ---
 
 <!-- Start marketing section -->

@@ -1,7 +1,7 @@
 ---
-title: "Data Services"
-header: "Actionable insights from connected data"
-summary: "Competitive advantage through real-time data analytics and connected asset condition."
+title: "Reporting"
+header: "Reporting"
+summary: "Continuous client partnership post implementation"
 ---
 
 <!-- Start marketing section -->
