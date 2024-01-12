@@ -1,15 +1,15 @@
 {% set ctaPrefix = cta %} {# this sets the content from cta.json into this variable ctaPrefix #}
 
 {% if ctaContent %} {# this checks if the ctaContent variable is set, if it is... #}
-  {% set ctaPrefix = ctaContent %} {# ... we override ctaPrefix with ctaContent #}
+{% set ctaPrefix = ctaContent %} {# ... we override ctaPrefix with ctaContent #}
 {% endif %}
 
- <article class="px-4 py-5 my-5 text-center">
-    <svg width="100" height="120" viewBox="0 0 290 207" fill="none" xmlns="http://www.w3.org/2000/svg">
+<article class="px-4 py-5 my-5 text-center">
+  <!-- <svg width="100" height="120" viewBox="0 0 290 207" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M43.4522 25.4092C35.6535 14.9018 43.1584 0 56.249 0H124.561C141.857 0 158.132 8.18597 168.436 22.069L286.835 181.589C294.634 192.097 287.129 206.999 274.038 206.999H205.726C188.43 206.999 172.156 198.813 161.851 184.93L43.4522 25.4092Z" fill="#2B5DC1"/>
       <path d="M68.1436 96.1851C70.7038 92.5073 76.1134 92.4146 78.7982 96.0024L134.335 170.219C145.684 185.385 134.862 206.999 115.921 206.999H9.87416C1.91124 206.999 -2.7652 198.046 1.78427 191.51L68.1436 96.1851Z" fill="#2B5DC1"/>
-    </svg>
-
+    </svg> -->
+  <div class="container">
     <h1 class="display-5 fw-bold">{{ ctaPrefix.title }}</h1>
     <div class="col-lg-6 mx-auto">
       <p class="display-7 mb-4">{{ ctaPrefix.summary }}</p>
@@ -17,4 +17,5 @@
         <a href="{{ ctaPrefix.buttonUrl }}" class="btn btn-primary btn-lg px-4 gap-3">{{ ctaPrefix.buttonText }}</a>
       </div>
     </div>
-  </article>
+  </div>
+</article>

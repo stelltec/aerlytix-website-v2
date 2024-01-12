@@ -12860,7 +12860,7 @@ hr {
 }
 
 .quote {
-  padding: 0 6rem;
+  padding: 0 3rem;
   margin: auto;
 }
 
@@ -13489,6 +13489,7 @@ a {
 .pricing__structure li {
   list-style: none;
   padding-left: 3rem;
+  padding-bottom: 1rem;
 }
 
 /* Featurettes

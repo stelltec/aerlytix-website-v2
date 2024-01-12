@@ -45,3 +45,20 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
   </div>
   </div>
 </article>
+
+<article class="theme-section__01 quotes my-5 py-5">
+  <div class="container card" style="padding-bottom:3rem">
+    <div id="carouselExampleDark" class="carousel carousel-dark slide mt-5" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="10000">
+          <div class="quote w-100">
+            <blockquote>
+              <p class="display-6">"The ABS Investor Portal helps every institution to better understand the value of its underlying asset investment. The wider use amongst the asset managers should 'massively' increase liquidity in secondary ABS market trading."</p>
+            </blockquote>
+            <cite>— Gary Fitzgerald, CEO of Stratos</cite>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+</article>

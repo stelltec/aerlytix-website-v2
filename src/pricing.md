@@ -5,7 +5,7 @@ summary: "Iterative modular deliveries are encouraged.<br> Clients can start sma
 layout: "layouts/page.html"
 ---
 
-<article class="py-5 px-5">
+<article class="py-2 px-2">
 
 <div class="container">
   <h2 class="display-3 fw-bold mb-3 lh-1 mb-5">The Aerlytix simple, hassle free, pricing structure:</h2>
@@ -40,9 +40,24 @@ layout: "layouts/page.html"
 </div>
 </article>
 
+<article class="text-center py-5 px-5">
+  <div class="container">
+    <div class="card py-5 px-5">
+      <h1 class="display-5 fw-bold">Custome build it for your organization</h1>
+      <div class="col-lg-6 mx-auto">
+        <p class="display-7 mb-4">Get in touch with us and we'll arrange how we can custom build an offering for your
+          organization</p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+          <a href="/request-demo" class="btn btn-primary btn-lg px-4 gap-3">Talk to our Commercial Team</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
 
 
 
+<article class="py-5 px-5">
 <div class="container">
 <h2 class="display-3 fw-bold mb-3 lh-1 mb-5">Recent customer delivery examples...</h2>
 <div class="pricing__levels row row-cols-1 row-cols-md-3 mb-3 text-center">
@@ -136,18 +151,20 @@ layout: "layouts/page.html"
       </div>
     </div>
 
-    <div class="bd-example">
+    <!-- <div class="bd-example">
       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
         Vertically centered modal
       </button>
       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalCenteredScrollable">
         Vertically centered scrollable modal
       </button>
-    </div>
+    </div> -->
 
 </div> <!-- end container -->
 
+</articles>
 
+<article class="py-5 px-5">
 <div class="container px-4 py-5">
     <h2 class="display-3 fw-bold">Customer collaboration</h2>
     <p class="display-7 mb-5">In partnership with our customers, Aerlytix builds bespoke products, all driven by the Analytics Suite API engine. Our product  development roadmap is paved by our customers business requirements.</p>
@@ -212,7 +229,11 @@ layout: "layouts/page.html"
   </div>
 </div>
 
-<div class="container col-md-12" style="padding-top:6rem; padding-bottom:6rem;">
+</article>
+
+<article class="py-5 px-5">
+
+<div class="container col-md-12">
 
 <h2 class="display-3 fw-bold mb-3">Commonly asked questions</h2>
 
@@ -327,5 +348,6 @@ layout: "layouts/page.html"
 </div>
 </div>
 
+</articles>
 
 </div>

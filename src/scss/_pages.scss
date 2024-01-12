@@ -144,7 +144,8 @@
         // ahh... 
     }
 
-    &-contact-us, &-news {
+    &-contact-us,
+    &-news {
         // background: #F3F5FB url(../images/abstract-background-1-contact.jpg) 0 0 no-repeat;
         // background-size: 1400px;
 
@@ -227,7 +228,8 @@
     &__structure {
         li {
             list-style: none;
-            padding-left:3rem;
+            padding-left: 3rem;
+            padding-bottom: 1rem;
         }
     }
 }
