@@ -51,7 +51,25 @@ a {
 
 .products {
     // background: url(../images/engine-outline.svg) 90% 2rem no-repeat;
-    background-size: 37rem;
+    // background-size: 37rem;
+
+    .card {
+        min-height: 24rem;
+        // color: white;
+
+        a {
+            // color: white;
+        }
+
+        &-body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        &-text {
+            flex-grow: 1;
+        }
+    }
 
     &__icon {
         margin-bottom: 5rem !important;
@@ -64,61 +82,61 @@ a {
     &__pricing-and-trading {
         // background: url(../images/product/pricing-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
-        transition: all .5s;
+        // transition: all .5s;
 
-        &:hover {
-            transform: scale(1.05);
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        // }
     }
 
     &__maintenance-and-lease-management {
         // background: url(../images/product/maintenance-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
-        transition: all .5s;
+        // transition: all .5s;
 
-        &:hover {
-            transform: scale(1.05);
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        // }
     }
 
     &__commercial-asset-management {
         // background: url(../images/product/commercial-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
-        transition: all .5s;
+        // transition: all .5s;
 
-        &:hover {
-            transform: scale(1.05);
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        // }
     }
 
     &__risk-management {
         // background: url(../images/product/risk-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
-        transition: all .5s;
+        // transition: all .5s;
 
-        &:hover {
-            transform: scale(1.05);
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        // }
     }
 
     &__fleet-monitoring-system {
         // background: url(../images/product/fleet-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
-        transition: all .5s;
+        // transition: all .5s;
 
-        &:hover {
-            transform: scale(1.05);
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        // }
     }
 
     &__consulting-and-integrations {
         // background: url(../images/product/consulting-abstract.jpg) 0 0 no-repeat;
         background-size: cover;
-        transition: all .5s;
+        // transition: all .5s;
 
-        &:hover {
-            transform: scale(1.05);
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        // }
     }
 }
 
@@ -145,20 +163,20 @@ a {
 
     &__investors {
         // background: #233F74 url(../images/investors-lenders-illustration.svg) 50% -8rem no-repeat;
-        transition: all .5s;
+        // transition: all .5s;
 
-        &:hover {
-            transform: scale(1.05);
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        // }
     }
 
     &__lessors {
         // background: #233F74 url(../images/lessors-illustration.svg) 50% -4rem no-repeat;
-        transition: all .5s;
+        // transition: all .5s;
 
-        &:hover {
-            transform: scale(1.05);
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        // }
     }
 
     .border-top {

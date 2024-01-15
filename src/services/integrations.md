@@ -48,6 +48,14 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
       </div>
     </div>
   </div>
+  <div class="col">
+    <div class="card">
+      <img src="https://placehold.co/400x200" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5>Salesforce</h5>
+      </div>
+    </div>
+  </div>
 </div>
 </section>
 
@@ -55,7 +63,7 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
 
 <section style="padding-bottom:4rem">
   <h3>Reporting Tools</h3>
-  <p>Whether you prefer industry-standard tools or have specific reporting preferences, our flexible integration options ensure a smooth and efficient process.  Maximize the value of your data by combining Aerlytix insights with your preferred reporting tools, unlocking a comprehensive view of your aviation assets and facilitating informed strategic decisions. With over 300 Aerlytix excel functions available, the Excel Add-in feature enables automated analysis output downloads directly from the Aerlytix core engine</p>
+  <p>Whether you prefer industry-standard tools or have specific reporting preferences, our flexible integration options ensure a smooth and efficient process.  Maximize the value of your data by combining Aerlytix insights with your preferred reporting tools, unlocking a comprehensive view of your aviation assets and facilitating informed strategic decisions. With over 440 Aerlytix excel functions available, the Excel Add-in feature enables automated analysis output downloads directly from the Aerlytix core engine</p>
 
   <div class="row row-cols-1 row-cols-md-4 g-4">  
   <div class="col">

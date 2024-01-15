@@ -12744,6 +12744,21 @@ body li {
   margin-left: -4rem;
 }
 
+.product__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(241, 241, 241);
+  width: 120px;
+  height: 120px;
+  border-radius: 6px;
+  margin-bottom: 1.6rem;
+}
+.product__icon svg {
+  width: 80%;
+  height: 80%;
+}
+
 main {
   margin-bottom: -3rem;
 }
@@ -12987,8 +13002,15 @@ a {
   margin-left: 15px;
 }
 
-.products {
-  background-size: 37rem;
+.products .card {
+  min-height: 24rem;
+}
+.products .card-body {
+  display: flex;
+  flex-direction: column;
+}
+.products .card-text {
+  flex-grow: 1;
 }
 .products__icon {
   margin-bottom: 5rem !important;
@@ -12998,45 +13020,21 @@ a {
 }
 .products__pricing-and-trading {
   background-size: cover;
-  transition: all 0.5s;
-}
-.products__pricing-and-trading:hover {
-  transform: scale(1.05);
 }
 .products__maintenance-and-lease-management {
   background-size: cover;
-  transition: all 0.5s;
-}
-.products__maintenance-and-lease-management:hover {
-  transform: scale(1.05);
 }
 .products__commercial-asset-management {
   background-size: cover;
-  transition: all 0.5s;
-}
-.products__commercial-asset-management:hover {
-  transform: scale(1.05);
 }
 .products__risk-management {
   background-size: cover;
-  transition: all 0.5s;
-}
-.products__risk-management:hover {
-  transform: scale(1.05);
 }
 .products__fleet-monitoring-system {
   background-size: cover;
-  transition: all 0.5s;
-}
-.products__fleet-monitoring-system:hover {
-  transform: scale(1.05);
 }
 .products__consulting-and-integrations {
   background-size: cover;
-  transition: all 0.5s;
-}
-.products__consulting-and-integrations:hover {
-  transform: scale(1.05);
 }
 
 .solutions .card {
@@ -13048,18 +13046,6 @@ a {
 }
 .solutions .card-text {
   flex-grow: 1;
-}
-.solutions__investors {
-  transition: all 0.5s;
-}
-.solutions__investors:hover {
-  transform: scale(1.05);
-}
-.solutions__lessors {
-  transition: all 0.5s;
-}
-.solutions__lessors:hover {
-  transform: scale(1.05);
 }
 .solutions .border-top {
   border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
@@ -13445,6 +13431,9 @@ a {
 }
 .body-news .header__common {
   text-align: center;
+}
+.body-careers .graduates blockquote {
+  font-size: 1.4rem;
 }
 
 .airplane__trail-1 {

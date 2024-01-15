@@ -40,19 +40,36 @@ layout: "layouts/page.html"
 </div>
 </article>
 
-<article class="text-center py-5 px-5">
+<!-- <article class="text-center py-5 px-5">
   <div class="container">
     <div class="card py-5 px-5">
-      <h1 class="display-5 fw-bold">Custome build it for your organization</h1>
+      <h1 class="display-5 fw-bold">Custom build it to your business needs</h1>
       <div class="col-lg-6 mx-auto">
-        <p class="display-7 mb-4">Get in touch with us and we'll arrange how we can custom build an offering for your
-          organization</p>
+        <p class="display-7 mb-4">Get in touch with us and we'll arrange how we build the best solution to suit your business</p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
           <a href="/request-demo" class="btn btn-primary btn-lg px-4 gap-3">Talk to our Commercial Team</a>
         </div>
       </div>
     </div>
   </div>
+</article> -->
+
+<article class="py-5 my-5">
+
+  <div class="container">
+    <div class="card bg-primary bg-opacity-10 px-5 py-5">
+      <div class="row align-items-center g-5">
+        <div class="col-lg-8">
+          <h2 class="fw-bold">Custom build it to your business needs</h2>
+          <p class="display-7">Get in touch with us and we'll arrange how we build the best solution to suit your business.</p>
+        </div>
+        <div class="col-10 col-sm-8 col-lg-4">
+          <a href="/request-demo" class="btn btn-primary btn-lg px-5 py-4 gap-3">Talk to our Commercial Team</a>
+        </div>      
+      </div>
+    </div>
+  </div>
+
 </article>
 
 
@@ -241,8 +258,8 @@ layout: "layouts/page.html"
 
 <div class="col-lg-4">
   <div class="pricing__faq-contact">
-    <p>Not seeing your question answered here?</p>
-    <p><a href="/company/contact-us/">Contact us</a></p>
+    <p class="display-7">Not seeing your question answered here?</p>
+    <p class="display-7"><a href="/company/contact-us/">Contact us</a></p>
   </div>
 </div>
 
