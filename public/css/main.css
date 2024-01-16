@@ -12759,6 +12759,10 @@ body li {
   height: 80%;
 }
 
+.image__feature {
+  box-shadow: 8px 8px rgb(240, 240, 240);
+}
+
 main {
   margin-bottom: -3rem;
 }
@@ -13369,30 +13373,6 @@ a {
     width: 100%;
   }
 }
-.body-pricing-and-trading .header__common {
-  background: #F6F8FE url(../images/abstract-background_pricing-trading.jpg) 0 0 no-repeat;
-  background-size: cover;
-  color: white;
-  text-align: center;
-}
-.body-pricing-and-trading .header__common .text-tag {
-  color: var(--green);
-  border-color: var(--green);
-}
-.body-maintenance-and-lease-management .header__common {
-  background: #F6F8FE url(../images/abstract-background_maintenance.jpg) 0 0 no-repeat;
-  background-size: cover;
-  color: white;
-  text-align: center;
-}
-.body-maintenance-and-lease-management .text-tag {
-  color: var(--green);
-  border-color: var(--green);
-}
-.body-commercial-asset-management .text-tag {
-  color: var(--green);
-  border-color: var(--green);
-}
 .body-risk-management .text-tag {
   color: var(--green);
   border-color: var(--green);
@@ -13409,16 +13389,6 @@ a {
   border-color: var(--green);
 }
 .body-lessors .text-tag {
-  color: var(--green);
-  border-color: var(--green);
-}
-.body-investors-and-lenders .header__common {
-  background: var(--bg-dark-blue) url(../images/investors-lenders-illustration.svg) 100% -30rem no-repeat;
-  background-size: 1000px;
-  color: white;
-  text-align: center;
-}
-.body-investors-and-lenders .text-tag {
   color: var(--green);
   border-color: var(--green);
 }
@@ -13480,13 +13450,5 @@ a {
   padding-left: 3rem;
   padding-bottom: 1rem;
 }
-
-/* Featurettes
-------------------------- */
-.featurette-divider {
-  /* Space out the Bootstrap <hr> more */
-}
-
-/* Thin out the marketing headings */
 
 /*# sourceMappingURL=main.css.map */

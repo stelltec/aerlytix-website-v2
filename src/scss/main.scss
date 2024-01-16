@@ -4,50 +4,9 @@
 @use "utilities";
 @use "fonts";
 @use "icons";
+@use "images";
 @use "theme";
 @use "components";
 @use "navigation";
 @use "privacy-message";
 @use "pages";
-
-
-
-/* Featurettes
-------------------------- */
-
-.featurette {
-  // align-items: center;
-}
-
-.featurette-divider {
-  //margin: 5rem 0;
-  /* Space out the Bootstrap <hr> more */
-}
-
-/* Thin out the marketing headings */
-// .featurette-heading {
-//   font-weight: 300;
-//   line-height: 1;
-//   /* rtl:remove */
-//   letter-spacing: -.05rem;
-// }
-
-// @media (min-width: 62em) {
-//   .featurette-heading {
-//     margin-top: 7rem;
-//   }
-// }
-
-// .feature {
-//   .feature-icon {
-//     display: inline-flex;
-//     align-items: center;
-//     justify-content: center;
-//     width: 4rem;
-//     height: 4rem;
-//     margin-bottom: 1rem;
-//     font-size: 2rem;
-//     color: #fff;
-//     border-radius: .75rem;
-//   }
-// }

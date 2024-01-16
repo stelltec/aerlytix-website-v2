@@ -5,37 +5,37 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 ---
 
 <!-- Start marketing section -->
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Aerlytix Knowlege Base</h2>
-        <p class="display-7">Standalone database for each customers proprietary cost & interval data, default utilization assumptions, and ‘house view’ forecasting assumptions. </p>
-        <p class="display-7">Bank-level security, SOC2 Type2 compliance, audit trails, and customer specific approval workflows.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Aerlytix Knowlege Base</h2>
+        <p>Standalone database for each customers proprietary cost & interval data, default utilization assumptions, and ‘house view’ forecasting assumptions. </p>
+        <p>Bank-level security, SOC2 Type2 compliance, audit trails, and customer specific approval workflows.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class=" col-md-7">
+        <img class="card image__feature" src="/images/products/maintenance-forecasting/knowledge-base.png" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Excel Add-in</h2>
-        <p class="display-7">Microsoft Excel Add-in feature enables automated analysis output downloads directly from the Aerlytix core engine.</p>
-        <p class="display-7">Extract any output via. +450 custom =.AX functions enabling users to build or maintain  bespoke pricing and analysis templates.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Excel Add-in</h2>
+        <p>Microsoft Excel Add-in feature enables automated analysis output downloads directly from the Aerlytix core engine.</p>
+        <p>Extract any output via. +450 custom =.AX functions enabling users to build or maintain  bespoke pricing and analysis templates.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/maintenance-forecasting/excel-add-in.png" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__spacing-03 mt-5 mb-5 pt-5">
+<article class="py-5 px-5">
 <div class="container">
 <!-- <h2 class="h1">In addition...</h2> -->
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
@@ -79,31 +79,31 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Maintenance Editor</h2>
-        <p class="display-7">Override any maintenance event on an MSN basis without impact to the underlying Knowledge Base.</p>
-        <p class="display-7">Edit the event cost or timing of any future event.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Maintenance Editor</h2>
+        <p>Override any maintenance event on an MSN basis without impact to the underlying Knowledge Base.</p>
+        <p>Edit the event cost or timing of any future event.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/maintenance-forecasting/maintenance-editor.png" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Advanced Engine Strategy</h2>
-        <p class="display-7">Powerful functionality which takes the heavy lifting our of maintenance forecasting.</p>
-        <p class="display-7">Engine replacements, substitution rights, part-out models, green-time leasing, and third-party TCA modelling. </p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Advanced Engine Strategy</h2>
+        <p>Powerful functionality which takes the heavy lifting our of maintenance forecasting.</p>
+        <p>Engine replacements, substitution rights, part-out models, green-time leasing, and third-party TCA modelling. </p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/maintenance-forecasting/advanced-engine-strategy.png"  />
       </div>
     </div>
   </div>

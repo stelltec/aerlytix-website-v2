@@ -1,30 +1,30 @@
 .body {
     &-pricing-and-trading {
-        .header__common {
-            background: #F6F8FE url(../images/abstract-background_pricing-trading.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
-            background-size: cover;
-            color: white;
-            text-align: center;
+        // .header__common {
+        //     background: #F6F8FE url(../images/abstract-background_pricing-trading.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+        //     background-size: cover;
+        //     color: white;
+        //     text-align: center;
 
-            .text-tag {
-                color: var(--green);
-                border-color: var(--green);
-            }
-        }
+        //     .text-tag {
+        //         color: var(--green);
+        //         border-color: var(--green);
+        //     }
+        // }
     }
 
     &-maintenance-and-lease-management {
-        .header__common {
-            background: #F6F8FE url(../images/abstract-background_maintenance.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
-            background-size: cover;
-            color: white;
-            text-align: center;
-        }
+        // .header__common {
+        //     background: #F6F8FE url(../images/abstract-background_maintenance.jpg) 0 0 no-repeat; // url(../images/product/pricing-trading-illustration.svg)
+        //     background-size: cover;
+        //     color: white;
+        //     text-align: center;
+        // }
 
-        .text-tag {
-            color: var(--green);
-            border-color: var(--green);
-        }
+        // .text-tag {
+        //     color: var(--green);
+        //     border-color: var(--green);
+        // }
     }
 
     &-commercial-asset-management {
@@ -35,10 +35,10 @@
             // text-align: center;
         }
 
-        .text-tag {
-            color: var(--green);
-            border-color: var(--green);
-        }
+        // .text-tag {
+        //     color: var(--green);
+        //     border-color: var(--green);
+        // }
     }
 
     &-risk-management {
@@ -127,17 +127,17 @@
     }
 
     &-investors-and-lenders {
-        .header__common {
-            background: var(--bg-dark-blue) url(../images/investors-lenders-illustration.svg) 100% -30rem no-repeat;
-            background-size: 1000px;
-            color: white;
-            text-align: center;
-        }
+        // .header__common {
+        //     background: var(--bg-dark-blue) url(../images/investors-lenders-illustration.svg) 100% -30rem no-repeat;
+        //     background-size: 1000px;
+        //     color: white;
+        //     text-align: center;
+        // }
 
-        .text-tag {
-            color: var(--green);
-            border-color: var(--green);
-        }
+        // .text-tag {
+        //     color: var(--green);
+        //     border-color: var(--green);
+        // }
     }
 
     &-request-demo {
@@ -169,7 +169,7 @@
     &-careers {
         .graduates {
             blockquote {
-                font-size:1.4rem;
+                font-size: 1.4rem;
             }
         }
     }
