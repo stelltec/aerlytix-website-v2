@@ -5,37 +5,37 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 ---
 
 <!-- Start marketing section -->
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Sensitivity Analysis</h2>
-        <p class="display-7">Create both goal-seek and risk mitigation sensitivity matrices across thousands of scenarios in seconds.</p>
-        <p class="display-7">Shock appraiser inflation, contracted rents, sale value assumptions, and future rents on any transaction.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Sensitivity Analysis</h2>
+        <p>Create both goal-seek and risk mitigation sensitivity matrices across thousands of scenarios in seconds.</p>
+        <p>Shock appraiser inflation, contracted rents, sale value assumptions, and future rents on any transaction.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/pricing-and-valuation/sensitivity-analysis.png" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Lease Encumbered Valuation Outputs</h2>
-        <p class="display-7">Execute disposition strategies including hold to maturity vs. early exits through LEV vs. NBV portfolio management.</p>
-        <p class="display-7">Set residual value assumptions based on appraised, maintenance adjusted, part-out, or lease encumbered value.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Lease Encumbered Valuation Outputs</h2>
+        <p>Execute disposition strategies including hold to maturity vs. early exits through LEV vs. NBV portfolio management.</p>
+        <p>Set residual value assumptions based on appraised, maintenance adjusted, part-out, or lease encumbered value.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/pricing-and-valuation/lease-encumbered-value.png" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__spacing-03 mt-5 mb-5 pt-5">
+<article class="px-5 py-5 mb-5">
 <div class="container">
 <!-- <h2 class="h1">In addition...</h2> -->
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
@@ -79,16 +79,16 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Automated Investment Memos</h2>
-        <p class="display-7">Generate custom PDF investment memos across any transaction type, which are white labeled to each customer.</p>
-        <p class="display-7">Format and add executive summary and recommendation commentary for each deal.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Automated Investment Memos</h2>
+        <p>Generate custom PDF investment memos across any transaction type, which are white labeled to each customer.</p>
+        <p>Format and add executive summary and recommendation commentary for each deal.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/pricing-and-valuation/investment-memo.png" />
       </div>
     </div>
   </div>

@@ -6,37 +6,37 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 ---
 
 <!-- Start marketing section -->
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Stacked Portfolio Pricing </h2>
-        <p class="display-7">Perform acquisition & divestiture analysis across portfolio’s of any size elevating the premium assets.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Stacked Portfolio Pricing </h2>
+        <p>Perform acquisition & divestiture analysis across portfolio’s of any size elevating the premium assets.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Portfolio Scenario Analysis</h2>
-        <p class="display-7">Run unlimited branch scenario-analysis across portfolios of owned / managed fleets, funds, warehouses, and ABS structuring.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Portfolio Scenario Analysis</h2>
+        <p>Run unlimited branch scenario-analysis across portfolios of owned / managed fleets, funds, warehouses, and ABS structuring.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__spacing-03 mt-5 mb-5 pt-5">
+<article class="px-5 py-5">
 <div class="container">
-<!-- <h2 class="h1">In addition...</h2> -->
+
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon">
@@ -78,15 +78,15 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Exit NPV Valuation Settings</h2>
-        <p class="display-7">Apply valuation discount rates across portfolios for exit NPV vs. NBV portfolio management.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Exit NPV Valuation Settings</h2>
+        <p>Apply valuation discount rates across portfolios for exit NPV vs. NBV portfolio management.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
       </div>
     </div>
   </div>

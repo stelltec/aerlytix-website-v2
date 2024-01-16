@@ -5,37 +5,37 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 ---
 
 <!-- Start marketing section -->
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5 mb-5">
   <div class="container">
     <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Rack n' Stack</h2>
-        <p class="display-7">Compare all extension, re-marketing opportunities, sales, or 'do nothing' scenarios for decision optimization.</p>
-        <p class="display-7">Remove all quantitative guesswork from decision making.</p>
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Rack n' Stack</h2>
+        <p>Compare all extension, re-marketing opportunities, sales, or 'do nothing' scenarios for decision optimization.</p>
+        <p>Remove all quantitative guesswork from decision making.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/lease-cashflow-forecasting/rack-n-stack.png" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5">
   <div class="container">
     <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Lease Generator</h2>
-        <p class="display-7">Generate standard benchmark leases according to key indicative terms, all stored in the Knowledge Base.</p>
-        <p class="display-7">Benchmark lease are a 'pre-canned' set of assumptions to be used for indicative pricing, defined by asset type, or applied to analysis forecasts in an 'auto' rules-based fashion.</p>
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Lease Generator</h2>
+        <p>Generate standard benchmark leases according to key indicative terms, all stored in the Knowledge Base.</p>
+        <p>Benchmark lease are a 'pre-canned' set of assumptions to be used for indicative pricing, defined by asset type, or applied to analysis forecasts in an 'auto' rules-based fashion.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/lease-cashflow-forecasting/lease-generator.png" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__spacing-03 mt-5 mb-5 pt-5">
+<article class="px-5 py-5">
 <div class="container">
 <!-- <h2 class="h1">In addition...</h2> -->
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
@@ -80,16 +80,16 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 </article>
 
 
-<article class="section__product section__spacing-3">
+<article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Maintenance Unit Ratios</h2>
-        <p class="display-7">Audit existing leases or new opportunities with an auto-generated comparison of the each customers internal event cost assumptions against the contracted / negotiated MR/EOL rates.</p>
-        <p class="display-7">Identify any potential accrual gaps or lessor contribution exposures in seconds.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Maintenance Unit Ratios</h2>
+        <p>Audit existing leases or new opportunities with an auto-generated comparison of the each customers internal event cost assumptions against the contracted / negotiated MR/EOL rates.</p>
+        <p>Identify any potential accrual gaps or lessor contribution exposures in seconds.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="/images/products/lease-cashflow-forecasting/mx-unit-ratios.png" />
       </div>
     </div>
   </div>

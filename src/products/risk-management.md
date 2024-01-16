@@ -5,37 +5,37 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 ---
 
 <!-- Start marketing section -->
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Risk Knowledge Base</h2>
-        <p class="display-7">Cloud-based Knowledge Base becomes customers financial data storage hub for internally sourced financials uploaded directly via. Excel.</p>
-        <p class="display-7">Ability to supplement internal data with externally (API) sourced financial data.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Risk Knowledge Base</h2>
+        <>Cloud-based Knowledge Base becomes customers financial data storage hub for internally sourced financials uploaded directly via. Excel.</p>
+        <>Ability to supplement internal data with externally (API) sourced financial data.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Automated Lessee Financials</h2>
-        <p class="display-7">API feed of airline financial and operational data from industry leading data providers integrated directly into customers Risk Module workflow.</p>
-        <p class="display-7">Lessee credit ratings automatically refresh as financial and operational performance data updates.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Automated Lessee Financials</h2>
+        <>API feed of airline financial and operational data from industry leading data providers integrated directly into customers Risk Module workflow.</p>
+        <>Lessee credit ratings automatically refresh as financial and operational performance data updates.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__spacing-03 mt-5 mb-5 pt-5">
+<article class="py-5 px-5">
 <div class="container">
 <!-- <h2 class="h1">In addition...</h2> -->
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
@@ -79,16 +79,16 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">The Aircraft Recovery Value and Lessee Default Model​</h2>
-        <p class="display-7">Recovery model forecasts aircraft recovery value, encompassing jurisdictional factors, repossession cost, and time​.</p>
-        <p class="display-7">Default model maps a default probability (calibrated to operator credit rating) to each operator.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">The Aircraft Recovery Value and Lessee Default Model​</h2>
+        <p>Recovery model forecasts aircraft recovery value, encompassing jurisdictional factors, repossession cost, and time​.</p>
+        <p>Default model maps a default probability (calibrated to operator credit rating) to each operator.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
       </div>
     </div>
   </div>

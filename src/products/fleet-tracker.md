@@ -5,37 +5,36 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
 ---
 
 <!-- Start marketing section -->
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Fleet Dashboards</h2>
-        <p class="display-7">Track and analyze the entire fleet (and other tracked aircraft of interest) via. secure, web-based, customer specific portals.</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Fleet Dashboards</h2>
+        <p>Track and analyze the entire fleet (and other tracked aircraft of interest) via. secure, web-based, customer specific portals.</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Custom Exception Monitoring</h2>
-        <p class="display-7">Set custom rules for days AoG and jurisdictional violations (e.g., OFAC countries or restricted airports).</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Custom Exception Monitoring</h2>
+        <p>Set custom rules for days AoG and jurisdictional violations (e.g., OFAC countries or restricted airports).</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
       </div>
     </div>
   </div>
 </article>
 
-<article class="section__spacing-03 mt-5 mb-5 pt-5">
+<article class="py-5 px-5">
 <div class="container">
-<!-- <h2 class="h1">In addition...</h2> -->
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
       <div class="feature col">
         <div class="feature-icon">
@@ -77,15 +76,15 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
 </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
-      <div class="col-md-7">
-        <h2 class="h1">Fleet Portfolios</h2>
-        <p class="display-7">Create tracked aircraft portfolios & sub-portfolios in seconds. Add MSN status updates and alerts with RAG (traffic light).</p>
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Fleet Portfolios</h2>
+        <p>Create tracked aircraft portfolios & sub-portfolios in seconds. Add MSN status updates and alerts with RAG (traffic light).</p>
       </div>
-      <div class="card col-md-5">
-        <img src="https://placehold.co/600x400" width="600" height="400" />
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
       </div>
     </div>
   </div>
