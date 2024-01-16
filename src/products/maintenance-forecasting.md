@@ -29,12 +29,12 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
         <p>Extract any output via. +450 custom =.AX functions enabling users to build or maintain  bespoke pricing and analysis templates.</p>
       </div>
       <div class="col-md-7">
-        <!-- <video class="card image__feature" width="100%" muted autoplay loop>
-          <source src="/images/products/maintenance-forecasting/excel-add-in-screencast.mp4" type="video/mp4">
-          <source src="/images/products/maintenance-forecasting/excel-add-in-screencast.webm" type="video/webm"> -->
+        <video class="card image__feature" width="100%" muted autoplay loop>
+          <source src="https://aerlytix-2024.netlify.app/images/products/maintenance-forecasting/excel-add-in-screencast.mp4" type="video/mp4">
+          <source src="https://aerlytix-2024.netlify.app/images/products/maintenance-forecasting/excel-add-in-screencast.webm" type="video/webm">
           <img class="card image__feature" src="/images/products/maintenance-forecasting/excel-add-in.png" />
-          <!-- Your browser does not support the video tag.
-        </video> -->
+          Your browser does not support the video tag.
+        </video>
       </div>
     </div>
   </div>
