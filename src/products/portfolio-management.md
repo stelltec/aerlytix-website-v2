@@ -14,7 +14,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
         <p>Perform acquisition & divestiture analysis across portfolio’s of any size elevating the premium assets.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/products/portfolio-management/stacked-output.png" />
       </div>
     </div>
   </div>
@@ -28,7 +28,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
         <p>Run unlimited branch scenario-analysis across portfolios of owned / managed fleets, funds, warehouses, and ABS structuring.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/products/portfolio-management/portfolio-scenario-analysis.png" />
       </div>
     </div>
   </div>
@@ -86,7 +86,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
         <p>Apply valuation discount rates across portfolios for exit NPV vs. NBV portfolio management.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
+        <img class="card image__feature" src="/images/products/portfolio-management/aggregate-chart.png" />
       </div>
     </div>
   </div>

@@ -13,7 +13,7 @@ summary: 'Integrated debt structures within the asset modelling context for maxi
         <p>Define and analyze unlimited single and multi tranche loans in seconds, quickly ‘solving for’ advance, fixed payment, or balloons.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
+        <img class="card image__feature" src="/images/products/finance-structuring/loan-define-it.png" />
       </div>
     </div>
   </div>
@@ -27,7 +27,7 @@ summary: 'Integrated debt structures within the asset modelling context for maxi
         <p>Upload any existing loan schedule into Aerlytix from Excel via. CSV, to capture contracted loan changes in seconds.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
+        <img class="card image__feature" src="/images/products/finance-structuring/upload-loan.png" />
       </div>
     </div>
   </div>
@@ -84,7 +84,7 @@ summary: 'Integrated debt structures within the asset modelling context for maxi
         <p>Interactive LTV monitoring system for debt service coverage, current and maturity status’.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
+        <img class="card image__feature" src="/images/products/finance-structuring/ltv.png" />
       </div>
     </div>
   </div>

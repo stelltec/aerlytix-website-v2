@@ -35,6 +35,21 @@ summary: "Continuous client partnership post implementation"
     </div>
   </div>
 </article>
+<article class="theme-section__01 quotes my-5 py-5">
+  <div class="container card" style="padding-bottom:3rem">
+    <div id="carouselExampleDark" class="carousel carousel-dark slide mt-5" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="10000">
+          <div class="quote w-100">
+            <blockquote>
+              <p class="display-6">"Here we will have an Aergo Connect quote Alan or John B. to come back or."</p>
+            </blockquote>
+            <cite>— David Campbell, Chief Technical Officer, Aergo Connect</cite>
+          </div>
+        </div>
+      </div>
+    </div>
+</article>
 
 <article class="py-5 px-5">
   <div class="container">
