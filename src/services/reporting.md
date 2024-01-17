@@ -4,7 +4,57 @@ header: "Reporting"
 summary: "Continuous client partnership post implementation"
 ---
 
-<!-- Start marketing section -->
+<article class="py-5 px-5 mb-5">
+  <div class="container">
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Self-Service Reporting</h2>
+        <p>Customers can access model output data in structured formats enabling quick and easy report building​ by in-house teams.</p>
+        <p>Feeding downstream systems, Aerlytix outputs become accessible to the entire organization through interfaces of preference.</p>
+        <p>Self-Service Reporting grants customers maximum flexibility to build and manage own reporting process.</p>
+      </div>
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
+      </div>
+    </div>
+  </div>
+</article>
+
+<article class="py-5 px-5 mb-5">
+  <div class="container">
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Reporting Portals</h2>
+        <p>Launch standalone Aerlytix reporting portals to investors, financiers, and other external parties.</p>
+        <p>Controlled directly from the main Aerlytix Analytics Suite instance, access, permissions, and data refresh frequency wholly managed by the customer.</p>
+        <p>Highest levels of version control and security over sensitive performance and asset information.</p>
+      </div>
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
+      </div>
+    </div>
+  </div>
+</article>
+
+<article class="py-5 px-5">
+  <div class="container">
+    <div class="row gx-lg-5">
+      <div class="col-md-5">
+        <h2 class="fw-bold mb-5">Actuals Performance Dashboards </h2>
+        <p>Enabling customers to easily and accurately report on real-time performance vs. the original asset investment thesis.</p>
+        <p>Monitor and report on a MSN, fund, or fleet level. Track yield, net-asset value, and any other metrics from original underwriting, month-over-month, until final divestiture.</p>
+        <p>Aerlytix builds externally housed databases to hold both  actuals and forecasts, fully integrated to the Analytics Suite and customers EPR systems.</p>
+      </div>
+      <div class="col-md-7">
+        <img class="card image__feature" src="https://placehold.co/600x400" />
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+<!-- 
 <article class="section__product section__spacing-3">
   <div class="container">
   <div class="row gx-lg-5 featurette">
@@ -128,6 +178,4 @@ summary: "Continuous client partnership post implementation"
     </div>
   </div>
 </div>
-</article>
-
-<!-- End marketing section -->
+</article> -->

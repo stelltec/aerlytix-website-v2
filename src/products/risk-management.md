@@ -4,14 +4,13 @@ header: 'Tailoring Precision in Aviation Credit Rating'
 summary: 'Enabling Risk Departments to define a custom credit rating methodology and apply scoring within the rigorous Aerlytix asset context'
 ---
 
-<!-- Start marketing section -->
 <article class="py-5 px-5">
   <div class="container">
     <div class="row gx-lg-5">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Risk Knowledge Base</h2>
-        <>Cloud-based Knowledge Base becomes customers financial data storage hub for internally sourced financials uploaded directly via. Excel.</p>
-        <>Ability to supplement internal data with externally (API) sourced financial data.</p>
+        <p>Cloud-based Knowledge Base becomes customers financial data storage hub for internally sourced financials uploaded directly via. Excel.</p>
+        <p>Ability to supplement internal data with externally (API) sourced financial data.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="https://placehold.co/600x400" />
@@ -25,8 +24,8 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
     <div class="row gx-lg-5">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Automated Lessee Financials</h2>
-        <>API feed of airline financial and operational data from industry leading data providers integrated directly into customers Risk Module workflow.</p>
-        <>Lessee credit ratings automatically refresh as financial and operational performance data updates.</p>
+        <p>API feed of airline financial and operational data from industry leading data providers integrated directly into customers Risk Module workflow.</p>
+        <p>Lessee credit ratings automatically refresh as financial and operational performance data updates.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="https://placehold.co/600x400" />
