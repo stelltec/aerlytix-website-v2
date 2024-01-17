@@ -7,13 +7,13 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 <!-- Start marketing section -->
 <article class="px-5 py-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
+    <div class="row gx-lg-5">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Rack n' Stack</h2>
         <p>Compare all extension, re-marketing opportunities, sales, or 'do nothing' scenarios for decision optimization.</p>
         <p>Remove all quantitative guesswork from decision making.</p>
       </div>
-      <div class="col-md-7">
+      <div class="col-md-7 loader">
         <img class="card image__feature" src="/images/products/lease-cashflow-forecasting/rack-n-stack.png" />
       </div>
     </div>
@@ -22,7 +22,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5 featurette">
+    <div class="row gx-lg-5">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Lease Generator</h2>
         <p>Generate standard benchmark leases according to key indicative terms, all stored in the Knowledge Base.</p>

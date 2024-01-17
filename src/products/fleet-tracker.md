@@ -13,7 +13,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
         <p>Track and analyze the entire fleet (and other tracked aircraft of interest) via. secure, web-based, customer specific portals.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
+        <img class="card image__feature" src="/images/products/fleet-tracker/fleet-dashboard.png" />
       </div>
     </div>
   </div>
@@ -27,7 +27,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
         <p>Set custom rules for days AoG and jurisdictional violations (e.g., OFAC countries or restricted airports).</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" width="600" height="400" />
+        <img class="card image__feature" src="/images/products/fleet-tracker/custom-exception-rules.png" />
       </div>
     </div>
   </div>
@@ -84,7 +84,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
         <p>Create tracked aircraft portfolios & sub-portfolios in seconds. Add MSN status updates and alerts with RAG (traffic light).</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/products/fleet-tracker/fleet-portfolios.png" />
       </div>
     </div>
   </div>
