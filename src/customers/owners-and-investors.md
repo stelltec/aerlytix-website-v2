@@ -4,6 +4,21 @@ header: "Market transparency for Investors"
 summary: "The Aerlytix platform enables investors to manage complex investments, offering advanced solutions that bring clarity to both investors and their portfolios."
 ---
 
+<article>
+<div class="container my-5">
+    <div class="card image__feature">
+      <video class="card image__feature" width="100%" muted autoplay loop>
+          <source src="https://aerlytix-2024.netlify.app/images/customers/owners-and-investors/abs-noteholder-report.mp4" type="video/mp4">
+          <!-- <source src="https://aerlytix-2024.netlify.app/images/products/maintenance-forecasting/excel-add-in-screencast.webm" type="video/webm">
+          <img class="card image__feature" src="/images/products/maintenance-forecasting/excel-add-in.png" /> -->
+          Your browser does not support the video tag.
+        </video>
+    </div>
+  </div>
+</article>
+
+
+
 <article class="section__product section__spacing-3">
   <div class="container">
   <div class="row gx-lg-5">
