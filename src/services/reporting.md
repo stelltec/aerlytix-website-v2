@@ -42,9 +42,9 @@ summary: "Continuous client partnership post implementation"
         <div class="carousel-item active" data-bs-interval="10000">
           <div class="quote w-100">
             <blockquote>
-              <p class="display-6">"Here we will have an Aergo Connect quote Alan or John B. to come back or."</p>
+              <p class="display-6">"Working with Aerlytix we have built a world class asset management tool called Aergo Connect, a tool that digitizes our asset management clients’ experience, giving us best in class client reporting."</p>
             </blockquote>
-            <cite>— David Campbell, Chief Technical Officer, Aergo Connect</cite>
+            <cite>— Karl Trowbridge, Head of Asset Management, Aergo Capital</cite>
           </div>
         </div>
       </div>
