@@ -12763,6 +12763,17 @@ body li {
   box-shadow: 8px 8px rgb(240, 240, 240);
 }
 
+.integrations__logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
+.integrations__logo svg,
+.integrations__logo img {
+  width: 75%;
+}
+
 main {
   margin-bottom: -3rem;
 }
