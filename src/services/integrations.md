@@ -18,18 +18,12 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
       <div class="integrations__logo">
         <img src="/images/services/integrations/cloudcards-logo.png">
       </div>
-      <div class="card-body">
-        <h5>CloudCards</h5>
-      </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
       <div class="integrations__logo">
         <img src="/images/services/integrations/leasepoint-logo.svg">
-      </div>
-      <div class="card-body">
-        <h5>LeasePoint</h5>
       </div>
     </div>
   </div>
@@ -38,9 +32,6 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
       <div class="integrations__logo">
         <img style="width:55%" src="/images/services/integrations/aerdata.png">
       </div>
-      <div class="card-body">
-        <h5>AerData</h5>
-      </div>
     </div>
   </div>
   <div class="col">
@@ -48,18 +39,12 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
       <div class="integrations__logo">
         <img src="/images/services/integrations/microsoft-dynamics-365-logo.png">
       </div>
-      <div class="card-body">
-        <h5>Microsoft Dynamics</h5>
-      </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
       <div class="integrations__logo">
         <img style="width:55%" src="/images/services/integrations/salesforce-logo.png">
-      </div>
-      <div class="card-body">
-        <h5>Salesforce</h5>
       </div>
     </div>
   </div>
@@ -79,9 +64,6 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
       <div class="integrations__logo">
         <img src="/images/services/integrations/quicksight-logo.png">
       </div>
-      <div class="card-body">
-        <h5>QuickSight</h5>
-      </div>
     </div>
   </div>
   <div class="col">
@@ -89,18 +71,12 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
       <div class="integrations__logo">
         <img style="width:60%" src="/images/services/integrations/power-bi.png">
       </div>
-      <div class="card-body">
-        <h5>PowerBI</h5>
-      </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
       <div class="integrations__logo">
         <img style="width:40%" src="/images/services/integrations/microsoft-excel.png">
-      </div>
-      <div class="card-body">
-        <h5>Microsoft Excel</h5>
       </div>
     </div>
   </div>
@@ -120,9 +96,9 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
           <div class="integrations__logo">
             <img src="/images/services/integrations/microsoft-dynamics-365-logo.png">
           </div>
-          <div class="card-body">
+          <!-- <div class="card-body">
             <h5>MS Dynamics</h5>
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="col">
@@ -130,18 +106,12 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
           <div class="integrations__logo">
             <img style="width:55%" src="/images/services/integrations/salesforce-logo.png">
           </div>
-          <div class="card-body">
-            <h5>SalesForce</h5>
-          </div>
         </div>
       </div>
       <div class="col">
         <div class="card">
-           <div class="integrations__logo">
-              <img src="/images/services/integrations/hubspot-logo.png">
-            </div>
-          <div class="card-body">
-            <h5>Hubspot</h5>
+          <div class="integrations__logo">
+            <img src="/images/services/integrations/hubspot-logo.png">
           </div>
         </div>
       </div>
