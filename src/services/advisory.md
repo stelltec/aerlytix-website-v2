@@ -6,7 +6,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Technology Advisory</h2>
         <p>Unlock the full potential of your business with Aerlytix's IT Consulting services. Our seasoned team excels in Program Management, ensuring successful project execution. Specializing in business process and IT process mapping. From IT solution implementation to post-implementation support, Aerlytix guarantees a smooth technological transition for your enterprise.</p>
@@ -20,7 +20,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
   <div class="container px-4 py-5">
     <div class="row row-cols-1 row-cols-md-12 align-items-md-center g-5 py-5">
       <div class="col">
-        <div class="row row-cols-1 row-cols-sm-3 g-5">
+        <div class="row row-cols-1 row-cols-sm-3 g-5" data-cues="slideInUp">
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
               <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" viewBox="0 0 16 16">
@@ -60,7 +60,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
 <article class="section__product section__spacing-3">
   
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Financial Advisory</h2>
         <p>Elevate your aviation financial strategy with Aerlytix's expert Advisory services. Rely on our Financial Analysis, leveraging advanced and sophisticated models for precise insights. Navigate financial landscapes seamlessly with our Cash Flow Modeling, providing accurate projections. Aerlytix is your strategic partner for informed decisions and financial success in aviation.</p>
@@ -74,7 +74,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
   <div class="container px-4 py-5">
     <div class="row row-cols-1 row-cols-md-12 align-items-md-center g-5 py-5">
       <div class="col">
-        <div class="row row-cols-1 row-cols-sm-3 g-5">
+        <div class="row row-cols-1 row-cols-sm-3 g-5" data-cues="slideInUp">
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
               <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" viewBox="0 0 16 16">
@@ -115,7 +115,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
 <article class="section__product section__spacing-3">
   
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Credit and Risk Advisory</h2>
         <p>Navigate the complexities of aviation finance confidently with Aerlytix's Credit Risk Advisory. Our specialized team assesses, mitigates, and manages credit risks, ensuring sound financial decisions.</p>
@@ -129,7 +129,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
   <div class="container px-4 py-5">
     <div class="row row-cols-1 row-cols-md-12 align-items-md-center g-5 py-5">
       <div class="col">
-        <div class="row row-cols-1 row-cols-sm-3 g-5">
+        <div class="row row-cols-1 row-cols-sm-3 g-5" data-cues="slideInUp">
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
               <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" viewBox="0 0 16 16">

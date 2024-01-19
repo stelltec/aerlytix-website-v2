@@ -3,18 +3,18 @@
 {% if (headerType == 'blogPost') %}
 <div class="header__blog-post">
   {% else %}
-<div class="header__common">
-{% endif %}
+  <div class="header__common">
+    {% endif %}
 
     <div class="container">
       {% if pageHeaderTitle %}
       <p class="text-tag">{{ pageHeaderTitle }}</p>
       {% endif %}
-      <h1 class="display-1 fw-bold" data-highlight="primary">
+      <h1 class="display-1 fw-bold" data-highlight="primary" data-cue="slideInUp">
         {{ pageMainHeader | safe }}
       </h1>
       {% if pageHeaderSummary %}
-      <p class="display-6">
+      <p class="display-6" data-cue="slideInUp">
         {{ pageHeaderSummary | safe }}
       </p>
       {% endif %}

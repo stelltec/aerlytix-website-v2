@@ -7,7 +7,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
 <!-- Start marketing section -->
 <article class="py-5 px-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Fleet Dashboards</h2>
         <p>Track and analyze the entire fleet (and other tracked aircraft of interest) via. secure, web-based, customer specific portals.</p>
@@ -21,7 +21,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Custom Exception Monitoring</h2>
         <p>Set custom rules for days AoG and jurisdictional violations (e.g., OFAC countries or restricted airports).</p>
@@ -35,7 +35,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
 
 <article class="py-5 px-5">
 <div class="container">
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
       <div class="feature col">
         <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
@@ -78,7 +78,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Fleet Portfolios</h2>
         <p>Create tracked aircraft portfolios & sub-portfolios in seconds. Add MSN status updates and alerts with RAG (traffic light).</p>

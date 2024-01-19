@@ -7,7 +7,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 <!-- Start marketing section -->
 <article class="px-5 py-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Rack n' Stack</h2>
         <p>Compare all extension, re-marketing opportunities, sales, or 'do nothing' scenarios for decision optimization.</p>
@@ -22,7 +22,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Lease Generator</h2>
         <p>Generate standard benchmark leases according to key indicative terms, all stored in the Knowledge Base.</p>
@@ -37,8 +37,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 
 <article class="px-5 py-5">
 <div class="container">
-<!-- <h2 class="h1">In addition...</h2> -->
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
       <div class="feature col">
         <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
@@ -82,7 +81,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Maintenance Unit Ratios</h2>
         <p>Audit existing leases or new opportunities with an auto-generated comparison of the each customers internal event cost assumptions against the contracted / negotiated MR/EOL rates.</p>

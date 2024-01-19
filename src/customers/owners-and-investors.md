@@ -5,7 +5,7 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
 ---
 
 <article class="pb-5" style="margin-top:-4rem">
-  <div class="container my-5 loader">
+  <div class="container my-5 loader" data-cues="slideInUp">
         <div class="custom-loader"></div>       
         <video class="card image__feature" width="100%" muted autoplay loop>
             <source src="https://aerlytix-2024.netlify.app/images/customers/owners-and-investors/abs-noteholder-report.mp4" type="video/mp4">
@@ -18,7 +18,7 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
 
 <article class="section__product section__spacing-3">
   <div class="container">
-  <div class="row gx-lg-5">
+  <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
       <h2 class="fw-bold mb-5">What we can offer</h2>
     </div>
@@ -38,7 +38,7 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
 
 <article class="section__product section__spacing-3">
   <div class="container">
-  <div class="row gx-lg-5">
+  <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
       <h2 class="fw-bold mb-5">Case Study: ABS Reporting Portal</h2>
     </div>
@@ -57,7 +57,7 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
 </article>
 
 <article class="theme-section__01 quotes my-5 py-5">
-  <div class="container card" style="padding-bottom:3rem">
+  <div class="container card" style="padding-bottom:3rem" data-cues="slideInUp">
     <div id="carouselExampleDark" class="carousel carousel-dark slide mt-5" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="10000">

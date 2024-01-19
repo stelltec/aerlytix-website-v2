@@ -6,7 +6,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Risk Knowledge Base</h2>
         <p>Cloud-based Knowledge Base becomes customers financial data storage hub for internally sourced financials uploaded directly via. Excel.</p>
@@ -21,7 +21,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Automated Lessee Financials</h2>
         <p>API feed of airline financial and operational data from industry leading data providers integrated directly into customers Risk Module workflow.</p>
@@ -37,7 +37,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 <article class="py-5 px-5">
 <div class="container">
 <!-- <h2 class="h1">In addition...</h2> -->
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
       <div class="feature col">
         <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
@@ -80,7 +80,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">The Aircraft Recovery Value and Lessee Default Model​</h2>
         <p>Recovery model forecasts aircraft recovery value, encompassing jurisdictional factors, repossession cost, and time​.</p>

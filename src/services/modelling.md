@@ -6,7 +6,7 @@ summary: "Gain a competitive advantage with strategic modelling solutions, enhan
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Advanced Modelling</h2>
         <p>At Aerlytix, our cutting-edge modelling solutions redefine precision in aviation asset management.</p>
@@ -23,7 +23,7 @@ summary: "Gain a competitive advantage with strategic modelling solutions, enhan
   <div class="container px-4 py-5">
     <div class="row row-cols-1 row-cols-md-12 align-items-md-center g-5 py-5">
       <div class="col">
-        <div class="row row-cols-1 row-cols-sm-2 g-5">
+        <div class="row row-cols-1 row-cols-sm-2 g-5" data-cues="slideInUp">
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
               <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" viewBox="0 0 16 16">

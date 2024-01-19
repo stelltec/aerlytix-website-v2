@@ -7,7 +7,7 @@ summary: 'Integrated debt structures within the asset modelling context for maxi
 <!-- Start marketing section -->
 <article class="px-5 py-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">‘Solve for’ Debt Structuring Tools</h2>
         <p>Define and analyze unlimited single and multi tranche loans in seconds, quickly ‘solving for’ advance, fixed payment, or balloons.</p>
@@ -21,7 +21,7 @@ summary: 'Integrated debt structures within the asset modelling context for maxi
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Existing Loan Upload </h2>
         <p>Upload any existing loan schedule into Aerlytix from Excel via. CSV, to capture contracted loan changes in seconds.</p>
@@ -35,7 +35,7 @@ summary: 'Integrated debt structures within the asset modelling context for maxi
 
 <article class="px-5 py-5 mb-5">
 <div class="container">
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
       <div class="feature col">
         <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
@@ -78,7 +78,7 @@ summary: 'Integrated debt structures within the asset modelling context for maxi
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Loan-to-Value (‘LTV’) Interface</h2>
         <p>Interactive LTV monitoring system for debt service coverage, current and maturity status’.</p>

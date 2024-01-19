@@ -6,7 +6,7 @@ summary: "Continuous client partnership post implementation"
 
 <article class="py-5 px-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Self-Service Reporting</h2>
         <p>Customers can access model output data in structured formats enabling quick and easy report building​ by in-house teams.</p>
@@ -22,7 +22,7 @@ summary: "Continuous client partnership post implementation"
 
 <article class="py-5 px-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Reporting Portals</h2>
         <p>Launch standalone Aerlytix reporting portals to investors, financiers, and other external parties.</p>
@@ -35,7 +35,7 @@ summary: "Continuous client partnership post implementation"
     </div>
   </div>
 </article>
-<article class="theme-section__01 quotes my-5 py-5">
+<article class="theme-section__01 quotes my-5 py-5" data-cues="slideInUp">
   <div class="container card" style="padding-bottom:3rem">
     <div id="carouselExampleDark" class="carousel carousel-dark slide mt-5" data-bs-ride="carousel">
       <div class="carousel-inner">
@@ -53,7 +53,7 @@ summary: "Continuous client partnership post implementation"
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Actuals Performance Dashboards </h2>
         <p>Enabling customers to easily and accurately report on real-time performance vs. the original asset investment thesis.</p>

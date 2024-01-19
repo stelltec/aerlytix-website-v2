@@ -7,7 +7,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 <!-- Start marketing section -->
 <article class="px-5 py-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Sensitivity Analysis</h2>
         <p>Create both goal-seek and risk mitigation sensitivity matrices across thousands of scenarios in seconds.</p>
@@ -28,7 +28,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Lease Encumbered Valuation Outputs</h2>
         <p>Execute disposition strategies including hold to maturity vs. early exits through LEV vs. NBV portfolio management.</p>
@@ -44,7 +44,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 <article class="px-5 py-5 mb-5">
 <div class="container">
 <!-- <h2 class="h1">In addition...</h2> -->
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
       <div class="feature col">
         <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
@@ -87,7 +87,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Automated Investment Memos</h2>
         <p>Generate custom PDF investment memos across any transaction type, which are white labeled to each customer.</p>

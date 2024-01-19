@@ -8,7 +8,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 <!-- Start marketing section -->
 <article class="px-5 py-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Stacked Portfolio Pricing </h2>
         <p>Perform acquisition & divestiture analysis across portfolio’s of any size elevating the premium assets.</p>
@@ -22,7 +22,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Portfolio Scenario Analysis</h2>
         <p>Run unlimited branch scenario-analysis across portfolios of owned / managed fleets, funds, warehouses, and ABS structuring.</p>
@@ -37,7 +37,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 <article class="px-5 py-5">
 <div class="container">
 
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
       <div class="feature col">
         <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
@@ -80,7 +80,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 
 <article class="px-5 py-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Exit NPV Valuation Settings</h2>
         <p>Apply valuation discount rates across portfolios for exit NPV vs. NBV portfolio management.</p>

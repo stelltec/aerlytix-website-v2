@@ -6,7 +6,7 @@ summary: "Sitting upon the shoulders of the the industry’s most respected play
 
 <article class="section__product section__spacing-3">
   <div class="container">
-  <div class="row gx-lg-5">
+  <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
       <h2 class="fw-bold">What we can offer</h2>
     </div>
@@ -21,7 +21,7 @@ summary: "Sitting upon the shoulders of the the industry’s most respected play
 
 <article class="section__product section__spacing-3">
   <div class="container">
-  <div class="row gx-lg-5">
+  <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
       <h2 class="fw-bold">Case Study: </br> Strategic Monthly Process </h2>
     </div>

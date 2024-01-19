@@ -7,7 +7,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 <!-- Start marketing section -->
 <article class="py-5 px-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Aerlytix Knowlege Base</h2>
         <p>Standalone database for each customers proprietary cost & interval data, default utilization assumptions, and ‘house view’ forecasting assumptions. </p>
@@ -22,7 +22,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Excel Add-in</h2>
         <p>Microsoft Excel Add-in feature enables automated analysis output downloads directly from the Aerlytix core engine.</p>
@@ -43,7 +43,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 <article class="py-5 px-5">
 <div class="container">
 <!-- <h2 class="h1">In addition...</h2> -->
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
+<div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
       <div class="feature col">
         <div class="feature-icon">
           <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
@@ -86,7 +86,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 
 <article class="py-5 px-5 mb-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Maintenance Editor</h2>
         <p>Override any maintenance event on an MSN basis without impact to the underlying Knowledge Base.</p>
@@ -101,7 +101,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 
 <article class="py-5 px-5">
   <div class="container">
-    <div class="row gx-lg-5">
+    <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Advanced Engine Strategy</h2>
         <p>Powerful functionality which takes the heavy lifting our of maintenance forecasting.</p>
