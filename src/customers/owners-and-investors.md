@@ -31,8 +31,6 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
       <h4>ABS Modelling & Reporting</h4>
       <p>Unlock ABS market transparency with Aerlytix’s detailed reporting tool. Provides easy access to lease details, maintenance status, and cashflow projections at an individual MSN level.</p>
       <p>Offers investors the ability to forecast cash flows through an ABS waterfall structure, providing instant valuation, pricing, and return solutions.</p>
-      <p>Quality analytics available throughout lifecycle of ABS (i.e. from origination to maturity).</p>
-      <p>Additionally, Aerlytix advisory and consulting services are available to offer assistance as needed.</p>
     </div>
   </div>
   </div>

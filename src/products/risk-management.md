@@ -13,7 +13,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
         <p>Ability to supplement internal data with externally (API) sourced financial data.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/products/risk-management/default-probability.png" />
       </div>
     </div>
   </div>
@@ -28,7 +28,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
         <p>Lessee credit ratings automatically refresh as financial and operational performance data updates.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/products/risk-management/financial-details.png" />
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
         <p>Default model maps a default probability (calibrated to operator credit rating) to each operator.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/products/risk-management/recovery-value.png" />
       </div>
     </div>
   </div>
