@@ -15,7 +15,7 @@ summary: "Gain a competitive advantage with strategic modelling solutions, enhan
         <p>Elevate your decision-making with a platform trusted by premier lessors, banks, and investors globally.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/services/modelling/modelling-scenarios.png" />
       </div>
     </div>
   </div>
