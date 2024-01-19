@@ -8,9 +8,9 @@ layout: "layouts/page.html"
 <article class="py-2 px-2">
 
 <div class="container">
-  <h2 class="display-3 fw-bold mb-3 lh-1 mb-5">The Aerlytix simple, hassle free, pricing structure:</h2>
+  <h2 class="display-3 fw-bold mb-3 lh-1 mb-5" data-cue="slideInUp">The Aerlytix simple, hassle free, pricing structure:</h2>
   <div class="card p-5">
-      <ul class="pricing__structure">
+      <ul class="pricing__structure" data-cues="slideInUp">
         <li class="display-6"><svg fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
       <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0m-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
     </svg> Annual licensing fees</li>
@@ -40,7 +40,7 @@ layout: "layouts/page.html"
 </div>
 </article>
 
-<article class="py-5 my-5">
+<article class="py-5 my-5" data-cues="slideInUp">
 
   <div class="container">
     <div class="card bg-primary bg-opacity-10 px-5 py-5">
@@ -63,7 +63,7 @@ layout: "layouts/page.html"
 <article class="py-5 px-5">
 <div class="container">
 <h2 class="display-3 fw-bold mb-3 lh-1 mb-5">Recent customer delivery examples...</h2>
-<div class="pricing__levels row row-cols-1 row-cols-md-3 mb-3 text-center">
+<div class="pricing__levels row row-cols-1 row-cols-md-3 mb-3 text-center" data-cues="slideInUp">
       <div class="col">
         <div class="card h-100 mb-4 rounded-3">
           <div class="card-body">
@@ -169,9 +169,9 @@ layout: "layouts/page.html"
 
 <article class="py-5 px-5">
 <div class="container px-4 py-5">
-    <h2 class="display-3 fw-bold">Customer collaboration</h2>
-    <p class="display-7 mb-5">In partnership with our customers, Aerlytix builds bespoke products, all driven by the Analytics Suite API engine. Our product  development roadmap is paved by our customers business requirements.</p>
-    <div class="row row-cols-1 row-cols-sm-3 g-4">
+    <h2 class="display-3 fw-bold" data-cue="slideInUp">Customer collaboration</h2>
+    <p class="display-7 mb-5" data-cue="slideInUp">In partnership with our customers, Aerlytix builds bespoke products, all driven by the Analytics Suite API engine. Our product  development roadmap is paved by our customers business requirements.</p>
+    <div class="row row-cols-1 row-cols-sm-3 g-4" data-cues="slideInUp">
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
           <svg width="16" height="16" fill="currentColor" class="bi bi-check-circle" viewBox="0 0 16 16">
@@ -238,12 +238,12 @@ layout: "layouts/page.html"
 
 <div class="container col-md-12">
 
-<h2 class="display-3 fw-bold mb-3">Commonly asked questions</h2>
+<h2 class="display-3 fw-bold mb-3" data-cue="slideInUp">Commonly asked questions</h2>
 
 <div class="row">
 
 <div class="col-lg-4">
-  <div class="pricing__faq-contact">
+  <div class="pricing__faq-contact" data-cues="slideInUp">
     <p class="display-7">Not seeing your question answered here?</p>
     <p class="display-7"><a href="/company/contact-us/">Contact us</a></p>
   </div>
@@ -251,7 +251,7 @@ layout: "layouts/page.html"
 
 <div class="col-lg-8">
 
-<div class="accordion mt-5" id="accordionExample" style="border:0">
+<div class="accordion mt-5" id="accordionExample" style="border:0" data-cues="slideInUp">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="pt-4 accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
