@@ -12889,9 +12889,30 @@ hr {
   color: white;
 }
 
-.quote {
+.quotes__primary {
   padding: 0 3rem;
   margin: auto;
+}
+.quotes__primary .card {
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  position: relative;
+}
+.quotes__primary--left {
+  position: absolute;
+  top: -5rem;
+  left: -2rem;
+  background: white;
+  padding: 1rem;
+}
+.quotes__primary--right {
+  position: absolute;
+  bottom: -5rem;
+  right: -2rem;
+  background: white;
+  padding: 1rem;
 }
 
 .carousel-indicators {

@@ -155,9 +155,37 @@ hr {
 
 // Quote slider
 
-.quote {
-    padding: 0 3rem;
-    margin: auto;
+.quotes {
+
+    &__primary {
+
+        padding: 0 3rem;
+        margin: auto;
+
+        .card {
+            border-top: 4px solid black;
+            border-bottom: 4px solid black;
+            padding-left: 4rem;
+            padding-right: 4rem;
+            position: relative;
+        }
+
+        &--left {
+            position: absolute;
+            top: -5rem;
+            left: -2rem;
+            background: white;
+            padding: 1rem;
+        }
+
+        &--right {
+            position: absolute;
+            bottom: -5rem;
+            right: -2rem;
+            background: white;
+            padding: 1rem;
+        }
+    }
 }
 
 .carousel-indicators {
