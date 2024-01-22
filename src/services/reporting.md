@@ -14,7 +14,7 @@ summary: "Continuous client partnership post implementation"
         <p>Self-Service Reporting grants customers maximum flexibility to build and manage own reporting process.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/services/reporting/self-serving-reporting.png" />
       </div>
     </div>
   </div>
@@ -83,7 +83,7 @@ summary: "Continuous client partnership post implementation"
         <p>Aerlytix builds externally housed databases to hold both  actuals and forecasts, fully integrated to the Analytics Suite and customers EPR systems.</p>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/services/reporting/actuals-performance.png" />
       </div>
     </div>
   </div>
