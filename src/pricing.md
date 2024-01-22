@@ -285,7 +285,7 @@ layout: "layouts/page.html"
             </defs>
           </svg>
         </div>
-        <h4 class="fw-semibold mb-0 text-body-emphasis">ABS Noteholder Reports</h4>
+        <h4 class="fw-semibold">ABS Noteholder Reports</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
@@ -306,7 +306,7 @@ layout: "layouts/page.html"
             </defs>
           </svg>
         </div>
-        <h4 class="fw-semibold mb-0 text-body-emphasis">Business Development Tools</h4>
+        <h4 class="fw-semibold">Business Development Tools</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
@@ -327,7 +327,7 @@ layout: "layouts/page.html"
             </defs>
           </svg>
         </div>
-        <h4 class="fw-semibold mb-0 text-body-emphasis">Performance Dashboard</h4>
+        <h4 class="fw-semibold">Performance Dashboard</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
@@ -348,7 +348,7 @@ layout: "layouts/page.html"
             </defs>
           </svg>
         </div>
-        <h4 class="fw-semibold mb-0 text-body-emphasis">Digital Asset Management Products</h4>
+        <h4 class="fw-semibold">Digital Asset Management Products</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
@@ -369,9 +369,7 @@ layout: "layouts/page.html"
             </defs>
           </svg>
         </div>
-        <h4 class="fw-semibold mb-0 text-body-emphasis">Custom Products and Services</h4>
-        <!-- <p class="text-body-secondary">We want to draw a clear picture for your product. We do plenty of visuals so no
-          details missed.</p> -->
+        <h4 class="fw-semibold">Custom Products and Services</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
@@ -392,7 +390,7 @@ layout: "layouts/page.html"
             </defs>
           </svg>
         </div>
-        <h4 class="fw-semibold mb-0 text-body-emphasis">Digitalized ABS Waterfall Model</h4>
+        <h4 class="fw-semibold">Digitalized ABS Waterfall Model</h4>
       </div>
     </div>
   </div>

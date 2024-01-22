@@ -18,7 +18,7 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
   <div class="col">
     <div class="card">
       <div class="integrations__logo">
-        <img src="/images/services/integrations/cloudcards-logo.png">
+        <img style="width:70%" src="/images/services/integrations/cloudcards-logo.png">
       </div>
     </div>
   </div>
@@ -32,7 +32,7 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
   <div class="col">
     <div class="card">
       <div class="integrations__logo">
-        <img style="width:55%" src="/images/services/integrations/aerdata.png">
+        <img style="width:50%" src="/images/services/integrations/aerdata.png">
       </div>
     </div>
   </div>
@@ -46,7 +46,21 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
   <div class="col">
     <div class="card">
       <div class="integrations__logo">
-        <img style="width:55%" src="/images/services/integrations/salesforce-logo.png">
+        <img style="width:45%" src="/images/services/integrations/salesforce-logo.png">
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <div class="integrations__logo">
+        <img style="width:45%" src="/images/services/integrations/sysco-leasing-software.png">
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <div class="integrations__logo">
+        <img src="/images/services/integrations/leaseworks.svg">
       </div>
     </div>
   </div>
@@ -110,7 +124,7 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
       <div class="col">
         <div class="card">
           <div class="integrations__logo">
-            <img style="width:55%" src="/images/services/integrations/salesforce-logo.png">
+            <img style="width:45%" src="/images/services/integrations/salesforce-logo.png">
           </div>
         </div>
       </div>
