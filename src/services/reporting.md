@@ -28,9 +28,17 @@ summary: "Continuous client partnership post implementation"
         <p>Launch standalone Aerlytix reporting portals to investors, financiers, and other external parties.</p>
         <p>Controlled directly from the main Aerlytix Analytics Suite instance, access, permissions, and data refresh frequency wholly managed by the customer.</p>
         <p>Highest levels of version control and security over sensitive performance and asset information.</p>
+        <ul>
+          <li>Forecasting Dashboards</li>
+          <li>Fund Reporting</li>
+          <li>Digital Asset Management Reports</li>
+          <li>ABS Noteholder Reports</li>
+          <li>ABS Waterfal Reports</li>
+          <li>Warehousing Reports</li>
+        </ul>
       </div>
       <div class="col-md-7">
-        <img class="card image__feature" src="https://placehold.co/600x400" />
+        <img class="card image__feature" src="/images/services/reporting/noteholder-report-portal.png" />
       </div>
     </div>
   </div>
