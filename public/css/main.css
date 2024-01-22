@@ -13258,7 +13258,6 @@ a {
 
 .pattern-square {
   position: relative;
-  margin-top: -16px;
 }
 .pattern-square::after {
   background-image: url(../images/pattern-square.svg);
