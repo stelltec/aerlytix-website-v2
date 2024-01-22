@@ -144,10 +144,10 @@ layout: "layouts/page.html"
 </div>
 </article>
 
-<article class="py-5 my-5" data-cues="slideInUp">
+<article class="pricing__custom-card py-5 my-5" data-cues="slideInUp">
 
   <div class="container">
-    <div class="card bg-primary bg-opacity-10 px-5 py-5">
+    <div class="card px-5 py-5">
       <div class="row align-items-center g-5">
         <div class="col-lg-7">
           <h2 class="fw-bold">Custom build it to your business needs</h2>
@@ -257,16 +257,6 @@ layout: "layouts/page.html"
         </div>
       </div>
     </div>
-
-    <!-- <div class="bd-example">
-      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
-        Vertically centered modal
-      </button>
-      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModalCenteredScrollable">
-        Vertically centered scrollable modal
-      </button>
-    </div> -->
-
 </div> <!-- end container -->
 
 </articles>

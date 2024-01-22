@@ -13909,5 +13909,21 @@ a {
   padding-left: 3rem;
   padding-bottom: 1rem;
 }
+.pricing__custom-card .card {
+  position: relative;
+  background: white;
+}
+.pricing__custom-card .card::before {
+  content: "";
+  width: 103%;
+  height: 103%;
+  background: blue;
+  position: absolute;
+  top: -3px;
+  left: -20px;
+  transform: rotate(0.9deg);
+  z-index: -1;
+  border-radius: 10px;
+}
 
 /*# sourceMappingURL=main.css.map */

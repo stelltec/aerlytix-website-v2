@@ -240,4 +240,24 @@
             padding-bottom: 1rem;
         }
     }
+
+    &__custom-card {
+        .card {
+            position: relative;
+            background: white;
+
+            &::before {
+                content: "";
+                width: 103%;
+                height: 103%;
+                background: blue;
+                position: absolute;
+                top: -3px;
+                left: -20px;
+                transform: rotate(.9deg);
+                z-index: -1;
+                border-radius: 10px;
+            }
+        }
+    }
 }
