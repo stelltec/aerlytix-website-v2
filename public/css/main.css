@@ -13054,27 +13054,10 @@ a {
 .products .border-top {
   border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
 }
-.products__pricing-and-trading {
-  background-size: cover;
-}
-.products__maintenance-and-lease-management {
-  background-size: cover;
-}
-.products__commercial-asset-management {
-  background-size: cover;
-}
-.products__risk-management {
-  background-size: cover;
-}
-.products__fleet-monitoring-system {
-  background-size: cover;
-}
-.products__consulting-and-integrations {
-  background-size: cover;
-}
 
 .solutions .card {
   min-height: 27rem;
+  background: url(../images/card-pattern.svg) 93% 8% no-repeat;
 }
 .solutions .card-body {
   display: flex;
@@ -13085,6 +13068,10 @@ a {
 }
 .solutions .border-top {
   border-top: 1px solid rgba(255, 255, 255, 0.4) !important;
+}
+
+.integrations .card {
+  background: url(../images/card-pattern.svg) 98% 5% no-repeat;
 }
 
 .btn {
