@@ -55,6 +55,7 @@ a {
 
     .card {
         min-height: 24rem;
+        background: url(../images/card-pattern.svg) 93% 8% no-repeat;
         // color: white;
 
         a {
@@ -397,11 +398,11 @@ a {
 .timeline {
     border-left: 4px solid black;
     margin-left: 100px !important;
-    padding-top:3rem;
+    padding-top: 3rem;
 
     &__item {
         position: relative;
-        padding-bottom:3rem;
+        padding-bottom: 3rem;
         font-size: 1.5rem;
     }
 
@@ -413,13 +414,13 @@ a {
         &::before {
             content: "";
             background: white;
-            position:absolute;
-            top:6px;
-            right:-50px;
+            position: absolute;
+            top: 6px;
+            right: -50px;
             width: 24px;
-            height:24px;
+            height: 24px;
             border-radius: 24px;
-            border:4px solid black;
+            border: 4px solid black;
         }
     }
 
@@ -428,5 +429,26 @@ a {
         width: 70px;
         text-align: right;
         margin-left: -42px;
+    }
+}
+
+.pattern-square {
+    position: relative;
+    margin-top: -16px;
+
+    &::after {
+        background-image: url(../images/pattern-square.svg);
+        background-position: top;
+        bottom: 0;
+        content: "";
+        height: 812px;
+        left: 0;
+        -webkit-mask-image: linear-gradient(0deg, transparent 35%, #000 75%);
+        mask-image: linear-gradient(0deg, transparent 35%, #000 75%);
+        padding: 40px 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: -1;
     }
 }
