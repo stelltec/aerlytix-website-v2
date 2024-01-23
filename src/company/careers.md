@@ -53,27 +53,27 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
                <div class="row row-cols-lg-5 row-cols-md-3 row-cols-2 justify-content-center g-1 mb-lg-7">
                   <div class="col">
                      <figure>
-                        <img src="https://placehold.co/500x500" alt="career" class="img-fluid">
+                        <img src="/images/company/careers/gallery-photo-1.jpg" alt="career" class="img-fluid">
                      </figure>
                   </div>
                   <div class="col">
                      <figure>
-                        <img src="https://placehold.co/500x500" alt="career" class="img-fluid">
+                        <img src="/images/company/careers/gallery-photo-2.png" alt="career" class="img-fluid">
                      </figure>
                   </div>
                   <div class="col">
                      <figure>
-                        <img src="https://placehold.co/500x500" alt="career" class="img-fluid">
+                        <img src="/images/company/careers/gallery-photo-3.jpg" alt="career" class="img-fluid">
                      </figure>
                   </div>
                   <div class="col col-md-6">
                      <figure>
-                        <img src="https://placehold.co/500x500" alt="career" class="img-fluid">
+                        <img src="/images/company/careers/gallery-photo-4.jpg" alt="career" class="img-fluid">
                      </figure>
                   </div>
                   <div class="col-12 col-md-6">
                      <figure>
-                        <img src="https://placehold.co/500x500" alt="career" class="img-fluid">
+                        <img src="/images/company/careers/gallery-photo-5.jpg" alt="career" class="img-fluid">
                      </figure>
                   </div>
                </div>
