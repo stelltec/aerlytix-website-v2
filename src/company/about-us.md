@@ -20,9 +20,9 @@ summary: "Our mission is to transform aviation finance with technology and analy
     </div>
 </article>
 
-<article class="my-5 py-5">
+<article class="key-results my-5 py-5">
   <div class="container">
-    <h2 class="h1 mb-5">Key Results</h2>
+    <h2 class="display-3 fw-bold mb-5">Key Results</h2>
     <div class="row row-cols-1 row-cols-md-3 g-4">
       <div class="col">
         <div class="card">
@@ -78,7 +78,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 
 <article class="my-5 py-5">
   <div class="container">
-    <h2 class="h1 mb-5">How did it all started</h2>
+    <h2 class="display-3 fw-bold mb-5">How did it all started</h2>
     <ul class="timeline">
       <li class="timeline__item">
         <div class="timeline__date fw-bold"><span class="timeline__date-label">2016</span></div>
@@ -111,7 +111,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 <article class="my-5 py-5">
 <div class="container">
 
-<h2 class="h1 mb-5">Core principles of our business</h2>
+<h2 class="display-3 fw-bold mb-5">Core principles of our business</h2>
 <div class="row row-cols-1 row-cols-md-3 g-4 mt-5">
       <div class="col">
         <div class="card p-4 h-100">
@@ -138,7 +138,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 <article class="my-5 py-5">
   
   <div class="container">
-  <h2 class="h1 mb-5">Executive team</h2>
+  <h2 class="display-3 fw-bold mb-5">Executive team</h2>
     <div class="row row-cols-1 row-cols-md-4 g-4">
       <div class="col">
         <div class="card">
@@ -151,7 +151,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </div>
       <div class="col">
         <div class="card">
-          <img src="..." class="card-img-top" alt="...">
+          <img src="/images/company/about-us/clive.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Clive Harris</h5>
             <p class="card-text">Chief Operating Officer</p>
@@ -160,7 +160,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </div>
       <div class="col">
         <div class="card">
-          <img src="/images/company/about-us/orla-kearney.png" class="card-img-top" alt="...">
+          <img src="/images/company/about-us/orla-kearney.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Orla Kearney</h5>
             <p class="card-text">Finance Director</p>
@@ -169,16 +169,16 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </div>
       <div class="col">
         <div class="card">
-          <img src="..." class="card-img-top" alt="...">
+          <img src="/images/company/about-us/claudio.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Claudio Viotti</h5>
-            <p class="card-text">Head of Quantitative Development</p>
+            <p class="card-text">Head of Quant Development</p>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card">
-          <img src="/images/company/about-us/leo-perria.jpeg" class="card-img-top" alt="...">
+          <img src="/images/company/about-us/leo-perria.jpg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Leonardo Perria</h5>
             <p class="card-text">Head of Web Infrastructure</p>

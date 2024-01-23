@@ -7,7 +7,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
 <article class="my-5 py-5">
   <div class="container">
       <div class="w-md-75 w-lg-50 mx-md-auto mb-5 mb-md-9">
-        <h2 class="h1">Current opportunities</h2>
+        <h2 class="display-3 fw-bold mb-5">Current opportunities</h2>
         <p class="display-7">Be a part of a fast-growing team that values teamwork, inclusivity and integrity.</p>
       </div>
       <ul class="list-group list-group-lg rounded-6">
@@ -85,7 +85,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
 <article class="px-5 py-5">
 
   <div class="container" id="icon-grid">
-    <h2 class="h1 pb-2 mb-5">What we value in Aerlytix</h2>
+    <h2 class="display-3 fw-bold mb-5">What we value in Aerlytix</h2>
     <div class="row align-items-md-stretch mb-4">
       <div class="col-md-4">
           <div class="h-100 p-5 bg-body-tertiary rounded-3">
@@ -139,7 +139,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
 <article class="team__quotes my-5 py-5 bg-light">
   <div class="container" style="padding-bottom:6rem">
     <div class="intro pb-5 pt-5 col-8">
-        <h2 class="h1">Meet some of our team members</h2>
+        <h2 class="display-3 fw-bold mb-5">Meet some of our team</h2>
     </div>
     <div id="carouselExampleDark" class="carousel carousel-team carousel-dark slide mt-5" data-bs-ride="carousel">
       <div class="carousel-indicators">
@@ -216,7 +216,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
 
 <article class="graduates py-5 px5">
 <div class="container">
-<h2 class="fw-bold">Our graduate program</h2>
+<h2 class="display-3 fw-bold mb-5">Our graduate program</h2>
 <p class="display-7 mb-5">Aerlytix targets talent early on students careers and we provide them with an opportunity to grow their skills with us. Testimonials of two of our graduates that are now part of the Aerlytix business team:</p>
 
 <div class="row mb-2">

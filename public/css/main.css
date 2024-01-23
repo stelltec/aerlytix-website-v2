@@ -13246,8 +13246,13 @@ a {
   color: #F20017;
 }
 
+.key-results .card {
+  background: blue;
+  color: white;
+}
+
 .timeline {
-  border-left: 4px solid black;
+  border-left: 4px solid blue;
   margin-left: 100px !important;
   padding-top: 3rem;
 }
@@ -13270,13 +13275,14 @@ a {
   width: 24px;
   height: 24px;
   border-radius: 24px;
-  border: 4px solid black;
+  border: 4px solid blue;
 }
 .timeline__date-label {
   display: block;
   width: 70px;
   text-align: right;
   margin-left: -42px;
+  color: blue;
 }
 
 .pattern-square {

@@ -14,7 +14,7 @@ metaDesc: "Get in touch through any of these means of communication"
   <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/>
 </svg>
             </div>
-            <h3>Email us:</h3>
+            <h3 class="fw-bold">Email us:</h3>
             <p>Email us for general queries.</p>
             <p><a class="h4" href="mailto:info@aerlytix.com">info@aerlytix.com</a></p>
         </div>
@@ -27,7 +27,7 @@ metaDesc: "Get in touch through any of these means of communication"
               <path d="M7.066 4.76A1.665 1.665 0 0 0 4 5.668a1.667 1.667 0 0 0 2.561 1.406c-.131.389-.375.804-.777 1.22a.417.417 0 1 0 .6.58c1.486-1.54 1.293-3.214.682-4.112zm4 0A1.665 1.665 0 0 0 8 5.668a1.667 1.667 0 0 0 2.561 1.406c-.131.389-.375.804-.777 1.22a.417.417 0 1 0 .6.58c1.486-1.54 1.293-3.214.682-4.112z"/>
             </svg>
             </div>
-            <h3>Follow us:</h3>
+            <h3 class="fw-bold">Follow us:</h3>
             <p>We are present on these networks.</p>
             <p>
             <a class="link-dark mx-2" href="https://www.twitter.com/aerlytix" target="_blank">
@@ -52,7 +52,7 @@ metaDesc: "Get in touch through any of these means of communication"
                 <div class="contact__icon mb-3">
                 <svg class="brand-color" xmlns="http://www.w3.org/2000/svg" width="2.5rem" height="2.5rem" fill="currentColor" class="bi bi-pin-map" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M3.1 11.2a.5.5 0 0 1 .4-.2H6a.5.5 0 0 1 0 1H3.75L1.5 15h13l-2.25-3H10a.5.5 0 0 1 0-1h2.5a.5.5 0 0 1 .4.2l3 4a.5.5 0 0 1-.4.8H.5a.5.5 0 0 1-.4-.8l3-4z"/><path fill-rule="evenodd" d="M8 1a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999z"/></svg>
                 </div>
-                <h3>Visit us:</h3>
+                <h3 class="fw-bold">Visit us:</h3>
                 <p>1862 Barrow, 1A Barrow Street<br /> Dublin, D04 E9R0, Ireland</p>
               </div>
             </div>
