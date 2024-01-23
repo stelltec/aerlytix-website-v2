@@ -8,7 +8,7 @@ summary: "Aerlytix empowers aviation banks and lenders with the connected risk m
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
-      <h2 class="h1">What we can offer</h2>
+      <h2 class="fw-bold mb-5">What we can offer</h2>
     </div>
     <div class="card col-md-7">
       <p>An off-the-shelf cash-flow modeling and analytics technology solution which removes the heavy lifting from maintenance forecasting, metal condition monitoring, and automated LTV tracking.</p>
@@ -23,7 +23,7 @@ summary: "Aerlytix empowers aviation banks and lenders with the connected risk m
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
-      <h2 class="h1">Case Study: Risk Mitigation & Exposure Management</h2>
+      <h2 class="fw-bold mb-5">Case Study: <br />Risk Mitigation & Exposure Management</h2>
     </div>
     <div class="card col-md-7">
       <h4>Client Background</h4>

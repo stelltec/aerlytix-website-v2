@@ -64,6 +64,13 @@ summary: "The Aerlytix API engine assures centralization of data inputs and easy
       </div>
     </div>
   </div>
+  <div class="col">
+    <div class="card" style="border-color:blue">
+      <div class="integrations__logo">
+        <img style="width:42%" src="/images/services/integrations/custom-built.png">
+      </div>
+    </div>
+  </div>
 </div>
 </article>
 

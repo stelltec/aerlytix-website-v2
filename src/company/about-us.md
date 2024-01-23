@@ -142,7 +142,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
     <div class="row row-cols-1 row-cols-md-4 g-4">
       <div class="col">
         <div class="card">
-          <img src="..." class="card-img-top" alt="...">
+          <img src="/images/company/about-us/alan-doyle.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Alan Doyle</h5>
             <p class="card-text">Chief Executive Officer</p>
@@ -160,7 +160,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </div>
       <div class="col">
         <div class="card">
-          <img src="..." class="card-img-top" alt="...">
+          <img src="/images/company/about-us/orla-kearney.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Orla Kearney</h5>
             <p class="card-text">Finance Director</p>
@@ -178,7 +178,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </div>
       <div class="col">
         <div class="card">
-          <img src="..." class="card-img-top" alt="...">
+          <img src="/images/company/about-us/leo-perria.jpeg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Leonardo Perria</h5>
             <p class="card-text">Head of Web Infrastructure</p>
