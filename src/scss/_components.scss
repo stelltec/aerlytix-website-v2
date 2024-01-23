@@ -75,12 +75,41 @@ a {
 .solutions {
 
     .card {
-        min-height: 27rem;
-        background: url(../images/card-pattern.svg) 93% 8% no-repeat;
+        min-height: 20rem;
+        position: relative;
+
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: url(../images/card-pattern.svg) 93% 8% no-repeat;
+            opacity: 0.3;
+            z-index: 1;
+        }
+
+        background: blue;
+
+        color: white;
+
+        a {
+            color: white;
+        }
+
+        &-title {
+            flex-grow: 1;
+        }
 
         &-body {
             display: flex;
             flex-direction: column;
+
+            p {
+                position: relative;
+                z-index: 3
+            }
         }
 
         &-text {

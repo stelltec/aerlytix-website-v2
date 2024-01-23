@@ -11,9 +11,9 @@ summary: "Sitting upon the shoulders of the the industry’s most respected play
       <h2 class="fw-bold">What we can offer</h2>
     </div>
     <div class="card col-md-7">
-      <p class="mb-5">Aerlytix is a technology eco-system used by leading lessors to run their business, supporting their asset management processes with a suite of tools, connecting in-depth technical analysis, scenario stress testing and metal value exposure.</p>
-      <p class="mb-5">Aerlytix platform brings technical, commercial, finance and risk inputs together to ensure coordinated outcomes through one centralized infrastructure, making the most complex investments a simple matter.</p>
-      <p class="mb-5">Aerlytix drives intelligent automation into every corner of the asset management process, creating a true competitive advantage by removing “the noise” and introducing quantitative rigour to the decision-making process.</p>
+      <p>Aerlytix is a technology eco-system used by leading lessors to run their business, supporting their asset management processes with a suite of tools, connecting in-depth technical analysis, scenario stress testing and metal value exposure.</p>
+      <p>Aerlytix platform brings technical, commercial, finance and risk inputs together to ensure coordinated outcomes through one centralized infrastructure, making the most complex investments a simple matter.</p>
+      <p>Aerlytix drives intelligent automation into every corner of the asset management process, creating a true competitive advantage by removing “the noise” and introducing quantitative rigour to the decision-making process.</p>
     </div>
   </div>
   </div>
