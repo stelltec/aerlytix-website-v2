@@ -1,7 +1,7 @@
 ---
 title: 'Risk Management'
 header: 'Precision <br />in aviation credit rating'
-summary: 'Enabling Risk Departments to define a custom credit rating methodology and apply scoring within the rigorous Aerlytix asset context'
+summary: 'Enabling risk departments to define a custom credit rating methodology and apply scoring to all asset modelling'
 ---
 
 <article class="py-5 px-5">

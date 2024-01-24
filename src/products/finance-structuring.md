@@ -1,7 +1,7 @@
 ---
 title: 'Finance Structuring'
 header: 'Deal structuring<br /> and LTV monitoring'
-summary: 'Integrated debt structures within the asset modelling context for maximized equity returns'
+summary: 'Integrate debt structures with asset modelling for maximised equity returns'
 ---
 
 <!-- Start marketing section -->

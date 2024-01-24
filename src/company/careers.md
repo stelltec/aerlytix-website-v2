@@ -234,22 +234,22 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
 
 <div class="row mb-2" data-cues="slideInUp">
     <div class="col-md-6">
-        <div class="row g-0 border rounded">
+        <div class="row g-0">
             <div class="col p-4">
                 <img class="rounded-3 mb-4" src="/images/company/careers/alec.jpeg" width="200" alt="">
-                <blockquote><span class="quote__open">"</span>A graduate role in Aerlytix is a fantastic opportunity to both apply educational knowledge to your work and to learn new practical skills. Since starting in 2021, I have been able to use and improve my knowledge of Aviation Finance principles whilst developing my understanding of data analytics and software development. These skills are all applied during my day-to-day, which has evolved to be primarily client-focused.<span class="quote__close">"</span></blockquote>
+                <blockquote><span class="quote__open">"</span>Aerlytix's graduate role is an excellent opportunity to apply educational knowledge and acquire practical skills. Since 2021, I've integrated Aviation Finance principles with hands-on experience in data analytics and software development. My day-to-day work, now client-focused, reflects the dynamic and evolving nature of my role.<span class="quote__close">"</span></blockquote>
                 <p class="fw-bold">-Alec Byrne, Senior Consultant <br />
                 MSc Aviation Finance, UCD Smurfit Business School</p>
             </div>            
         </div>
     </div>
     <div class="col-md-6">
-        <div class="row g-0 border rounded ">
+        <div class="row g-0">
             <div class="col p-4">
                 <img class="rounded-3 mb-4" src="/images/company/careers/kevin.jpeg" width="200" alt="">
-                <blockquote><span class="quote__open">"</span>Phasellus dapibus nibh eu libero pharetra, interdum accu msan nunc purus ferm entum sagittis vestibulum nanatibus et magnis.<span class="quote__close">"</span></blockquote>
-                <p class="fw-bold">-Kevin, Business Consultant<br />
-                Msc. Quantitative Finance at UCD</p>
+                <blockquote><span class="quote__open">"</span>Aerlytix offers graduates a unique blend of aviation and technology, providing a challenging yet rewarding experience. Joining this dynamic team allowed me to witness immediate impactful work and enhance my quantitative skills from UCD Smurfit. The commitment to continuous learning at Aerlytix facilitated my upskilling in data analytics and software development, applied directly to the aviation finance industry.<span class="quote__close">"</span></blockquote>
+                <p class="fw-bold">-Kevin, Data Analyst<br />
+                Msc. Quantitative Finance, UCD Smurfit Business School</p>
             </div>
         </div>
     </div>
