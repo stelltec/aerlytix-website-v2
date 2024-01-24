@@ -1,7 +1,7 @@
 ---
 title: "Reporting"
 header: "Reporting"
-summary: "Continuous client partnership post implementation"
+summary: "Enable data-driven strategy execution, with interactive, real-time reporting tools driven by the Aerlytix API engine"
 ---
 
 <article class="py-5 px-5 mb-5">

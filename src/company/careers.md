@@ -227,7 +227,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
                 <p>-Alec, Business Consultant</p>
             </div>
             <div class="col-auto d-flex align-items-center">
-                <img class="bd-placeholder-img me-4" src="https://placehold.co/200x200" alt="">
+                <img class="bd-placeholder-img me-4 rounded-3" src="/images/company/careers/alec.jpeg" width="200" alt="">
             </div>
         </div>
     </div>
@@ -238,7 +238,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
                 <p>-Kevin, Business Consultant</p>
             </div>
             <div class="col-auto d-flex align-items-center">
-                <img class="bd-placeholder-img me-4" src="https://placehold.co/200x200" alt="">
+                <img class="bd-placeholder-img me-4 rounded-3" src="/images/company/careers/kevin.jpeg" width="200" alt="">
             </div>
         </div>
     </div>
