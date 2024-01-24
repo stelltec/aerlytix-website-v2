@@ -1,7 +1,7 @@
 ---
 title: "Modelling"
-header: "Advanced Modelling Solutions"
-summary: "Gain a competitive advantage with strategic modelling solutions, enhancing informed decision-making in aviation asset management"
+header: "Advanced modelling solutions"
+summary: "Leveraging advanced systems, we provide industry leaders with unparalleled insights and decision-making capabilities"
 ---
 
 <article class="py-5 px-5">

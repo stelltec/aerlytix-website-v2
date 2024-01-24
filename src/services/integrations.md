@@ -1,14 +1,14 @@
 ---
 title: "Integration"
 header: "System and Data Integration"
-summary: "Aerlytix’ robust integration capabilities enable the streamlined data flow from multiple sources through to BI reporting tools"
+summary: "Robust Integration capabilities enable the streamlined data flow from multiple sources to to BI reporting tools"
 ---
 
 <article class="px-5 py-5">
   <div class="container">
   <div data-cues="slideInUp">
   <h2 class="display-3 fw-bold">A number of integration possibilities</h2>
-  <p class="display-6 mb-5">Aerlytix integrates with leading BI Tools and platforms. Automated daily sync with BI systems makes it easy to stay connected and get the most out of your Aviation Finance data</p>
+  <p class="display-6 mb-5">Integrate with leading BI tools and platforms. Automated sync of all data makes it easy to stay connected and get the most out of your aviation finance data</p>
   
   <h3 class="fw-bold mb-5">CMS</h3>
   <p class="mb-5">Seamlessly connect to your contract management system databases, leveraging the power of our robust APIs for fluid data exchange. Our API-driven approach ensures real-time access to essential information. CMS systems are considered the source of truth for up-to-date information on aircraft condition and lease statuses & balances.</p>

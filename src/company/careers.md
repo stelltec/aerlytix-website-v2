@@ -224,7 +224,8 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
         <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
             <div class="col p-4 d-flex flex-column position-static">
                 <blockquote><span class="quote__open">"</span>Suspendisse facilisis leo at sapien finibus rutrum. Vivamus consectetur viverra erat. Nullam pretium mauris quis ultricies ultrices.<span class="quote__close">"</span></blockquote>
-                <p>-Alec, Business Consultant</p>
+                <p class="fw-bold">-Alec Byrne, Business Consultant <br />
+                UCD Bachelor in Economics</p>
             </div>
             <div class="col-auto d-flex align-items-center">
                 <img class="bd-placeholder-img me-4 rounded-3" src="/images/company/careers/alec.jpeg" width="200" alt="">
@@ -235,7 +236,8 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
         <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
             <div class="col p-4 d-flex flex-column position-static">
                 <blockquote><span class="quote__open">"</span>Phasellus dapibus nibh eu libero pharetra, interdum accu msan nunc purus ferm entum sagittis vestibulum nanatibus et magnis.<span class="quote__close">"</span></blockquote>
-                <p>-Kevin, Business Consultant</p>
+                <p class="fw-bold">-Kevin, Business Consultant<br />
+                UCD Bachelor in Economics</p>
             </div>
             <div class="col-auto d-flex align-items-center">
                 <img class="bd-placeholder-img me-4 rounded-3" src="/images/company/careers/kevin.jpeg" width="200" alt="">
