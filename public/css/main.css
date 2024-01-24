@@ -12719,6 +12719,11 @@ body li {
   font-size: 6rem !important;
 }
 
+@media screen and (max-width: 600px) {
+  .hero-display-1 {
+    font-size: 3rem !important;
+  }
+}
 .fw-bold {
   font-weight: 900 !important;
 }

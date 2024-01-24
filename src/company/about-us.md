@@ -8,7 +8,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
     <div class="container">
         <div class="col-sm-6 col-lg-8 m-auto">
             <p>Headquartered in Dublin, Ireland, Aerlytix was founded in 2016 to support a leading Aviation Services and Capital Management company.</p>
-            <p>In 2020 it was decided to bring the products to an external market, with the lead product being a modular system supporting maintenance forecast, lease analysis, financing, trading and risk. The Analytics Suite became the first multi-layered decision support tool in aviation finance. The Analytics Suite is now used by leading lessors & investors, handling billions in aircraft transactions and leases.</p>
+            <p>In 2022 the company changed ownership and spun out from the lessor. In the same year the company launched Analytics Suite, a modular software platform that offers maintenance forecast, lease analysis, financing, trading and risk cashflow analytics.</p>
             <p>The current team is assembled from the banking, technology and aviation finance world. Aerlytix strives to provide new and better ways to enable efficient, knowledge-based decisions across the aviation industry. Since August 2020, Aerlytix has delivered technology solutions to leading aviation investment companies in North America, Europe and Asia.</p>
         </div>
     </div>
