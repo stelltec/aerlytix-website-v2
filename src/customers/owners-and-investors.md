@@ -23,9 +23,9 @@ summary: "The Aerlytix platform enables investors to manage complex investments,
       <h2 class="fw-bold mb-5">What we can offer</h2>
     </div>
     <div class="card col-md-7">
-      <p class="mb-5">Through the implementation of innovative Investor Portals combined with refined modelling and reporting, investors gain real-time insights, detailed analytics, and greater transparency for their investments.</p>
+      <p class="mb-5">Through the implementation of innovative Investor Portals combined with refined modelling and reporting, investors gain real-time insights, detailed analytics, and greater transparency for their investments. Some of the products we offer include the following:</p>
       <h4>Investor Portal</h4>
-      <p class="mb-5">Established as a centralized location for investors to easily obtain accurate insights into their portfolios. Secure sites accessible exclusively to designated users.</p>
+      <p class="mb-5">Established as a centralized location for investors to easily obtain accurate insights into their portfolios. These are secure sites accessible exclusively to designated users.</p>
       <h4>Aviation Fund Reporting</h4>
       <p class="mb-5">Navigate aviation funds confidently with comprehensive reporting. Gain real-time insights into aviation portfolios, enabling investors to make informed decisions.</p>
       <h4>ABS Modelling & Reporting</h4>
