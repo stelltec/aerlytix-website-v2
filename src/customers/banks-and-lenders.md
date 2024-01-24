@@ -1,6 +1,6 @@
 ---
 title: "Bank and Lenders"
-header: "Exposure management for Banks & Lenders"
+header: "Exposure management<br />for Banks & Lenders"
 summary: "Aerlytix empowers aviation banks and lenders with the connected risk management tools needed to understand underlying exposures"
 ---
 

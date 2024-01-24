@@ -1,6 +1,6 @@
 ---
 title: "Integration"
-header: "System and Data Integration"
+header: "System and data integration"
 summary: "Robust Integration capabilities enable the streamlined data flow from multiple sources to to BI reporting tools"
 ---
 

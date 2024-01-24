@@ -9,7 +9,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
         <h2 class="display-3 fw-bold mb-5">Current opportunities</h2>
         <p class="display-7">Be a part of a fast-growing team that values teamwork, inclusivity and integrity.</p>
       </div>
-      <ul class="list-group list-group-lg rounded-6">
+      <ul class="list-group list-group-lg rounded-6" data-cues="slideInUp">
         <li class="list-group-item p-4">
           <div class="row align-items-center">
             <div class="col-md-4 mb-2 mb-md-0">
@@ -49,7 +49,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
 <article class="px-5 py-5">
   <div class="my-xl-0 my-4">
             <div class="mx-auto overflow-x-hidden">
-               <div class="row row-cols-lg-5 row-cols-md-3 row-cols-2 justify-content-center g-1 mb-lg-7">
+               <div class="row row-cols-lg-5 row-cols-md-3 row-cols-2 justify-content-center g-1 mb-lg-7" data-cues="slideInUp">
                   <div class="col">
                      <figure>
                         <img src="/images/company/careers/gallery-photo-1.jpg" alt="career" class="img-fluid">
@@ -85,7 +85,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
 
   <div class="container" id="icon-grid">
     <h2 class="display-3 fw-bold mb-5">What we value in Aerlytix</h2>
-    <div class="row align-items-md-stretch mb-4">
+    <div class="row align-items-md-stretch mb-4" data-cues="slideInUp">
       <div class="col-md-4">
           <div class="h-100 p-5 bg-body-tertiary rounded-3">
               <h3>🚀</h3>
@@ -232,7 +232,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
 <h2 class="display-3 fw-bold mb-5">Our graduate program</h2>
 <p class="display-7 mb-5">Aerlytix targets talent early on students careers and we provide them with an opportunity to grow their skills with us. Testimonials of two of our graduates that are now part of the Aerlytix business team:</p>
 
-<div class="row mb-2">
+<div class="row mb-2" data-cues="slideInUp">
     <div class="col-md-6">
         <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 h-md-250 position-relative">
             <div class="col p-4 d-flex flex-column position-static">
@@ -250,7 +250,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
             <div class="col p-4 d-flex flex-column position-static">
                 <blockquote><span class="quote__open">"</span>Phasellus dapibus nibh eu libero pharetra, interdum accu msan nunc purus ferm entum sagittis vestibulum nanatibus et magnis.<span class="quote__close">"</span></blockquote>
                 <p class="fw-bold">-Kevin, Business Consultant<br />
-                UCD Bachelor in Economics</p>
+                Msc. Quantitative Finance at UCD</p>
             </div>
             <div class="col-auto d-flex align-items-center">
                 <img class="bd-placeholder-img me-4 rounded-3" src="/images/company/careers/kevin.jpeg" width="200" alt="">

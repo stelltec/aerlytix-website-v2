@@ -1,6 +1,6 @@
 ---
 title: "Airlines"
-header: "Single-source of truth for Airlines"
+header: "Single-source of truth<br /> for Airlines"
 summary: "Strategic centralized infrastructure for cross-functional collaboration in fleet management and holistic evaluation in new aircraft sourcing"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lessors"
-header: "Simplifying decision making for lessors"
+header: "Simplifying decision-making<br /> for lessors"
 summary: "Sitting upon the shoulders of the industry’s most respected players, customers benefit from a best-in-class model and a technology stack which can scale with any business"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Advisory"
-header: "Advisory and Implementation"
+header: "Advisory and implementation"
 summary: "Collaborative team approach, sharing insights, and best-practices for Aerlytix platform and customer success"
 ---
 

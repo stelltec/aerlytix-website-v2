@@ -23,7 +23,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 <article class="key-results my-5 py-5">
   <div class="container">
     <h2 class="display-3 fw-bold mb-5">Key Results</h2>
-    <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="row row-cols-1 row-cols-md-3 g-4" data-cues="slideInUp">
       <div class="col">
         <div class="card">
           <div class="card-body">
@@ -79,7 +79,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 <article class="my-5 py-5">
   <div class="container">
     <h2 class="display-3 fw-bold mb-5">How did it all started</h2>
-    <ul class="timeline">
+    <ul class="timeline" data-cues="slideInUp">
       <li class="timeline__item">
         <div class="timeline__date fw-bold"><span class="timeline__date-label">2016</span></div>
         <div class="timeline__date-reference">Founded within a leading Dublin-based Lessor</div>
@@ -112,7 +112,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 <div class="container">
 
 <h2 class="display-3 fw-bold mb-5">Core principles of our business</h2>
-<div class="row row-cols-1 row-cols-md-3 g-4 mt-5">
+<div class="row row-cols-1 row-cols-md-3 g-4 mt-5" data-cues="slideInUp">
       <div class="col">
         <div class="card p-4 h-100">
           <h4 class="fw-bold pb-2">Knowledgeable</h4>
@@ -139,7 +139,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
   
   <div class="container">
   <h2 class="display-3 fw-bold mb-5">Executive team</h2>
-    <div class="row row-cols-1 row-cols-md-5 g-4">
+    <div class="row row-cols-1 row-cols-md-5 g-4" data-cues="slideInUp">
       <div class="col">
         <div class="card h-100">
           <img src="/images/company/about-us/alan-doyle.jpeg" class="card-img-top" alt="...">
