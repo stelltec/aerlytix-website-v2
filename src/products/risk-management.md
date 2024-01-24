@@ -1,6 +1,6 @@
 ---
 title: 'Risk Management'
-header: 'Tailoring Precision in Aviation Credit Rating'
+header: 'Precision <br />in aviation credit rating'
 summary: 'Enabling Risk Departments to define a custom credit rating methodology and apply scoring within the rigorous Aerlytix asset context'
 ---
 
@@ -9,7 +9,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Risk Knowledge Base</h2>
-        <p>Cloud-based Knowledge Base becomes customers financial data storage hub for internally sourced financials uploaded directly via. Excel.</p>
+        <p>Cloud-based Knowledge Base becomes customers' financial data storage hub for internally sourced financials uploaded directly via. Excel.</p>
         <p>Ability to supplement internal data with externally (API) sourced financial data.</p>
       </div>
       <div class="col-md-7">
@@ -24,7 +24,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Automated Lessee Financials</h2>
-        <p>API feed of airline financial and operational data from industry leading data providers integrated directly into customers Risk Module workflow.</p>
+        <p>API feed of airline financial and operational data from industry leading data providers integrated directly into customers' Risk Module workflow.</p>
         <p>Lessee credit ratings automatically refresh as financial and operational performance data updates.</p>
       </div>
       <div class="col-md-7">
@@ -54,7 +54,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 </svg>
         </div>
         <h4>Custom Ratings</h4>
-        <p>Customer-defined credit scoring methodology (metrics and weightings) applied to all global operators.</p>
+        <p>Customer-defined credit scoring methodology (metrics and weightings) applied to all global operators</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -63,7 +63,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 </svg>
         </div>
         <h4>Portfolio Benchmarks</h4>
-        <p>Plot credit-adjusted portfolio benchmarks by operator, asset type, or region.</p>
+        <p>Plot credit-adjusted portfolio benchmarks by operator, asset type, or region</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -72,7 +72,7 @@ summary: 'Enabling Risk Departments to define a custom credit rating methodology
 </svg>
         </div>
         <h4>Credit-adjusted Pricing</h4>
-        <p>Enable consistent credit screening and decision making on all transactions​.</p>
+        <p>Enable consistent credit screening and decision making on all transactions​</p>
       </div>
     </div>
 </div>

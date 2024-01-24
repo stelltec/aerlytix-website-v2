@@ -75,7 +75,7 @@ a {
 .solutions {
 
     .card {
-        min-height: 20rem;
+        min-height: 22rem;
         position: relative;
 
         &::before {
@@ -96,10 +96,6 @@ a {
 
         a {
             color: white;
-        }
-
-        &-title {
-            flex-grow: 1;
         }
 
         &-body {

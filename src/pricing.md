@@ -1,6 +1,6 @@
 ---
 title: "Pricing"
-header: "Transparent Pricing, <br> Flexible Options, <br>Endless Possibilities"
+header: "Transparent Flexible Pricing"
 summary: "Iterative modular deliveries are encouraged.<br> Clients can start small and adopt additional functionality at any stage. "
 layout: "layouts/page.html"
 ---
@@ -8,7 +8,7 @@ layout: "layouts/page.html"
 <article class="py-2 px-2">
 
 <div class="container">
-  <h2 class="display-3 fw-bold mb-3 lh-1 mb-5" data-cue="slideInUp">The Aerlytix simple, hassle free, pricing structure:</h2>
+  <h2 class="display-3 fw-bold mb-3 lh-1 mb-5" data-cue="slideInUp">The Aerlytix simple, hassle-free, pricing structure:</h2>
   <div class="card p-5">
       <ul class="pricing__structure" data-cues="slideInUp">
         <li class="display-6"><svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -218,7 +218,7 @@ layout: "layouts/page.html"
                 <li>✔ Lease Editor Entry Consultancy</li>
                 <li>✔ Data Integration Services</li>
               </ul>            
-              <p class="pricing_level_notes">These customers usually avail of Aerlytix integration services into existing AMS and CFM systems for subsequent deliveries.</p>
+              <p class="pricing_level_notes">These customers usually avail of Aerlytix integration services into update existing AMS and CRM systems for subsequent deliveries.</p>
             </div>
           </div>
         </div>
@@ -264,7 +264,7 @@ layout: "layouts/page.html"
 <article class="py-5 px-5">
 <div class="container px-4 py-5">
     <h2 class="display-3 fw-bold" data-cue="slideInUp">Customer collaboration</h2>
-    <p class="display-7 mb-5" data-cue="slideInUp">In partnership with our customers, Aerlytix builds bespoke products, all driven by the Analytics Suite API engine. Our product  development roadmap is paved by our customers business requirements.</p>
+    <p class="display-7 mb-5" data-cue="slideInUp">In partnership with our customers, Aerlytix builds bespoke products, all driven by the Analytics Suite API engine. Our product  development roadmap is paved by our customers' business requirements.</p>
     <div class="row row-cols-1 row-cols-sm-3 g-4" data-cues="slideInUp">
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
@@ -424,7 +424,7 @@ layout: "layouts/page.html"
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <p>Users gain access to the Aerlytix Pre-production (test) environment within two weeks of contract signing. The only prerequisites are providing a fleet extract and cost & interval data for one asset type. Deployment of a Production (Live) environment is determined by the client, contingent upon data sourcing and successful user acceptance testing (UAT).</p>
+        <p>Users gain access to the Aerlytix Pre-production (test) environment within four weeks of contract signing. The only prerequisites are providing a fleet extract and cost & interval data for one asset type. Deployment of a Production (Live) environment is determined by the client, contingent upon data sourcing and successful user acceptance testing (UAT).</p>
       </div>
     </div>
   </div>
@@ -443,7 +443,7 @@ layout: "layouts/page.html"
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingThree">
       <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        <h4>Can my investors use / view Aerlytix?</h4>
+        <h4>Can my investors and clients use / view Aerlytix?</h4>
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
@@ -509,6 +509,18 @@ layout: "layouts/page.html"
     <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <p>Your data security is our top priority. We are SOC compliant, meeting stringent standards for protection. Our system employs industry-leading encryption protocols to ensure the confidentiality and integrity of your data both in transit and at rest. Our system is regularly updated, and access is always restricted to authorized personnel.</p>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingNine">
+      <button class="pt-4 accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+        <h4>What if Aerlytix doesn’t have the product I need?</h4>
+      </button>
+    </h2>
+    <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <p>Reach out to us, and we’ll work together to find a solution. Aerlytix is designed to be flexible and adaptive to your requirements.</p>
       </div>
     </div>
   </div>

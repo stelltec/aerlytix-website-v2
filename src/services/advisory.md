@@ -1,5 +1,5 @@
 ---
-title: "Advisory and Consulting"
+title: "Advisory"
 header: "Advisory and Implementation"
 summary: "Collaborative team approach, sharing insights, and best-practices for Aerlytix platform and customer success"
 ---
@@ -9,7 +9,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Technology Advisory</h2>
-        <p>Unlock the full potential of your business with Aerlytix's IT Consulting services. Our seasoned team excels in Program Management, ensuring successful project execution. Specializing in business process and IT process mapping. From IT solution implementation to post-implementation support, Aerlytix guarantees a smooth technological transition for your enterprise.</p>
+        <p>Unlock the full potential of your business with Aerlytix's IT Consulting services. Our seasoned team excels in Program Management, ensuring successful project execution. From IT solution implementation to post-implementation support, Aerlytix guarantees a smooth technological transition for your enterprise.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/advisory/consulting-working.jpg" />

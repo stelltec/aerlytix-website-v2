@@ -1,6 +1,6 @@
 ---
 title: 'Maintenance Forecasting'
-header: 'Event Exposure and Metal Condition'
+header: 'Event exposure <br/> and metal condition'
 summary: 'A 360-degree view of projected maintenance events and metal condition across all commercial aircraft types'
 ---
 
@@ -10,8 +10,8 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Aerlytix Knowlege Base</h2>
-        <p>Standalone database for each customers proprietary cost & interval data, default utilization assumptions, and ‘house view’ forecasting assumptions. </p>
-        <p>Bank-level security, SOC2 Type2 compliance, audit trails, and customer specific approval workflows.</p>
+        <p>Standalone database for each customers' proprietary cost & interval data, default utilization assumptions, and ‘house view’ forecasting assumptions. </p>
+        <p>Bank-level security, SOC 2 Type 2 compliance, audit trails, and customer specific approval workflows.</p>
       </div>
       <div class=" col-md-7">
         <img class="card image__feature" src="/images/products/maintenance-forecasting/knowledge-base.png" />
@@ -69,7 +69,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 </svg>
         </div>
         <h4>Utilization Defaults</h4>
-        <p>Set default assumptions which flow automatically into any maintenance forecast.</p>
+        <p>Set default assumptions which flow automatically into any maintenance forecast</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -78,7 +78,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 </svg>
         </div>
         <h4>‘House view’ Assumptions</h4>
-        <p>Set agreed downtime, operating severity, inflation assumptions for consistency across forceasts.</p>
+        <p>Set agreed downtime, operating severity, inflation assumptions for consistency across forceasts</p>
       </div>
     </div>
 </div>
@@ -104,7 +104,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Advanced Engine Strategy</h2>
-        <p>Powerful functionality which takes the heavy lifting our of maintenance forecasting.</p>
+        <p>Powerful functionality which takes the heavy lifting out of maintenance forecasting.</p>
         <p>Engine replacements, substitution rights, part-out models, green-time leasing, and third-party TCA modelling. </p>
       </div>
       <div class="col-md-7">

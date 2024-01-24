@@ -1,7 +1,7 @@
 ---
 title: 'Portfolio Management'
-header: 'Optimize fleet and portfolio composition'
-summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricing across +1,000 assets in as little as 
+header: 'Optimize fleet and<br> portfolio composition'
+summary: 'Aggregate cash-flows, run branch-scenario analysis, and generate stacked pricing across +1,000 assets in as little as 
 90 seconds'
 ---
 
@@ -11,7 +11,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Stacked Portfolio Pricing </h2>
-        <p>Perform acquisition & divestiture analysis across portfolio’s of any size elevating the premium assets.</p>
+        <p>Perform acquisition & divestiture analysis across portfolios of any size elevating the premium assets.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/portfolio-management/stacked-output.png" />
@@ -45,7 +45,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 </svg>
         </div>
         <h4>‘What if’ Analysis</h4>
-        <p>Analyze and execute any strategy with unlimited scenarios across any portfolios of assets.</p>
+        <p>Analyze and execute any strategy with unlimited scenarios across any portfolios of assets</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -54,7 +54,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 </svg>
         </div>
         <h4>Stress Testing</h4>
-        <p>Apply shocks to residual values, lease terms, or underlying assumptions.</p>
+        <p>Apply shocks to residual values, lease terms, or underlying assumptions</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -63,7 +63,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
 </svg>
         </div>
         <h4>BI Dashboard Reporting</h4>
-        <p>Standard and bespoke dashboard builds available across functions.</p>
+        <p>Standard and bespoke dashboard builds available across functions</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -71,8 +71,8 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and stacked pricin
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
 </svg>
         </div>
-        <h4>Exel Add-In</h4>
-        <p>Extract portfolio level analysis output directly into Excel.</p>
+        <h4>Excel Add-In</h4>
+        <p>Extract portfolio level analysis output directly into Excel</p>
       </div>
     </div>
 </div>

@@ -66,7 +66,7 @@ summary: "Gain a competitive advantage with strategic modelling solutions, enhan
           </svg>
             </div>
             <h4>Pricing & Trading</h4>
-            <p>Enhance transactions with Aerlytix's dynamic pricing model. Streamlined acquisition and divestiture analysis, adjustable pricing, and tailored sensitivity matrices for well-informed decision-making.</p>
+            <p>Enhance transactions with Aerlytix's dynamic pricing model. Streamlined acquisition and divestiture analysis, adjustable pricing, and tailored sensitivity matrices are available to support for well-informed decision-making.</p>
           </div>
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
@@ -132,7 +132,7 @@ summary: "Gain a competitive advantage with strategic modelling solutions, enhan
           </svg>
             </div>
             <h4>Risk Management </h4>
-            <p>The risk model employs a centralized knowledge base to integrate financial and non-financial metrics. Automated credit scoring assigns ratings based on real-time information to ensure a comprehensive and dynamic risk assessment.</p>
+            <p>Aerlytix’s Risk model employs a centralized knowledge base to integrate financial and non-financial metrics. Automated credit scoring assigns ratings based on real-time information to ensure a comprehensive and dynamic risk assessment.</p>
           </div>
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
@@ -153,7 +153,7 @@ summary: "Gain a competitive advantage with strategic modelling solutions, enhan
             </defs>
           </svg>
             </div>
-            <h4>ABS & Aviation Funds</h4>
+            <h4>ABS and Aviation Fund</h4>
             <p>Aerlytix's advanced modelling capabilities enables lessors and investors to actively monitor intricate investments. Investor Portals and interactive BI dashboards provide centralized, real-time portfolio insights.</p>
           </div>
         </div>

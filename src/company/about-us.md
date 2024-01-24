@@ -16,7 +16,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
 
 <article class="my-5 py-5">
     <div class="container">
-            <h2 class="display-4">As one of the fastest growing aviation technology companies in the world, we have built a reputation as a leading high-end SaaS product developer by hiring the right talent and building long term partnerships with our clients.</h2>
+            <h2 class="display-4">As one of the fastest growing aviation technology companies in the world, we have built a reputation as a leading high-end product developer by hiring the right talent and building long term partnerships with our clients.</h2>
     </div>
 </article>
 

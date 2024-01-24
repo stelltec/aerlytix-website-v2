@@ -1,6 +1,6 @@
 ---
 title: 'Pricing & Valuation'
-header: 'Optimization suite for asset transactions'
+header: 'Optimization suite <br />for asset transactions'
 summary: 'In-depth acquisition & divestiture analysis for both primary and secondary market deals'
 ---
 
@@ -20,7 +20,6 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
           <img class="card image__feature" src="/images/products/pricing-and-valuation/sensitivity-analysis.png" />
           Your browser does not support the video tag.
         </video>
-        <!-- <img class="card image__feature" src="/images/products/pricing-and-valuation/sensitivity-analysis.png" /> -->
       </div>
     </div>
   </div>
@@ -43,7 +42,6 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 
 <article class="px-5 py-5 mb-5">
 <div class="container">
-<!-- <h2 class="h1">In addition...</h2> -->
 <div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
       <div class="feature col">
         <div class="feature-icon">
@@ -52,7 +50,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 </svg>
         </div>
         <h4>Appraiser & NBV Integrations</h4>
-        <p>Import appraiser values and internal NBV automatically applying aggregation methodologies.</p>
+        <p>Import appraiser values and internal NBV automatically applying aggregation methodologies</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -61,7 +59,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 </svg>
         </div>
         <h4>Yield Sensitivities </h4>
-        <p>nstantly adjust pricing as commercial negotiations progress and deal dynamics shift</p>
+        <p>Instantly adjust pricing as commercial negotiations progress and deal dynamics shift</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -70,7 +68,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 </svg>
         </div>
         <h4>SPA Adjustments</h4>
-        <p>Model SPA adjusted purchase prices from ECD to TTD instantly.</p>
+        <p>Model SPA adjusted purchase prices from ECD to TTD instantly</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -79,7 +77,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 </svg>
         </div>
         <h4>Fee & Expense Schedules </h4>
-        <p>Upload investor or fund specific schedules for accurate equity cashflow projects.</p>
+        <p>Upload investor or fund specific schedules for accurate equity cashflow projections</p>
       </div>
     </div>
 </div>

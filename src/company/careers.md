@@ -121,7 +121,7 @@ header: "Join us in building the most innovative startup in Aviation Finance Tec
           <div class="h-100 p-5 bg-body-tertiary rounded-3">
               <h3>🏆</h3>
               <h4 class="fw-bold mb-3">Provide support and achieve victory together</h4>
-              <p>Empowering others to succeed is a win for all. (And we're not referring to participation trophies.)</p>
+              <p>Empowering others to succeed is a win for all.</p>
           </div>
       </div>
       <div class="col-md-4">

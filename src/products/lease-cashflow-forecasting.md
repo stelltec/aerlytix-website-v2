@@ -1,7 +1,7 @@
 ---
 title: 'Lease Cashflow Forecasting'
-header: 'Lease structuring for every deal type '
-summary: 'With thousands owned and managed leased assets within Aerlytix the platform has matured into the most sophisticated industry model'
+header: 'Lease structuring <br>for every deal type'
+summary: 'With thousands of owned and managed leased assets within Aerlytix the platform has matured into the most sophisticated industry model'
 ---
 
 <!-- Start marketing section -->
@@ -26,7 +26,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Lease Generator</h2>
         <p>Generate standard benchmark leases according to key indicative terms, all stored in the Knowledge Base.</p>
-        <p>Benchmark lease are a 'pre-canned' set of assumptions to be used for indicative pricing, defined by asset type, or applied to analysis forecasts in an 'auto' rules-based fashion.</p>
+        <p>Benchmark leases with a 'pre-canned' set of assumptions to be used for indicative pricing, defined by asset type, or applied to analysis forecasts in an 'auto' rules-based fashion.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/lease-cashflow-forecasting/lease-generator.png" />
@@ -45,7 +45,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 </svg>
         </div>
         <h4>Lease Cloning </h4>
-        <p>As transition widows approach clone contracted leases for simplified extension / amendment modeling</p>
+        <p>As transition windows approach, clone contracted leases for simplified extension / amendment modeling</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -63,7 +63,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 </svg>
         </div>
         <h4> Maintenance Accruals</h4>
-        <p>Track and project MR balances, third-party TCA agreements, and EOL accruals.</p>
+        <p>Track and project MR balances, third-party agreements, and EOL accruals</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -72,7 +72,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
 </svg>
         </div>
         <h4>Cashflow Editor</h4>
-        <p>Create deal specific cash-flow series for deal specific contributions.</p>
+        <p>Create deal specific cash-flow series for deal specific contributions</p>
       </div>
     </div>
 </div>
@@ -84,7 +84,7 @@ summary: 'With thousands owned and managed leased assets within Aerlytix the pla
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Maintenance Unit Ratios</h2>
-        <p>Audit existing leases or new opportunities with an auto-generated comparison of the each customers internal event cost assumptions against the contracted / negotiated MR/EOL rates.</p>
+        <p>Audit existing leases or new opportunities with an auto-generated comparison of each customers' internal event cost assumptions against the contracted / negotiated MR/EOL rates.</p>
         <p>Identify any potential accrual gaps or lessor contribution exposures in seconds.</p>
       </div>
       <div class="col-md-7">

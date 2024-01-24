@@ -13052,7 +13052,7 @@ a {
 }
 
 .solutions .card {
-  min-height: 20rem;
+  min-height: 22rem;
   position: relative;
   background: blue;
   color: white;
@@ -13070,9 +13070,6 @@ a {
 }
 .solutions .card a {
   color: white;
-}
-.solutions .card-title {
-  flex-grow: 1;
 }
 .solutions .card-body {
   display: flex;
@@ -13860,20 +13857,8 @@ a {
   color: var(--green);
   border-color: var(--green);
 }
-.body-about-us .text-tag {
-  color: var(--green);
-  border-color: var(--green);
-}
 .body-pricing .header__common {
   text-align: center;
-}
-.body-pricing .text-tag {
-  color: var(--green);
-  border-color: var(--green);
-}
-.body-lessors .text-tag {
-  color: var(--green);
-  border-color: var(--green);
 }
 .body-contact-us .header__common, .body-news .header__common {
   padding: 4rem 0 0rem;
