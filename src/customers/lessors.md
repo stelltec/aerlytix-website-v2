@@ -1,7 +1,7 @@
 ---
 title: "Lessors"
 header: "Simplifying decision making for Lessors"
-summary: "Sitting upon the shoulders of the the industry’s most respected players, customers benefit from a best-in-class model and a technology stack which can scale with any business"
+summary: "Sitting upon the shoulders of the industry’s most respected players, customers benefit from a best-in-class model and a technology stack which can scale with any business"
 ---
 
 <article class="section__product section__spacing-3">
