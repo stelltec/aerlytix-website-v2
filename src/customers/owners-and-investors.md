@@ -1,6 +1,6 @@
 ---
 title: "Owners and Investors"
-header: "Market transparency for Investors"
+header: "Market transparency <br />for Investors"
 summary: "The Aerlytix platform enables investors to manage complex investments, offering advanced solutions that bring clarity to both investors and their portfolios."
 ---
 
