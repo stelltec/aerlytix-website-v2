@@ -10,16 +10,16 @@
                     "url": "/products/maintenance-forecasting/"
                 },
                 {
+                    "text": "Lease Cashflow Forecasting",
+                    "url": "/products/lease-cashflow-forecasting/"
+                },
+                {
                     "text": "Pricing and Valuation",
                     "url": "/products/pricing-and-valuation/"
                 },
                 {
                     "text": "Portfolio Management",
                     "url": "/products/portfolio-management/"
-                },
-                {
-                    "text": "Lease Cashflow Forecasting",
-                    "url": "/products/lease-cashflow-forecasting/"
                 },
                 {
                     "text": "Finance Structuring",
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "text": "Customers",
+            "text": "Solutions",
             "class": "dropdown",
             "url": "",
             "subitems": [

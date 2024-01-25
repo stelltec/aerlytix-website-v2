@@ -1,7 +1,7 @@
 ---
 title: 'Portfolio Management'
 header: 'Optimize fleet and<br> portfolio composition'
-summary: 'Aggregate cash-flows, run branch-scenario analysis, and generate stacked pricing across +1,000 assets in as little as 
+summary: 'Aggregate cashflows, run branch-scenario analysis, and generate stacked pricing across 1,000+ assets in as little as 
 90 seconds'
 ---
 
@@ -12,6 +12,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and generate stack
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Stacked Portfolio Pricing </h2>
         <p>Perform acquisition & divestiture analysis across portfolios of any size elevating the premium assets.</p>
+        <p>Carve out sales portfolios from your full fleet enabling optimal divestiture analysis.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/portfolio-management/stacked-output.png" />
@@ -25,7 +26,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and generate stack
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Portfolio Scenario Analysis</h2>
-        <p>Run unlimited branch scenario-analysis across portfolios of owned / managed fleets, funds, warehouses, and ABS structuring.</p>
+        <p>Run unlimited branch scenario-analysis across portfolios of owned / managed fleets, funds, warehouses, and ABS structures.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/portfolio-management/portfolio-scenario-analysis.png" />
@@ -45,7 +46,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and generate stack
 </svg>
         </div>
         <h4>‘What if’ Analysis</h4>
-        <p>Analyze and execute any strategy with unlimited scenarios across any portfolios of assets</p>
+        <p>Analyze and execute any strategy with unlimited scenarios on any portfolio of assets</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -63,7 +64,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and generate stack
 </svg>
         </div>
         <h4>BI Dashboard Reporting</h4>
-        <p>Standard and bespoke dashboard builds available across functions</p>
+        <p>Standard and bespoke dashboard builds available across all functions</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -83,7 +84,7 @@ summary: 'Aggregate cash-flows, run branch-scenario analysis, and generate stack
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Exit NPV Valuation Settings</h2>
-        <p>Apply valuation discount rates across portfolios for exit NPV vs. NBV portfolio management.</p>
+        <p>Apply valuation discount rates to any portfolio for exit NPV vs. NBV.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/portfolio-management/aggregate-chart.png" />

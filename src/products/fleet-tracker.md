@@ -1,6 +1,6 @@
 ---
 title: 'Fleet Tracker'
-header: 'An exception-based <br />controls methodology'
+header: 'Exception-based Fleet Tracker'
 summary: 'Ensuring that all stakeholders have the latest understanding of fleet location, exceptions, and utilization'
 ---
 
@@ -61,7 +61,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
 </svg>
         </div>
         <h4>Restricted Jurisdictions</h4>
-        <p>Proactively track and action any lessee jurisdictional violations of OFAC sanctioned countries or other restricted airports</p>
+        <p>Proactively track and action any lessee jurisdictional violations of OFAC sanctioned countries or restricted airports</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -81,7 +81,7 @@ summary: 'Ensuring that all stakeholders have the latest understanding of fleet 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Fleet Portfolios</h2>
-        <p>Create tracked aircraft portfolios & sub-portfolios in seconds. Add MSN status updates and alerts with RAG ratings (traffic light).</p>
+        <p>Create tracked aircraft portfolios sub-portfolios in seconds. Add MSN status updates and alerts with RAG ratings (traffic light).</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/fleet-tracker/fleet-portfolios.png" />

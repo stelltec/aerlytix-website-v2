@@ -1,6 +1,6 @@
 ---
 title: 'Maintenance Forecasting'
-header: 'Event exposure <br/> and metal condition'
+header: 'Cutting-edge exposure <br/> and metal condition analytics'
 summary: 'A 360-degree view of projected maintenance events and metal condition across all commercial aircraft types'
 ---
 
@@ -11,7 +11,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Aerlytix Knowlege Base</h2>
         <p>Standalone database for each customers' proprietary cost & interval data, default utilization assumptions, and ‘house view’ forecasting assumptions. </p>
-        <p>Bank-level security, SOC 2 Type 2 compliance, audit trails, and customer specific approval workflows.</p>
+        <p>Top-tier security, SOC 2 Type 2 compliance, audit trails, and customer specific approval workflows.</p>
       </div>
       <div class=" col-md-7">
         <img class="card image__feature" src="/images/products/maintenance-forecasting/knowledge-base.png" />
@@ -26,7 +26,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Excel Add-in</h2>
         <p>Microsoft Excel Add-in feature enables automated analysis output downloads directly from the Aerlytix core engine.</p>
-        <p>Extract any output via. +450 custom =.AX functions enabling users to build or maintain  bespoke pricing and analysis templates.</p>
+        <p>Extract any output via. +450 custom functions enabling users to build or maintain  bespoke pricing and analysis templates.</p>
       </div>
       <div class="col-md-7">
         <video class="card image__feature" width="100%" muted autoplay loop>
@@ -51,7 +51,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 </svg>
         </div>
         <h4>Global Fleet</h4>
-        <p>Search, set-up, and analyze any MSN within the global fleet</p>
+        <p>Search, set-up, and analyze any MSN and ESN within the global fleet</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -60,7 +60,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 </svg>
         </div>
         <h4>Cost & Intervals</h4>
-        <p>Centralize all organizational IP within most secure cloud infrastructure</p>
+        <p>Centralize all organizational IP within the most secure cloud infrastructure</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -69,7 +69,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 </svg>
         </div>
         <h4>Utilization Defaults</h4>
-        <p>Set default assumptions which flow automatically into any maintenance forecast</p>
+        <p>Set default assumptions that flow automatically into any maintenance forecast</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -78,7 +78,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
 </svg>
         </div>
         <h4>‘House view’ Assumptions</h4>
-        <p>Set agreed downtime, operating severity, inflation assumptions for consistency across forceasts</p>
+        <p>Set default downtimes, operating severities, inflation assumptions for consistency across forecasts</p>
       </div>
     </div>
 </div>
@@ -89,8 +89,8 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Maintenance Editor</h2>
-        <p>Override any maintenance event on an MSN basis without impact to the underlying Knowledge Base.</p>
-        <p>Edit the event cost or timing of any future event.</p>
+        <p>Override any maintenance event on an MSN basis without impacting to the underlying Knowledge Base.</p>
+        <p>Edit the event cost or timing for any future event.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/maintenance-forecasting/maintenance-editor.png" />
@@ -105,7 +105,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Advanced Engine Strategy</h2>
         <p>Powerful functionality which takes the heavy lifting out of maintenance forecasting.</p>
-        <p>Engine replacements, substitution rights, part-out models, green-time leasing, and third-party TCA modelling. </p>
+        <p>Engine replacements, substitution rights, part-out models, green-time leasing, and third-party agreement. </p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/maintenance-forecasting/advanced-engine-strategy.png"  />

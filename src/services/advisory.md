@@ -9,7 +9,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Technology Advisory</h2>
-        <p>Unlock the full potential of your business with Aerlytix's IT Consulting services. Our seasoned team excels in Program Management, ensuring successful project execution. From IT solution implementation to post-implementation support, Aerlytix guarantees a smooth technological transition for your enterprise.</p>
+        <p>Unlock the full potential of your business through Aerlytix's IT Consulting services. Our seasoned team excels in a range of areas, including strategic planning, data management and analytics, system integration, solution implementation, and post-implementation support. Experience a seamless technological transition for your enterprise with our dedicated expertise.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/advisory/consulting-working.jpg" />
@@ -99,7 +99,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Financial Advisory</h2>
-        <p>Elevate your aviation financial strategy with Aerlytix's expert Advisory services. Rely on our Financial Analysis, leveraging advanced and sophisticated models for precise insights. Navigate financial landscapes seamlessly with our Cash Flow Modeling, providing accurate projections. Aerlytix is your strategic partner for informed decisions and financial success in aviation.</p>
+        <p>Elevate your aviation financial strategy with Aerlytix's expert Advisory services. Use our advanced and sophisticated models for precise insights. Aerlytix is your strategic partner for informed decisions and financial success in aviation.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/advisory/team-planning.jpg" />
@@ -190,7 +190,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Credit and Risk Advisory</h2>
-        <p>Navigate the complexities of aviation finance confidently with Aerlytix's Credit Risk Advisory. Our specialized team assesses, mitigates, and manages credit risks, ensuring sound financial decisions.</p>
+        <p>Confidently navigate the complexities of aviation finance with Aerlytix's Credit Risk Advisory. Our experienced team specializes in initial risk assessment, credit scoring models, portfolio analysis, credit monitoring, and default and recovery analysis.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/advisory/team-modelling.jpg" />

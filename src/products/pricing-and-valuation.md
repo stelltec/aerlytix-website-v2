@@ -77,7 +77,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
 </svg>
         </div>
         <h4>Fee & Expense Schedules </h4>
-        <p>Upload investor or fund specific schedules for accurate equity cashflow projections</p>
+        <p>Upload investor or fund specific schedules to ensure accurate equity cashflow projections</p>
       </div>
     </div>
 </div>
@@ -89,7 +89,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Automated Investment Memos</h2>
         <p>Generate custom PDF investment memos across any transaction type, which are white labeled to each customer.</p>
-        <p>Format and add executive summary and recommendation commentary for each deal.</p>
+        <p>Add executive summary and recommendation commentary for each deal.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/pricing-and-valuation/investment-memo.png" />

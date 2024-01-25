@@ -1,7 +1,7 @@
 ---
 title: 'Risk Management'
-header: 'Precision <br />in aviation credit rating'
-summary: 'Enabling risk departments to define a custom credit rating methodology and apply scoring to all asset modelling'
+header: 'Precision in aviation<br /> credit rating'
+summary: 'Enabling risk departments to define a custom credit rating methodology and apply scoring to all asset modeling'
 ---
 
 <article class="py-5 px-5">
@@ -9,7 +9,7 @@ summary: 'Enabling risk departments to define a custom credit rating methodology
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Risk Knowledge Base</h2>
-        <p>Cloud-based Knowledge Base becomes customers' financial data storage hub for internally sourced financials uploaded directly via. Excel.</p>
+        <p>Customers' specific financial data storage hub for internally sourced financials, uploaded directly via Excel.</p>
         <p>Ability to supplement internal data with externally (API) sourced financial data.</p>
       </div>
       <div class="col-md-7">
@@ -23,9 +23,9 @@ summary: 'Enabling risk departments to define a custom credit rating methodology
   <div class="container">
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
-        <h2 class="fw-bold mb-5">Automated Lessee Financials</h2>
-        <p>API feed of airline financial and operational data from industry leading data providers integrated directly into customers' Risk Module workflow.</p>
-        <p>Lessee credit ratings automatically refresh as financial and operational performance data updates.</p>
+        <h2 class="fw-bold mb-5">Automated Counterparty Financials</h2>
+        <p>Automated feed of airline financials and operational data from industry leading data providers integrated directly into customers' Risk Module workflow.</p>
+        <p>Counterparty credit ratings automatically refresh as financial and operational performance data updates.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/risk-management/financial-details.png" />
@@ -44,7 +44,7 @@ summary: 'Enabling risk departments to define a custom credit rating methodology
   <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
 </svg>
         </div>
-        <h4>Airline and Customer Profiles</h4>
+        <h4>Counterparty Profiles</h4>
         <p>Add non-financial operator attributes, including flight tracking data, jurisdictional data, etc.</p>
       </div>
       <div class="feature col">
@@ -82,9 +82,9 @@ summary: 'Enabling risk departments to define a custom credit rating methodology
   <div class="container">
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
-        <h2 class="fw-bold mb-5">The Aircraft Recovery Value and Lessee Default Model​</h2>
-        <p>Recovery model forecasts aircraft recovery value, encompassing jurisdictional factors, repossession cost, and time​.</p>
-        <p>Default model maps a default probability (calibrated to operator credit rating) to each operator.</p>
+        <h2 class="fw-bold mb-5">Aircraft Recovery Value and Default Model​</h2>
+        <p>Forecast aircraft recovery value, encompassing jurisdictional factors, repossession cost, and time​.</p>
+        <p>Map a default probability to each counterparty.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/risk-management/recovery-value.png" />

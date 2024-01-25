@@ -1,7 +1,7 @@
 ---
 title: 'Finance Structuring'
 header: 'Deal structuring<br /> and LTV monitoring'
-summary: 'Integrate debt structures with asset modelling for maximised equity returns'
+summary: 'Integrate debt structures with asset modeling for maximized equity returns'
 ---
 
 <!-- Start marketing section -->
@@ -38,7 +38,7 @@ summary: 'Integrate debt structures with asset modelling for maximised equity re
 </svg>
         </div>
         <h4>Equity Views</h4>
-        <p>Ongoing loan balance vs. maintenance adjusted value</p>
+        <p>Ongoing loan balance vs. maintenance adjusted values</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">

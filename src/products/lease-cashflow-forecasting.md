@@ -1,7 +1,7 @@
 ---
 title: 'Lease Cashflow Forecasting'
 header: 'Lease structuring <br>for every deal type'
-summary: 'With thousands of owned and managed leased assets within Aerlytix the platform has matured into the most sophisticated industry model'
+summary: 'With thousands of owned and managed leased assets the model has matured into the most sophisticated in the industry'
 ---
 
 <!-- Start marketing section -->
@@ -9,8 +9,8 @@ summary: 'With thousands of owned and managed leased assets within Aerlytix the 
   <div class="container">
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
-        <h2 class="fw-bold mb-5">Rack n' Stack</h2>
-        <p>Compare all extension, re-marketing opportunities, sales, or 'do nothing' scenarios for decision optimization.</p>
+        <h2 class="fw-bold mb-5">Rack 'n' Stack</h2>
+        <p>Compare all extension, re-marketing opportunities, sales, or 'do nothing' scenarios for decision optimization with ease.</p>
         <p>Remove all quantitative guesswork from decision making.</p>
       </div>
       <div class="col-md-7 loader">
@@ -45,7 +45,7 @@ summary: 'With thousands of owned and managed leased assets within Aerlytix the 
 </svg>
         </div>
         <h4>Lease Cloning </h4>
-        <p>As transition windows approach, clone contracted leases for simplified extension / amendment modeling</p>
+        <p>As transition windows approach, clone contracted leases for simplified extension / amendment modelling</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">
@@ -72,7 +72,7 @@ summary: 'With thousands of owned and managed leased assets within Aerlytix the 
 </svg>
         </div>
         <h4>Cashflow Editor</h4>
-        <p>Create deal specific cash-flow series for deal specific contributions</p>
+        <p>Create ad hoc specific cash-flow series for deal specific contributions</p>
       </div>
     </div>
 </div>
@@ -84,8 +84,8 @@ summary: 'With thousands of owned and managed leased assets within Aerlytix the 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Maintenance Unit Ratios</h2>
+         <p>Identify any potential accrual gaps or lessor contribution exposures in seconds.</p>
         <p>Audit existing leases or new opportunities with an auto-generated comparison of each customers' internal event cost assumptions against the contracted / negotiated MR/EOL rates.</p>
-        <p>Identify any potential accrual gaps or lessor contribution exposures in seconds.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/products/lease-cashflow-forecasting/mx-unit-ratios.png" />
