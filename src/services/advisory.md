@@ -1,15 +1,15 @@
 ---
 title: "Advisory"
 header: "Advisory and implementation"
-summary: "Collaborative team approach, sharing insights, and best-practices for Aerlytix platform and customer success"
+summary: "Delivering analytics and advisory services for a premier collaborative experience"
 ---
 
 <article class="py-5 px-5">
   <div class="container">
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
-        <h2 class="fw-bold mb-5">Technology Advisory</h2>
-        <p>Unlock the full potential of your business through Aerlytix's IT Consulting services. Our seasoned team excels in a range of areas, including strategic planning, data management and analytics, system integration, solution implementation, and post-implementation support. Experience a seamless technological transition for your enterprise with our dedicated expertise.</p>
+        <h2 class="fw-bold mb-5">Technology Implementation Advisory</h2>
+        <p>Unlock the full potential of your business through Aerlytix's IT consulting services. Our seasoned team excels in a range of areas, including data management, system integration, solution implementation, and post-implementation support.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/advisory/consulting-working.jpg" />
@@ -63,7 +63,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
           </svg>
             </div>
             <h4>Digital Transformation</h4>
-            <p>Evaluate the current state of digital capabilities and recommend strategies for digital transformation.</p>
+            <p>Evaluate the current environment and recommend strategies for digital transformation.</p>
           </div>
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
@@ -99,7 +99,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Financial Advisory</h2>
-        <p>Elevate your aviation financial strategy with Aerlytix's expert Advisory services. Use our advanced and sophisticated models for precise insights. Aerlytix is your strategic partner for informed decisions and financial success in aviation.</p>
+        <p>Elevate your aviation financial strategy and gain deep insight with our expert advisory services. Aerlytix is your strategic partner for informed decisions and accurate analytics in aviation.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/advisory/team-planning.jpg" />
@@ -131,7 +131,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
           </svg>
             </div>
             <h4>Valuation Services</h4>
-            <p>Offer aircraft valuation services for various purposes, including transactions, financial reporting, and portfolio management.</p>
+            <p>Valuation services for various purposes, including transactions, financial reporting, and portfolio management.</p>
           </div>
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
@@ -153,7 +153,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
           </svg>
             </div>
             <h4>Financial Modelling</h4>
-            <p>Develop financial models to evaluate the financial feasibility of aviation projects and investments.</p>
+            <p>Develop financial models to evaluate and support new and existing aviation investments.</p>
           </div>
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">
@@ -175,7 +175,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
           </svg>
             </div>
             <h4>Scenario Analysis</h4>
-            <p>Conduct scenario analysis to assess the impact of various economic and market factors on financial outcomes.</p>
+            <p>Conduct scenario analysis to assess the impact of various economic and market factors.</p>
           </div>
         </div>
       </div>
@@ -190,7 +190,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Credit and Risk Advisory</h2>
-        <p>Confidently navigate the complexities of aviation finance with Aerlytix's Credit Risk Advisory. Our experienced team specializes in initial risk assessment, credit scoring models, portfolio analysis, credit monitoring, and default and recovery analysis.</p>
+        <p>Navigate the complexities counterparty credit risk with confidence. Aerlytix's Credit Risk Advisory supports initial risk assessment, on-going credit exposure monitoring and default recovery analysis.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/advisory/team-modelling.jpg" />
@@ -222,7 +222,7 @@ summary: "Collaborative team approach, sharing insights, and best-practices for 
           </svg>
             </div>
             <h4>Credit Risk Assessment</h4>
-            <p>Conduct thorough financial analysis to assess the financial health, liquidity, and leverage of aviation industry players.</p>
+            <p>Conduct thorough analysis to assess the financial health, liquidity, and leverage of aviation industry players.</p>
           </div>
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">

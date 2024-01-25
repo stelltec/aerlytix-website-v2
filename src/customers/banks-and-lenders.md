@@ -1,7 +1,7 @@
 ---
 title: "Bank and Lenders"
 header: "Exposure management<br />for Banks & Lenders"
-summary: "Aerlytix empowers aviation banks and lenders with the connected risk management tools needed to understand underlying exposures"
+summary: "Empowers banks and lenders with the connected risk management tools needed to understand underlying exposures"
 ---
 
 <article class="section__product section__spacing-3">
@@ -11,9 +11,9 @@ summary: "Aerlytix empowers aviation banks and lenders with the connected risk m
       <h2 class="fw-bold mb-5">What we can offer</h2>
     </div>
     <div class="card col-md-7">
-      <p>An off-the-shelf cash-flow modeling and analytics technology solution which removes the heavy lifting from maintenance forecasting, metal condition monitoring, and automated LTV tracking.</p>
+      <p>An off-the-shelf cashflow modeling and analytics technology solution that removes the heavy lifting from maintenance forecasting, metal condition monitoring, and automated LTV tracking. </p>
       <p>Enabling accurate metal and credit risk monitoring for both new and returning lenders to the new post-pandemic aviation finance landscape.</p>
-      <p>Aerlytix drives intelligent automation into every corner of the asset management process, creating a true competitive advantage by removing “the noise” and introducing quantitative rigour to the decision-making process.</p>
+      <p>Aerlytix enables accurate metal and credit risk monitoring and drives intelligent automation into every corner of the asset management process. This creates a competitive advantage by removing “the noise” and introducing quantitative rigour to the decision-making process.</p>
     </div>
   </div>
   </div>
@@ -26,15 +26,13 @@ summary: "Aerlytix empowers aviation banks and lenders with the connected risk m
       <h2 class="fw-bold mb-5">Case Study: <br />Risk Mitigation & Exposure Management</h2>
     </div>
     <div class="card col-md-7">
-      <h4>Client Background</h4>
-      <p class="mb-5">Given the capital-intensive nature of the international aviation industry, the financial strength and global reach of large institutional banks and alternative lenders are critical to a healthy industry. Financiers provide a suite of financial products and services for the acquisition, ownership of and investment in aircraft.</p>
       <h4>Business Challenge and Problem</h4>
-      <p>The result of such depth of experience, is significant exposure to airlines, MROs, traders and lessors, and within the currently stagnant ABS market. Regardless of that exposure, Banks and Lenders often rely on their debtor counter-parties to monitor and report on metal condition.</p>
-      <p class="mb-5">Lenders have been faced with a need to restructure financing arrangements, discounted buyouts, and refinance underwater facilities. Too often left with the ultimate unencumbered asset itself, many lenders have pulled-back or exited the space entirely.</p>
+      <p>There is significant exposure to airlines, MROs, traders and lessors, and there is a currently stagnant ABS market. To manage this exposure banks and lenders often rely on their debtor counterparties to monitor and report on metal condition.</p>
+      <p class="mb-5">Lenders have been faced with a need to restructure financing arrangements, discounted buyouts, and refinance underwater facilities. Too often lenders are left with the unencumbered asset, resulting in many lenders pulling back or exiting the space entirely.</p>
       <h4>Differentiated Aerlytix Capabilities</h4>
-      <p class="mb-5">With bank level security, data integrity and audit-ability, Financiers have looked to the Aerlytix Analytics Suite to run on-the fly maintenance forecasts through an accessible, easy to understand, and transparent platform. In the tool-tip rich environment Commercial, Technical, and Risk Teams have access to fleet-wide LTV monitoring and full control over assumptions.</p>
-      <h4>Business Impacts</h4>
-      <p>With best-in-class industry models written in code, the Analytics Suite enables new and returning financiers to accurately assess new business opportunities with precision. For those banks dedicated to the industry, Aerlytix has enabled lenders to efficiently evaluate exposures in the post-pandemic aviation finance landscape.</p>
+      <p class="mb-5">With industry leading models written in code, the Analytics Suite enables financiers to accurately assess new business opportunities with precision. For banks dedicated to the industry, Aerlytix has enabled lenders to efficiently evaluate exposures in the current aviation finance landscape.</p>
+      <h4>Business Impact</h4>
+      <p>With best-in-class security, data integrity and audit capabilities, financiers have looked to the Aerlytix Analytics Suite to run on-the fly maintenance forecasts through an accessible, easy to understand, and transparent platform. In the tool-tip rich environment Commercial, Technical, and Risk teams can have access to fleet-wide LTV monitoring and full control over assumptions.</p>
       <p>The scalable web-based enables financiers to digitize their traditional credit evaluation function through the Aerlytix Risk Module, seamlessly integrated into the rigorous metal context.</p>
     </div>
   </div>

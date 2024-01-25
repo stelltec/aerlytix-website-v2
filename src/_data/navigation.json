@@ -49,11 +49,11 @@
                     "url": "/services/reporting/"
                 },
                 {
-                    "text": "Modelling",
-                    "url": "/services/modelling/"
+                    "text": "Modeling",
+                    "url": "/services/modeling/"
                 },
                 {
-                    "text": "Integrations",
+                    "text": "Integration",
                     "url": "/services/integrations/"
                 }
             ]

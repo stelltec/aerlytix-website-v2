@@ -1,6 +1,6 @@
 ---
 title: "Careers"
-header: "Join us in building the most innovative startup in Aviation Finance Technology"
+header: "Join us in building the most innovative company in Aviation Finance Technology"
 ---
 
 <article class="my-5 py-5">

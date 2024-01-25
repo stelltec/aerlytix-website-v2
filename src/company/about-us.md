@@ -1,15 +1,14 @@
 ---
 title: "About Us"
 header: "About us"
-summary: "Our mission is to transform aviation finance with technology and analytics."
+summary: "Our mission is to transform aviation finance with technology and analytics"
 ---
 
 <article class="pt-5 pb-5 mb-5">
     <div class="container">
         <div class="col-sm-6 col-lg-8 m-auto">
-            <p>Headquartered in Dublin, Ireland, Aerlytix was founded in 2016 to support a leading Aviation Services and Capital Management company.</p>
-            <p>In 2022 the company changed ownership and spun out from the lessor. In the same year the company launched Analytics Suite, a modular software platform that offers maintenance forecast, lease analysis, financing, trading and risk cashflow analytics.</p>
-            <p>The current team is assembled from the banking, technology and aviation finance world. Aerlytix strives to provide new and better ways to enable efficient, knowledge-based decisions across the aviation industry. Since August 2020, Aerlytix has delivered technology solutions to leading aviation investment companies in North America, Europe and Asia.</p>
+            <p>Aerlytix is a software company in the aviation finance industry. Its Analytics Suite product is the first multi-layered decision support tool used in aviation finance.</p>
+            <p>The software is now used by leading lessors and investors, handling billions in aircraft transactions and leases. The Aerlytix team is assembled from the banking, technology, and aviation finance world. Aerlytix strives to provide new and better ways to enable efficient, knowledge-based decisions across the aviation industry. Aerlytix is delivering technology solutions to leading aviation investment companies in North America, Europe, and Asia.</p>
         </div>
     </div>
 </article>
@@ -27,7 +26,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       <div class="col">
         <div class="card">
           <div class="card-body">
-            <h5 class="display-4 fw-bold">+3,600</h5>
+            <h5 class="display-4 fw-bold">3,600+</h5>
             <div class="text-uppercase">Aircraft Entrusted to Aerlytix</div>
           </div>
         </div>
@@ -59,7 +58,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       <div class="col">
         <div class="card">
           <div class="card-body">
-            <h5 class="display-4 fw-bold">+$64.4b</h5>
+            <h5 class="display-4 fw-bold">$64.4b+</h5>
             <div class="text-uppercase">Value Entrusted to Aerlytix</div>
           </div>
         </div>
@@ -78,15 +77,15 @@ summary: "Our mission is to transform aviation finance with technology and analy
 
 <article class="my-5 py-5">
   <div class="container">
-    <h2 class="display-3 fw-bold mb-5">How did it all started</h2>
+    <h2 class="display-3 fw-bold mb-5">How did it all start</h2>
     <ul class="timeline" data-cues="slideInUp">
       <li class="timeline__item">
         <div class="timeline__date fw-bold"><span class="timeline__date-label">2016</span></div>
-        <div class="timeline__date-reference">Founded within a leading Dublin-based Lessor</div>
+        <div class="timeline__date-reference">Founded within a leading Dublin-based lessor</div>
       </li>
       <li class="timeline__item">
         <div class="timeline__date fw-bold"><span class="timeline__date-label">2020</span></div>
-        <div class="timeline__date-reference">Core Leadership and Development Teams create standalone business entity</div>
+        <div class="timeline__date-reference">Core leadership and development teams create standalone business entity</div>
       </li>
       <li class="timeline__item">
         <div class="timeline__date fw-bold"><span class="timeline__date-label">2021</span></div>
@@ -102,7 +101,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </li>
       <li class="timeline__item">
         <div class="timeline__date fw-bold"><span class="timeline__date-label">2024</span></div>
-        <div class="timeline__date-reference">We are just getting started...</div>
+        <div class="timeline__date-reference">We are continuing to expand...</div>
       </li>
     </ul>
   </div>
@@ -116,19 +115,19 @@ summary: "Our mission is to transform aviation finance with technology and analy
       <div class="col">
         <div class="card p-4 h-100">
           <h4 class="fw-bold pb-2">Knowledgeable</h4>
-          <p>We know aviation finance. We have built an incredible team with extensive insights into the nuances and complexities of aviation finance, harnessing this knowledge to build and develop powerful and efficient solutions.</p>
+          <p>We know aviation finance. We have built an incredible team with extensive insight into the complexities of aviation finance. We harness this knowledge to build and develop powerful and efficient solutions.</p>
         </div>
       </div>
       <div class="col">
         <div class="card p-4 h-100">
-          <h4 class="fw-bold pb-2">Transformative</h4>
-          <p>We aim to shape decision-making within the industry by providing technology and analytics solutions to transform processes and bring clarity to decision-making.</p>
+          <h4 class="fw-bold pb-2">Transformation</h4>
+          <p>We aim to reshape decision-making within the industry by providing technology and analytics solutions to transform processes and bring clarity to decision-making.</p>
         </div>
       </div>
       <div class="col">
         <div class="card p-4 h-100">
           <h4 class="fw-bold pb-2">Customer-centric</h4>
-          <p>Building specialist technology requires intensive customer engagement. Beyond initial requirements gathering and delivery, we are always listening to client needs and never afraid to evolve as our clients evolve.</p>
+          <p>Building specialist technology requires intensive customer engagement. Beyond initial requirements gathering and delivery, we intune with client needs and evolve as our clients evolve.</p>
         </div>
       </div>
     </div>

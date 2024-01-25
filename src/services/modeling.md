@@ -1,18 +1,17 @@
 ---
-title: "Modelling"
-header: "Advanced modelling solutions"
-summary: "Leveraging advanced systems, we provide industry leaders with unparalleled insights and decision-making capabilities"
+title: "Modeling"
+header: "Advanced modeling solutions"
+summary: "Providing industry leaders with unparalleled insights and decision-making capabilities"
 ---
 
 <article class="py-5 px-5">
   <div class="container">
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
-        <h2 class="fw-bold mb-5">Advanced Modelling</h2>
+        <h2 class="fw-bold mb-5">Advanced Modeling</h2>
         <p>At Aerlytix, our cutting-edge modelling solutions redefine precision in aviation asset management.</p>
-        <p>Leveraging the capabilities of both discrete and stochastic modelling techniques, including Monte Carlo simulations and regression calibration, we provide industry leaders with unparalleled insights and decision-making capabilities.</p>
+        <p>Leveraging the capabilities of both discrete and stochastic modelling techniques we can provide industry leaders with unparalleled insights and decision-making capabilities.</p>
         <p>From maintenance forecasting to pricing and financing, Aerlytix's advanced modelling tools enable you to navigate the complexities of asset management with confidence.</p>
-        <p>Elevate your decision-making with a platform trusted by premier lessors, banks, and investors globally.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/modelling/modelling-scenarios.png" />
@@ -43,8 +42,8 @@ summary: "Leveraging advanced systems, we provide industry leaders with unparall
             </defs>
           </svg>
             </div>
-            <h4>Maintenance & Lease Forecasting </h4>
-            <p>Maximize portfolio control with Aerlytix's advanced maintenance forecasting model. Monitor fleet-wide events, drill down to specifics, and swiftly analyze cashflow and value impacts.</p>
+            <h4>Maintenance & Cashflow Forecasting </h4>
+            <p>Monitor fleet-wide events, drill down to specifics, and swiftly analyze cashflow and value impacts.</p>
           </div>
           <div class="col d-flex flex-column gap-2">
             <div class="fs-4">

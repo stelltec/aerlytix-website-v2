@@ -13241,6 +13241,21 @@ a {
   max-width: 60rem;
   color: white;
 }
+.announcements__band {
+  position: absolute;
+  top: 102px;
+  left: 0;
+  right: 0;
+}
+.announcements__band .container {
+  color: blue;
+  background: #E2E2FF;
+  text-align: center;
+  border: 1px solid blue;
+  padding-top: 1rem;
+  padding-bottom: 0.2rem;
+  border-radius: 0.5rem;
+}
 .announcements__ae-100-logo {
   margin-left: 1.8rem;
 }
@@ -13911,6 +13926,12 @@ a {
   color: grey;
   padding-top: 20px;
 }
+.pricing__levels--common-height {
+  min-height: 285px;
+}
+.pricing__tick {
+  color: blue;
+}
 .pricing__faq-contact {
   padding-top: 4.6rem;
 }
@@ -13922,17 +13943,7 @@ a {
 .pricing__custom-card .card {
   position: relative;
   background: white;
-}
-.pricing__custom-card .card::before {
-  content: "";
-  width: 103%;
-  height: 103%;
-  background: #E2E2FF;
-  position: absolute;
-  top: -3px;
-  left: -20px;
-  transform: rotate(0.9deg);
-  z-index: -1;
+  border: 4px solid blue;
   border-radius: 10px;
 }
 

@@ -1,7 +1,7 @@
 ---
 title: "Reporting"
-header: "Reporting"
-summary: "Enable data-driven strategy execution, with interactive, real-time reporting tools driven by the Aerlytix API engine"
+header: "Enterprise reporting solutions"
+summary: "Enable data-driven strategy execution, with interactive, real-time reporting tools"
 ---
 
 <article class="py-5 px-5 mb-5">
@@ -9,9 +9,9 @@ summary: "Enable data-driven strategy execution, with interactive, real-time rep
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Self-Service Reporting</h2>
-        <p>Customers can access model output data in structured formats enabling quick and easy report building​ by in-house teams.</p>
-        <p>Feeding downstream systems, Aerlytix outputs become accessible to the entire organization through interfaces of preference.</p>
         <p>Self-Service Reporting grants customers maximum flexibility to build and manage their own reporting process.</p>
+        <p>Customers can access Aerlytix outputs in structured formats enabling quick and easy report building by in-house teams.</p>
+        <p>Feeding downstream systems, Aerlytix outputs become accessible to the entire organization.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/reporting/self-serving-reporting.png" />
@@ -26,15 +26,12 @@ summary: "Enable data-driven strategy execution, with interactive, real-time rep
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Reporting Portals</h2>
         <p>Launch standalone Aerlytix reporting portals to investors, financiers, and other external parties.</p>
-        <p>Controlled directly from the main Aerlytix Analytics Suite. Access, permissions, and data refresh frequency wholly managed by the customer.</p>
+        <p>Access, permissions, and data refresh frequency wholly managed by the customer.</p>
         <p>Highest levels of version control and security over sensitive performance and asset information.</p>
         <ul>
           <li>Forecasting Dashboards</li>
-          <li>Fund Reporting</li>
           <li>Digital Asset Management Reports</li>
-          <li>ABS Noteholder Reports</li>
-          <li>ABS Waterfal Reports</li>
-          <li>Warehousing Reports</li>
+          <li>Fund and ABS Reporting</li>
         </ul>
       </div>
       <div class="col-md-7">
@@ -78,9 +75,9 @@ summary: "Enable data-driven strategy execution, with interactive, real-time rep
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Actuals Performance Dashboards </h2>
-        <p>Enabling customers to easily and accurately report on real-time performance vs. the original asset investment thesis.</p>
-        <p>Monitor and report at a MSN, fund, or fleet level. Track yield, net-asset value, and any other metrics from original underwriting, month-over-month, until final divestiture.</p>
-        <p>Aerlytix builds externally housed databases to hold both  actuals and forecasts, fully integrated to the Analytics Suite and customers EPR systems.</p>
+        <p>Enabling customers to easily and accurately report on real-time performance vs. the original asset underwriting.</p>
+        <p>Monitor and report at any level. Track any metrics from original underwriting through to final divestiture.</p>
+        <p>Aerlytix builds customer specific databases to hold both actual and forecasted cashflows, integrated to the Analytics Suite and customers EPR systems.</p>
       </div>
       <div class="col-md-7">
         <img class="card image__feature" src="/images/services/reporting/actuals-performance.png" />

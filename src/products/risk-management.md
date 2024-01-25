@@ -2,6 +2,8 @@
 title: 'Risk Management'
 header: 'Precision in aviation<br /> credit rating'
 summary: 'Enabling risk departments to define a custom credit rating methodology and apply scoring to all asset modeling'
+announcement:
+  message: "Coming in 2024..."
 ---
 
 <article class="py-5 px-5">

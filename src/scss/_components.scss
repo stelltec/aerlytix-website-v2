@@ -325,6 +325,23 @@ a {
     max-width: 60rem;
     color: white;
 
+    &__band {
+        position: absolute;
+        top: 102px;
+        left: 0;
+        right: 0;
+
+        .container {
+            color: blue;
+            background: #E2E2FF;
+            text-align: center;
+            border: 1px solid blue;
+            padding-top: 1rem;
+            padding-bottom: .2rem;
+            border-radius: .5rem;
+        }
+    }
+
     &__ae-100-logo {
         margin-left: 1.8rem;
     }

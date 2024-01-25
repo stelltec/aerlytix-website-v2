@@ -150,8 +150,7 @@ layout: "layouts/page.html"
     <div class="card px-5 py-5">
       <div class="row align-items-center g-5">
         <div class="col-lg-7">
-          <h2 class="fw-bold">Custom build it to your business needs</h2>
-          <p class="display-7">Get in touch with us and we'll arrange how we build the best solution to suit your business.</p>
+          <h2 class="fw-bold">Custom built to your business needs</h2>
         </div>
         <div class="col-10 col-sm-8 col-lg-5">
           <a href="/request-demo" class="btn btn-primary btn-lg px-5 py-4 gap-3">Talk to our Commercial Team</a>
@@ -174,20 +173,20 @@ layout: "layouts/page.html"
             <h3 class="card-title pricing-card-title">Access in Weeks with Easy Modular Delivery</h3>
             <div class="pricing__levels--card-section">
               <h6>Implementation timeline</h6>
-              <p class="mt-3 mb-4">Approx.  4-weeks from project kick-off</p>
+              <p class="mt-3">Approx.  4-weeks from project kick-off</p>
             </div>
-            <div class="pricing__levels--card-section">
+            <div class="pricing__levels--card-section pricing__levels--common-height">
               <h6>Modules</h6>
               <ul class="list-unstyled mt-3 mb-4">
-                <li>✔ Maintenance Forecasting</li>
-                <li>✔ Lease Cashflow Forecasting</li>
-                <li>✔ Pricing and Valuations</li>
+                <li><span class="pricing__tick">✔</span> Maintenance Forecasting</li>
+                <li><span class="pricing__tick">✔</span> Lease Cashflow Forecasting</li>
+                <li><span class="pricing__tick">✔</span> Pricing and Valuations</li>
               </ul>
             </div>
             <div class="pricing__levels--card-section">
               <h6>Services</h6>
               <ul class="list-unstyled mt-3 mb-4">
-                <li>✔ Custom Excel Add-in Template Builds</li>
+                <li><span class="pricing__tick">✔</span> Custom Excel Add-in Template Builds</li>
               </ul>
               <p class="pricing_level_notes">These customers typically add additional modules in subsequent deliveries</p>
             </div>
@@ -200,23 +199,23 @@ layout: "layouts/page.html"
             <h3 class="card-title pricing-card-title">Off-the-Shelf Business Transformation</h3>
             <div class="pricing__levels--card-section">
               <h6>Implementation timeline</h6>
-              <p class="mt-3">Approx. 8-weeks from project Kick-off</p>
+              <p class="mt-3">Approx. 8-weeks from project kick-off</p>
             </div>
-            <div class="pricing__levels--card-section">
+            <div class="pricing__levels--card-section pricing__levels--common-height">
               <h6>Modules</h6>
               <ul class="list-unstyled mt-3 mb-4">
-                <li>✔ Maintenance Forecasting</li>
-                <li>✔ Lease Cashflow Forecasting</li>
-                <li>✔ Pricing and Valuations</li>
-                <li>✔ Portfolio Management</li>
-                <li>✔ 3rd Party Reporting</li>
+                <li><span class="pricing__tick">✔</span> Maintenance Forecasting</li>
+                <li><span class="pricing__tick">✔</span> Lease Cashflow Forecasting</li>
+                <li><span class="pricing__tick">✔</span> Pricing and Valuations</li>
+                <li><span class="pricing__tick">✔</span> Portfolio Management</li>
+                <li><span class="pricing__tick">✔</span> 3rd Party Reporting</li>
               </ul>
             </div>
             <div class="pricing__levels--card-section">
               <h6>Services</h6>
               <ul class="list-unstyled mt-3 mb-4">
-                <li>✔ Lease Editor Entry Consultancy</li>
-                <li>✔ Data Integration Services</li>
+                <li><span class="pricing__tick">✔</span> Lease Editor Entry Consultancy</li>
+                <li><span class="pricing__tick">✔</span> Data Integration Services</li>
               </ul>            
               <p class="pricing_level_notes">These customers usually avail of Aerlytix integration services into update existing AMS and CRM systems for subsequent deliveries.</p>
             </div>
@@ -231,25 +230,25 @@ layout: "layouts/page.html"
               <h6>Implementation timeline</h6>
               <p class="mt-3">Approx. 16-weeks from project kick-off</p>
             </div>
-            <div class="pricing__levels--card-section">
+            <div class="pricing__levels--card-section pricing__levels--common-height">
               <h6>Modules</h6>
               <ul class="list-unstyled mt-3 mb-4">
-                <li>✔ Maintenance Forecasting</li>
-                <li>✔ Lease Cashflow Forecasting</li>
-                <li>✔ Pricing and Valuations</li>
-                <li>✔ Portfolio Management</li>
-                <li>✔ Risk Management</li>
-                <li>✔ 3rd Party Reporting</li>
-                <li>✔ Aerlytix CRM</li>
-                <li>✔ Fleet Tracker</li>
+                <li><span class="pricing__tick">✔</span> Maintenance Forecasting</li>
+                <li><span class="pricing__tick">✔</span> Lease Cashflow Forecasting</li>
+                <li><span class="pricing__tick">✔</span> Pricing and Valuations</li>
+                <li><span class="pricing__tick">✔</span> Portfolio Management</li>
+                <li><span class="pricing__tick">✔</span> Risk Management</li>
+                <li><span class="pricing__tick">✔</span> 3rd Party Reporting</li>
+                <li><span class="pricing__tick">✔</span> Aerlytix CRM</li>
+                <li><span class="pricing__tick">✔</span> Fleet Tracker</li>
               </ul>
             </div>
             <div class="pricing__levels--card-section">
               <h6>Services</h6>
               <ul class="list-unstyled mt-3 mb-4">
-                <li>✔ Operations and IT Consultancy</li>
-                <li>✔ Custom BI - Report Build Consultancy</li>
-                <li>✔ Self-service Reporting</li>
+                <li><span class="pricing__tick">✔</span> Operations and IT Consultancy</li>
+                <li><span class="pricing__tick">✔</span> Custom BI - Report Build Consultancy</li>
+                <li><span class="pricing__tick">✔</span> Self-service Reporting</li>
               </ul>
               <p class="pricing_level_notes">These customers often focus on a specific cumbersome and manual business process initially, then quickly add additional functionality for wider organizational adoption.</p>
             </div>
@@ -264,7 +263,7 @@ layout: "layouts/page.html"
 <article class="py-5 px-5">
 <div class="container px-4 py-5">
     <h2 class="display-3 fw-bold" data-cue="slideInUp">Customer collaboration</h2>
-    <p class="display-7 mb-5" data-cue="slideInUp">In partnership with our customers, Aerlytix builds bespoke products, all driven by the Analytics Suite API engine. Our product  development roadmap is paved by our customers' business requirements.</p>
+    <p class="display-7 mb-5" data-cue="slideInUp">In partnership with our customers, Aerlytix builds bespoke products. Our product  development roadmap is paved by our customers' business requirements.</p>
     <div class="row row-cols-1 row-cols-sm-3 g-4" data-cues="slideInUp">
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
@@ -327,7 +326,7 @@ layout: "layouts/page.html"
             </defs>
           </svg>
         </div>
-        <h4 class="fw-semibold">Performance Dashboard</h4>
+        <h4 class="fw-semibold">Performance Dashboards</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
@@ -369,7 +368,7 @@ layout: "layouts/page.html"
             </defs>
           </svg>
         </div>
-        <h4 class="fw-semibold">Custom Products and Services</h4>
+        <h4 class="fw-semibold">Custom Cashflow Models</h4>
       </div>
       <div class="col d-flex flex-column gap-2">
         <div class="feature-icon">
