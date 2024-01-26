@@ -112,59 +112,6 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
 </div>
 </article>
 
-
-<!-- <article class="px-5 py-5">
-  <div class="container" id="icon-grid">
-    <h2 class="display-3 fw-bold mb-5">What we value in Aerlytix</h2>
-    <div class="row align-items-md-stretch mb-4" data-cues="slideInUp">
-      <div class="col-md-4">
-          <div class="h-100 p-5 bg-body-tertiary rounded-3">
-              <h3>🚀</h3>
-              <h4 class="fw-bold mb-3">Strive for excellence, embrace connections</h5>
-              <p>Cohesive and dynamic teams operate with enhanced agility, communication, and freedom compared to large-scale corporations.</p>
-          </div>
-      </div>
-      <div class="col-md-4">
-          <div class="h-100 p-5 bg-body-tertiary rounded-3">
-              <h3>💪</h3>
-              <h4 class="fw-bold mb-3">Unleash your ambition</h4>
-              <p>We value individuals who aspire to achieve greatness, inspiring and energizing their teammates, thereby elevating the standards for all.</p>
-          </div>
-      </div>
-      <div class="col-md-4">
-          <div class="h-100 p-5 bg-body-tertiary rounded-3">
-              <h3>🗣️</h3>
-              <h4 class="fw-bold mb-3">Foster transparent communication</h4>
-              <p>We strongly advocate for transparency for various reasons, with the condensed version being: it simplifies collaboration.</p>
-          </div>
-      </div>
-    </div>
-    <div class="row align-items-md-stretch">
-      <div class="col-md-4">
-          <div class="h-100 p-5 bg-body-tertiary rounded-3">
-              <h4>🌱</h4>
-              <h4 class="fw-bold mb-3">Encourage autonomy and positive attitude</h4>
-              <p>We are a collective of self-starters who take immense pride in our work – a commitment that is evident in our results.</p>
-          </div>
-      </div>
-      <div class="col-md-4">
-          <div class="h-100 p-5 bg-body-tertiary rounded-3">
-              <h3>🏆</h3>
-              <h4 class="fw-bold mb-3">Provide support and achieve victory together</h4>
-              <p>Empowering others to succeed is a win for all.</p>
-          </div>
-      </div>
-      <div class="col-md-4">
-          <div class="h-100 p-5 bg-body-tertiary rounded-3">
-              <h3>🤝</h3>
-              <h4 class="fw-bold mb-3">Collaboration drives success</h4>
-              <p>We collaborate to channel our passions and expertise, striving to make Teachable the best it can possibly be.</p>
-          </div>
-      </div>
-    </div>
-  </div>
-</article> -->
-
 <article class="quotes__primary my-5 py-5">
   <div class="container card" style="padding-bottom:6rem">
     <span class="quotes__primary--left">
@@ -187,7 +134,6 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
           aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
         <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 3"></button>
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="10000">
@@ -236,23 +182,6 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
                     <div class="flex-grow-1 ms-3 ms-md-0 fw-bold">
                       Shane Callanan
                       <span class="blockquote-footer-source"> - Frontend Engineer</span>
-                    </div>
-                  </div>
-                </figcaption>
-              </figure>
-            </div>
-          </div> <!-- end of row  -->
-        </div>
-        <div class="carousel-item">
-          <div class="row align-items-md-center">
-            <div class="col-md-12">
-              <figure class="pe-md-7">
-                <blockquote class="display-6">Aerlytix has given me the wings to soar like an eagle.</blockquote>
-                <figcaption class="blockquote-footer">
-                  <div class="d-flex align-items-center">
-                    <div class="flex-grow-1 ms-3 ms-md-0 fw-bold">
-                      Seán Garvey
-                      <span class="blockquote-footer-source"> - Senior Client and Commercial Manager</span>
                     </div>
                   </div>
                 </figcaption>
