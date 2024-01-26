@@ -100,7 +100,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
     <div class="col-md-6">
         <div class="row g-0">
             <div class="col p-4">
-                <img class="rounded-3 mb-4" src="/images/company/careers/kevin.jpeg" width="200" alt="">
+                <img class="rounded-3 mb-4" src="/images/company/careers/kevin.jpg" width="200" alt="">
                 <blockquote><span class="quote__open">"</span>Aerlytix offers graduates a unique blend of aviation and technology, providing a challenging yet rewarding experience. Joining this dynamic team allowed me to witness immediate impactful work and enhance my quantitative skills from UCD Smurfit. The commitment to continuous learning at Aerlytix facilitated my upskilling in data analytics and software development, applied directly to the aviation finance industry.<span class="quote__close">"</span></blockquote>
                 <p class="fw-bold">-Kevin Aherne, Data Analyst<br />
                 Msc. Quantitative Finance, UCD Smurfit Business School</p>
@@ -247,7 +247,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
           <div class="row align-items-md-center">
             <div class="col-md-12">
               <figure class="pe-md-7">
-                <blockquote class="display-6">Aerlytix has given me the wins to soar like an eagle.</blockquote>
+                <blockquote class="display-6">Aerlytix has given me the wings to soar like an eagle.</blockquote>
                 <figcaption class="blockquote-footer">
                   <div class="d-flex align-items-center">
                     <div class="flex-grow-1 ms-3 ms-md-0 fw-bold">
