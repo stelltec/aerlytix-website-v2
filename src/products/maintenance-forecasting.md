@@ -11,7 +11,7 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Aerlytix Knowlege Base</h2>
         <p>Standalone database for each customers' proprietary cost and interval data, default utilization assumptions, and ‘house view’ forecasting assumptions. </p>
-        <p>Top-tier security, SOC 2 Type 2 compliance, audit trails, and customer specific approval workflows.</p>
+        <p>Top-tier security, SOC 2 Type 2 compliance, audit trails and customer specific approval workflows.</p>
       </div>
       <div class=" col-md-7">
         <img class="card image__feature" src="/images/products/maintenance-forecasting/knowledge-base.png" />

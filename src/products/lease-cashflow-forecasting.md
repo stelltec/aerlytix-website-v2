@@ -63,7 +63,7 @@ summary: 'With thousands of owned and managed leased assets the model has mature
 </svg>
         </div>
         <h4> Maintenance Accruals</h4>
-        <p>Track and project MR balances, third-party agreements, and EOL accruals</p>
+        <p>Track and project MR balances, third-party agreements and EOL accruals</p>
       </div>
       <div class="feature col">
         <div class="feature-icon">

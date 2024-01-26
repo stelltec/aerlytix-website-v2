@@ -40,7 +40,7 @@ summary: "Enable data-driven strategy execution, with interactive, real-time rep
     </div>
   </div>
 </article>
-<article class="quotes__primary my-5 py-5" data-cues="slideInUp">
+<!-- <article class="quotes__primary my-5 py-5" data-cues="slideInUp">
   <div class="container card" style="padding-bottom:3rem">
     <span class="quotes__primary--left">
       <svg width="106" height="87" viewBox="0 0 106 87" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -68,7 +68,7 @@ summary: "Enable data-driven strategy execution, with interactive, real-time rep
         </div>
       </div>
     </div>
-</article>
+</article> -->
 
 <article class="py-5 px-5">
   <div class="container">

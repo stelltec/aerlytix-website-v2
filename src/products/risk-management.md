@@ -1,7 +1,7 @@
 ---
 title: 'Risk Management'
-header: 'Precision in aviation<br /> credit rating'
-summary: 'Enabling risk departments to define a custom credit rating methodology and apply scoring to all asset modeling'
+header: 'Navigate counterparty credit risk with confidence'
+summary: 'Define custom credit rating methodology and apply scoring to all asset modeling'
 announcement:
   message: "Coming in 2024..."
 ---
@@ -11,7 +11,7 @@ announcement:
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Risk Knowledge Base</h2>
-        <p>Customers' specific financial data storage hub for internally sourced financials, uploaded directly via Excel.</p>
+        <p>Customer specific financial data storage hub for internally sourced financials, uploaded directly via Excel.</p>
         <p>Ability to supplement internal data with externally (API) sourced financial data.</p>
       </div>
       <div class="col-md-7">

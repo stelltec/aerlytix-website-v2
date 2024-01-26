@@ -102,7 +102,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
             <div class="col p-4">
                 <img class="rounded-3 mb-4" src="/images/company/careers/kevin.jpeg" width="200" alt="">
                 <blockquote><span class="quote__open">"</span>Aerlytix offers graduates a unique blend of aviation and technology, providing a challenging yet rewarding experience. Joining this dynamic team allowed me to witness immediate impactful work and enhance my quantitative skills from UCD Smurfit. The commitment to continuous learning at Aerlytix facilitated my upskilling in data analytics and software development, applied directly to the aviation finance industry.<span class="quote__close">"</span></blockquote>
-                <p class="fw-bold">-Kevin, Data Analyst<br />
+                <p class="fw-bold">-Kevin Aherne, Data Analyst<br />
                 Msc. Quantitative Finance, UCD Smurfit Business School</p>
             </div>
         </div>
@@ -113,7 +113,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
 </article>
 
 
-<article class="px-5 py-5">
+<!-- <article class="px-5 py-5">
   <div class="container" id="icon-grid">
     <h2 class="display-3 fw-bold mb-5">What we value in Aerlytix</h2>
     <div class="row align-items-md-stretch mb-4" data-cues="slideInUp">
@@ -163,7 +163,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
       </div>
     </div>
   </div>
-</article>
+</article> -->
 
 <article class="quotes__primary my-5 py-5">
   <div class="container card" style="padding-bottom:6rem">
@@ -187,6 +187,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
           aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
         <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 3"></button>
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="10000">
@@ -235,6 +236,23 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
                     <div class="flex-grow-1 ms-3 ms-md-0 fw-bold">
                       Shane Callanan
                       <span class="blockquote-footer-source"> - Frontend Engineer</span>
+                    </div>
+                  </div>
+                </figcaption>
+              </figure>
+            </div>
+          </div> <!-- end of row  -->
+        </div>
+        <div class="carousel-item">
+          <div class="row align-items-md-center">
+            <div class="col-md-12">
+              <figure class="pe-md-7">
+                <blockquote class="display-6">Aerlytix has given me the wins to soar like an eagle.</blockquote>
+                <figcaption class="blockquote-footer">
+                  <div class="d-flex align-items-center">
+                    <div class="flex-grow-1 ms-3 ms-md-0 fw-bold">
+                      Seán Garvey
+                      <span class="blockquote-footer-source"> - Senior Client and Commercial Manager</span>
                     </div>
                   </div>
                 </figcaption>
