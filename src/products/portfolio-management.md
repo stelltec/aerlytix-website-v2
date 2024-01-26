@@ -11,7 +11,7 @@ summary: 'Aggregate cashflows, run branch-scenario analysis, and generate stacke
     <div class="row gx-lg-5" data-cues="slideInUp">
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Stacked Portfolio Pricing </h2>
-        <p>Perform acquisition & divestiture analysis across portfolios of any size elevating the premium assets.</p>
+        <p>Perform acquisition and divestiture analysis across portfolios of any size elevating the premium assets.</p>
         <p>Carve out sales portfolios from your full fleet enabling optimal divestiture analysis.</p>
       </div>
       <div class="col-md-7">

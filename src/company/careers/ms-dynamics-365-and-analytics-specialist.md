@@ -14,7 +14,7 @@ The current team is assembled from the banking, technology, and aviation finance
 
 ### About the role
 
-As Aerlytix expands rapidly, a very exciting new opportunity exists within the organization. Are you experienced in the Microsoft suite of products (MS Dynamics 365 and Power Platform) and wish to grow your knowledge while getting exposure to an exciting industry? Or have you begun your low-code, BI and/or data analytics journey and want to expand your skills and become part of a dynamic team? Or are you a software engineer looking for a more business focussed challenge?
+As Aerlytix expands rapidly, a very exciting new opportunity exists within the organization. Are you experienced in the Microsoft suite of products (MS Dynamics 365 and Power Platform) and wish to grow your knowledge while getting exposure to an exciting industry? Or have you begun your low-code, BI and/or data analytics journey and want to expand your skills and become part of a dynamic team? Or are you a software engineer looking for a more business focused challenge?
 
 In this role the candidate will be working in and learning from an experienced team who are transforming the aviation finance industry with a world-class technology stack and industry-leading automation & analytics products.
 

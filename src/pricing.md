@@ -167,7 +167,7 @@ layout: "layouts/page.html"
 <div class="container">
 <h2 class="display-3 fw-bold mb-3 lh-1 mb-5">Recent customer delivery examples...</h2>
 <div class="pricing__levels row row-cols-1 row-cols-md-3 mb-3 text-center" data-cues="slideInUp">
-      <div class="col">
+      <div class="col mb-4">
         <div class="card h-100 mb-4 rounded-3">
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Access in Weeks with Easy Modular Delivery</h3>
@@ -193,7 +193,7 @@ layout: "layouts/page.html"
           </div>
         </div>
       </div>
-      <div class="col">
+      <div class="col mb-4">
         <div class="card h-100 mb-4 rounded-3">
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Off-the-Shelf Business Transformation</h3>
@@ -222,7 +222,7 @@ layout: "layouts/page.html"
           </div>
         </div>
       </div>
-      <div class="col">
+      <div class="col mb-4">
         <div class="card h-100 mb-4 rounded-3">
           <div class="card-body">
             <h3 class="card-title pricing-card-title">Fully Integrated Enterprise Delivery</h3>
@@ -423,7 +423,7 @@ layout: "layouts/page.html"
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <p>Users gain access to the Aerlytix Pre-production (test) environment within four weeks of contract signing. The only prerequisites are providing a fleet extract and cost & interval data for one asset type. Deployment of a Production (Live) environment is determined by the client, contingent upon data sourcing and successful user acceptance testing (UAT).</p>
+        <p>Users gain access to the Aerlytix Pre-production (test) environment within four weeks of contract signing. The only prerequisites are providing a fleet extract and cost and interval data for one asset type. Deployment of a Production (Live) environment is determined by the client, contingent upon data sourcing and successful user acceptance testing (UAT).</p>
       </div>
     </div>
   </div>
@@ -459,7 +459,7 @@ layout: "layouts/page.html"
     </h2>
     <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        <p>Certainly, Aerlytix encourages an iterative approach with modular deliveries. The available modules include Maintenance and Lease Forecasting, Pricing & Valuations, Financing, Portfolio Management, and Risk.</p>
+        <p>Certainly, Aerlytix encourages an iterative approach with modular deliveries. The available modules include Maintenance and Lease Forecasting, Pricing and Valuations, Financing, Portfolio Management, and Risk.</p>
       </div>
     </div>
   </div>

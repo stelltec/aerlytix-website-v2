@@ -1,7 +1,7 @@
 ---
-title: 'Pricing & Valuation'
+title: 'Pricing and Valuation'
 header: 'Optimization suite <br />for asset transactions'
-summary: 'In-depth acquisition & divestiture analysis for both primary and secondary market deals'
+summary: 'In-depth acquisition and divestiture analysis for both primary and secondary market deals'
 ---
 
 <!-- Start marketing section -->
@@ -11,7 +11,7 @@ summary: 'In-depth acquisition & divestiture analysis for both primary and secon
       <div class="col-md-5">
         <h2 class="fw-bold mb-5">Sensitivity Analysis</h2>
         <p>Create both goal-seek and risk mitigation sensitivity matrices across thousands of scenarios in seconds.</p>
-        <p>Shock appraiser inflation, contracted rents, sale value assumptions, and future rents on any transaction.</p>
+        <p>Shock appraiser inflation, contracted rents, sale value assumptions and future rents on any transaction.</p>
       </div>
       <div class="col-md-7">
         <video class="card image__feature" width="100%" muted autoplay loop>

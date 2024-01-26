@@ -84,7 +84,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
 <article class="graduates py-5 px5">
 <div class="container">
 <h2 class="display-3 fw-bold mb-5">Our graduate program</h2>
-<p class="display-7 mb-5">Aerlytix targets talent early on students careers and we provide them with an opportunity to grow their skills with us. Testimonials of two of our graduates that are now part of the Aerlytix business team:</p>
+<p class="display-7 mb-5">Aerlytix targets talent early on and provides graduates with an opportunity to grow their skills with us. Testimonials of two of our graduates that are now part of the Aerlytix business team:</p>
 
 <div class="row mb-2" data-cues="slideInUp">
     <div class="col-md-6">
