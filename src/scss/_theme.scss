@@ -1,6 +1,6 @@
 .body- {
-    background: url(../images/aviation-map.svg) 50% 0 no-repeat, url(../images/gradient-fade-01.png) -90rem -80rem no-repeat;
-    background-size: 2100px, 4000px;
+    // background: url(../images/aviation-map.svg) 50% 0 no-repeat, url(../images/gradient-fade-01.png) -90rem -80rem no-repeat;
+    // background-size: 2100px, 4000px;
 }
 
 main {
@@ -36,9 +36,9 @@ hr {
                 border-radius: 4px;
                 border: 0;
                 font-weight: var(--bs-body-font-size);
-            
+
                 &__info {
-                    background:rgb(240, 240, 240);
+                    background: rgb(240, 240, 240);
 
                     p {
                         font-size: var(--bs-body-font-size);
@@ -46,9 +46,9 @@ hr {
                     }
 
                     .airfinance-logo {
-                       margin:0 auto;
-                       display: block;
-                       max-width: 500px;
+                        margin: 0 auto;
+                        display: block;
+                        max-width: 500px;
                     }
                 }
             }
@@ -101,16 +101,11 @@ hr {
 .footer {
 
     &__main {
-        background: var(--bg-dark-blue);
+        background: black;
         color: white;
 
         h6 {
             text-transform: uppercase;
-        }
-
-        p,
-        a {
-            font-size: 1rem;
         }
 
         p {
@@ -140,6 +135,10 @@ hr {
         &--policy-links a {
             text-decoration: none;
         }
+
+        svg {
+            fill: white;
+        }
     }
 }
 
@@ -151,9 +150,37 @@ hr {
 
 // Quote slider
 
-.quote {
-    padding: 0 6rem;
-    margin: auto;
+.quotes {
+
+    &__primary {
+
+        padding: 0 3rem;
+        margin: auto;
+
+        .card {
+            border-top: 4px solid black;
+            border-bottom: 4px solid black;
+            padding-left: 4rem;
+            padding-right: 4rem;
+            position: relative;
+        }
+
+        &--left {
+            position: absolute;
+            top: -5rem;
+            left: -2rem;
+            background: white;
+            padding: 1rem;
+        }
+
+        &--right {
+            position: absolute;
+            bottom: -5rem;
+            right: -2rem;
+            background: white;
+            padding: 1rem;
+        }
+    }
 }
 
 .carousel-indicators {
@@ -249,6 +276,14 @@ textarea {
     padding-top: 5rem;
 }
 
+.blockquote-footer {
+    color: black;
+}
+
+.accordion-button:not(.collapsed) {
+    color: blue;
+}
+
 
 @media (max-width:992px) {
     .footer__products {
@@ -259,9 +294,9 @@ textarea {
 @media (max-width:900px) {
     .post {
         &__container {
-            blockquote {    
+            blockquote {
                 &.callout {
-                    margin-left:0;
+                    margin-left: 0;
                 }
             }
         }

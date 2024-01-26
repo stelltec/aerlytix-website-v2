@@ -5,16 +5,24 @@
   {% else %}
   <div class="header__common">
     {% endif %}
+    {% if announcement %}
+    <div class="announcements__band">
+      <div class="container">
+        <p class="fw-bold">{{ announcement.message }}</p>
+      </div>
+    </div>
+    {% endif %}
 
     <div class="container">
       {% if pageHeaderTitle %}
       <p class="text-tag">{{ pageHeaderTitle }}</p>
       {% endif %}
-      <h1 class="display-4 fw-bold" data-highlight="primary">
-        {{ pageMainHeader }}
+
+      <h1 class="display-1 fw-bold" data-highlight="primary" data-cue="slideInUp">
+        {{ pageMainHeader | safe }}
       </h1>
       {% if pageHeaderSummary %}
-      <p class="display-7">
+      <p class="display-6" data-cue="slideInUp">
         {{ pageHeaderSummary | safe }}
       </p>
       {% endif %}

@@ -1,37 +1,60 @@
 {
     "items": [
         {
-            "text": "Home",
-            "url": "/"
-        },
-        {
             "text": "Products",
             "class": "dropdown",
             "url": "",
             "subitems": [
                 {
-                    "text": "Pricing & Trading",
-                    "url": "/products/pricing-and-trading/"
+                    "text": "Maintenance Forecasting",
+                    "url": "/products/maintenance-forecasting/"
                 },
                 {
-                    "text": "Maintenance & Lease Management",
-                    "url": "/products/maintenance-and-lease-management/"
+                    "text": "Lease Cashflow Forecasting",
+                    "url": "/products/lease-cashflow-forecasting/"
                 },
                 {
-                    "text": "Commercial Asset Management",
-                    "url": "/products/commercial-asset-management/"
+                    "text": "Pricing and Valuation",
+                    "url": "/products/pricing-and-valuation/"
+                },
+                {
+                    "text": "Portfolio Management",
+                    "url": "/products/portfolio-management/"
+                },
+                {
+                    "text": "Finance Structuring",
+                    "url": "/products/finance-structuring/"
                 },
                 {
                     "text": "Risk Management",
                     "url": "/products/risk-management/"
                 },
                 {
-                    "text": "Fleet Monitoring System",
-                    "url": "/products/fleet-monitoring-system/"
+                    "text": "Fleet Tracker",
+                    "url": "/products/fleet-tracker/"
+                }
+            ]
+        },
+        {
+            "text": "Services",
+            "class": "dropdown",
+            "url": "",
+            "subitems": [
+                {
+                    "text": "Advisory",
+                    "url": "/services/advisory/"
                 },
                 {
-                    "text": "Consulting & Integrations",
-                    "url": "/products/consulting-and-integrations/"
+                    "text": "Reporting",
+                    "url": "/services/reporting/"
+                },
+                {
+                    "text": "Modeling",
+                    "url": "/services/modeling/"
+                },
+                {
+                    "text": "Integration",
+                    "url": "/services/integrations/"
                 }
             ]
         },
@@ -42,11 +65,15 @@
             "subitems": [
                 {
                     "text": "Lessors",
-                    "url": "/solutions/lessors/"
+                    "url": "/customers/lessors/"
                 },
                 {
-                    "text": "Investors & Lenders",
-                    "url": "/solutions/investors-and-lenders/"
+                    "text": "Owners and Investors",
+                    "url": "/customers/owners-and-investors/"
+                },
+                {
+                    "text": "Banks and Lenders",
+                    "url": "/customers/banks-and-lenders/"
                 }
             ]
         },
@@ -72,6 +99,10 @@
                     "url": "/company/contact-us/"
                 }
             ]
+        },
+        {
+            "text": "Pricing",
+            "url": "/pricing"
         }
     ]
 }

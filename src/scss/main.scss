@@ -3,49 +3,41 @@
 @use "colors";
 @use "utilities";
 @use "fonts";
+@use "icons";
+@use "images";
 @use "theme";
 @use "components";
 @use "navigation";
+@use "scrollCue";
 @use "privacy-message";
+@use "loaders";
 @use "pages";
 
+@media (min-width: 576px) {}
 
-/* Featurettes
-------------------------- */
+// Medium devices (tablets, 768px and up)
+@media (max-width: 768px) {
+    article.px-5 {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
 
-.featurette {
-  align-items: center;
+    .hero__home {
+
+        .row>* {
+            padding-right: 0 !important;
+            padding-left: 0 !important;
+        }
+    }
 }
 
-.featurette-divider {
-  margin: 5rem 0;
-  /* Space out the Bootstrap <hr> more */
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+    .hero__home {}
 }
 
-/* Thin out the marketing headings */
-.featurette-heading {
-  font-weight: 300;
-  line-height: 1;
-  /* rtl:remove */
-  letter-spacing: -.05rem;
-}
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {}
 
-@media (min-width: 62em) {
-  .featurette-heading {
-    margin-top: 7rem;
-  }
-}
-
-.feature {
-  .feature-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 4rem;
-    height: 4rem;
-    margin-bottom: 1rem;
-    font-size: 2rem;
-    color: #fff;
-    border-radius: .75rem;
-  }
-}
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) {}
