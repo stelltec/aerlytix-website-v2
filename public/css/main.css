@@ -12763,6 +12763,20 @@ body li {
   height: 100%;
 }
 
+.numberit {
+  border-radius: 40px;
+  background: blue;
+  color: white;
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  align-content: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding-top: 10px;
+  margin-bottom: 1rem;
+}
+
 .image__feature {
   box-shadow: 8px 8px rgb(240, 240, 240);
 }
@@ -13230,7 +13244,7 @@ a {
     padding: 0 2rem;
   }
   .carousel-team .row {
-    margin-left: 2rem;
+    margin-left: 0;
   }
   .team__quotes blockquote {
     margin-right: 2rem;
@@ -13246,6 +13260,7 @@ a {
   top: 102px;
   left: 0;
   right: 0;
+  z-index: -1;
 }
 .announcements__band .container {
   color: blue;
@@ -13942,9 +13957,16 @@ a {
 }
 .pricing__custom-card .card {
   position: relative;
-  background: white;
+  background: #f3f3ff;
   border: 4px solid blue;
   border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  article.px-5 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */

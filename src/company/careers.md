@@ -72,7 +72,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
                   </div>
                   <div class="col-12 col-md-6">
                      <figure>
-                        <img src="/images/company/careers/gallery-photo-5.jpg" alt="career" class="img-fluid">
+                        <img src="/images/company/careers/claudio-leo.png" alt="career" class="img-fluid">
                      </figure>
                   </div>
                </div>
@@ -81,8 +81,39 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
 </article>
 
 
-<article class="px-5 py-5">
+<article class="graduates py-5 px5">
+<div class="container">
+<h2 class="display-3 fw-bold mb-5">Our graduate program</h2>
+<p class="display-7 mb-5">Aerlytix targets talent early on students careers and we provide them with an opportunity to grow their skills with us. Testimonials of two of our graduates that are now part of the Aerlytix business team:</p>
 
+<div class="row mb-2" data-cues="slideInUp">
+    <div class="col-md-6">
+        <div class="row g-0">
+            <div class="col p-4">
+                <img class="rounded-3 mb-4" src="/images/company/careers/alec.jpeg" width="200" alt="">
+                <blockquote><span class="quote__open">"</span>Aerlytix's graduate role is an excellent opportunity to apply educational knowledge and acquire practical skills. Since 2021, I've integrated Aviation Finance principles with hands-on experience in data analytics and software development. My day-to-day work, now client-focused, reflects the dynamic and evolving nature of my role.<span class="quote__close">"</span></blockquote>
+                <p class="fw-bold">-Alec Byrne, Senior Consultant <br />
+                MSc Aviation Finance, UCD Smurfit Business School</p>
+            </div>            
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="row g-0">
+            <div class="col p-4">
+                <img class="rounded-3 mb-4" src="/images/company/careers/kevin.jpeg" width="200" alt="">
+                <blockquote><span class="quote__open">"</span>Aerlytix offers graduates a unique blend of aviation and technology, providing a challenging yet rewarding experience. Joining this dynamic team allowed me to witness immediate impactful work and enhance my quantitative skills from UCD Smurfit. The commitment to continuous learning at Aerlytix facilitated my upskilling in data analytics and software development, applied directly to the aviation finance industry.<span class="quote__close">"</span></blockquote>
+                <p class="fw-bold">-Kevin, Data Analyst<br />
+                Msc. Quantitative Finance, UCD Smurfit Business School</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+</article>
+
+
+<article class="px-5 py-5">
   <div class="container" id="icon-grid">
     <h2 class="display-3 fw-bold mb-5">What we value in Aerlytix</h2>
     <div class="row align-items-md-stretch mb-4" data-cues="slideInUp">
@@ -132,7 +163,6 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
       </div>
     </div>
   </div>
-
 </article>
 
 <article class="quotes__primary my-5 py-5">
@@ -168,8 +198,8 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
                 <figcaption class="blockquote-footer">
                   <div class="d-flex align-items-center">
                     <div class="flex-grow-1 ms-3 ms-md-0 fw-bold">
-                      Sean Garvey
-                      <span class="blockquote-footer-source"> — Senior Consultant</span>
+                      Des Cryan
+                      <span class="blockquote-footer-source"> — VP Investor Products</span>
                     </div>
                   </div>
                 </figcaption>
@@ -225,35 +255,4 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
       </button>
     </div>
   </div>
-</article>
-
-<article class="graduates py-5 px5">
-<div class="container">
-<h2 class="display-3 fw-bold mb-5">Our graduate program</h2>
-<p class="display-7 mb-5">Aerlytix targets talent early on students careers and we provide them with an opportunity to grow their skills with us. Testimonials of two of our graduates that are now part of the Aerlytix business team:</p>
-
-<div class="row mb-2" data-cues="slideInUp">
-    <div class="col-md-6">
-        <div class="row g-0">
-            <div class="col p-4">
-                <img class="rounded-3 mb-4" src="/images/company/careers/alec.jpeg" width="200" alt="">
-                <blockquote><span class="quote__open">"</span>Aerlytix's graduate role is an excellent opportunity to apply educational knowledge and acquire practical skills. Since 2021, I've integrated Aviation Finance principles with hands-on experience in data analytics and software development. My day-to-day work, now client-focused, reflects the dynamic and evolving nature of my role.<span class="quote__close">"</span></blockquote>
-                <p class="fw-bold">-Alec Byrne, Senior Consultant <br />
-                MSc Aviation Finance, UCD Smurfit Business School</p>
-            </div>            
-        </div>
-    </div>
-    <div class="col-md-6">
-        <div class="row g-0">
-            <div class="col p-4">
-                <img class="rounded-3 mb-4" src="/images/company/careers/kevin.jpeg" width="200" alt="">
-                <blockquote><span class="quote__open">"</span>Aerlytix offers graduates a unique blend of aviation and technology, providing a challenging yet rewarding experience. Joining this dynamic team allowed me to witness immediate impactful work and enhance my quantitative skills from UCD Smurfit. The commitment to continuous learning at Aerlytix facilitated my upskilling in data analytics and software development, applied directly to the aviation finance industry.<span class="quote__close">"</span></blockquote>
-                <p class="fw-bold">-Kevin, Data Analyst<br />
-                Msc. Quantitative Finance, UCD Smurfit Business School</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-</div>
 </article>

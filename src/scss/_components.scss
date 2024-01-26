@@ -308,7 +308,7 @@ a {
     }
 
     .carousel-team .row {
-        margin-left: 2rem;
+        margin-left: 0;
     }
 
     .team {
@@ -330,6 +330,7 @@ a {
         top: 102px;
         left: 0;
         right: 0;
+        z-index: -1;
 
         .container {
             color: blue;
