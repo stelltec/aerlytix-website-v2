@@ -1,5 +1,5 @@
 ---
-title: 'The Aerlytix team moves into new headquarters in the center of Dublin'
+title: 'The Aerlytix team moves into new headquarters in the centre of Dublin'
 date: '2023-10-22'
 tags: ['Branding','Business','Aerlytix Team']
 headerType: 'blogPost'
@@ -13,6 +13,6 @@ As one of the fastest growing aviation technology companies in Ireland, Aerlytix
 
 Aerlytix is retaining its hybrid office-remote working policy but delighted to have a central location to meet with colleagues, clients and industry executives in the busy months ahead.  
 
-Located at 1862 Barrow, 1A Barrow Street, Dublin, D04 E9R0, Ireland, the Aerlytix team are in the center of the aviation finance and leasing community in the city and are looking forward to continuing to reconnect with the industry, at short notice, from a more central base.  
+Located at 1862 Barrow, 1A Barrow Street, Dublin, D04 E9R0, Ireland, the Aerlytix team are in the centre of the aviation finance and leasing community in the city and are looking forward to continuing to reconnect with the industry, at short notice, from a more central base.  
 
 “Although we remain fans of the hybrid remote working model, it is very exciting to have the team all under one roof,” says Alan Doyle, Chief Executive Officer, Aerlytix. “With a busy year ahead, with more announcements planned this year, it is a great time to work at Aerlytix.”

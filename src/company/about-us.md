@@ -85,7 +85,7 @@ summary: "Our mission is to transform aviation finance with technology and analy
       </li>
       <li class="timeline__item">
         <div class="timeline__date fw-bold"><span class="timeline__date-label">2023</span></div>
-        <div class="timeline__date-reference display-7">Aerlytix moves into new office on Barrow Street, Dublin 2</div>
+        <div class="timeline__date-reference display-7">Aerlytix moves into new office on Barrow Street, Dublin 4</div>
       </li>
       <li class="timeline__item">
         <div class="timeline__date fw-bold"><span class="timeline__date-label">2024</span></div>

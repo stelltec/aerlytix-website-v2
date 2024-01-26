@@ -280,6 +280,10 @@ textarea {
     color: black;
 }
 
+.accordion-button:not(.collapsed) {
+    color: blue;
+}
+
 
 @media (max-width:992px) {
     .footer__products {

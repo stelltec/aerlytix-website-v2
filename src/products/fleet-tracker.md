@@ -1,7 +1,7 @@
 ---
 title: 'Fleet Tracker'
 header: 'Exception-based Fleet Tracker'
-summary: 'Ensuring that all stakeholders have the latest understanding of fleet location, exceptions, and utilization'
+summary: 'Ensuring that all stakeholders have the latest understanding of fleet location, exceptions and utilization'
 ---
 
 <!-- Start marketing section -->
