@@ -14,12 +14,13 @@ summary: 'In-depth acquisition and divestiture analysis for both primary and sec
         <p>Shock appraiser inflation, contracted rents, sale value assumptions and future rents on any transaction.</p>
       </div>
       <div class="col-md-7">
-        <video class="card image__feature" width="100%" muted autoplay loop>
+        <!-- <video class="card image__feature" width="100%" muted autoplay loop>
           <source src="https://aerlytix-2024.netlify.app/images/products/pricing-and-valuation/sensitivity-analysis.mp4" type="video/mp4">
           <source src="https://aerlytix-2024.netlify.app/images/products/pricing-and-valuation/sensitivity-analysis.webm" type="video/webm">
           <img class="card image__feature" src="/images/products/pricing-and-valuation/sensitivity-analysis.png" />
           Your browser does not support the video tag.
-        </video>
+        </video> -->
+        <script src="https://fast.wistia.com/embed/medias/zsb0p92oxh.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="card image__feature wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_zsb0p92oxh seo=true videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div></div></div>
       </div>
     </div>
   </div>
