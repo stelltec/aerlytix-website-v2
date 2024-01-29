@@ -4,7 +4,7 @@ header: "Market transparency <br />for Investors"
 summary: "Enabling investors to manage complex investments, offering advanced solutions that bring clarity to both investors and their portfolios"
 ---
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
@@ -35,7 +35,7 @@ summary: "Enabling investors to manage complex investments, offering advanced so
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">

@@ -93,7 +93,7 @@ summary: "Delivering analytics and advisory services for a premier collaborative
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   
   <div class="container">
     <div class="row gx-lg-5" data-cues="slideInUp">
@@ -184,7 +184,7 @@ summary: "Delivering analytics and advisory services for a premier collaborative
 </article>
 
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   
   <div class="container">
     <div class="row gx-lg-5" data-cues="slideInUp">

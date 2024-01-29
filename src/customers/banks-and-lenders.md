@@ -4,7 +4,7 @@ header: "Exposure management<br />for Banks & Lenders"
 summary: "Empowers banks and lenders with the connected risk management tools needed to understand underlying exposures"
 ---
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
@@ -19,7 +19,7 @@ summary: "Empowers banks and lenders with the connected risk management tools ne
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">

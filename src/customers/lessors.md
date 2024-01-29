@@ -4,7 +4,7 @@ header: "Simplifying decision-making<br /> for lessors"
 summary: "Customers benefit from a best-in-class model and a technology that scales with any business"
 ---
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
@@ -19,7 +19,7 @@ summary: "Customers benefit from a best-in-class model and a technology that sca
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">

@@ -4,7 +4,7 @@ header: "Single-source of truth<br /> for Airlines"
 summary: "Strategic centralized infrastructure for cross-functional collaboration in fleet management and holistic evaluation in new aircraft sourcing"
 ---
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
@@ -18,7 +18,7 @@ summary: "Strategic centralized infrastructure for cross-functional collaboratio
   </div>
 </article>
 
-<article class="section__product section__spacing-3">
+<article class="py-5 px-5">
   <div class="container">
   <div class="row gx-lg-5" data-cues="slideInUp">
     <div class="col-md-5">
