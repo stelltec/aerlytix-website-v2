@@ -29,12 +29,13 @@ summary: 'A 360-degree view of projected maintenance events and metal condition 
         <p>Extract any output via. +450 custom functions enabling users to build or maintain  bespoke pricing and analysis templates.</p>
       </div>
       <div class="col-md-7">
-        <video class="card image__feature" width="100%" muted autoplay loop>
+        <!-- <video class="card image__feature" width="100%" muted autoplay loop>
           <source src="https://aerlytix-2024.netlify.app/images/products/maintenance-forecasting/excel-add-in-screencast.mp4" type="video/mp4">
           <source src="https://aerlytix-2024.netlify.app/images/products/maintenance-forecasting/excel-add-in-screencast.webm" type="video/webm">
           <img class="card image__feature" src="/images/products/maintenance-forecasting/excel-add-in.png" />
           Your browser does not support the video tag.
-        </video>
+        </video> -->
+        <script src="https://fast.wistia.com/embed/medias/th5qea4wat.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="card image__feature wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_th5qea4wat seo=true videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/th5qea4wat/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
       </div>
     </div>
   </div>

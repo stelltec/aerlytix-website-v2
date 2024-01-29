@@ -26,12 +26,12 @@ summary: "Enabling investors to manage complex investments, offering advanced so
 
 
 <article class="pb-5" style="margin-top:-4rem">
-  <div class="container my-5 loader" data-cues="slideInUp">
-        <div class="custom-loader"></div>       
-        <video class="card image__feature" width="100%" muted autoplay loop>
+  <div class="container my-5 loader" data-cues="slideInUp">  
+        <!-- <video class="card image__feature" width="100%" muted autoplay loop>
             <source src="https://aerlytix-2024.netlify.app/images/customers/owners-and-investors/abs-noteholder-report.mp4" type="video/mp4">
             Your browser does not support the video tag.
-        </video>
+        </video> -->
+        <script src="https://fast.wistia.com/embed/medias/rimnqp6e92.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="card image__feature wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_rimnqp6e92 seo=true videoFoam=true" style="height:100%;position:relative;width:100%">&nbsp;</div></div></div>
   </div>
 </article>
 
