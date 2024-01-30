@@ -31,7 +31,7 @@ module.exports = eleventyConfig => {
     //       .getFilteredByGlob('./src/products/*.md')
     //       .sort((a, b) => (Number(a.data.displayOrder) > Number(b.data.displayOrder) ? 1 : -1))
     //       .filter(x => x.data.featured);
-    //   });
+    // });
 
     // Returns a collection of blog posts in reverse date order
     eleventyConfig.addCollection('news', collection => {

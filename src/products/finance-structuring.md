@@ -2,80 +2,27 @@
 title: 'Finance Structuring'
 header: 'Deal structuring<br /> and LTV monitoring'
 summary: 'Integrate debt structures with asset modeling for maximized equity returns'
+features:
+  - title: "‘Solve for’ Debt Structuring Tools"
+    description: 'Define and analyze unlimited single and multi tranche loans in seconds, quickly ‘solving for’ advance, fixed payment, or balloons.'
+    media:
+      type: 'image'
+      content: '/images/products/finance-structuring/loan-define-it.png'
+    sub_features:
+      - title: 'Single & Multi-Tranche Feature'
+        description: 'Feature description for Single & Multi-Tranche'
+      - title: 'Equity Views Feature'
+        description: 'Feature description for Equity Views'
+      - title: 'MR Pledging Feature'
+        description: 'Feature description for MR Pledging'
+      - title: 'Multi-Lease Refinancing Feature'
+        description: 'Feature description for Multi-Lease Refinancing'
+  - title: 'Loan-to-Value (‘LTV’) Interface'
+    description: 'Interactive LTV monitoring system for debt service coverage over full term of loan.'
+    media:
+      type: 'image'
+      content: '/images/products/finance-structuring/ltv.png'
 ---
 
-<!-- Start marketing section -->
-<article class="px-5 py-5 mb-5">
-  <div class="container">
-    <div class="row gx-lg-5" data-cues="slideInUp">
-      <div class="col-md-5">
-        <h2 class="fw-bold mb-5">‘Solve for’ Debt Structuring Tools</h2>
-        <p>Define and analyze unlimited single and multi tranche loans in seconds, quickly ‘solving for’ advance, fixed payment, or balloons.</p>
-      </div>
-      <div class="col-md-7">
-        <img class="card image__feature" src="/images/products/finance-structuring/loan-define-it.png" />
-      </div>
-    </div>
-  </div>
-</article>
-
-<article class="px-5 py-5 mb-5">
-<div class="container">
-<div class="row g-4 py-5 row-cols-1 row-cols-lg-4" data-cues="slideInUp">
-      <div class="feature col">
-        <div class="feature-icon">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
-</svg>
-        </div>
-        <h4>Single & Multi-Tranche</h4>
-        <p>Model complex debt instruments for increased marketability to investors</p>
-      </div>
-      <div class="feature col">
-        <div class="feature-icon">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
-</svg>
-        </div>
-        <h4>Equity Views</h4>
-        <p>Ongoing loan balance vs. maintenance adjusted values</p>
-      </div>
-      <div class="feature col">
-        <div class="feature-icon">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
-</svg>
-        </div>
-        <h4>MR Pledging</h4>
-        <p>Track required pledging amounts and forward looking exposures</p>
-      </div>
-      <div class="feature col">
-        <div class="feature-icon">
-          <svg class="icon__check--success" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="inherit" viewBox="0 0 16 16">
-  <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"></path>
-</svg>
-        </div>
-        <h4>Multi-Lease Refinancing</h4>
-        <p>Refinancing loans across multiple lease structures as aircraft transition</p>
-      </div>
-    </div>
-</div>
-</article>
-
-<article class="px-5 py-5">
-  <div class="container">
-    <div class="row gx-lg-5" data-cues="slideInUp">
-      <div class="col-md-5">
-        <h2 class="fw-bold mb-5">Loan-to-Value (‘LTV’) Interface</h2>
-        <p>Interactive LTV monitoring system for debt service coverage over full term of loan.</p>
-      </div>
-      <div class="col-md-7">
-        <img class="card image__feature" src="/images/products/finance-structuring/ltv.png" />
-      </div>
-    </div>
-  </div>
-</article>
-
-
-
+{% include "components/product_features.html" %}
 
