@@ -10,7 +10,7 @@ summary: "Strategic centralized infrastructure for cross-functional collaboratio
     <div class="col-md-5">
       <h2 class="fw-bold mb-5">What we can offer</h2>
     </div>
-    <div class="card col-md-7">
+    <div class="col-md-7">
       <p>The Aerlytix platform delivers a decision support system powered by industry leading models for lease optimization.</p>
       <p>As the single-source of truth, Aerlytix enables start-up airlines to scale efficiency, and large operators to drive operational productivity across established departments.</p> 
     </div>
@@ -24,7 +24,7 @@ summary: "Strategic centralized infrastructure for cross-functional collaboratio
     <div class="col-md-5">
       <h2 class="fw-bold mb-5">Case Study:<br /> Value and Scale</h2>
     </div>
-    <div class="card col-md-7">
+    <div class="col-md-7">
       <h4>Client Background</h4>
       <p class="mb-5">Dry leasing is a critical part of airlines' ability to finance both new and mid-life aircraft, while wet-leasing enables operators to fill capacity gaps.</p>
       <h4>Business Challenge and Problem</h4>

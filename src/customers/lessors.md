@@ -10,7 +10,7 @@ summary: "Customers benefit from a best-in-class model and a technology that sca
     <div class="col-md-5">
       <h2 class="fw-bold">What we can offer</h2>
     </div>
-    <div class="card col-md-7">
+    <div class="col-md-7">
       <p>Aerlytix is a technology eco-system used by leading lessors to run their business, supporting their asset management processes with a suite of tools, connecting in-depth technical analysis, scenario stress testing and metal value exposure.</p>
       <p>The Aerlytix platform brings technical, commercial, finance and risk inputs together to ensure coordinated outcomes through one centralized infrastructure, making the most complex investments a simple matter.</p>
       <p>Aerlytix drives intelligent automation into every corner of the asset management process, creating a true competitive advantage by removing “the noise” and introducing quantitative rigour to the decision-making process.</p>
@@ -25,7 +25,7 @@ summary: "Customers benefit from a best-in-class model and a technology that sca
     <div class="col-md-5">
       <h2 class="fw-bold">Case Study: </br> Value and Scale</h2>
     </div>
-    <div class="card col-md-7">
+    <div class="col-md-7">
       <h4>Business Challenge and Problem</h4>
       <p>As lessors approach a three-digit owned or managed fleet size, significant business inefficienies are caused by the amount of data, third-party providers, and turbulent nature of aviation.</p>
       <p class="mb-5">Everything from Portfolio Management to FP&A becomes cumbersome and manual with reliance on Excel and legacy systems. A “firefighting approach” to repossessions and re-deliveries is widespread, with major lessors often running maintenance and lease forecasts on less than 30 aircraft monthly.</p>

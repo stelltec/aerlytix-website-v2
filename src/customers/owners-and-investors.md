@@ -10,7 +10,7 @@ summary: "Enabling investors to manage complex investments, offering advanced so
     <div class="col-md-5">
       <h2 class="fw-bold mb-5">What we can offer</h2>
     </div>
-    <div class="card col-md-7">
+    <div class="col-md-7">
       <p class="mb-5">Standalone reporting portals combined with advanced modelling and reporting, allow investors gain upto-date insights, detailed analytics, and greater transparency for their investments. Some of the products we offer include the following:</p>
       <h4>Reporting Portal</h4>
       <p class="mb-5">Established as a centralized location for investors to easily obtain accurate insights into their portfolios. These are secure sites accessible exclusively to designated users.</p>
@@ -41,7 +41,7 @@ summary: "Enabling investors to manage complex investments, offering advanced so
     <div class="col-md-5">
       <h2 class="fw-bold mb-5">Case Study: ABS Reporting Portal</h2>
     </div>
-    <div class="card col-md-7">
+    <div class="col-md-7">
       <h4>Client Background</h4>
       <p class="mb-5">A leading asset manager and servicer, identified the need for enhanced reporting in the ABS market following feedback from investors. This marked the beginning of a successful partnership with Aerlytix.</p>
       <h4>Business Challenge and Problem</h4>
