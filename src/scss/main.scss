@@ -13,6 +13,38 @@
 @use "loaders";
 @use "pages";
 
+//Animation for fade in down
+@-webkit-keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translate3d(0, -100%, 0);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translate3d(0, 0, 0);
+    }
+  }
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translate3d(0, -100%, 0);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translate3d(0, 0, 0);
+    }
+  }
+
+.sticky-header {
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:9;
+    animation: fadeInDown 0.5s;
+}
+
 @media (min-width: 576px) {}
 
 // Medium devices (tablets, 768px and up)

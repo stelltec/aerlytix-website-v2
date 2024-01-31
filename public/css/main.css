@@ -13972,6 +13972,34 @@ a {
   border-radius: 10px;
 }
 
+@-webkit-keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -100%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -100%, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+.sticky-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9;
+  animation: fadeInDown 0.5s;
+}
+
 @media (max-width: 768px) {
   article.px-5 {
     padding-left: 0 !important;
