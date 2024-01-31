@@ -7,4 +7,4 @@ document.addEventListener('scroll', () => {
     } else if (scrollPosition < 500) {
       nav.classList.remove('sticky-header');
     }
-  });
+});
