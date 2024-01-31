@@ -9,8 +9,7 @@
                 {% else %}{{ feature.description_html | safe }}{% endif %}
             </div>
             <div class="col-md-7">
-                {% if feature.media.type == 'image' %}<img class="card image__feature" src="{{ feature.media.content }}"
-                    alt="{{ feature.title }}" />
+                {% if feature.media.type == 'image' %}<img class="card image__feature" src="{{ feature.media.content }}" alt="{{ feature.title }}" />
                 {% elif feature.media.type == 'video' %}<script src="https://fast.wistia.com/embed/medias/{{feature.media.content}}.jsonp" async></script>
                 <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
                 <div class="card image__feature wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">

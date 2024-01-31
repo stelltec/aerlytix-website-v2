@@ -4,8 +4,7 @@ header: 'Cutting-edge exposure <br/> and metal condition analytics'
 summary: 'A 360-degree view of projected maintenance events and metal condition across all commercial aircraft types'
 features:
   - title: "Aerlytix Knowlege Base"
-    description_html: "<p>Standalone database for each customers' proprietary cost and interval data, default utilization assumptions, and ‘house view’ forecasting assumptions.</p>
-                        <p>Top-tier security, SOC 2 Type 2 compliance, audit trails and customer specific approval workflows.</p>"
+    description_html: "<p>Standalone database for each customers' proprietary cost and interval data, default utilization assumptions, and ‘house view’ forecasting assumptions.</p><p>Top-tier security, SOC 2 Type 2 compliance, audit trails and customer specific approval workflows.</p>"
     media:
       type: 'image'
       content: '/images/products/finance-structuring/loan-define-it.png'
