@@ -26,22 +26,6 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
             </div>
           </div>
         </li>
-        <li class="list-group-item p-4">
-          <div class="row align-items-center">
-            <div class="col-md-4 mb-2 mb-md-0">
-              <a href="/company/careers/senior-ai-engineer" class="h5">Senior AI (Artificial Intelligence) Engineer </a>
-            </div>
-            <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
-              <span>Dublin, Ireland (Hybrid)</span>
-            </div>
-            <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
-              <span>Engineering team</span>
-            </div>
-            <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/senior-ai-engineer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
-            </div>
-          </div>
-        </li>
       </ul>
   </div>
 </article>
