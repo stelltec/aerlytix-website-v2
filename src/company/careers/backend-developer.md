@@ -11,6 +11,7 @@ reference: "AER23/002"
 Aerlytix is a specialist technology solution provider in the aviation industry. Aerlytix creates customized solutions for clients who have exposures to aviation assets often running into billions of dollars. Aerlytix's main product is a risk management analytics platform, however we do have other software and service offerings.
 
 As we look to expand our product offerings and client base, we are looking to make some key hires who will get to work in a fast-growing technology area with a very experienced team.
+
 The aviation finance business domain is complex and multi-faceted, and the role requires an exceptional software developer with strong engineering skills.
 
 ### Responsibilities of the Role
