@@ -7,7 +7,7 @@ features:
     description_html: "<p>Standalone database for each customers' proprietary cost and interval data, default utilization assumptions, and ‘house view’ forecasting assumptions.</p><p>Top-tier security, SOC 2 Type 2 compliance, audit trails and customer specific approval workflows.</p>"
     media:
       type: 'image'
-      content: '/images/products/finance-structuring/loan-define-it.png'
+      content: '/images/products/maintenance-forecasting/knowledge-base.png'
   - title: "Excel Add-in"
     description_html: "<p>Microsoft Excel Add-in feature enables automated analysis output downloads directly from the Aerlytix core engine.</p>
         <p>Extract any output via. +450 custom functions enabling users to build or maintain  bespoke pricing and analysis templates.</p>"
