@@ -188,7 +188,7 @@ layout: "layouts/page.html"
               <ul class="list-unstyled mt-3 mb-4">
                 <li><span class="pricing__tick">✔</span> Custom Excel Add-in Template Builds</li>
               </ul>
-              <p class="pricing_level_notes">These customers typically add additional modules in subsequent deliveries</p>
+              <p class="pricing_level_notes">These customers typically add additional modules in subsequent deliveries.</p>
             </div>
           </div>
         </div>
@@ -217,7 +217,7 @@ layout: "layouts/page.html"
                 <li><span class="pricing__tick">✔</span> Lease Editor Entry Consultancy</li>
                 <li><span class="pricing__tick">✔</span> Data Integration Services</li>
               </ul>            
-              <p class="pricing_level_notes">These customers usually avail of Aerlytix integration services into update existing AMS and CRM systems for subsequent deliveries.</p>
+              <p class="pricing_level_notes">These customers usually avail of Aerlytix integration services into existing AMS and CRM systems in subsequent deliveries.</p>
             </div>
           </div>
         </div>
