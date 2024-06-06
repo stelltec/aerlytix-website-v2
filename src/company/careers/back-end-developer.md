@@ -1,6 +1,6 @@
 ---
-header: "Back-end Developer"
-metaDesc: "Back-end Developer"
+header: "Back-End Developer"
+metaDesc: "Back-End Developer"
 summary: "Dublin, Ireland (hybrid) - Engineering Team - Full-Time"
 layout: "layouts/job-apply.html"
 headerType: "blogPost"

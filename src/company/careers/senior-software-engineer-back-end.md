@@ -1,7 +1,7 @@
 ---
-header: "Senior Software Engineer - Back-end"
-metaDesc: "Senior Software Engineer - Back-end"
-summary: "Dublin, Ireland (hybrid) - Back-end Team - Full-Time"
+header: "Senior Software Engineer - Back-End"
+metaDesc: "Senior Software Engineer - Back-End"
+summary: "Dublin, Ireland (hybrid) - Back-End Team - Full-Time"
 layout: "layouts/job-apply.html"
 headerType: "blogPost"
 job: seniorSoftware
