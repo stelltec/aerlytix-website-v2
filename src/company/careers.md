@@ -10,26 +10,10 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
         <p class="display-7">Be a part of a fast-growing team that values teamwork, inclusivity and integrity.</p>
       </div>
       <ul class="list-group list-group-lg rounded-6" data-cues="slideInUp">
-        <li class="list-group-item p-4">
+          <li class="list-group-item">
           <div class="row align-items-center">
             <div class="col-md-4 mb-2 mb-md-0">
-              <a href="/company/careers/quantitative-developer" class="h5">Quantitative Developer</a>
-            </div>
-            <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
-              <span>Dublin, Ireland (Hybrid)</span>
-            </div>
-            <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
-              <span>Quant team</span>
-            </div>
-            <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/quantitative-developer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
-            </div>
-          </div>
-        </li>
-        <li class="list-group-item p-4">
-          <div class="row align-items-center">
-            <div class="col-md-4 mb-2 mb-md-0">
-              <a href="/company/careers/backend-developer" class="h5">Back-end Developer</a>
+              <a href="/company/careers/senior-software-engineer-back-end" class="h5">Senior Software Engineer (Back-end)</a>
             </div>
             <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
               <span>Dublin, Ireland (Hybrid)</span>
@@ -38,10 +22,58 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
               <span>Engineering team</span>
             </div>
             <div class="col-sm-2 text-sm-end">
-              <a class="btn btn-primary" href="/company/careers/backend-developer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+              <a class="btn btn-primary" href="/company/careers/senior-software-engineer-back-end">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
             </div>
           </div>
         </li>
+        <li class="list-group-item">
+          <div class="row align-items-center">
+            <div class="col-md-4 mb-2 mb-md-0">
+              <a href="/company/careers/software-developer-financial-engineering" class="h5">Software Developer – Financial Engineering</a>
+            </div>
+            <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
+              <span>Dublin, Ireland (Hybrid)</span>
+            </div>
+            <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
+              <span>Quant team</span>
+            </div>
+            <div class="col-sm-2 text-sm-end">
+              <a class="btn btn-primary" href="/company/careers/software-developer-financial-engineering">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+            </div>
+          </div>
+        </li>
+        <li class="list-group-item">
+          <div class="row align-items-center">
+            <div class="col-md-4 mb-2 mb-md-0">
+              <a href="/company/careers/back-end-developer" class="h5">Back-end Developer</a>
+            </div>
+            <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
+              <span>Dublin, Ireland (Hybrid)</span>
+            </div>
+            <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
+              <span>Engineering team</span>
+            </div>
+            <div class="col-sm-2 text-sm-end">
+              <a class="btn btn-primary" href="/company/careers/back-end-developer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+            </div>
+          </div>
+        </li>
+         <li class="list-group-item">
+          <div class="row align-items-center">
+            <div class="col-md-4 mb-2 mb-md-0">
+              <a href="/company/careers/development-support-engineer" class="h5">Development Support Engineer</a>
+            </div>
+            <div class="col-sm-5 col-md-4 mb-2 mb-sm-0">
+              <span>Dublin, Ireland (Hybrid)</span>
+            </div>
+            <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
+              <span>Quant team</span>
+            </div>
+            <div class="col-sm-2 text-sm-end">
+              <a class="btn btn-primary" href="/company/careers/development-support-engineer">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>
+            </div>
+          </div>
+        </li>        
       </ul>
   </div>
 </article>
