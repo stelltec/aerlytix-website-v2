@@ -35,7 +35,7 @@ header: "Join us in building the most innovative company in Aviation Finance Tec
               <span>Dublin, Ireland (Hybrid)</span>
             </div>
             <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
-              <span>Engineering team</span>
+              <span>Product team</span>
             </div>
             <div class="col-sm-2 text-sm-end">
               <a class="btn btn-primary" href="/company/careers/product-owner">View details <i class="bi-chevron-right small ms-1 small ms-1"></i></a>

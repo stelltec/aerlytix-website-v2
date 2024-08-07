@@ -1,7 +1,7 @@
 ---
 header: "Product Owner – Airline Software Products"
 metaDesc: "Product Owner – Airline Software Products"
-summary: "Dublin, Ireland (hybrid) - Engineering Team - Full-Time"
+summary: "Dublin, Ireland (hybrid) - Full-Time"
 layout: "layouts/job-apply.html"
 headerType: "blogPost"
 job: productOwner
