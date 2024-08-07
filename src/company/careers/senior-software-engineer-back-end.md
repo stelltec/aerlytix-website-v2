@@ -45,7 +45,7 @@ This position offers a unique opportunity to work in a fast-paced and challengin
 * Strong academic knowledge of computer science, Bachelor's Degree level required. Degree in Computer Science / Engineering preferred.
 * Excellent problem-solving skills and ability to work in a fast-paced environment.
 
-### Beneficial Experience:
+### Beneficial Experience
 
 * Previous experience in a leadership or mentorship role is highly desirable.
 * Familiarity with strongly typed programming languages (e.g. Java, Kotlin, C# etc.)
