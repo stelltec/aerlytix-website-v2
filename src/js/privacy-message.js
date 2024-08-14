@@ -1,8 +1,8 @@
 // --- Config --- //
 var purecookieTitle = "🍪 Cookies.";
 var purecookieDesc = "We use Google Analytics to collect information such as location, device and time spent on site. We don't collect any personal data and what we see is entirely anonymous."; // Description
-var purecookieLink = 'See <a href="/cookies-policy">Cookie Policy</a>'; 
-var purecookieButton = "Got it!"; 
+var purecookieLink = 'See <a href="/cookies-policy">Cookie Policy</a>';
+var purecookieButton = "Got it!";
 // ---        --- //
 
 
@@ -51,18 +51,18 @@ function getCookie(name) {
     }
     return null;
 }
-function eraseCookie(name) {   
-    document.cookie = name+'=; Max-Age=-99999999;';  
+function eraseCookie(name) {
+    document.cookie = name+'=; Max-Age=-99999999;';
 }
 
 function cookieConsent() {
   if (!getCookie('purecookieDismiss')) {
-    
+
     var cookieContainer = document.createElement("div");
     cookieContainer.id = "cookieConsentContainer";
     cookieContainer.className = "cookieConsentContainer";
     cookieContainer.innerHTML = '<div class="cookieTitle"><a>' + purecookieTitle + '</a></div><div class="cookieDesc"><p>' + purecookieDesc + " " + purecookieLink + '</p></div><div class="cookieButton"><a onClick="purecookieDismiss();">' + purecookieButton + '</a></div></div>';
-    document.body.appendChild(cookieContainer);   
+    document.body.appendChild(cookieContainer);
 	  pureFadeIn("cookieConsentContainer");
   }
 }
@@ -72,4 +72,4 @@ function purecookieDismiss() {
   pureFadeOut("cookieConsentContainer");
 }
 
-window.onload = function() { cookieConsent(); };
+// window.onload = function() { cookieConsent(); };
