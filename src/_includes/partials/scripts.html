@@ -10,23 +10,22 @@
 
 <!-- Remove previous Google Analytics -->
  <script type="text/javascript">
-    setTimeout(() => {
-      var cookies = document.cookie.split("; ");
-      console.log({cookies})
-      const {hostname} = window.location;
-      for (var i = 0; i < cookies.length; i++) {
-          var cookieBase = encodeURIComponent(cookies[i].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + hostname + ' ;path=';
-          var path = location.pathname.split('/');
-          console.log("Deleting cookie: " + cookieBase);
-          document.cookie = cookieBase + '/';
-          while (path.length > 0) {
-              var cookieWithPath = cookieBase + path.join('/');
-              console.log("Deleting cookie: " + cookieWithPath);
-              document.cookie = cookieWithPath
-              path.pop();
-          };
-      }
-    }, 1000);
+    var cookies = document.cookie.split("; ");
+    console.log({cookies})
+    const {hostname} = window.location;
+    for (var i = 0; i < cookies.length; i++) {
+        var cookieBase = encodeURIComponent(cookies[i].split(";")[0].split("=")[0])
+        var cookie = `${cookieBase}=; expires=${new Date().toUTCString()}; domain=${hostname}; path=`;
+        var path = location.pathname.split('/');
+        console.log("Setting cookie: " + cookie);
+        document.cookie = cookie + '/';
+        while (path.length > 0) {
+            var cookieWithPath = cookie + path.join('/');
+            console.log("Setting cookie: " + cookieWithPath);
+            document.cookie = cookieWithPath
+            path.pop();
+        };
+    }
  </script>
 
 <!-- Tracking code -->
