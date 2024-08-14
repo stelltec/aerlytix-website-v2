@@ -11,21 +11,18 @@
 <!-- Remove previous Google Analytics -->
  <script type="text/javascript">
     var cookies = document.cookie.split("; ");
-    console.log({cookies, location: window.location})
+    const {hostname} = window.location;
     for (var i = 0; i < cookies.length; i++) {
-        var d = window.location.hostname.split(".");
-        console.dir({d})
-        while (d.length > 0) {
-            var cookieBase = encodeURIComponent(cookies[i].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
-            var path = location.pathname.split('/');
-            console.log({cookieBase, path})
-            // document.cookie = cookieBase + '/';
-            // while (p.length > 0) {
-            //     document.cookie = cookieBase + p.join('/');
-            //     p.pop();
-            // };
-            d.shift();
-        }
+        var cookieBase = encodeURIComponent(cookies[i].split(";")[0].split("=")[0]) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + hostname + ' ;path=';
+        var path = location.pathname.split('/');
+        console.log("Deleting cookie: " + cookieBase);
+        document.cookie = cookieBase + '/';
+        while (path.length > 0) {
+            var cookieWithPath = cookieBase + path.join('/');
+            console.log("Deleting cookie: " + cookieWithPath);
+            document.cookie = cookieWithPath
+            path.pop();
+        };
     }
  </script>
 
