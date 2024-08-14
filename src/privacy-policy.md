@@ -8,7 +8,7 @@ headerType: 'blogPost'
 
 ### Introduction
 
-Aerlytix respects your privacy and is committed to protecting your data. This privacy policy will inform you as to how we look after your data when you visit our website Aerlytix.com (regardless of where you visit it from), products and services and tell you about your privacy rights and how the law protects you. This privacy policy should be read in conjunction with our [Cookie Policy](https://www.aerlytix.com/cookies-policy/).
+Aerlytix respects your privacy and is committed to protecting your data. This privacy policy will inform you as to how we look after your data when you visit our website Aerlytix.com (regardless of where you visit it from), products and services and tell you about your privacy rights and how the law protects you. This privacy policy should be read in conjunction with our [Cookie Policy](https://www.aerlytix.com/cookie-policy/).
 
 We will use your data only for the purposes and in the manner set forth below which describes the steps we take to ensure our processing of your data is in compliance with the General Data Protection Regulation ((EU) 2016/679) (GDPR) and any implementing legislation (Data Protection Laws).
 
@@ -78,9 +78,9 @@ We will only use your data for the purposes for which we collected it, unless we
 
 We may share your data with the parties set out below for the purposes set out in the table above.
 
-- *Internal third parties*, being other companies in the Aerlytix group
-- *External third parties* being service providers who offer IT and administration services
-- *Professional advisers* including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services
+- Internal third parties, being other companies in the Aerlytix group
+- External third parties being service providers who offer IT and administration services
+- Professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services
 - The Revenue Commissioners, regulators and other authorities
 
 ### Data protection
@@ -95,7 +95,7 @@ How long will you use my data for?
 
 We will only retain your data for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. We may retain your data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect of our relationship with you.
 
-To determine the appropriate retention period for data, we consider the amount, nature and sensitivity of the data, the potential risk of harm from unauthorised use or disclosure of your data, the purposes for which we process your data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements. Further detail in respect of how long we retain data collected through our cookies can be found in our [Cookie Policy](https://www.aerlytix.com/cookies-policy/).
+To determine the appropriate retention period for data, we consider the amount, nature and sensitivity of the data, the potential risk of harm from unauthorised use or disclosure of your data, the purposes for which we process your data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
 
 In some circumstances you can ask us to delete your data: see your legal rights below for further information.
 
