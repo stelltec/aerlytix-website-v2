@@ -49,6 +49,11 @@ We may update this Cookie Policy from time to time to reflect changes in technol
 If you have any questions or concerns about our use of cookies or this Cookie Policy, please contact us at:
 
 [info@aerlytix.com](mailto:info@aerlytix.com)
-First Floor, Communications House, 1A Barrow Street, Dublin D04 E9R0, Ireland
+
+First Floor,
+Communications House,
+1A Barrow Street,
+Dublin D04 E9R0,
+Ireland
 
 Thank you for visiting Aerlytix and for your attention to our Cookie Policy.

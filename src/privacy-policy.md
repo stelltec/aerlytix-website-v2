@@ -24,10 +24,10 @@ This website may include links to third-party websites, plug-ins and application
 
 ### The data we collect about you
 
-*Personal data*, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data). We may collect, use, store and transfer different kinds of data about you which we have grouped together as follows:
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data). We may collect, use, store and transfer different kinds of data about you which we have grouped together as follows:
 
-- *Technical Data* includes internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform, and other technology on the devices you use to access this website.
-- *Usage Data* includes information about how you use our website, products and services.
+- Technical Data includes internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform, and other technology on the devices you use to access this website.
+- Usage Data includes information about how you use our website, products and services.
 
 ### How is your data collected?
 
@@ -35,13 +35,16 @@ We use different methods to collect data from and about you including through:
 
 - Direct Interactions
 - Applying for our services
-- Give us feedback or contact us
+- Giving us feedback or contacting us
 - Automated technologies or interactions
-- As you interact with our website, we will automatically collect *Technical Data* about your equipment, browsing actions and patterns. We collect this data by using cookies and other similar technologies.
+
+As you interact with our website, we will automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this data by using cookies and other similar technologies.
 
 #### Data Collection from Product and Services Usage
 
-In addition to data collected from our website, we collect information when you use our products and services. This includes:
+In addition to data collected from our website, we collect information when you use our products and services.
+
+This includes:
 
 - User Account Information: When you create an account, we collect personal details such as your name, email address, and billing information. We also collect your account preferences and settings.
 - Application Performance Data: We collect data on error reports, crash logs, load times, and other performance metrics to ensure our application runs smoothly and efficiently.
@@ -75,9 +78,9 @@ We will only use your data for the purposes for which we collected it, unless we
 
 We may share your data with the parties set out below for the purposes set out in the table above.
 
-- *Internal third parties*, being other companies in the Aerlytix group
-- *External third parties* being service providers who offer IT and administration services
-- *Professional advisers* including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services
+- Internal third parties, being other companies in the Aerlytix group
+- External third parties being service providers who offer IT and administration services
+- Professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services
 - The Revenue Commissioners, regulators and other authorities
 
 ### Data protection
