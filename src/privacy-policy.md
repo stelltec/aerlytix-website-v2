@@ -38,7 +38,7 @@ We use different methods to collect data from and about you including through:
 - Giving us feedback or contacting us
 - Automated technologies or interactions
 
-As you interact with our website, we will automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this data by using cookies and other similar technologies.
+In addition to data collected from our website, we collect information when you use our products and services. This includes:
 
 #### Data Collection from Product and Services Usage
 
@@ -78,9 +78,9 @@ We will only use your data for the purposes for which we collected it, unless we
 
 We may share your data with the parties set out below for the purposes set out in the table above.
 
-- Internal third parties, being other companies in the Aerlytix group
-- External third parties being service providers who offer IT and administration services
-- Professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services
+- *Internal third parties*, being other companies in the Aerlytix group
+- *External third parties* being service providers who offer IT and administration services
+- *Professional advisers* including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services
 - The Revenue Commissioners, regulators and other authorities
 
 ### Data protection
